@@ -1,5 +1,5 @@
-baseURL = 'https://mtelvers.github.io/belfryupkeep/'
+baseURL = 'https://LucasJWilliams.github.io/callchanges/'
 languageCode = 'en-us'
-title = 'Belfry Upkeep'
+title = 'Devon Call Changes'
 theme = 'hugo-book'
 sidebar_search_disable = true
