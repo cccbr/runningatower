@@ -1,9 +1,9 @@
 ---
-title: Chapter 3 – Getting Started
+title: Chapter 3 – Getting Started with Rounds
 weight: 40
 ---
 
-# Chapter 3 – Getting Started
+# Chapter 3 – Getting Started with Rounds
 
 In this chapter I am just going to talk about getting the band ringing rounds with a closed handstroke lead. Even this is quite an exhilarating thing to do and should be your first target. So the treble’s handstroke will strike straight after the tenor’s backstroke has struck and there should be no way of telling which is the handstroke and which is the backstroke without looking.
 
