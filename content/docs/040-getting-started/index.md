@@ -5,15 +5,9 @@ weight: 40
 
 # Chapter 3 – Getting Started with Rounds
 
-In this chapter I am just going to talk about getting the band ringing rounds with a closed handstroke lead. Even this is quite an exhilarating thing to do and should be your first target. So the treble’s handstroke will strike straight after the tenor’s backstroke has struck and there should be no way of telling which is the handstroke and which is the backstroke without looking.
+In this chapter I am just going to talk about getting the band ringing rounds with a closed handstroke lead. Even this is quite an exhilarating thing to do and should be your first target. So, the treble’s handstroke will strike straight after the tenor’s backstroke has struck and there should be no way of telling which is the handstroke and which is the backstroke without looking.
 
 That tends to be how you ring up, provided you ring up well (easier said than done). Good ringing up keeps the treble striking immediately after the tenor all the way up, and a handstroke gap is only introduced when you get to the top and are approaching setting the bells.
-
-What you need to perfect is ringing rounds quickly with a closed handstroke lead without speeding up and starting to ring down! That can easily happen. Why do I say quickly? Because it sounds better and is easier to keep in rhythm.
-
-Good Devon call change bands ring fast, with the bells at or slightly below the balance so don’t be scared – push them in.
-
-The closed handstroke lead strikes straight after the tenor
 
 If you went up into the belfry and watched bells being rung to rounds by a band which rings with an open handstroke lead, you would see that at handstroke the bells are at or slightly past the balance, but at backstoke the bells don’t get to the balance. That is showing the pause that method ringers have at the handstroke lead.
 
@@ -33,4 +27,4 @@ What you then find is that you need to hold the backstroke up and it feels unnat
 
 As you get better at this you will be confident at ringing with the bells slightly below the balance. You might even take a coil just to make it easier and not have a lot of rope flapping around. Good Devon call change bands ring fast, with the bells at or slightly below the balance, so don’t be scared – push them in.
 
-And that’s really all I think you should try at first. Ring the bells up, close the handstroke lead in, and then ringing rounds in as good a rhythm as you can, driving them in at hand and keeping the backstrokes up. See how long you can keep it going! Then at the end you may need to slow down a bit, get the bells up the balance, and then you’ll be able to stand.
+And that’s really all I think you should try at first. Ring the bells up, close the handstroke lead in, and then ringing rounds in as good a rhythm as you can, driving them in at hand and keeping the backstrokes up. See how long you can keep it going! Then at the end you may need to slow down a bit, get the bells up the balance, and then you’ll be able to stand. 
