@@ -15,7 +15,7 @@ For some inexplicable reason, and I have never really understood this, the pause
 
 Here then is a video of some rounds with a closed handstroke lead, being rung by method ringers who have not tried doing this before. This is a little bit of a defence for it not being perfect. But that’s fine, because your first attempt will not be perfect either.
 
-INSERT VIDEO ROUNDS 2.MP4
+{{< youtube 1Garqjs6Ggw >}}
 
 There are a few things to note from this:
 
