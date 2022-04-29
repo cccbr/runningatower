@@ -19,7 +19,7 @@ Here then is a video of some rounds with a closed handstroke lead, being rung by
 
 There are a few things to note from this:
 
-What you need to perfect is ringing rounds with a closed handstroke <u>lead<u> without speeding up and starting to ring down! That can easily happen. Why do I say quickly? Because it sounds better and is easier to keep in rhythm.
+What you need to perfect is ringing rounds with a closed handstroke lead <ins>without</ins> speeding up and starting to ring down! That can easily happen. Why do I say quickly? Because it sounds better and is easier to keep in rhythm.
 
 The closed handstroke lead strikes straight after the tenor. It is not sloppy – it is not a handstroke lead that is just dropped in quick – I am working really quite hard to make the treble strike immediately after the tenor – you can see me using my knees on quite a small bell – I wouldn’t be doing that if I was ringing with an open handstroke lead! You can see the second making an effort to push in as well, and the others to a lesser extent.
 
