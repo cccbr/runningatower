@@ -2,11 +2,11 @@
 img[src$='#floatleft']
 {
 	float:left;
-        //etc. etc/
+	width:150px:
 }
 
 img[src$='#floatright']
 {
 	float:right;
-       //etc. etc.
+	width:150px:
 }
