@@ -11,11 +11,11 @@ When visiting a call change tower in the South West, if they ask which bell you 
 
 There is some slightly different language used to describe method ringing. Method is often used in the singular when method ringers might use plural. “He does method as well” or “That tower does method”. You get used to it.
 
-Method towers and call change towers seem to respect each other, and ringers who want to follow either code find the right home for them. 
+Method towers and call change towers seem to respect each other, and ringers who want to follow either code find the right home for them. Some ringers do both, and some don’t.
 {{< columns >}}
 ![Devonshire Association](devonassocbadge.jpg)
 <--->
-Some ringers do both, and some don’t. The Devonshire Association is the call change association while the Guild of Devonshire Ringers caters for those wanting to ring methods.
+The Devonshire Association is the call change association while the Guild of Devonshire Ringers caters for those wanting to ring methods.
 <--->
 ![Guild of Devonshire Ringers](guildofdevonshireringers.jpg)
 {{< /columns >}}
