@@ -18,7 +18,7 @@ However I noted that some of my method ringing friends who have rung really diff
 Then when I became President of the Central Council in 2019 I started thinking about call change ringing a bit more, wondering whether there aren’t actually lots of bands which would be better served if good call change ringing was the target rather than, as happens in all too many towers, call changes being seen as a stepping stone to unfulfilling Bob or Grandsire Doubles.
 
 {{< columns >}}
-{{< figure src="Alphington.jpg" class="float-left" width=500px >}}
+{{< figure src="Alphington.jpg" width=150px >}}
 <--->
 At the start of the pandemic, I joined a Zoom call with some ringers from Suffolk and I talked about having call change ringing as the target, and one attendee said “If I could go back to my tower and say we were going to ring call changes rather than struggling to ring Bob Doubles they’ll love me forever.”
 In the summer of 2021 we went on a family holiday to Devon and were fortunate enough to find that the Kingsteinton outing to Exeter was on our first day there, and we were invited to join them. This was our first experience of ringing with a top call change band, and we joined with some trepidation. However, we settled in and from that point on I was convinced that this form of change ringing needed to be practiced more widely. The ringing up and down was exceptional!
