@@ -3,6 +3,10 @@ title: Introduction
 type: docs
 ---
 
+# Devon Call Changes
+Simon Linford
+
+---
 # Introduction
 This book is going to be quite a personal account of learning and developing call change ringing in the Devon style. I hope that by reading it you will see that ringing call changes in the way they ring them in Devon and the South West, or more particularly the focus on call changes as a performance rather than just as a transition step before moving to method ringing, could be good for your band.
 
