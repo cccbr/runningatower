@@ -21,9 +21,9 @@ However, if you are starting your band off ringing in the style you don’t nece
 ## Fixed peals
 {{< columns >}}
 Devon call change peals do not focus on the ‘musical changes’ that you are used to. They don’t go for a set that you might use for a wedding, going for instance from Queens, then Kings, and back, or you might mix Tittums and something else. The Devonians don’t do that, but ring long established and very formulaic sequences that many of the ringers know by heart. To be honest they are not musical in that sense at all, but that’s not the point. 
+
+Ringing one of those sequences, the famous “Sixty on Thirds” will be your first target, but there will be stages to go through before that. 
 <--->
 ![Competition certificates at Kingsteignton](Kingsteignton.jpg)
 *Competition certificates at Kingsteignton*
 {{< columns >}}
-
-Ringing one of those sequences, the famous “Sixty on Thirds” will be your first target, but there will be stages to go through before that. 
