@@ -1,4 +1,4 @@
-baseURL = 'https://callchanges.cccbr.org.uk/'
+baseURL = 'https://lucasjwilliams.github.io/callchanges'
 languageCode = 'en-us'
 title = 'Devon Call Changes'
 theme = 'hugo-book'
