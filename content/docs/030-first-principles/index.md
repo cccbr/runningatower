@@ -25,4 +25,5 @@ Devon call change peals do not focus on the ‘musical changes’ that you are u
 ![Competition certificates at Kingsteignton](Kingsteignton.jpg)
 *Competition certificates at Kingsteignton*
 {{< columns >}}
+
 Ringing one of those sequences, the famous “Sixty on Thirds” will be your first target, but there will be stages to go through before that. 
