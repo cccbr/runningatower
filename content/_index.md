@@ -22,6 +22,6 @@ At the start of the pandemic, I joined a Zoom call with some ringers from Suffol
 In the summer of 2021 we went on a family holiday to Devon and were fortunate enough to find that the Kingsteinton outing to Exeter was on our first day there, and we were invited to join them. This was our first experience of ringing with a top call change band, and we joined with some trepidation. However, we settled in and from that point on I was convinced that this form of change ringing needed to be practiced more widely. The ringing up and down was exceptional!
 <--->
 ![The Linford family getting ready to ring up at Alphington](Alphington.jpg)
-The Linford family getting ready to ring up at Alphington
+*The Linford family getting ready to ring up at Alphington*
 {{< /columns >}}
 This book therefore is not being written by some seasoned call change professional, but by someone who has started to integrate Devon call change ringing into the repertoire of a method ringing tower because I can see the value of doing it. I am basically writing it as I go along and hope that if you follow this you will also find a fulfilling addition to your repertoire.
