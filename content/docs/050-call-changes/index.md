@@ -83,4 +83,4 @@ The main takeaways from this chapter are:
 
 •	The tenor ringer needs to be as steady as a rock
 
-<span style="background-color: #FFFF00">Marked text</span>
+<span class="highlighted_box">Marked text</span>
