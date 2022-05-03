@@ -13,6 +13,7 @@ There is some slightly different language used to describe method ringing. Metho
 
 {{< columns >}}
 ![Devonshire Association](devonassocbadge.jpg)
+
 ![Guild of Devonshire Ringers](guildofdevonshireringers.jpg)
 <--->
 Method towers and call change towers seem to respect each other, and ringers who want to follow either code find the right home for them. Some ringers do both, and some don’t. The Devonshire Association is the call change association while the Guild of Devonshire Ringers caters for those wanting to ring methods. When visiting you may not know whether it will be a call change tower or a method tower.
