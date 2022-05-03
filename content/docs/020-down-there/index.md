@@ -13,10 +13,9 @@ There is some slightly different language used to describe method ringing. Metho
 
 {{< columns >}}
 ![Devonshire Association](devonassocbadge.jpg)
+![Guild of Devonshire Ringers](guildofdevonshireringers.jpg)
 <--->
 Method towers and call change towers seem to respect each other, and ringers who want to follow either code find the right home for them. Some ringers do both, and some don’t. The Devonshire Association is the call change association while the Guild of Devonshire Ringers caters for those wanting to ring methods. When visiting you may not know whether it will be a call change tower or a method tower.
-<--->
-![Guild of Devonshire Ringers](guildofdevonshireringers.jpg)
 {{< /columns >}}
 
 From the start I am going to annoy some ringers in Cornwall and other parts of the South West by referring to this genre as ‘Devon Call Changes’. The style is practiced elsewhere in the south west, in particular further west than Devon into Cornwall. However Devon Call Changes is an established term and I don’t think it’s my job to come up with a new word for it.
