@@ -3,4 +3,6 @@ languageCode = 'en-us'
 title = 'Devon Call Changes'
 theme = 'hugo-book'
 sidebar_search_disable = true
-BookSearch = true
+
+[params]
+  BookSearch = true
