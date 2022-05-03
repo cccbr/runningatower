@@ -73,6 +73,7 @@ The calls are:
 
 That therefore is the peal I recommend you practice now. It is useful because it introduces some of the principles of 60 on 3rds, bringing it round after a convenient amount of time.
 
+{{< hint danger >}}
 The main takeaways from this chapter are:
 
 •	Regular changes - try and be consistently two or three handstrokes apart
@@ -82,5 +83,4 @@ The main takeaways from this chapter are:
 •	This principle of the treble hunting up and down the change is common in Devon call change ringing
 
 •	The tenor ringer needs to be as steady as a rock
-
-<span>Markeed text</span>
+{{< /hint >}}
