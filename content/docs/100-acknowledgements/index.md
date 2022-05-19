@@ -5,7 +5,7 @@ weight: 100
 
 # Acknowledgements
  
-Firstly to Bryn Reinstadler, who in writing her eBook [Calling it Round](https://www.callingitround.cccbr.org.uk) showed me how an eBook can be produced and published quickly using Hugo on GitHub. Then to Lucas Williams who rose to the challenge of working out how to write in Hugo and putting all these pages together for me. 
+Firstly to Bryn Reinstadler, who in writing her eBook [Calling it Round](https://callingitround.cccbr.org.uk) showed me how an eBook can be produced and published quickly using Hugo on GitHub. Then to Lucas Williams who rose to the challenge of working out how to write in Hugo and putting all these pages together for me. 
  
 The filming in chapters three and four was done by [Dan Hunt](danhuntcamera.com) and then edited by Colin Newman, leader of the CCCBR’s Schools and Youth groups Workgroup. The ringers in that filming were me, Rachel Mahoney, Ewan Hull, Hannah Read, Oliver Bates, and Orson Gee. They hadn’t expected to be filming this. They had all turned up just expecting to be helping with the production of a recruitment video for Scouts and Guides! 
  
