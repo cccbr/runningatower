@@ -1,6 +1,6 @@
-baseURL = 'https://cccbr.github.io/callchanges'
+baseURL = 'https://lucasjwilliams.github.io/belfryupkeep'
 languageCode = 'en-us'
-title = 'Devon Call Changes'
+title = 'Belfry Upkeep'
 theme = 'hugo-book'
 sidebar_search_disable = true
 
