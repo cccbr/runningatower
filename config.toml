@@ -1,4 +1,4 @@
-baseURL = 'https://lucasjwilliams.github.io/BelfryUpkeep'
+baseURL = 'https://lucasjwilliams.github.io/belfryupkeep'
 languageCode = 'en-us'
 title = 'Belfry Upkeep'
 theme = 'hugo-book'
