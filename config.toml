@@ -1,4 +1,4 @@
-baseURL = 'https://bellfryupkeep.cccbr.org.uk/'
+baseURL = 'https://belfryupkeep.cccbr.org.uk/'
 languageCode = 'en-us'
 title = 'Belfry Upkeep'
 theme = 'hugo-book'
