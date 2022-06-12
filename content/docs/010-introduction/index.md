@@ -19,7 +19,7 @@ There are many different sorts of bell installations and many different types of
 
 ### Role
 
-A Steeple Keeper (there may be alternative names) is someone who has been appointed to maintain a bell installation in a safe and effective working condition. The ways in which an appointment may be made are covered in [Formal Requirements](/020-permissions/).
+A Steeple Keeper (there may be alternative names) is someone who has been appointed to maintain a bell installation in a safe and effective working condition. The ways in which an appointment may be made are covered in [Formal Requirements](/docs/020-permissions/).
 
 The role involves regular checks, responding to incidents, carrying out maintenance within the level of their [experience](#experience-levels), and referring problems to specialists (usually Bell Hangers) where necessary.
 
