@@ -58,7 +58,7 @@ Some chapters are common to all components of an installation. Please read them:
 
 ## If You Are Just Starting Out
 
-It may be that you have just ‘inherited’ a new tower – perhaps one where there has been no checking or maintenance for a number of years. Where do you start? For either a Novice or a Typical Steeple, we strongly recommend that you initiate a full inspection by an expert – ideally a Bell Hanger. This will provide a baseline for drawing up a schedule for your own regular checking and maintenance (see [Maintenance Schedule](../150-maintenance-schedule/)).
+It may be that you have just ‘inherited’ a new tower – perhaps one where there has been no checking or maintenance for a number of years. Where do you start? For either a Novice or a Typical Steeple Keeper, we strongly recommend that you initiate a full inspection by an expert – ideally a Bell Hanger. This will provide a baseline for drawing up a schedule for your own regular checking and maintenance (see [Maintenance Schedule](../150-maintenance-schedule/)).
 
 ## Image Credits
 
