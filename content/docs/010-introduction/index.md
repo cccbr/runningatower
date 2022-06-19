@@ -45,7 +45,7 @@ Within the text, links to sections within the current chapter, to other chapters
 
 Each chapter covers a major component part of a bell installation. The following points should be noted: 
 
--  These are not intended as a complete historical description of the component. They provide enough background for the reader to recognise which of the many types of installation they may encounter and the problems which may occur. 
+-  These are not intended as a complete historical description of the component. They provide enough background for the reader to recognise which of the many types of installation they may encounter and the problems which may occur.
 -  The basic checks which need to be carried out are described.
 -  The maintenance which a Typical Steeple Keeper can carry out is described, and activities that must be referred to a Specialist (usually a professional Bell Hanger) are clearly identified. 
 
@@ -76,5 +76,3 @@ It may be that you have just ‘inherited’ a new tower – perhaps one where t
 Version 0.1 (pre-publication), May 2022
 
 © 2022 Central Council of Church Bell Ringers
-
-
