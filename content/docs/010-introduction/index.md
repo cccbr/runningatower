@@ -3,7 +3,7 @@ title: Introduction
 weight: 10
 ---
 
-# Introduction - test
+# Introduction
 
 ![Allanconi bells at Hawkesbury, Gloucestershire](intro-title.jpg)
 
