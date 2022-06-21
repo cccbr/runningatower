@@ -7,11 +7,11 @@ weight: 20
 
 With very few exceptions, the bell ringers do not own the bells. There will usually be what we will term an **Authorising Body** that will have a legal responsibility for the tower and its contents. 
 
-The Steeple Keeper should be formally appointed by the Authorising Body in a clear, democratic, and traceable way, probably for a defined period of time. Once appointed, the Steeple Keeper should maintain contact with the Appointed Body at frequent intervals. While this applies to all ringers, it is particularly important for the Steeple Keeper because the operation and needs of a bell installation may not be familiar to the average member of an Authorising Body.
+The Steeple Keeper should be formally appointed by the Authorising Body in a clear, democratic, and traceable way, probably for a defined period of time. Once appointed, the Steeple Keeper should maintain contact with the Authorising Body at frequent intervals. While this applies to all ringers, it is particularly important for the Steeple Keeper because the operation and needs of a bell installation may not be familiar to the average member of an Authorising Body.
 
 ## Requirements within the Church of England
 
-Of the over 7000 rings of bells in the world, around 90% are with the jurisdiction of the Church of England (CoE). This document is aimed world-wide, however, and we also provide further information in [Other Jurisdictions](#other-jurisdictions)
+Of the over 7000 rings of bells in the world, around 90% are with the jurisdiction of the Church of England (CoE). This document is aimed world-wide, however, and we also provide further information in [Other Jurisdictions](#other-jurisdictions).
 
 The ChurchCare [website](http://www.churchcare.co.uk) provides useful general information.
 
