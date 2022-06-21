@@ -33,7 +33,7 @@ Figure 1 shows a pre-reformation bell, cast around 1450, and illustrating the ma
 
 (G) is the ‘lip’ of the bell.
 
-At one time, canons were accidentally (or deliberately) broken or cut off the crown and the bell was then secured to the headstock with bolts passing through the crown. The historical value of canons is now recognised and such bells acan continue in use with canon-retaining headstocks – see [Headstocks](../060-headstocks) for more details.
+At one time, canons were accidentally (or deliberately) broken or cut off the crown and the bell was then secured to the headstock with bolts passing through the crown. The historical value of canons is now recognised and such bells can continue in use with canon-retaining headstocks – see [Headstocks](../060-headstocks) for more details.
 
 ![Modern flat-topped bell](bells_fig-2.jpg)
 
