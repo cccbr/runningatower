@@ -481,8 +481,7 @@ crack is almost impossible to detect before failure without the use of specialis
 equipment and certainly not with the clapper in place within the bell.
 
 Broken clappers, either SG or wrought iron, cannot be repaired by
-electric welding. This would require specialist welding techniques and
-is used only for cosmetic welds, not those subject to high stresses. For
+electric welding. For
 an SG clapper, the answer is a new clapper. Wrought iron clappers can be
 repaired by forge welding -- in fact, many wrought iron clappers are
 made in two parts which are then forge welded to the correct length. But
