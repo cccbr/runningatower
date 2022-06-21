@@ -15,7 +15,7 @@ The rope may have to negotiate obstacles between the bell and the ringer, such a
 
 Ropes are built up in three stages: First, fibres are gathered and spun into yarns. For ropes made of natural fibres (such as hemp or flax), Rope Makers may buy yarns ready spun: they resemble string. A group of yarns is then twisted to form a strand and three (or possibly four) strands are twisted together to form a rope. At each stage, the direction of twist is reversed - this gives stability and strength to the final rope. 
 
-It is important to note that the fibres in a natural rope are not continuous: the yarn can easily be picked apart. The successive reverse twists provide friction to hold the fibres together. This is illustrated in Figure 1, taken from *A Seaman’s Pocket Book, 1943*. (‘Hawser – laid’ is a traditional term for a three-strand rope.)
+It is important to note that the fibres in a natural rope are not continuous: the yarn can easily be picked apart. The successive reverse twists provide friction to hold the fibres together. This is illustrated in Figure 1, taken from *A Seaman’s Pocket Book, 1943*. (‘Hawser-laid’ is a traditional term for a three-strand rope.)
 
 ![components of a natural fibre rope](ropes_fig-1.jpg)
 
@@ -35,7 +35,7 @@ The demands are different on different parts of a bell rope, shown in Figure 2:
 
 - The top end (A) needs to resist the atmosphere in the bell chamber and the wear and flexing experienced on the route to the ringing room. 
 - Where a top end is made of artificial fibre, a splice (B) is used to join the artificial top end to the bottom end. There are two possibilities:
-  - When a new rope is made with an artificial top end, the natural fibre of the bottom end is combined with the artificial fibre during manufacture to produce a ‘machine splice’ with very little change in the diameter of the rope, as can be seen at (B). This can only be done by a rope maker.
+  - When a new rope is made with an artificial top end, the natural fibre of the bottom end is combined with the artificial fibre during manufacture to produce a ‘machine splice’ with very little change in the diameter of the rope, as can be seen at (B). This can only be done by a Rope Maker.
   - If the sally and tail end of an existing natural fibre rope are in good condition, an artificial fibre top end can be spliced on, usually with a [short splice](#splicing). This can be done, if needed, by a Steeple Keeper experienced in splicing. A suitable artificial fibre top end can be sourced from a Rope Maker.
 - Top end rope, be it natural or artificial, is not kind on ringers’ hands and natural fibre, wound to give a softer rope, is used for the bottom end of the rope – that part handled by the ringer. The two areas where the rope is handled are:
   - The Sally (C), handled at the handstroke, is made of wool fibres incorporated into the rope as it is made.
@@ -50,6 +50,7 @@ The demands are different on different parts of a bell rope, shown in Figure 2:
 Most steeple keepers would nowadays accept the benefits of using artificial fibre for the top ends of bell ropes:
 
 - It resists damage from the damp atmosphere in a bell chamber.
+- It resists stretching.
 - It resists wear.
 - It resists damage caused by the bending of the rope as it exits the garter hole.
 
@@ -83,19 +84,19 @@ The spider should stop above normal head height, to avoid possible injury if the
 
 ## Checking
 
-The condition of the ropes should be checked regularly at the following areas as set out in the [link to Maintenance Schedule].
+The condition of the ropes should be checked regularly at the following areas as set out in the [Maintenance Schedule](../150-maintenance-schedule).
 
 ### Garter hole
 
-This is the point where the rope emerges from the wheel. Here it will experience tight turns in both directions as the bell swings from handstroke to backstroke. This is an area of greatest wear and must be checked regularly. The garter hole and the bobbins [link to Wheels] should also be checked for smoothness and possible loose screws.
+This is the point where the rope emerges from the wheel. Here it will experience tight turns in both directions as the bell swings from handstroke to backstroke. This is an area of greatest wear and must be checked regularly. The garter hole and the bobbins, see [Wheels](../070-wheels), should also be checked for smoothness and possible loose screws.
 
 Natural fibre ropes are prone to this form of wear, and it is good practice to adjust the rope up and down a little to spread the wear. Artificial fibre ropes are usually more resistant to this type of wear but should still be checked at this point.
 
 ### Pulleys, Bosses, Rope Chutes & Rope Guides
 
-These areas are described in [link to Rope Routes]. A particular area of wear, possibly worse than that at the garter hole, is about 45cm (18 in) from the garter hole, where the rope passes over the **[ground pulley](../170-glossary/#ground-pulley)**. The wear arises from the rope having to accelerate and decelerate the pulley at every stroke.
+These areas are described in [Rope Routes](../110-rope-route). A particular area of wear, possibly worse than that at the garter hole, is about 45cm (18 in) from the garter hole, where the rope passes over the ***[ground pulley](../170-glossary/#ground-pulley)***. The wear arises from the rope having to accelerate and decelerate the pulley at every stroke.
 
-Unless you are lucky enough to have straight drops from the ground pulley to the ringers there will be general wear resulting from other components which may rub against the rope or change its direction. But this will be distributed along a length of the rope and is not a major problem unless there is a ‘rogue component’ causing more local wear. This should be detected by the checks described in [link to Rope Routes]. Once again, the problem is minimised using artificial fibre top ends.
+Unless you are lucky enough to have straight drops from the ground pulley to the ringers there will be general wear resulting from other components which may rub against the rope or change its direction. But this will be distributed along a length of the rope and is not a major problem unless there is a ‘rogue component’ causing more local wear. This should be detected by the checks described in [Rope Routes](../110-rope-route). Once again, the problem is minimised using artificial fibre top ends.
 
 ### Sally
 
@@ -109,7 +110,7 @@ Tail ends are often the first part of a rope to need repair. There are two main 
 
 - On larger bells, with their bigger wheels, the rope may repeatedly hit the floor when the bell is rung. Ropes perform best in tension and the bottom of a loop hitting the floor horizontally may open the strands. This parts the fibres and loosens the rope structure, leading to wear at this point. There is a view that rope mats will help to avoid wear, so long as they are made of wool, rather than artificial fibre. Apart from that possibility, you can either live with this or install permanent boxes on affected bells.
 - Ringers adjusting the tail end length. This may take two forms:
-  - Untucking and tucking the tail end, common before the start of a peal or quarter peal. This is acceptable, provided it is done carefully, using a wooden spike, known as a **[fid](../170-glossary/#fid)**, to separate the strands. Metal spikes should not be used: the risk of damaging the strands is too great. 
+  - Untucking and tucking the tail end, common before the start of a peal or quarter peal. This is acceptable, provided it is done carefully, using a wooden spike, known as a ***[fid](../170-glossary/#fid)***, to separate the strands. Metal spikes should not be used: the risk of damaging the strands is too great. 
   - Tying a knot – usually a ***[‘Figure-eight’ knot](../170-glossary/#figure-eight-knot)*** – to shorten a long rope. This is a short-term measure – perhaps just for one touch at a practice. This is acceptable so long as the knot is removed after use – if a knot is left in for too long it tightens, with possible damage to the rope when it is eventually untied. Also, knots should be removed before bells are lowered.
 
 ### Spider cord & pulleys
