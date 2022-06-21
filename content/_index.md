@@ -39,7 +39,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 ## Acknowledgements
 **For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
 
-**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Graham Clifton, Tony Crabtree, Alan Frost, Alison Hodge, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, John Payton, Chris Povey, Philip Pratt, Mark Regan, David Roskelly, Robin Shipp, Aveline Perez de Vera, Peter Woollam. 
+**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Graham Clifton, Peggy Collett, Tony Crabtree, Alan Frost, Alison Hodge, Peter Juniper, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, John Payton, Chris Povey, Philip Pratt, Mark Regan, David Roskelly, Robin Shipp, Aveline Perez de Vera, Peter Woollam. 
 
 
 -----
