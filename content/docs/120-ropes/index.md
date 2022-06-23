@@ -100,9 +100,9 @@ Unless you are lucky enough to have straight drops from the ground pulley to the
 
 ### Sally
 
-A sally might experience wear at its top if it passes through a rope guide or a boss in a low ceiling. There may also be wear within the length of a sally if it falls within a boss or rope guide at backstroke. Factors like this should be made known to a rope maker when ordering ropes as it may be possible to adjust the sally to compensate.
+A sally might experience wear at its top if it passes through a rope guide or a boss in a low ceiling. There may also be wear within the length of a sally if it falls within a boss or rope guide at backstroke. Factors like this should be made known to a Rope Maker when ordering ropes as it may be possible to adjust the sally to compensate.
 
-If woollen strands are sticking out from a sally you can carefully trim them off. Do not attempt to pull them out. However, if the sally is dropping wool or starting to come apart you should contact a rope maker as a repair may be possible.
+If woollen strands are sticking out from a sally you can carefully trim them off. Do not attempt to pull them out. However, if the sally is dropping wool or starting to come apart you should contact a Rope Maker as a repair may be possible.
 
 ### Tail end
 
@@ -129,7 +129,7 @@ Most repairs to bell ropes involve splicing. With practice, this can be carried 
 
 With natural fibre top ends, splicing was often needed because of wear at the garter hole and over the ground pulley. There was a common recommendation to order ropes longer than required to provide extra rope for repairs, with the excess being tied off at the wheel. With the much better wear properties of artificial fibre top ends this is not necessary.
 
-The need for repair of a tail end is more likely and this can be carried out by a Steeple Keeper competent in making a short splice. Note that this must be done using ‘tail end’ rope to provide suitably soft handling. Bell Hangers and Rope Makers can provide lengths of such rope, with one end finished with a whipping to prevent fraying (see Figure 3). Even if a tail end seems to be beyond repair, it is worth discussing this with a rope maker. There may be other options available which are cheaper than a new rope.
+The need for repair of a tail end is more likely and this can be carried out by a Steeple Keeper competent in making a short splice. Note that this must be done using ‘tail end’ rope to provide suitably soft handling. Bell Hangers and Rope Makers can provide lengths of such rope, with one end finished with a whipping to prevent fraying (see Figure 3). Even if a tail end seems to be beyond repair, it is worth discussing this with a Rope Maker. There may be other options available which are cheaper than a new rope.
 
 ### Spare ropes
 
