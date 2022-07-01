@@ -22,6 +22,7 @@ Our aims in this document are:
 
 | Date | Changes |
 | ---- | ---- |
+| 01/07/2022 | Swift nest boxes added to Formal Requirements - Protected Wildlife |
 | 09/06/2022 | Added pre-publication version of Bells |
 | 08/06/2022 | Updated Faculties to reflect changes on 01/07/2022 |
 | 01/06/2022 | Added Disclaimer to all pages |
@@ -48,6 +49,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), June 2022
+Version 0.1 (pre-publication), July 2022
 
 © 2022 Central Council of Church Bell Ringers
