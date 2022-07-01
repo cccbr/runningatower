@@ -44,7 +44,13 @@ When repairs or alterations to or in historic churches and/or churchyards are un
 
 ### Protected wildlife
 
-For a church tower, bats are the most likely case of protected wildlife – and this is a case where the Steeple Keeper may be the first to detect a possible problem. The Bat Conservation Trust provides useful information [here]( https://www.bats.org.uk/advice/information-for-places-of-worship). There may also be restrictions on certain species of birds when nesting.
+For a church tower, bats are the most likely case of protected wildlife – and this is a case where the Steeple Keeper may be the first to detect a possible problem. The Bat Conservation Trust provides useful information [here](https://www.bats.org.uk/advice/information-for-places-of-worship). 
+
+![Swift boxes at Wingrave](formal-requts_fig-1.jpg)
+
+*Figure 1: Nesting boxes for swifts installed in tower louvres*
+
+There may also be restrictions on certain species of birds when nesting and churches can make a positive contribution by providing suitable sites for nesting. Figure 1 shows nesting boxes installed for swifts – a species that is declining due to lack of suitable nest sites. The birds are flourishing and not bothered by the noise of the bells. Further information is given [here](https://www.caringforgodsacre.org.uk/guidelines-for-installing-swift-nest-boxes-in-church-belfries/ ).
 
 ## Other Jurisdictions
 
@@ -96,13 +102,19 @@ Following a [consultation](https://gov.wales/ecclesiastical-exemption-and-guidan
 
 We do not yet have information from ANZAB, NAG or other towers outside the British Isles. This will be included as it becomes available.
 
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| 1 | Swift nesting boxes installed at Wingrave, Buckinghamshire. (Photo: Alison Hodge, used with permission from Alan Frost) |
+
 ----
 
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), May 2022
+Version 0.2 (pre-publication), July 2022
 
 © 2022 Central Council of Church Bell Ringers
 
