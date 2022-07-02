@@ -124,7 +124,7 @@ To reiterate what we have said above: a Steeple Keeper must **NOT** attempt to d
 | :---: | --- | 
 | 1 | Ball bearing on the Tenor bell at Gloucester Cathedral. (Photo: James Joynson) |
 | 2 | The unfortunate result of forcing grease into a ball bearing. (Photo: Malcolm Taylor) |
-| 3 | Component parts of a plain bearing brass. From "A schedule of Regular Maintenance”, Central Council publication, 1991. (Drawing © Alan Frost) |
+| 3 | Component parts of a plain bearing brass. From "A Schedule of Regular Maintenance”, Central Council publication, 1991. (Drawing © Alan Frost) |
 | 4 | Plain bearing assembly showing (A) holes for hold-down bolts, (B) bearing brass, (C) oil reservoir slot, (D) lid. (Photo: Alison Hodge) |
 | 5 | Plain bearing showing (A) holes for hold-down bolts, (B) bearing brass, (C) oil reservoir. (Photo: Alison Hodge) |
 
