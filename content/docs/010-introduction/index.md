@@ -39,7 +39,7 @@ In this document, we are using the term ‘**Bell Hanger**’, be they an indivi
 
 ## Finding Your Way Round this Document
 
-Links to chapters are in the left-hand side navigation bar and links to sections within each chapter are in the right-hand navigation bar. If you are using a small screen you may need to click on the menu bars (three stacked horizontal lines) in the top left or right to access these menus.
+Links to chapters are in the left-hand side navigation menu and links to sections within each chapter are in the right-hand navigation menu. If you are using a small screen you may need to click on the menu bars (three stacked horizontal lines) in the top left or right to access these menus.
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
 
