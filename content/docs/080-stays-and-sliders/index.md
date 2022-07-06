@@ -5,19 +5,21 @@ weight: 80
 
 # Stays & Sliders
 
-Under construction
+## Proof of video download
 
-![Frenchay test](frenchay.jpg)
+{{< vimeo 727296663 >}}
+
+*Figure ?: Operation of a traditional stay and slider*
 
 ## Image Credits
 
 | Figure | Details | 
 | :---: | --- | 
-| Title Picture |  (Photo: ) |
+| ? | Operation of a traditional stay and slider (Video: James Joynson) |
 
 
 -----
 
-Version 0.1 (pre-publication), April 2022
+Version 0.1 (pre-publication), July 2022
 
 © 2022 Central Council of Church Bell Ringers
