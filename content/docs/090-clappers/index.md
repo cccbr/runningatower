@@ -155,7 +155,7 @@ encountered, they must be replaced -- this is outside the scope of this
 document.
 
 - Clapper bushes made from lignum vitae require additional lubrication,
-either by a screw cap lubricator of the 'Stauffer' type or a grease
+either by a screw cap lubricator of the '***[Stauffer](../170-glossary/#stauffer-lubricator)***' type or a grease
 nipple. Although more modern types of metal or plastic bushes may
 require no lubrication some bell hangers still provide grease nipples or
 similar, as shown at (E) on Figure 2(a). On balance, a method of
@@ -561,6 +561,6 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), April 2022
+Version 0.1 (pre-publication), July 2022
 
 © 2022 Central Council of Church Bell Ringers
