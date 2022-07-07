@@ -83,12 +83,6 @@ A wood or metal beam supporting the bell. The wheel, stay and gudgeons are attac
 
 A tool used to measure thickness. Used to check the depth of a clapper impact dent - see [Bells](../130-bells).
 
-## Stauffer Lubricator
-
-![Stauffer Lubricator](stauffer.png)
-
-A screw cap lubricator used on older clapper bushes or roller box bearings. The cap is filled with grease and given a turn occasionally to force grease into the bearing. When fully turned, the cap is removed and re-filled with grease.
-
 ## Psittacosis
 
 Psittacosis is an infection of birds caused by the bacterium *Chlamydia psittaci*. Birds can transmit *C. psittaci* to humans; the resulting infection is also known as psittacosis or ornithosis.
@@ -96,6 +90,12 @@ Psittacosis is an infection of birds caused by the bacterium *Chlamydia psittaci
 ## Spider
 
 A device with hooks on which bell ropes can be hung in order to be raised above head level when not in use.
+
+## Stauffer Lubricator
+
+![Stauffer Lubricator](stauffer.png)
+
+A screw cap lubricator used on older clapper bushes or roller box bearings. The cap is filled with grease and given a turn occasionally to force grease into the bearing. When fully turned, the cap is removed and re-filled with grease.
 
 ## Twiddle Pin
 
