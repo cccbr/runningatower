@@ -112,8 +112,6 @@ The following precautions must be observed to avoid damage to the bells – and 
 - The use of reversible notices saying “chimes on/off” is discouraged since their accuracy cannot be guaranteed and may discourage actual checks.
 - Persons operating an Ellacombe apparatus (who may not be regular ringers) must be instructed in the use of the apparatus: over-enthusiastic use may damage the bells.
 
-Chiming hammers are discussed further in [Chiming Hammers](../140-chiming-hammers).
-
 ## Image Credits
 
 | Figure | Details | 
@@ -130,7 +128,7 @@ Chiming hammers are discussed further in [Chiming Hammers](../140-chiming-hammer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), June 2022
+Version 0.1 (pre-publication), July 2022
 
 © 2022 Central Council of Church Bell Ringers
 
