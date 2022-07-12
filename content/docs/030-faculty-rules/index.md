@@ -19,7 +19,7 @@ The Faculty Jurisdiction Rules 2015 were introduced with the intention of simpli
 -	Items in List A may be undertaken by a parish without a faculty and without the need for any form of consultation. 
 -	Items in List B may be undertaken without a faculty provided the archdeacon is consulted and has given written authorisation.
 
-The Rules were amended in 2019 and again in 2022. The latest guidance is [here](https://www.churchofengland.org/resources/churchcare/church-buildings-council/how-we-manage-our-buildings).
+The Rules were amended in 2019 and again in 2022. The full version of the latest guidance is [here](https://www.churchofengland.org/resources/churchcare/church-buildings-council/how-we-manage-our-buildings).
 
 ## Items Most Likely to be of Relevance for Ringers
 
@@ -97,12 +97,18 @@ This table prescribes items which may, subject to any specified conditions, be u
 | (1) Alterations to striking trains to prevent striking at night| No part of the clock movement is affected |	
 | (2) The repair or replacement of electrical or electronic clocks manufactured after 1950 | |	
 
+## Image Credits
+
+| Figure | Details | 
+| :---: | --- | 
+| Title Picture | St Swithun, Leonard Stanley, Gloucestershire. A Church of England building on a beautiful day - just to brighten up what might be a rather dry chapter. (Photo: Robin Shipp) |
+
 -----
 
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), June 2022
+Version 0.1 (pre-publication), July 2022
 
 © 2022 Central Council of Church Bell Ringers
