@@ -5,6 +5,8 @@ weight: 30
 
 # Faculty Jurisdiction Rules
 
+![Leonard Stanley, Gloucestershire](faculty-rules-title.jpg)
+
 {{<hint danger>}}
 This chapter refers to activities carried out in churches within the jurisdiction of the Church of England. Ringers must remember that the Rules are set out in law, with possible penalties if they are not followed. Meeting the Rules is the responsibility of the Churchwardens and the Parochial Church Council, and ringers must use their specialist knowledge to assist the Church authorities in any application. Guidance should be sought from the Diocesan Secretary, The Diocesan Bell Advisor, and the local Guild or Association. 
 {{</hint>}}
