@@ -5,11 +5,15 @@ weight: 110
 
 # Rope Routes
 
-## Proof of video download
+## Check on video download
 
 {{< vimeo 727298847 >}}
 
 *Figure ?: Operation of a double ground pulley*
+
+{{< vimeo 730367366 >}}
+
+*Figure ?: Top-roped ground pulley*
 
 ## Image Credits
 
