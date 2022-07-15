@@ -9,7 +9,7 @@ weight: 120
 
 The rope forms the essential connection between the bell and the ringer. It is a two-way communication – the ringer uses the rope to control the movement of the bell, while the rope provides information on the position of the bell and how fast it is moving.
 
-The rope may have to negotiate obstacles between the bell and the ringer, such as pulleys, rope guides, rope chutes, sound attenuation boxes and rope bosses. These are covered in [Rope Routes](../110-rope-route).
+The rope may have to negotiate obstacles between the bell and the ringer, such as pulleys, rope guides, rope chutes and rope bosses. These are covered in [Rope Routes](../110-rope-route).
 
 ## Rope Construction
 
