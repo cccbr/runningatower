@@ -54,7 +54,7 @@ Today, various types of plastic rollers (Figure 3) are used as well as wood. The
 
 ### Intermediate chambers
 
-We can see that a limited amount of rope draw is possible by varying the position of the ground pulley. Ideally, any draw below the ground pulley should be minimised but, in order to achieve a good rope circle, that may not be possible. An [intermediate (or clock) chamber](../170-glossary/#intermediate-chamber), if present, offers the possibility of drawing ropes.
+We can see that a limited amount of rope draw is possible by varying the position of the ground pulley. Ideally, any draw below the ground pulley should be minimised but, in order to achieve a good rope circle, that may not be possible. An [***intermediate (or clock) chamber***](../170-glossary/#intermediate-chamber), if present, offers the possibility of drawing ropes.
 
 Small amounts of draw can be accommodated by the rope running over **Bosses** (see below) in the ceiling and floor. “Small amounts” is difficult to define but a rule of thumb is up to 5cm horizontally per metre of height.
 
@@ -125,7 +125,7 @@ This is unusual in a modern installation with sealed bearings on the roller. To 
 For older types of rollers with plain bearings, lubrication may solve the problem: 
 -  If the roller is fixed to its axle, the bearing is usually a metal plate fitted on each side of the box – a few drops of oil should be sufficient to stop any noise and permit free rotation. 
 -  If the roller spins on an axle fixed to the box, run a few drops of oil down the inside face of the box, holding the roller to one side to facilitate this. This type of roller box often has a groove down each inside face to make this operation easier. 
--  The roller box may be fitted with ‘[Stauffer](../170-glossary/#stauffer-lubricator)’ type screw lubricators. An occasional turn of the cap will force sufficient grease into the bearing to last for some months. If the cap will screw down no further, remove it, fill with grease, and replace.
+-  The roller box may be fitted with ‘[***Stauffer***](../170-glossary/#stauffer-lubricator)’ type screw lubricators. An occasional turn of the cap will force sufficient grease into the bearing to last for some months. If the cap will screw down no further, remove it, fill with grease, and replace.
 
 #### Roller not round or grooved (5)
 
@@ -157,11 +157,11 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 
 | Figure | Details | 
 | :---: | --- | 
-| 1 | Rope moving over a double ground pulley, Thornbury, S Glos. (Video: James Joynson) |
+| 1 | Rope moving over a double ground pulley, Thornbury, Glos. (Video: James Joynson) |
 | 2 | Movement of the rope on a top-roped bell, St Mary Redcliffe, Bristol. (Video: Philip Pratt) |
 | 3 | Modern plastic rollers. (Photo: Robin Shipp) |
-| 4 | Rope pulled in an intermediate chamber, Thornbury, S Glos. (Photo: Robin Shipp) |
-| 5 | Rope boss in a bell chamber floor, Thornbury, S Glos. (Photo: Robin Shipp) |
+| 4 | Rope pulled in an intermediate chamber, Thornbury, Glos. (Photo: Robin Shipp) |
+| 5 | Rope boss in a bell chamber floor, Thornbury, Glos. (Photo: Robin Shipp) |
 | 6 | Rope guide at St Mary Redcliffe, Bristol. (Photo: Philip Pratt) |
 | 7 | Detail of a boss on the rope guide at Redcliffe. (Photo: Philip Pratt) |
 
