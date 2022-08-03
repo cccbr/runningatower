@@ -23,7 +23,7 @@ Shaped blocks on the rim of a wheel designed to reduce the radious of curvature 
 
 ## Canons
 
-(Sometimes 'Cannons'). The loops cast onto the crown of older bells, by which the bell is suspended from the **Headstock*.
+(Sometimes 'Cannons'). The loops cast onto the crown of older bells, by which the bell is suspended from the **Headstock**.
 
 ## Clapper
 
@@ -148,6 +148,6 @@ A circular wooden component attached to the **Headstock** by which the rope is a
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), July 2022
+Version 0.1 (pre-publication), August 2022
 
 © 2022 Central Council of Church Bell Ringers
