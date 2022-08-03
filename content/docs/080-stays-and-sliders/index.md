@@ -52,7 +52,7 @@ Traditionally, it is likely that curved stays will have been steam-bent. Nowaday
 
 *Figure 3: Stays attached to wooden headstocks*
 
-The stay will always be attached on the side of a wooden headstock, usually by bolts, arrowed on Figure 3a. In older installations, the top bolt may be replaced by a U-shaped fastening (arrowed on Figure 3b) bolted to the far side of the headstock. 
+The stay will always be attached on the side of a wooden headstock, usually by bolts, arrowed on Figure 3a. In older installations, the top bolt may be replaced by a U-shaped fastening (arrowed on Figure 3b) secured with nuts and washers on the far side of the headstock. 
 
 ### Fixing to metal headstocks
 
