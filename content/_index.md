@@ -22,6 +22,7 @@ Our aims in this document are:
 
 | Date | Changes |
 | ---- | ---- |
+| 01/08/2022 | Added pre-publication version of Stays & Sliders |
 | 19/07/2022 | Added pre-publication version of Rope Routes |
 | 13/07/2022 | Added pre-publication version of Bell Frames |
 | 06/07/2022 | Added video clips to Stays & Sliders and Rope Routes |
@@ -43,7 +44,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 ## Acknowledgements
 **For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
 
-**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Graham Clifton, Peggy Collett, Tony Crabtree, Alan Frost, Alison Hodge, James Joynson, Peter Juniper, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, John Payton, Chris Povey, Philip Pratt, Mark Regan, David Roskelly, Robin Shipp, Aveline Perez de Vera, Peter Woollam. 
+**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, Roger Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Graham Clifton, Peggy Collett, Tony Crabtree, Alan Frost, Alison Hodge, James Joynson, Peter Juniper, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, John Payton, Chris Povey, Philip Pratt, Mark Regan, David Roskelly, Robin Shipp, Aveline Perez de Vera, Peter Woollam. 
 
 
 -----
