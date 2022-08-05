@@ -53,6 +53,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), July 2022
+Version 0.1 (pre-publication), August 2022
 
 © 2022 Central Council of Church Bell Ringers
