@@ -5,6 +5,8 @@ weight: 110
 
 # Rope Routes
 
+![Rope Guide at Leonard Stanley](rope-routes_title.jpg)
+
 The rope may encounter many obstacles between the bell and the ringer. The main reasons are:
 
 -  It is difficult to design a traditional rectangular [bell frame](../050-bell-frames) with all ropes falling in a perfect circle, especially with constraints on space and the possible need for a two-tier frame.
@@ -88,6 +90,8 @@ Some ringing rooms can have very high ceilings. In this case, one or more rope g
 
 Figure 6 shows the rope guide at St Mary Redcliffe, Bristol. This carries bosses for all 14 bells. Note the solid construction, which minimises movement and rope noise.
 
+In contrast, the title picture shows the rope guide at Leonard Stanley, Glos – a ground floor ring, rung from the centre of the church. The rolled steel frame is suspended on rods, braced laterally with series of wires. It is reported to perform very well.
+
 The height of the rope guide should be such that, when the Tenor bell is set at back stroke, the lower half of the sally is in the guide. But note that one of the reasons for fitting a guide is to assist the handling of smaller bells, which may be ‘flighty’. So, rope guides may be fitted on the front bells only.
 
 ## Checking and Fixing
@@ -157,6 +161,7 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 
 | Figure | Details | 
 | :---: | --- | 
+| Title | Rope guide at Leonard Stanley, Glos. (Photo: Roger Bagley |
 | 1 | Rope moving over a double ground pulley, Thornbury, Glos. (Video: James Joynson) |
 | 2 | Movement of the rope on a top-roped bell, St Mary Redcliffe, Bristol. (Video: Philip Pratt) |
 | 3 | Modern plastic rollers. (Photo: Robin Shipp) |
@@ -169,6 +174,6 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 
 -----
 
-Version 0.1 (pre-publication), July 2022
+Version 0.1 (pre-publication), August 2022
 
 © 2022 Central Council of Church Bell Ringers
