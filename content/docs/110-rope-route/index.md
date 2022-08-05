@@ -161,7 +161,7 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 
 | Figure | Details | 
 | :---: | --- | 
-| Title | Rope guide at Leonard Stanley, Glos. (Photo: Roger Bagley |
+| Title | Rope guide at Leonard Stanley, Glos. (Photo: Roger Bagley) |
 | 1 | Rope moving over a double ground pulley, Thornbury, Glos. (Video: James Joynson) |
 | 2 | Movement of the rope on a top-roped bell, St Mary Redcliffe, Bristol. (Video: Philip Pratt) |
 | 3 | Modern plastic rollers. (Photo: Robin Shipp) |
