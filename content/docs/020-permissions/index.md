@@ -100,7 +100,12 @@ Following a [consultation](https://gov.wales/ecclesiastical-exemption-and-guidan
 
 ### Outside the British Isles
 
-We do not yet have information from ANZAB, NAG or other towers outside the British Isles. This will be included as it becomes available.
+We do not yet have detailed information from Australia/New Zealand, North America, or other towers outside the British Isles. 
+Australia/New Zealand and North America have an increasing number of ringing towers, with a variety of religious denominations. Currently, we suggest you contact their ringing societies (both affiliated to the Central Council of Church Bell Ringers) for more information:
+
+-  [Australian and New Zealand Association of Bellringers]( https://www.anzab.org.au)
+-  [North American Guild of Change Ringers (USA and Canada)]( https://www.nagcr.org)
+
 
 ## Image Credits
 
