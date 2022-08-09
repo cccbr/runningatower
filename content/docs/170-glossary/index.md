@@ -35,6 +35,10 @@ The component suspended inside a bell which, when the bell is swung, strikes the
 
 Coach bolts (sometimes referred to as 'Carriage Bolts') are used in a bell installation for bolting a wooden component to either a metal or wooden component - most often to bolt a **Stay** onto a **Headstock**. The square section under the domed head bites into the wood, securing the head while the nut is tightened.
 
+## Death Watch Beetle
+
+The Death Watch Beetle infests old oak and elm timbers – thus representing a threat to timber bell frames and headstocks. The adult beetle lays eggs in crevices and inside tunnels left by previous larvae. The larvae bore into the timber, feeding for up to ten years before pupating, later emerging from the wood as adult beetles. The adults attract mates by a tapping sound that can be heard in old buildings (such as churches) on summer nights. The beetles can be killed by targeted use of insecticide, although a [view has been expressed]( https://www.visitchurches.org.uk/what-we-do/blog/the-death-watch-beetle.html) that prevention is better than cure.
+
 ## Diocesan Advisory Committee (DAC)
 
 Within the Church of England, the DAC is the lead body in the diocese for advice on the care and development of church buildings; providing advice to parishes, Archdeacons, and the Diocesan Chancellor. It has a key role to promote good practice in the maintenance and development of church buildings. Before considering a faculty application, the Chancellor is obliged to take advice from the DAC. The DAC will appoint one or more DAC Bells Advisers. Towers will benefit by maintaing contact with their local Adviser. 
