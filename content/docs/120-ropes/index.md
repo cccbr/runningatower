@@ -150,7 +150,7 @@ This is a job for at least two people: one in the bell chamber and the other in 
 Unless you have a very straight drop from the bell to the ringing room, it is much easier if two ropes are involved. For simplicity, we will call these the ‘new’ and ‘old’ ropes. You have a choice:
 
 - In the ringing room, tie the top of the new rope to the old rope’s tail end and pull the new one up using the old rope, or
-- Take the new rope up to the bell chamber, tie the bottom of the new rope to the top of the old rope and both ropes down.
+- Take the new rope up to the bell chamber, tie the bottom of the new rope to the top of the old rope and lower both ropes down.
 
 {{<hint warning>}}
 Either option finishes with a whole bell rope in the bell chamber, with the risk of it getting tangled or dirty. (This is where an assistant in the bell chamber is valuable.) If this is an issue, you could consider obtaining a thinner plain feeding rope and using that to lower the old rope and then pull up the new one.
