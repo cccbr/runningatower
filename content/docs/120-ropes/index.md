@@ -136,8 +136,12 @@ The need for repair of a tail end is more likely and this can be carried out by 
 If a repair cannot be carried out quickly, it may be useful to have a spare rope available. There is no need to hold a complete set of spare ropes: that is a waste of space and money. Depending on the range of sizes between your Treble and Tenor, up to three spares should be adequate to provide a temporary replacement for any bell.
 
 {{<hint danger>}}
-Spare ropes should not be kept in a poorly ventilated cupboard. Ideally, they should be hung in a tidy coil in the ringing room, possibly in sacking bags.
+Spare ropes should not be kept in a poorly ventilated cupboard. Ideally, they should be hung in a tidy coil in the ringing room, possibly in sacking bags. This will also avoid the risk of attack by mice (Figure 7).
 {{</hint>}}
+
+![Rope attacked by mice](ropes_fig-7.jpg)
+
+*Figure 7: Rope attacked by mice while stored in a cupboard*
 
 ### Fitting a new rope
 
@@ -146,7 +150,7 @@ This is a job for at least two people: one in the bell chamber and the other in 
 Unless you have a very straight drop from the bell to the ringing room, it is much easier if two ropes are involved. For simplicity, we will call these the ‘new’ and ‘old’ ropes. You have a choice:
 
 - In the ringing room, tie the top of the new rope to the old rope’s tail end and pull the new one up using the old rope, or
-- Take the new rope up to the bell chamber, tie the bottom of the new rope to the top of the old rope and lower the old rope down.
+- Take the new rope up to the bell chamber, tie the bottom of the new rope to the top of the old rope and both ropes down.
 
 {{<hint warning>}}
 Either option finishes with a whole bell rope in the bell chamber, with the risk of it getting tangled or dirty. (This is where an assistant in the bell chamber is valuable.) If this is an issue, you could consider obtaining a thinner plain feeding rope and using that to lower the old rope and then pull up the new one.
@@ -158,11 +162,11 @@ The top end of the new rope is then fed through the garter hole on the wheel and
 There are various ways of establishing the correct sally height. One option is to keep a record of the correct distance between the bottom of each sally and the floor; another option is to have a wooden stick marked with the correct height for each sally. Pragmatically, if the assistant in the ringing room is an experienced ringer you could just rely on their judgement.
 {{</hint>}}
 
-The rope is then tied off on the top spokes of the wheel, see Figure 6. Details are given in [Splicing Bell Ropes – Illustrated](https://shop.cccbr.org.uk/product/splicing-bell-ropes-illustrated/).
+The rope is then tied off on the top spokes of the wheel, see Figure 8. Details are given in [Splicing Bell Ropes – Illustrated](https://shop.cccbr.org.uk/product/splicing-bell-ropes-illustrated/).
 
-![Rope tied off on wheel](ropes_fig-7.jpg)
+![Rope tied off on wheel](ropes_fig-8.jpg)
 
-*Figure 7: Rope tied off on the main spokes of the wheel*
+*Figure 8: Rope tied off on the main spokes of the wheel*
 
 
 
@@ -178,7 +182,8 @@ The rope is then tied off on the top spokes of the wheel, see Figure 6. Details 
 | 4 | Yorkshire tail ends. (Photo: Alison Hodge) |
 | 5 | A typical spider, at Thornbury, South Glos. (Photo: Robin Shipp) |
 | 6 | Knot to prevent a spider dropping below head height. (Photo: Robin Shipp) |
-| 7 | Rope tied off on the main spokes of a wheel, at Wickwar, South Glos. (Photo: Robin Shipp) |
+| 7 | Rope attacked by mice while stored in a cupboard. (Photo: Robin Shipp) |
+| 8 | Rope tied off on the main spokes of a wheel, at Wickwar, South Glos. (Photo: Robin Shipp) |
 
 ----
 
@@ -186,6 +191,6 @@ The rope is then tied off on the top spokes of the wheel, see Figure 6. Details 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), May 2022
+Version 0.2 (pre-publication), August 2022
 
 © 2022 Central Council of Church Bell Ringers
