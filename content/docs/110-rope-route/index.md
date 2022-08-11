@@ -35,7 +35,7 @@ A rope moved from where it would naturally fall is said to be ‘drawn’. Thus,
 The video in Figure 1 shows the operation of a double ground pulley. Note that the hand stroke pulley has to cope with a change of direction as well as the forces involved as the bell changes direction. The wear on this pulley likely to be larger than on any other along the rope route.
 
 {{<hint warning>}}
-In a tower with a very short draught the sally may pass up through the ground pulley. In this case a wider roller box should be fitted to accommodate the sally without resistance. If this is not the case, a suitable roller box should be obtained from a Bell Hanger.
+In a tower with a very short draught the sally may pass up through the ground pulley. In this case a wider roller box should have been fitted to accommodate the sally without resistance. If this is not the case, a suitable roller box should be obtained from a Bell Hanger.
 {{</hint>}}
 
 We have been referring to the most common location for the ground pulley – sitting below the wheel. A possible alternative is to ‘top-rope’ the wheel, with the ground pulley placed level with the top of the wheel, as shown in Figure 2. 
@@ -90,7 +90,7 @@ Some ringing rooms can have very high ceilings. In this case, one or more rope g
 
 Figure 6 shows the rope guide at St Mary Redcliffe, Bristol. This carries bosses for all 14 bells. Note the solid construction, which minimises movement and rope noise.
 
-In contrast, the title picture shows the rope guide at Leonard Stanley, Glos – a ground floor ring, rung from the centre of the church. The rolled steel frame is suspended on rods, braced laterally with series of wires. It is reported to perform very well.
+In contrast, the Title Picture shows the rope guide at Leonard Stanley, Glos – a ground floor ring, rung from the centre of the church. The rolled steel frame is suspended on rods, braced laterally with series of wires. It is reported to perform very well.
 
 The height of the rope guide should be such that, when the Tenor bell is set at back stroke, the lower half of the sally is in the guide. But note that one of the reasons for fitting a guide is to assist the handling of smaller bells, which may be ‘flighty’. So, rope guides may be fitted on the front bells only.
 
@@ -120,7 +120,7 @@ Check all fastenings securing the roller box and tighten as necessary.
 Ideally, the rope should only contact the roller, not the side of the box. Signs of significant rope wear on the box will indicate a problem:
 -  For a ground pulley, the most likely cause is that the bell wheel is not running true. Checks and remedies are given in [Wheels](../070-wheels/#wheel-not-running-true).
 -  If the wheel is running true, it is possible that the ground pulley is not correctly aligned with the wheel. This may require assistance from a Bell Hanger, although an experienced Steeple Keeper may be able to correct this using packing pieces or modifications to the fixing points.
--  For other pulleys used to draw a rope in the intermediate chamber, wear on the roller box is almost certainly due to misalignment. See [Intermediate chambers](#intermediate-chambers), above.
+-  For other pulleys used to draw a rope in the intermediate chamber, wear on the roller box is almost certainly due to misalignment. See [Intermediate chambers](#intermediate-chambers-1), below.
 
 #### Roller not spinning freely and quietly (4)
 
@@ -174,6 +174,6 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 
 -----
 
-Version 0.1 (pre-publication), August 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
