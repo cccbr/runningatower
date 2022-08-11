@@ -19,7 +19,7 @@ Around the middle of the nineteenth century, some church bells were cast in stee
 
 Figure 1 shows a pre-reformation bell, cast around 1450, and illustrating the main parts of a bell:
 
-(A) Almost every bell cast before the end of the 19th century had loops cast into the crownn of the bell called ‘canons’ (sometimes ‘cannons’), together with a taller central loop called the ‘argent’ (partly missing on this bell). These were used to suspend the bell from a [headstock](../060-headstocks).
+(A) Almost every bell cast before the end of the 19th century had loops cast into the crown of the bell called ‘canons’ (sometimes ‘cannons’), together with a taller central loop called the ‘argent’ (partly missing on this bell). These were used to suspend the bell from a [headstock](../060-headstocks).
 
 (B) The top of the bell is termed the ‘crown’.
 
@@ -57,7 +57,7 @@ Stains on a bell may reveal problems elsewhere. For example:
 In earlier times, white spirit was widely used to remove oil or grease, but it is now recognised that this is harmful to health and difficult to dispose of safely. Low volatile organic compound (VOC) degreasers are now widely available and must be used for cleaning. See [Health & Safety](../040-health-and-safety/#hazardous-materials).
 {{</hint>}}
 
--  Bird droppings will reveal the need to check the tower’s bird protection – possibly damaged netting on the louvres. Small amounts of bird droppings can be removed with a damp cloth, but extensive bird ingress requires specialist cleaning because of the risk of infection, see [Health & Safety](../040-health-and-safety/#hazardous-materials).
+-  Bird droppings will reveal the need to check the tower’s bird protection – possibly damaged netting on the louvres. Small amounts of bird droppings can be removed with a damp cloth, but extensive bird ingress requires specialist cleaning because of the risk of infection.
 
 Water stains may reveal problems with weather protection, or damage to the roof. This will require action by the church authorities.
 
@@ -89,7 +89,7 @@ The usual remedy for excessive wear is  to rehang the bell turned through 90&deg
 A cracked bell is a serious problem. Even a small crack may grow and result in a complete failure of the bell (Figure 3). Cracks may be found in the following places:
 
 -  The most likely location is in the crown of a bell with a cast-in iron crown staple, or the remains of one. Iron corrodes with time and the corroded staple expands in the crown of the bell, generating stresses which will ultimately lead to cracking of the bell, as you can see in Figure 3. Given the difficulty of access and the likely surface condition it will be difficult to detect a crack in the crown visually. The only reliable safeguard is to remove all traces of a cast-in staple – see [Clappers](../090-clappers/#removal).
--  Where a bell is hung by its canons, cracks may be found around the canons. This area should be inspected visually at regular intervals, although this inspection may not be reliable because of the surface condition and because cracks may be hidden by the headstock. The only reliable remedy is to avoid stress on the canons by rehanging the bell with a modern [canon-retaining headstock](../060-headstocks).
+-  Where a bell is hung by its canons, cracks may be found around the canons. This area should be inspected visually at regular intervals, although this inspection may not be reliable because of the surface condition and because cracks may be hidden by the headstock. The only reliable remedy is to avoid stress on the canons by rehanging the bell with a modern [canon-retaining headstock](../060-headstocks/#metal-canon-retaining-headstocks).
 
 Cracked bells require the services of a bell hanger. A Steeple Keeper may, however, perform a valuable function by recognising the possibility of a problem, or even identifying a possible crack.
 
@@ -107,7 +107,7 @@ The following precautions must be observed to avoid damage to the bells – and 
 - The mechanism for chiming the bells, be it a clock, manual chime or an Ellacombe apparatus, must be correctly installed and maintained in good condition.
 - The mechanism for pulling the hammers clear must be checked regularly.
 - The means for pulling hammers off must be clearly visible in the Ringing Room, and its status must be obvious.
-- If the Ellacombe apparatus is not located in the ringing room, arrangement must be made to ensure that it is locked off when ringing is taking place. 
+- If the Ellacombe apparatus is not located in the Ringing Room, arrangement must be made to ensure that it is locked off when ringing is taking place. 
 - Ringers must exercise a culture of always ensuring all hammers are off before ringing starts – and restoring them when ringing finishes.
 - The use of reversible notices saying “chimes on/off” is discouraged since their accuracy cannot be guaranteed and may discourage actual checks.
 - Persons operating an Ellacombe apparatus (who may not be regular ringers) must be instructed in the use of the apparatus: over-enthusiastic use may damage the bells.
@@ -128,7 +128,7 @@ The following precautions must be observed to avoid damage to the bells – and 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), July 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
 
