@@ -9,7 +9,7 @@ The main bearings are critical items: in any installation, they support the larg
 
 {{<hint danger>}}
 
-A Typical Steeple Keeper can only carry out basic maintenance on bearings: for example, lubrication of plain bearings. Major jobs will usually require the lifting of a bell, even by a small amount, and this is a job for Bell Hangers, who carry the necessary insurances and requirements of Health & Safety regulations. Also, within the jurisdiction of the Church of England, there will be a legal requirement to obtain a faculty for such work. Further details are given in [Formal Requirements](../020-permissions/), [Faculty Jurisdiction Rules](../030-faculty-rules/) and [Health & Safety](../040-health-and-safety/). 
+A Typical Steeple Keeper can only carry out basic maintenance on bearings: for example, lubrication of plain bearings. Major jobs will usually require the lifting of a bell, even by a small amount, and this is a job for Bell Hangers, who carry the necessary insurances and requirements of Health & Safety regulations. Also, within the jurisdiction of the Church of England, there may be a legal requirement to obtain a Certificate or faculty for such work. Further details are given in [Formal Requirements](../020-permissions/), [Faculty Jurisdiction Rules](../030-faculty-rules/) and [Health & Safety](../040-health-and-safety/). 
 
 {{</hint>}}
 
@@ -25,7 +25,7 @@ Ball bearings started to be fitted to bells only in the early 1920s but their us
 
 A ball bearing (Figure 1) is a sealed unit that should require no regular maintenance. The bearing consists of one (or possibly two) rings of hardened steel balls running between two hardened steel tracks. The inner ring is mounted on the ***[gudgeon](../170-glossary/#gudgeons)*** and the outer on the bearing housing, mounted on the frame. On assembly, the bearings are filled with grease which is retained by seals. The grease provides some lubrication to prevent ***[fretting](../170-glossary/#fretting)*** between the balls and the track, but its main use is to protect the components from rusting.
 
-Designs vary, but the type of bearing shown in Figure 1 is split for assembly along the line arrowed. Do not try to separate the two halves during routine checks.
+Designs vary, but the type of bearing shown in Figure 1 is split **for assembly** along the line arrowed. Do not try to separate the two halves during routine checks.
 
 The ball bearings used for bell hanging are self-aligning, allowing for small movements of the bell frame – particularly important for wooden frames. Lateral movement, resulting from small movements between the two side frames, is accommodated by a small amount of lateral travel (often termed ‘end float’) on one bearing, usually the one on the wheel side. 
 
@@ -43,7 +43,7 @@ Unless you suspect a problem with ball bearings (see [Problems with Bearings](#p
 
 These checks can be undertaken by a Typical Steeple Keeper; but points 2 and 3 can only be rectified by a Bell Hanger.
 
-Some older ball bearings may have a grease nipple. This does NOT mean they require the grease to be ‘topped up’ regularly – that is a certain way of damaging the seals. Do not use a grease gun on these. The results of over greasing can be seen in Figure 2.
+Some older ball bearings may have a grease nipple. This does **NOT** mean they require the grease to be ‘topped up’ regularly – that is a certain way of damaging the seals. Do not use a grease gun on these. The results of over greasing can be seen in Figure 2.
 
 ![The unfortunate effect of forcing grease into a ball bearing](figure-2.jpg)
 
@@ -134,7 +134,7 @@ To reiterate what we have said above: a Steeple Keeper must **NOT** attempt to d
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), April 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
 
