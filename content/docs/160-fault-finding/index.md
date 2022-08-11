@@ -9,6 +9,6 @@ An online version of this will be introduced in due course. In the meantime, see
 
 ----
 
-Version 0.1 (temporary), February 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
