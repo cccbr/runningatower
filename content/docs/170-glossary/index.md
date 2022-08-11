@@ -17,9 +17,13 @@ The central boss on the crown of older bells, around which the **Canons** are gr
 
 A U-shaped metal strap with leather lining, traditionally used to suspend clappers. The name originates from a belt worn over one shoulder to support a sword or bugle.
 
+## Bell Chamber
+
+The space within a tower where the bells are situated. Sometime referred to as the "Belfry".
+
 ## Bobbins
 
-Shaped blocks on the rim of a wheel designed to reduce the radious of curvature as the rope emerges from the **Garter Hole**. See [Wheels](../070-wheels).
+Shaped blocks on the rim of a **Wheel** designed to reduce the radius of curvature as the rope emerges from the **Garter Hole**.
 
 ## Canons
 
@@ -27,7 +31,7 @@ Shaped blocks on the rim of a wheel designed to reduce the radious of curvature 
 
 ## Clapper
 
-The component suspended inside a bell which, when the bell is swung, strikes the bell to produce the note. See [Clappers](../090-clappers).
+The component suspended inside a bell which, when the bell is swung, strikes the bell to produce the note.
 
 ## Coach Bolts
 
@@ -37,7 +41,7 @@ Coach bolts (sometimes referred to as 'Carriage Bolts') are used in a bell insta
 
 ## Death Watch Beetle
 
-The Death Watch Beetle infests old oak and elm timbers – thus representing a threat to timber bell frames and headstocks. The adult beetle lays eggs in crevices and inside tunnels left by previous larvae. The larvae bore into the timber, feeding for up to ten years before pupating, later emerging from the wood as adult beetles. The adults attract mates by a tapping sound that can be heard in old buildings (such as churches) on summer nights. The beetles can be killed by targeted use of insecticide, although a [view has been expressed]( https://www.visitchurches.org.uk/what-we-do/blog/the-death-watch-beetle.html) that prevention is better than cure.
+The Death Watch Beetle infests old damp oak and elm timbers – thus representing a threat to timber bell frames and headstocks. The adult beetle lays eggs in crevices and inside tunnels left by previous larvae. The larvae bore into the timber, feeding for up to ten years before pupating, later emerging from the wood as adult beetles. The adults attract mates by a tapping sound that can be heard in old buildings (such as churches) on summer nights. The beetles can be killed by targeted use of insecticide, although a [view has been expressed]( https://www.visitchurches.org.uk/what-we-do/blog/the-death-watch-beetle.html) that prevention is better than cure.
 
 ## Diocesan Advisory Committee (DAC)
 
@@ -45,7 +49,7 @@ Within the Church of England, the DAC is the lead body in the diocese for advice
 
 ## Ellacombe Apparatus
 
-A system intended for tune ringing, consisting of a set of hammers arranged to strike the inside of the bells, operated from the ringing room or lower in the tower by pulling sleeved ropes mounted in a frame, operated by one person. Arrangements **MUST** be in place to ensure that, when ringing is taking place, the hammers are pulled clear and the apparatus cannot be accidentally operated.
+A system intended for tune ringing, consisting of a set of hammers arranged to strike the inside of the bells, operated from the ringing room or lower in the tower by pulling sleeved ropes mounted in a frame, operated by one person. Arrangements **MUST** be in place to ensure that, when ringing is taking place, the hammers are pulled clear and the apparatus cannot be operated accidentally.
 
 ## Fid
 
@@ -65,7 +69,7 @@ Fretting refers to wear damage of loaded surfaces in contact with little or no l
 
 ## Garter Hole
 
-A Hole in the rim of a wheel through which the rope passes in order to be secured to the spokes. See [Wheels](../070-wheels).
+A Hole in the rim of a **Wheel** through which the rope passes in order to be secured to the spokes.
 
 ## Grease Nipple
 
@@ -79,7 +83,7 @@ A pulley in the bottom of the bell pit - the first pulley the rope passes throug
 
 ## Gudgeons
 
-The steel shafts fixed to the headstock that form the axle about which the bell rotates.
+The steel shafts fixed to the **Headstock** that form the axle about which the bell rotates.
 
 ## Headstock
 
@@ -123,7 +127,7 @@ Wooden bar attached to a **Headstock** that under normal usage prevents a bell m
 
 ## Tail End
 
-The end of the rope, usually doubled back on itself (Except for Yorkshire tail ends), used to pull at backstroke.
+The end of the rope, usually doubled back on itself (except for Yorkshire tail ends), used to pull at backstroke.
 
 ## Twiddle Pin
 
@@ -152,6 +156,6 @@ A circular wooden component attached to the **Headstock** by which the rope is a
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), August 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
