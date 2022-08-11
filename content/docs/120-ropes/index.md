@@ -52,7 +52,7 @@ Most steeple keepers would nowadays accept the benefits of using artificial fibr
 - It resists damage from the damp atmosphere in a bell chamber.
 - It resists stretching.
 - It resists wear.
-- It resists damage caused by the bending of the rope as it exits the garter hole.
+- It resists damage caused by the bending of the rope as it exits the [***garter hole***](../170-glossary/#garter-hole).
 
 ### Yorkshire tail ends
 
@@ -64,7 +64,7 @@ It would be remiss not to mention Yorkshire tail ends. These have a small sally 
 
 ### Ordering new ropes
 
-As the details of towers may vary, we would advise discussing your needs with a Rope Maker. Also consider consulting a Rope Maker if you have inherited a rope that needs replacing: if you don’t know the history, the old rope may not have optimum dimensions.
+As the details of towers may vary, we advise discussing your needs with a Rope Maker. Also consider consulting a Rope Maker if you have inherited a rope that needs replacing: if you don’t know the history, the old rope may not have optimum dimensions.
 
 ## Spiders
 
@@ -81,6 +81,10 @@ The spider should stop above normal head height, to avoid possible injury if the
 ![Knot in spider cord](ropes_fig-6.jpg)
 
 *Figure 6: A knot (arrowed) prevents the spider dropping below head height*
+
+{{<hint warning>}}
+Someone who knows about such things has pointed out that the device arrowed in Figure 6 is actually a type of cleat which would stop the rope if it was let slip. Well maybe, but better safe than sorry.
+{{</hint>}}
 
 ## Checking
 
@@ -191,6 +195,6 @@ The rope is then tied off on the top spokes of the wheel, see Figure 8. Details 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.2 (pre-publication), August 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
