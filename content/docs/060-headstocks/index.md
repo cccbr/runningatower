@@ -37,13 +37,13 @@ A bell without canons – either after their removal or cast as a  flat-top bell
 
 *Figure 2: Bell drilled for support; canons present but not used*
 
-Figure 2 shows an unusual variation on this. The canons are present but are not used for support. This is provided by the bolts (A) passing through the crown. This is an unusual timber equivalent of a clapper-retaining headstock – of which more later.
+Figure 2 shows an unusual variation on this. The canons are present but are not used for support. This is provided by the long bolts (A) passing through the crown. This is an unusual timber equivalent of a clapper-retaining headstock – of which more later.
 
 This view also shows (at B) the top of the crown staple bolt, supporting the clapper, the nuts (C) supporting the gudgeon plate and a better view of the extent to which the headstock is slotted to accommodate the canons.
 
 ## Metal Headstocks
 
-With due respect to history, metal headstocks are preferable to timber where possible. They are more stable and rigid than a timber headstock and provide a more positive attachment of the [***gudgeons***](../170-glossary/#gudgeons), ensuring that they remain accurately in line. The main types of headstocks which you may find are:
+With due respect to history, metal headstocks are preferable to timber where possible. They are more stable and rigid than a timber headstock and provide a more positive attachment of the [***gudgeons***](../170-glossary/#gudgeons), ensuring that they remain accurately in line. The main types of metal headstocks which you may find are:
 
 -  Cast metal – usually cast iron, sometimes cast steel.
 -  Fabricated steel.
@@ -79,9 +79,9 @@ A fabricated metal headstock provides a cheaper and perfectly acceptable option 
 
 *Figure 5: Metal canon-retaining headstock*
 
-At one time, canons were accidentally (or deliberately) broken or cut off the crown and the bell was then secured to the headstock with bolts passing through the crown. The historical value of canons is now recognised and such bells can continue in use with canon-retaining headstocks – an unusual timber example of which is shown in Figure 2.
+At one time, canons were accidentally (or deliberately) broken or cut off the crown and the bell was then secured to the headstock with bolts passing through the crown. The historical value of canons is now recognised and such bells can continue in use with canon-retaining headstocks – an unusual timber example of which was seen in Figure 2.
 
-Nowadays, canon-retaining headstocks are often made of fabricated steel, as shown in Figure 5, although some are castings. This design shown in Figure 5 is attractive because the canons are reasonably visible. Some designs obscure the view of the canons – which is unfortunate for an item which has been retained because of its historical value.
+Nowadays, canon-retaining headstocks are often made of fabricated steel, as shown in Figure 5, although some are castings. This design in Figure 5 is attractive because the canons are reasonably visible. Some designs obscure the view of the canons – which is unfortunate for an item which has been retained because of its historical value.
 
 ## Care of Headstocks
 
@@ -96,7 +96,7 @@ An inherent challenge with a timber headstock is that wood is not a stable mater
 As a Typical Steeple Keeper, you may not be able to rectify all of these problems but you should be able to recognise when they occur.
 
 {{<hint warning>}}
-As mentioned earlier, the fastenings to the [wheel](../070-wheels) and [stay](../080-stays-and-sliders) are covered in those chapters.
+As mentioned earlier, the fastenings for the [wheel](../070-wheels) and [stay](../080-stays-and-sliders) are covered in those chapters.
 {{</hint>}}
 
 #### Bell nuts
@@ -128,7 +128,7 @@ If canons are present, the bell may not fit snugly underneath the headstock and 
 
 #### Gudgeons
 
-If your tower has old timber headstocks with the gudgeons inserted directly into the headstock, you have an interesting – but not very reliable – museum piece. For any problems, you need to talk to a Bell Hanger.
+If your tower has old timber headstocks with the gudgeons inserted directly into the headstock, you have an interesting – but not very reliable – museum piece. For any problems here, you need to talk to a Bell Hanger.
 
 ![Attachment of gudgeon](headstocks_fig-6.jpg)
 
@@ -144,7 +144,7 @@ The straps, threaded ends and nuts supporting the bell will all corrode with tim
 
 #### Rot and beetles
 
-Old timber headstocks may suffer from rot (particularly if the louvres in the Bell Chamber are not weather-proof. Headstocks may also be attacked by [***Death Watch Beetle***](../170-glossary/#death-watch-beetle) (holes of 2mm diameter or slightly larger) or Furniture beetle (smaller holes). You should check for early signs of any damage and report any beetle infestation to the church authorities. Even if damage is not detected, a preventative measure is to treat headstocks every ten to fifteen years with wood preservative. This is a job for a specialist.
+Old timber headstocks may suffer from rot (particularly if the louvres in the Bell Chamber are not weather-proof. Headstocks, especially if damp, may also be attacked by [***Death Watch Beetle***](../170-glossary/#death-watch-beetle) (holes of 2mm diameter or slightly larger) or Furniture beetle (smaller holes). You should check for early signs of any damage and report any beetle infestation to the church authorities. Even if damage is not detected, a preventative measure is to treat headstocks every ten to fifteen years with wood preservative. This is a job for a specialist.
 
 {{<hint warning>}}
 The position on Faculty Jurisdiction Rules within the Church of England is not clear regarding the treatment of headstocks. [List B]( ../030-faculty-rules/#list-b) includes “The treatment of timber bell frames with preservative or insecticide materials” but does not mention headstocks. The lack of reference to headstocks implies, by omission, that a faculty is required to treat these, which seems inconsistent. As always in difficult cases, consult your [***Diocesan Bells Adviser***](../170-glossary/#diocesan-advisory-committee-dac).
@@ -160,11 +160,11 @@ These should be checked for tightness in the same was as for timber headstocks �
 
 #### Gudgeons
 
-These must be firmly fixed, either on a bracket attached to a fabricated headstock (A on Figure 4) or passing through a hollow cast metal headstock and secured by a bolt or by riveted. It may be possible to detect a problem by swinging the bell through a small angle and looking and listening for anything unusual. But realistically, the bell will need to be removed from the headstock for a thorough inspection and possible repair. This is certainly a job for a Bell Hanger and would fall under [List B]( ../030-faculty-rules/#list-b) of the Church of England Faculty Jurisdiction Rules.
+These must be firmly fixed, either on a bracket attached to a fabricated headstock (A on Figure 4) or passing through a hollow cast metal headstock and secured by a bolt or riveted. It may be possible to detect a problem by swinging the bell through a small angle and looking and listening for anything unusual. But realistically, the bell will need to be removed from the headstock for a thorough inspection and possible repair. This is certainly a job for a Bell Hanger and would fall under [List B]( ../030-faculty-rules/#list-b) of the Church of England Faculty Jurisdiction Rules.
 
 #### Painting
 
-A fabricated headstock which has been galvanised should not normally require painting but, as for [metal frames](../050-bell-frames/#iron-and-steel-frames-1), other metal headstocks will require cleaning and painting every 10 to 20 years. This should be done by a Bell Hanger, who will understand the need to avoid damage to the bells and other parts of the installation. This could be combined with painting of a metal frame.
+A fabricated headstock which has been galvanised should not normally require painting but, as for [metal frames](../050-bell-frames/#iron-and-steel-frames-1), cast metal headstocks will require cleaning and painting every 10 to 20 years. This should be done by a Bell Hanger, who will understand the need to avoid damage to the bells and other parts of the installation. This could be combined with painting of a metal frame.
 
 ## Image Credits
 
@@ -184,6 +184,6 @@ A fabricated headstock which has been galvanised should not normally require pai
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), August 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
