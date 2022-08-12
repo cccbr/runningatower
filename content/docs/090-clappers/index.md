@@ -77,7 +77,7 @@ removed if the bell is to be retained for ringing -- see [Removal of a
 cast-in crown staple](#removal).
 
 The clapper was usually suspended from a cast-in crown staple using a
-***[baldric](../170-glossary/#baldric)*** (or 'baldrick'). In the
+***[baldric](../170-glossary/#baldric-or-baldrick)*** (or 'baldrick'). In the
 nineteenth century, in the absence (or after the removal) of a cast-in
 crown staple, a separate 'centre bolt' would be passed up through the
 crown of the bell and headstock. The traditional suspension would be
@@ -293,8 +293,8 @@ in [Removal and replacement of a clapper](#removal-and-replacement).
 ### Removal of a cast-in crown staple {#removal}
 
 Removal of a cast-in crown staple must be carried out by a professional
-Bell Hanger, commonly within their workshop. **Note that this work will
-require a faculty**.
+Bell Hanger, commonly within their workshop. Note that, within the jurisdiction of the Church of England, this work will
+require a [faculty](../030-faculty-rules).
 
 ### Clapper not swinging true {#clapper-not-true}
 
@@ -561,6 +561,6 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), July 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
