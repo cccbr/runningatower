@@ -13,20 +13,20 @@ Consideration of Health & Safety (H&S) is important for all activities within a 
 Note that there will be an Authorising Body for work carried out in a tower. Within the Church of England this will be the Churchwardens and the Parochial Church Council; different arrangements may apply in other jurisdictions – see [Formal Requirements](../020-permissions/). Members of this body may not be familiar with aspects of working on bell installations and the ringers must explain and agree their methods of working. Note that this does not detract from the ringers’ own responsibility for safe working.
 {{</hint>}}
 
-There is a range of legal requirements must be followed and guidance from the UK Health & Safety Executive is available [here](https://www.hse.gov.uk/pubns/hsc13.pdf). While many of these requirements are written as if only for those in employment, most also apply to volunteers. We identify here general rules intended to help identify potential hazards and to reduce risks to those involved. We recognise that an appropriate balance must be achieved between making the activity achievable while reducing the level of risk to that which is as low as reasonably possible. 
+There is a range of legal requirements must be followed and guidance from the UK Health & Safety Executive is available [here](https://www.hse.gov.uk/pubns/hsc13.pdf) (pdf). While many of these requirements are written as if only for those in employment, most also apply to volunteers. We identify here general rules intended to help identify potential hazards and to reduce risks to those involved. We recognise that an appropriate balance must be achieved between making the activity achievable while reducing the level of risk to that which is as low as reasonably possible. 
 
 ## Topics Relevant to Work in the Bell Chamber
 
 ### Protecting workers in the bell chamber
 
-Accidental or malicious interference with the bell ropes may present a hazard when work is being carried out in the bell chamber. The extent of risk depends on the accessibility of the ringing room – this is a particular problem for ground-floor rings. Possible solutions are:
+Accidental or malicious interference with the bell ropes may present a hazard when work is being carried out in the Bell Chamber. The extent of risk depends on the accessibility of the Ringing Room – this is a particular problem for ground-floor rings. Possible solutions are:
 
-- Making sure that someone is present in the ringing room. This may not be possible unless routine checks and maintenance are being carried out on the same day as general tower housekeeping.
+- Making sure that someone is present in the Ringing Room. This may not be possible unless routine checks and maintenance are being carried out on the same day as general tower housekeeping.
 - Your expected time of completion is known by others and that they check that you return on schedule.
 - Warning notices – an example is shown in the Title Figure (but do not rely on this alone). 
 - Hoisting the ropes on a spider. For ground-floor or otherwise accessible ringing rooms this may require a locking system for the spider.
 - Hoisting the ropes up into a secure intermediate room, or even into the bell chamber.
-- Consider security of the building while working upstairs – an open church and tower would enable unauthorised access and could pose risks to those working upstairs. A secured building could prevent access by help in an emergency. Could people upstairs be locked in accidentally by a well-meaning person who was unaware? Arrangements will have to be considered for the building in question: other users, access routes, key holders etc.  
+- Consider security of the building while working upstairs – an open church and tower would enable unauthorised access and could pose risks to those working upstairs. A secured building could prevent access by help in an emergency. Could people upstairs be locked in accidentally by a well-meaning person who was unaware? Arrangements will have to be considered for the building in question, taking account of factors such as other users, access routes and key holders.  
 
 ### Working conditions
 
@@ -44,7 +44,7 @@ Bell chambers present significant hazards when moving around. The following poin
 
 ### Ladders and working at heights
 
-Very few towers were constructed with the working platforms, ladders and guard rails that would be built into a newly designed and constructed building. Not all tower staircases even have handrails. Anyone working in a tower must therefore consider how they will access and manoeuvre in and around the bell frame and installation. Remember that some timber - whether ladders, flooring, or other planks and boarding - may be rotten or decayed so not strong enough to take the weight of one or more people perhaps also with the additional weight of heavy items such as a clapper. 
+Very few towers were constructed with the working platforms, ladders and guard rails that would be built into a newly designed and constructed building. Not all tower staircases even have handrails. Anyone working in a tower must therefore consider how they will access and manoeuvre in and around the bell frame and installation. Remember that some timber – whether ladders, flooring, or other planks and boarding – may be rotten or decayed so not strong enough to take the weight of one or more people perhaps also with the additional weight of heavy items such as a clapper. 
 
 ### Hazardous materials
 
@@ -56,7 +56,7 @@ After work is complete, any paints, chemicals and cleaning products, as well as 
 
 Bird or bat droppings can carry infections such as ***[psittacosis](../170-glossary/#psittacosis)*** from birds. If extensive, a specialist should be employed for cleaning.
 
-Although less likely in a church tower, there may be old asbestos boarding or lagging in towers. As a hint, if plumbing is or has been installed - for example water tanks and pipework - this may well have been lagged with materials that are now recognised as hazardous. 
+Although less likely in a church tower, there may be old asbestos boarding or lagging in towers. As a hint, if plumbing is or has been installed – for example water tanks and pipework – this may well have been lagged with materials that are now recognised as hazardous. 
 
 ### Personal protective equipment
 
@@ -108,7 +108,7 @@ A general rule is that mains power tools with trailing leads should be avoided i
 
 ### Used of closed-circuit TV
 
-Some churches have installed closed-circuit TV systems allowing a choice of views of (a) the interior of the church (checking for progress of a wedding) and (b) the bell chamber (useful for open day visits). The latter can also be useful in maintaining contact between the ringing room and the bell chamber during maintenance work.
+Some churches have installed closed-circuit TV systems allowing a choice of views of (a) the interior of the church (checking for progress of a wedding) and (b) the bell chamber (useful for open day visits). The latter can also be useful in maintaining contact between the Ringing Room and the Bell Chamber during maintenance work.
 
 ## Image Credits
 
@@ -125,7 +125,7 @@ Some churches have installed closed-circuit TV systems allowing a choice of view
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), March 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
 
