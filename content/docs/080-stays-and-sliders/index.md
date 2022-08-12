@@ -38,7 +38,7 @@ In many (but not all) installations the stay is secured to the headstock using [
 -  Figure 1b shows a straight stay bolted to the side of a wooden headstock, although the same arrangement could be used for a hollow metal headstock.
 -  Figure 1c shows a straight stay in a metal ‘socket headstock’. This shows a ‘Hastings stay’ but the same arrangement is often used for a straight stay like the one in Figure 1b.
 
-A stay is made of straight-grained Ash timber, thickest at the top fixing or where it exits a socket (Figure 1c) and tapering towards the end which contacts the slider. This provides maximum strength at the point of maximum stress. You may, however, find plenty of stays without tapers. The tapering is more complex – and more critical –  for a Hastings stay and this will be covered later.
+A stay is made of straight-grained Ash timber, thickest at the top fixing or where it exits a socket (Figure 1c) and tapering towards the end which contacts the slider. This provides maximum strength at the point of maximum stress. You may, however, find plenty of stays without tapers.
 
 ![Curved stay](s-and-s_fig-2.jpg)
 
@@ -273,7 +273,7 @@ Assuming the replacement stay has been made to the required standard, a Typical 
 2.	Mount the straight (un-tapered) side against the headstock. Whoever made the stay should have marked that side.
 3.	If you are using coach bolts, it helps to tap the head gently with a hammer to start the square section under the head biting into the wood. 
 4.	If you are using a bolt with a hexagonal head, you will need a second spanner to hold the head while you tighten the nut. This is where the assistant is useful.
-5.	Before fully tightening the nuts, use a spirit level to ensure that the stay is vertical. The holes in the stay and headstock should have enough play to allow you to move the stay slightly. 
+5.	Before fully tightening the nuts, use a spirit level to ensure that the stay is vertical. The holes in the stay and headstock should have enough play to allow you to move the stay slightly to correct this. 
 6.	If this doesn’t work, the holes in the stay are not perfectly aligned. You may be able to correct this using a circular wood file on the hole. Otherwise, you will need to go back to whoever made the stay with a legitimate complaint.
 7.	Finally, tighten the nuts.
 {{</hint>}}
@@ -286,7 +286,7 @@ Assuming the replacement stay has been made to the required standard, a Typical 
 2.	Coach bolts are essential here, as it will be impossible to reach a hexagonal bolt head with a spanner –  probably even with a socket spanner.
 3.	If coach bolts are replaced on an older socket headstock a problem may be encountered as some metric coach bolts have a larger diameter head than the imperial ones they replace. This means that the larger head may not fit through the hole in the headstock. The diameter of the bolt head can be reduced if you have access to a lathe or a grinder, but do not remove more material than necessary.
 4.	The new stay should slide easily into the socket. If there is any indication of binding, remove the stay. Any areas that were binding should be obvious and can be carefully trimmed using a plane or wood file.
-5.	Before fully tightening the nuts, use a spirit level to ensure that the stay is vertical. The holes in the stay and headstock should have enough play to allow you to move the stay slightly. 
+5.	Before fully tightening the nuts, use a spirit level to ensure that the stay is vertical. The holes in the stay and headstock should have enough play to allow you to move the stay slightly to correct this. 
 6.	If this doesn't work, the holes in the stay are not perfectly aligned. You may be able to correct this using a circular wood file. Otherwise, you will need to go back to whoever made the stay with a legitimate complaint.
 7.	Finally tighten the nuts.
 {{</hint>}}
@@ -309,10 +309,10 @@ The procedure for fitting a Hastings stay is similar to that for a plain socket 
 This will involve witnessing the operation of the stay and slider when the bell is rung up. This is potentially dangerous and you **MUST** take the following precautions:
 
 1.	Place yourself in a position where you can see the stay and slider but are not in the direct line in the unlikely event of the clapper breaking.
-2.	A further person is in the ringing room ready to raise the bell.
-3.	Ideally, a third person is with you in the bell chamber.
-4.	Either tie the clapper, or all persons in the bell chamber wear hearing protection.
-5.	A system of signals is agreed between the ringing room and the bell chamber. This could be jerking the rope on an adjacent bell.
+2.	A further person is in the Ringing Room ready to raise the bell.
+3.	Ideally, a third person is with you in the Bell Chamber.
+4.	Either tie the clapper, or all persons in the Bell Chamber wear hearing protection.
+5.	A system of signals is agreed between the Ringing Room and the Bell Chamber. This could be jerking the rope on an adjacent bell.
 6.	Signal to raise the bell and witness the interaction between stay and slider.
 7.	If there is any problem, give the signal to immediately lower the bell.
 {{</hint>}}
@@ -348,6 +348,6 @@ Some bolts, particularly coach bolts, may take time to settle in. It would be pr
 
 -----
 
-Version 0.1 (pre-publication), August 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
