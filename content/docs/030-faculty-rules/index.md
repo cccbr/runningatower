@@ -11,7 +11,7 @@ weight: 30
 This chapter refers to activities carried out in churches within the jurisdiction of the Church of England. Ringers must remember that the Rules are set out in law, with possible penalties if they are not followed. Meeting the Rules is the responsibility of the Churchwardens and the Parochial Church Council, and ringers must use their specialist knowledge to assist the Church authorities in any application. Guidance should be sought from the Diocesan Secretary, The Diocesan Bell Advisor, and the local Guild or Association. 
 {{</hint>}}
 
-Ringers are probably aware that a Faculty may be required prior to work being done in a Church of England Church. The faculty process exempts churches from listed building consent and conservation area consent that could apply elsewhere. When alterations are proposed, the parish must present the proposals to the archdeacon. For minor alterations, the archdeacon may authorise the work but more major projects will be judged by the Chancellor of the diocese, taking advice from specialists in the Diocesan Advisory Committee. The faculty is the legal authorisation of the work by the Chancellor.  
+Ringers are probably aware that a Faculty may be required prior to work being done in a Church of England Church. The faculty process exempts churches from listed building consent and conservation area consent that could apply elsewhere. When alterations are proposed, the parish must present the proposals to the archdeacon. For minor alterations, the archdeacon may authorise the work but more major projects will be judged by the Chancellor of the diocese, taking advice from specialists in the [***Diocesan Advisory Committee***](../170-glossary/#diocesan-advisory-committee-dac). The faculty is the legal authorisation of the work by the Chancellor.  
 
 The faculty system is a judicial system, so these notes reflect this style. Parishes and ringers intending do any work in their tower or on their bells must consider the full implications of the Rules.
 
@@ -111,6 +111,6 @@ This table prescribes items which may, subject to any specified conditions, be u
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1 (pre-publication), July 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
