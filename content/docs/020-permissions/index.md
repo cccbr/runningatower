@@ -50,7 +50,7 @@ For a church tower, bats are the most likely case of protected wildlife – and 
 
 *Figure 1: Nesting boxes for swifts installed in tower louvres*
 
-There may also be restrictions on certain species of birds in the nesting season. Churches can make a positive contribution by providing nest sites. Figure 1 shows nesting boxes installed for swifts – a species that is declining due to lack of suitable nest sites. The birds are flourishing and not bothered by the noise of the bells. Further information is given [here](https://www.caringforgodsacre.org.uk/guidelines-for-installing-swift-nest-boxes-in-church-belfries/ ).
+There may also be restrictions concerning certain species of birds in the nesting season. Churches can make a positive contribution by providing nest sites. Figure 1 shows nesting boxes installed for swifts – a species that is declining due to lack of suitable nest sites. The birds are flourishing and not bothered by the noise of the bells. Further information is given [here](https://www.caringforgodsacre.org.uk/guidelines-for-installing-swift-nest-boxes-in-church-belfries/ ).
 
 ## Other Jurisdictions
 
@@ -66,7 +66,7 @@ CCT churches do not require a faculty in the same way as the Church of England; 
 
 Within the CoE jurisdiction, the legal process for cathedrals run parallel with parish church legislation passed by Synod via the Church Commissioners and Parliament. The Ecclesiastical Exemption covers all CoE buildings, fixtures and fittings. The amenity groups have a statutory right to be consulted.
 
-For Cathedrals the [Cathedrals Fabric Commission for England](https://www.churchofengland.org/resources/churchcare/cathedrals-fabric-commission#na) (CFCE) is the equivalent of the Church Buildings Council (CBC). There is more Government and amenity group involvement in the CFCE committees. Each of the cathedrals has its own [Fabric Advisory Committee]( https://www.churchofengland.org/resources/churchcare/cathedral-fabric-commission/cathedral-fabric-advisory-committees) (FAC).  This equates to each cathedral having its own Diocesan Advisory Committee. All the cathedrals and churches committees sit within the CBC.
+For Cathedrals the [Cathedrals Fabric Commission for England](https://www.churchofengland.org/resources/churchcare/cathedrals-fabric-commission#na) (CFCE) is the equivalent of the Church Buildings Council (CBC). There is more Government and amenity group involvement in the CFCE committees. Each of the cathedrals has its own [Fabric Advisory Committee]( https://www.churchofengland.org/resources/churchcare/cathedral-fabric-commission/cathedral-fabric-advisory-committees) (FAC).  This equates to each cathedral having its own [***Diocesan Advisory Committee***](../170-glossary/#diocesan-advisory-committee-dac). All the cathedrals and churches committees sit within the CBC.
 
 ### Ireland
 
@@ -119,7 +119,7 @@ Australia/New Zealand and North America have an increasing number of ringing tow
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.2 (pre-publication), July 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
 
