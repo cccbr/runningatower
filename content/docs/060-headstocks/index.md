@@ -152,7 +152,7 @@ The position on Faculty Jurisdiction Rules within the Church of England is not c
 
 ### Care of metal headstocks
 
-Metal headstocks present far fewer challenges than metal ones: they are dimensionally stable and the material does not suffer degradation, apart from possible rusting.
+Metal headstocks present far fewer challenges than timber ones: they are dimensionally stable and the material does not suffer degradation, apart from possible rusting.
 
 #### Bell nuts
 
