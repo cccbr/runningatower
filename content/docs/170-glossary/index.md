@@ -41,7 +41,7 @@ Coach bolts (sometimes referred to as 'Carriage Bolts') are used in a bell insta
 
 ## Death Watch Beetle
 
-The Death Watch Beetle infests old damp oak and elm timbers – thus representing a threat to timber bell frames and headstocks. The adult beetle lays eggs in crevices and inside tunnels left by previous larvae. The larvae bore into the timber, feeding for up to ten years before pupating, later emerging from the wood as adult beetles. The adults attract mates by a tapping sound that can be heard in old buildings (such as churches) on summer nights. The beetles can be killed by targeted use of insecticide, although a [view has been expressed]( https://www.visitchurches.org.uk/what-we-do/blog/the-death-watch-beetle.html) that prevention is better than cure.
+The Death Watch Beetle infests old damp oak and elm timbers – thus representing a threat to timber bell frames and headstocks. The adult beetle lays eggs in crevices and inside tunnels left by previous larvae. The larvae bore into the timber, feeding for up to ten years before pupating, later emerging from the wood as adult beetles. The adults attract mates by a tapping sound that can be heard in old buildings (such as churches) on quiet summer nights. The beetles can be killed by targeted use of insecticide, although a [view has been expressed]( https://www.visitchurches.org.uk/what-we-do/blog/the-death-watch-beetle.html) that prevention is better than cure.
 
 ## Diocesan Advisory Committee (DAC)
 
@@ -69,7 +69,7 @@ Fretting refers to wear damage of loaded surfaces in contact with little or no l
 
 ## Garter Hole
 
-A Hole in the rim of a **Wheel** through which the rope passes in order to be secured to the spokes.
+A hole in the rim of a **Wheel** through which the rope passes in order to be secured to the spokes.
 
 ## Grease Nipple
 
