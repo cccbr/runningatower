@@ -59,7 +59,7 @@ In earlier times, white spirit was widely used to remove oil or grease, but it i
 
 -  Bird droppings will reveal the need to check the tower’s bird protection – possibly damaged netting on the louvres. Small amounts of bird droppings can be removed with a damp cloth, but extensive bird ingress requires specialist cleaning because of the risk of infection.
 
-Water stains may reveal problems with weather protection, or damage to the roof. This will require action by the church authorities.
+-  Water stains may reveal problems with weather protection, or damage to the roof. This will require action by the church authorities.
 
 ### Wear on the soundbow
 
