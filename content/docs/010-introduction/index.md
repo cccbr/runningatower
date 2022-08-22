@@ -9,7 +9,7 @@ weight: 10
 
 Details of a bell installation are out of sight and out of mind for a surprising number of ringers but will soon be obvious if their upkeep is neglected. At the least, the bells may become progressively more difficult to handle, leading to poor striking, discouraging ringers and frightening away learners. At worst, it could result in expensive damage to the installation.
 
-This online document is addressed primarily at **Steeple Keepers**, who are responsible for carrying out the activities described here. Their role, appointment and experience levels are described here. We also provide a guide to finding your way around the whole document.
+This online document is addressed primarily at **Steeple Keepers**, who are responsible for carrying out the activities described here. Their role, appointment and experience levels are described here.
 
 ## The Steeple Keeper
 
