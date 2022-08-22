@@ -37,17 +37,13 @@ In some cases, we will identify tasks which must be carried out by a **Specialis
 In this document, we are using the term ‘**Bell Hanger**’, be they an individual or a company, as having experience in bell installations and meeting the regulatory and insurance requirements to carry out this work.
 {{</hint>}}
 
-## Finding Your Way Round this Document
+## Document Scope
 
-Links to chapters are in the left-hand side navigation menu and links to sections within the current chapter are in the right-hand navigation menu. If you are using a small screen you may need to click on the menu bars (three stacked horizontal lines) in the top left or right to access these menus.
+Most chapters each cover a major component part of a bell installation. The following points should be noted: 
 
-Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
-
-Each chapter covers a major component part of a bell installation. The following points should be noted: 
-
--  These are not intended as a complete historical description of the component. They provide enough background for the reader to recognise which of the many types of installation they may encounter and the problems which may occur.
--  The basic checks which need to be carried out are described.
--  The maintenance which a Typical Steeple Keeper can carry out is described, and activities that must be referred to a Specialist (usually a professional Bell Hanger) are clearly identified. 
+-  These are not intended as a complete historical description of the component. They provide enough background for you to recognise which of the many types of installation you may encounter and the problems which may occur.
+-  We describe the basic checks which need to be carried out.
+-  We describe the maintenance tasks which a Typical Steeple Keeper can carry out, and identify activities that must be referred to a Specialist (usually a professional Bell Hanger). 
 
 {{<hint danger>}}
 Some chapters are common to all components of an installation. Please read them: they are important and some have legal implications. They are:
