@@ -18,7 +18,11 @@ Our aims in this document are:
 - To advise you on the maintenance tasks that you should be able to carry out, possibly with expert advice or assistance
 - Most importantly, to help you recognise the tasks that require specialist knowledge from a Bell Hanger or other expert
 
-## Latest changes
+## Finding Your Way Round
+
+If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text.
+
+## Latest Changes
 
 | Date | Changes |
 | ---- | ---- |
