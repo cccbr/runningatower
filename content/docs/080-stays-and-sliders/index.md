@@ -68,7 +68,7 @@ A metal headstock may incorporate a socket to accommodate the stay (Figure 4). T
 
 *Figure 5: Position of bolting on a socket stay*
 
-Figure 5 is a composite showing both sides of a socket headstock. Here, the bolt heads are on side A, with holes large enough to allow the bolt head to be in contact with the stay. Being [***coach bolts***](../170-glossary/#coach-bolts), the square section under the head will dig into the wood to stop the bolt turning as it is tightened. The holes on side B are smaller – just big enough to take the shaft of the bolt. Washers and nuts are then screwed on to side B and tightened to draw the stay against side B. The stay must be sized to provide clearance on the other three sides of the socket. 
+Figure 5 is a composite showing both sides of a socket headstock. Here, the bolt heads are on side A, with holes large enough to allow the bolt head to be in contact with the stay. Being [***coach bolts***](../170-glossary/#coach-bolts), the square section under the head will dig into the wood to stop the bolt turning as it is tightened. The holes on side B are smaller – just big enough to take the shaft of the bolt. Washers and nuts are then screwed on to side B and tightened to draw the un-tapered side of the stay against side B. The stay must be sized to provide clearance on the other three sides of the socket. 
 
 #### Fixing on the side of a headstock
 
@@ -270,25 +270,20 @@ Assuming the replacement stay has been made to the required standard, a Typical 
 {{<hint info>}}
 **Procedure for a side-mounted stay**
 1.	Mount the stay on the correct side of the headstock. This is why you marked the correct side when you removed the broken part. You did do that, didn’t you?
-2.	Mount the straight (un-tapered) side against the headstock. Whoever made the stay should have marked that side.
+2.	Mount the un-tapered side against the headstock. Whoever made the stay should have marked that side.
 3.	If you are using coach bolts, it helps to tap the head gently with a hammer to start the square section under the head biting into the wood. 
 4.	If you are using a bolt with a hexagonal head, you will need a second spanner to hold the head while you tighten the nut. This is where the assistant is useful.
-5.	Before fully tightening the nuts, use a spirit level to ensure that the stay is vertical. The holes in the stay and headstock should have enough play to allow you to move the stay slightly to correct this. 
-6.	If this doesn’t work, the holes in the stay are not perfectly aligned. You may be able to correct this using a circular wood file on the hole. Otherwise, you will need to go back to whoever made the stay with a legitimate complaint.
-7.	Finally, tighten the nuts.
 {{</hint>}}
 
 #### Socket headstocks
 
 {{<hint info>}}
 **Procedure for a socket headstock**
-1.	Mount the stay with the straight side against the side of the socket with the larger holes (Side A on Figure 5).
+1.	Mount the stay with the un-tapered side against the side of the socket with the smaller holes (Side B on Figure 5) and insert the bolts through the side with the larger holes (Side A on Figure 5).
 2.	Coach bolts are essential here, as it will be impossible to reach a hexagonal bolt head with a spanner –  probably even with a socket spanner.
 3.	If coach bolts are replaced on an older socket headstock a problem may be encountered as some metric coach bolts have a larger diameter head than the imperial ones they replace. This means that the larger head may not fit through the hole in the headstock. The diameter of the bolt head can be reduced if you have access to a lathe or a grinder, but do not remove more material than necessary.
 4.	The new stay should slide easily into the socket. If there is any indication of binding, remove the stay. Any areas that were binding should be obvious and can be carefully trimmed using a plane or wood file.
-5.	Before fully tightening the nuts, use a spirit level to ensure that the stay is vertical. The holes in the stay and headstock should have enough play to allow you to move the stay slightly to correct this. 
-6.	If this doesn't work, the holes in the stay are not perfectly aligned. You may be able to correct this using a circular wood file. Otherwise, you will need to go back to whoever made the stay with a legitimate complaint.
-7.	Finally tighten the nuts.
+5.	Finally add washers and tighten the nuts on Side B.
 {{</hint>}}
 
 {{<hint danger>}}
@@ -317,9 +312,7 @@ This will involve witnessing the operation of the stay and slider when the bell 
 7.	If there is any problem, give the signal to immediately lower the bell.
 {{</hint>}}
 
-You would have had to do something very wrong for there to be a problem with a traditional stay and slider. The most likely problem with a Hastings stay would be the dingler binding on one side of the quadrant. Note which side is binding and, after lowering the bell, slacken the stay bolts and attempt to move the stay slightly before repeating the check.
-
-For any other problem, you must swallow your pride and seek expert help.
+You would have had to do something very wrong for there to be a problem with a traditional stay and slider. A possible problem with a Hastings stay could be the dingler binding on one side of the quadrant (This should not happen if the stay has been made correctly). It may be possible to correct this by noting which side is binding, lowering the bell, slackening the stay bolts and attempting to move the stay slightly before repeating the check. If this doesn not work, or for any other problem, you must swallow your pride and seek expert help.
 
 Some bolts, particularly coach bolts, may take time to settle in. It would be prudent to check the bolt tightness after a week or so.
 
