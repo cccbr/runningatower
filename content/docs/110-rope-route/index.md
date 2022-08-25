@@ -171,9 +171,13 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 | 7 | Detail of a boss on the rope guide at Redcliffe. (Photo: Philip Pratt) |
 
 
-
 -----
 
-Version 1.0, August 2022
+## Disclaimer
+
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 0.1 (pre-publication), June 2022
 
 © 2022 Central Council of Church Bell Ringers
+
