@@ -28,16 +28,12 @@ Within the text, links to sections within the current chapter, to other chapters
 
 | Date | Changes |
 | ---- | ---- |
-| 13/08/2022 | First publication. All chapters at v1.0 |
+| 31/08/2022 | First publication. All chapters at v1.0 |
 
 ## Image Credits
 
 Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Pope)
 
-## Acknowledgements
-**For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
-
-**For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, Roger Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Graham Clifton, Peggy Collett, Tony Crabtree, Alan Frost, Alison Hodge, James Joynson, Peter Juniper, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, John Payton, Chris Povey, Philip Pratt, Mark Regan, David Roskelly, Robin Shipp, Aveline Perez de Vera, Peter Woollam. 
 
 
 -----
