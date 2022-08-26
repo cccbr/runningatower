@@ -30,7 +30,7 @@ Brooke, C J (1994) *The Archaeology of Bellframes – Recording & Preservation*.
 
 Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. ISBN 0 9512321 1 8.
 
-Church Buildings Council / Historic England (2011) *Church Bell Frames: guidance notes for identifying historic significance and preparing reports*. Online [here](https://www.churchofengland.org/sites/default/files/2018-11/CCB_Church-bell-frames_Identifying-historic-significance-and-preparing-reports_Sep-2011.pdf).
+CBC/EH (2011) *Church Bell Frames: guidance notes for identifying historic significance and preparing reports*. Online [here](https://tinyurl.com/3rzrm7w8) (pdf).
 
 Cattermole P, (1990) *Church Bells and Bell-Ringing – A Norfolk profile*. Boydell Press, Woodbridge. ISBN 978-1-84383-782-4.
 
