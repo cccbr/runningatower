@@ -14,26 +14,27 @@ This chapter lists the people who have contributed, in various ways, to this doc
 
 ## Sources
 
-CC Towers & Belfries Committee (2020) *Manual of Belfry Maintenance*. [Available from CC Shop]( https://shop.cccbr.org.uk/product/manual-of-belfry-maintenance/).
-
-Frost, Alan J (Ed) (2006) *Towers and Bells*. [Available from CC Shop]( https://shop.cccbr.org.uk/product/towers-and-bells-handbook/).
-
 Beech, F (2005) *Splicing Bell Ropes Illustrated*. [Available from CC Shop]( https://shop.cccbr.org.uk/product/splicing-bell-ropes-illustrated/).
+
+Brooke, C J (1994) *The Archaeology of Bellframes – Recording & Preservation*. Institute of Field Archaeologists Buildings Special Interest Group. ISBN0 900986 13 1.
+
+Cattermole P, (1990) *Church Bells and Bell-Ringing – A Norfolk profile*. Boydell Press, Woodbridge. ISBN 978-1-84383-782-4.
+
+CBC/EH (2011) *Church Bell Frames: guidance notes for identifying historic significance and preparing reports*. Online [here](https://tinyurl.com/3rzrm7w8) (pdf).
+
+CC Towers & Belfries Committee (2020) *Manual of Belfry Maintenance*. [Available from CC Shop]( https://shop.cccbr.org.uk/product/manual-of-belfry-maintenance/).
 
 Central Council of Church Bell Ringers (1979) *Maintenance Handbook*. (Out of print).
 
 Central Council of Church Bell Ringers (1991) *A Schedule of Regular Maintenance*. ISBN 0 900271 21 1. (Out of print).
 
+Frost, Alan J (Ed) (2006) *Towers and Bells*. [Available from CC Shop]( https://shop.cccbr.org.uk/product/towers-and-bells-handbook/).
+
+Harrison, John (Regularly updated) *Glossary of Ringing Terms*. Online [here](https://jaharrison.me.uk/Ringing/Glossary/index.html#Top).
+
 Jennings, T S (1991) *The Development of British Bell Fittings*. ISBN 0 9500076 4 1 (Out of print).
 
-Brooke, C J (1994) *The Archaeology of Bellframes – Recording & Preservation*. Institute of Field Archaeologists Buildings Special Interest Group. ISBN0 900986 13 1.
-
 Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. ISBN 0 9512321 1 8.
-
-CBC/EH (2011) *Church Bell Frames: guidance notes for identifying historic significance and preparing reports*. Online [here](https://tinyurl.com/3rzrm7w8) (pdf).
-
-Cattermole P, (1990) *Church Bells and Bell-Ringing – A Norfolk profile*. Boydell Press, Woodbridge. ISBN 978-1-84383-782-4.
-
 
 -----
 
