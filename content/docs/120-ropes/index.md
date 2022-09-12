@@ -129,7 +129,7 @@ If ropes are kept in a good condition, with regular checks for wear and other da
 
 ### Splicing
 
-Most repairs to bell ropes involve splicing. With practice, this can be carried out by the Steeple Keeper. We do not discuss the details further here as excellent guidance from the late Frank Beech is available in ‘Splicing Bell Ropes – Illustrated’, available [here](https://shop.cccbr.org.uk/product/splicing-bell-ropes-illustrated/). 
+Most repairs to bell ropes involve splicing. With practice, this can be carried out by the Steeple Keeper. We do not discuss the details further here as excellent guidance from the late Frank Beech is available in ‘Splicing Bell Ropes – Illustrated’, available [here](https://shop.cccbr.org.uk/product/splicing-bell-ropes-illustrated/). This includes details of how to splice an artifical fibre top end onto an exisisting sally.
 
 With natural fibre top ends, splicing was often needed because of wear at the garter hole and over the ground pulley. There was a common recommendation to order ropes longer than required to provide extra rope for repairs, with the excess being tied off at the wheel. With the much better wear properties of artificial fibre top ends this is not necessary.
 
