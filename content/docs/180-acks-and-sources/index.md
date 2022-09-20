@@ -34,7 +34,7 @@ Harrison, John (Regularly updated) *Glossary of Ringing Terms*. Online [here](ht
 
 Jennings, T S (1991) *The Development of British Bell Fittings*. ISBN 0 9500076 4 1 (Out of print).
 
-Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. Available online [here](https://www.whitingsociety.org.uk/old-ringing-books/pickford-bellframes.html) (note copyright restrictions).
+Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. 
 
 -----
 
@@ -42,6 +42,6 @@ Pickford, C (Undated) *Bellframes – A practical guide to inspection and record
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0, August 2022
 
 © 2022 Central Council of Church Bell Ringers
