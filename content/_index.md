@@ -28,7 +28,6 @@ Within the text, links to sections within the current chapter, to other chapters
 
 | Date | Changes |
 | ---- | ---- |
-| 20/09/2022 | Acknowledgements & Sources: Pickford document available online. |
 | 31/08/2022 | First publication. All chapters at v1.0 |
 
 ## Image Credits
