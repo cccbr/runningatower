@@ -8,6 +8,9 @@ weight: 180
 This chapter lists the people who have contributed, in various ways, to this document, and the sources which have been consulted.
 
 ## Acknowledgements
+
+**Production Software**: [Hugo](https://gohugo.io) Static Site Generator, [Book](https://github.com/alex-shpak/hugo-book) Theme.
+
 **For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
 
 **For words, pictures, reviews, comments and general assistance**: Tina Andrew, David Bagley, John Beresford, Marcus Booth, Will Bosworth, Keith Brown, Dave Clark, Graham Clifton, Tony Crabtree, Alan Frost, Alison Hodge, James Joynson, Roger Lawson, Ernie de Legh-Runciman, Julia Lysaght, Alan Moult, Allen Nunley, John Payton, Chris Pickford, Chris Povey, Philip Pratt, Mark Regan, Simon Ridley, David Roskelly, Robin Shipp, Malcolm Taylor, Aveline Perez de Vera, Andrew Ward, Peter Woollam. 
@@ -34,7 +37,7 @@ Harrison, John (Regularly updated) *Glossary of Ringing Terms*. Online [here](ht
 
 Jennings, T S (1991) *The Development of British Bell Fittings*. ISBN 0 9500076 4 1 (Out of print).
 
-Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. 
+Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. Available online [here](https://www.whitingsociety.org.uk/old-ringing-books/pickford-bellframes.html) (note copyright restrictions).
 
 -----
 
