@@ -191,10 +191,16 @@ The rope is then tied off on the top spokes of the wheel, see Figure 8. Details 
 
 ----
 
+{{<hint info>}}
+[Next Chapter](../130-bells/)
+{{</hint>}}
+
+----
+
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, August 2022
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
