@@ -62,6 +62,11 @@ It may be that you have just ‘inherited’ a new tower – perhaps one where t
 | :---: | --- | 
 | Title Picture | Hawkesbury, Gloucestershire, new ring of 8 bells, cast by Allanconi in Italy, 2020, installed by Matthew Higby. (Photo: Robin Shipp) |
 
+----
+
+{{<hint info>}}
+[Next Chapter](../020-permissions/)
+{{</hint>}}
 
 ----
 
