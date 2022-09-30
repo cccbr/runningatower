@@ -9,6 +9,12 @@ An online version of this will be introduced in due course. In the meantime, see
 
 ----
 
-Version 1.0, August 2022
+{{<hint info>}}
+[Next Chapter](../170-glossary/)
+{{</hint>}}
+
+----
+
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
