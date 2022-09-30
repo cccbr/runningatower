@@ -126,6 +126,11 @@ Wheel stays, as used to support the wheel with a wooden headstock, are relativel
 | 3 | Showing (A) bracket between wheel and cast iron headstock, and (B) angle brace to strengthen the wheel. (Photo: Robin Shipp) |
 | 4 | Wheel stays (arrowed) on a wooden headstock at Borden, Kent. Entry in the *Bells and Installations* round of the CCCBR Photographic Competition. Photo: Christopher J Cooper)  |
 
+----
+
+{{<hint info>}}
+[Next Chapter](../080-stays-and-sliders/)
+{{</hint>}}
 
 ----
 
@@ -133,7 +138,7 @@ Wheel stays, as used to support the wheel with a wooden headstock, are relativel
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, August 2022
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
 
