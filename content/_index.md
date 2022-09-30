@@ -35,7 +35,11 @@ Within the text, links to sections within the current chapter, to other chapters
 
 Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Pope)
 
+----
 
+{{<hint info>}}
+[First Chapter](/docs/010-introduction/)
+{{</hint>}}
 
 -----
 
