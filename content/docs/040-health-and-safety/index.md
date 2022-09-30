@@ -118,6 +118,11 @@ Some churches have installed closed-circuit TV systems allowing a choice of view
 | 1 | Examples of typical protective wear: gloves, hard hat, bump cap, safety boots. (Photo: Robin Shipp) |
 | 2 | Examples of LED lighting: head torch, portable light. (Photo: Robin Shipp) |
 
+----
+
+{{<hint info>}}
+[Next Chapter](../050-bell-frames/)
+{{</hint>}}
 
 ----
 
@@ -125,7 +130,7 @@ Some churches have installed closed-circuit TV systems allowing a choice of view
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, August 2022
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
 
