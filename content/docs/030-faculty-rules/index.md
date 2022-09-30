@@ -105,12 +105,18 @@ This table prescribes items which may, subject to any specified conditions, be u
 | :---: | --- | 
 | Title Picture | St Swithun, Leonard Stanley, Gloucestershire. A Church of England building on a beautiful day - just to brighten up what might be a rather dry chapter. (Photo: Robin Shipp) |
 
+----
+
+{{<hint info>}}
+[Next Chapter](../040-health-and-safety/)
+{{</hint>}}
+
 -----
 
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, August 2022
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
