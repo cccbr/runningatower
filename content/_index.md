@@ -20,7 +20,7 @@ Our aims in this document are:
 
 ## Finding Your Way Round
 
-If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text.
+If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. If you want to read the document straight through, there is a link at the end of each chapter that takes you to the next one.
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
 
@@ -28,6 +28,7 @@ Within the text, links to sections within the current chapter, to other chapters
 
 | Date | Changes |
 | ---- | ---- |
+| 30/09/2022 | Each chapter now has a link to the next. |
 | 23/09/2022 | Acknowledgements & Sources: Pickford document available online. |
 | 31/08/2022 | First publication. All chapters at v1.0 |
 
@@ -47,6 +48,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, August 2022
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
