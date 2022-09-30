@@ -121,6 +121,11 @@ The following precautions must be observed to avoid damage to the bells – and 
 | 2 | Modern flat-topped bell. (Photo: Robin Shipp) |
 | 3 | Bell cracked and broken from a cast-in crown staple. (Photo: John Taylor & Co) |
 
+----
+
+{{<hint info>}}
+[Next Chapter](../150-maintenance-schedule/)
+{{</hint>}}
 
 ----
 
@@ -128,7 +133,7 @@ The following precautions must be observed to avoid damage to the bells – and 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0, August 2022
+Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
 
