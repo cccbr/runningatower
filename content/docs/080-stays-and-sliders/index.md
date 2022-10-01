@@ -342,7 +342,7 @@ Some bolts, particularly coach bolts, may take time to settle in. It would be pr
 ----
 
 {{<hint info>}}
-[Next Chapter](../090-clappers/)
+**[Next Chapter](../090-clappers/)** - **[Previous Chapter](../070-wheels/)**
 {{</hint>}}
 
 -----
