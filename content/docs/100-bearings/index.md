@@ -131,7 +131,7 @@ To reiterate what we have said above: a Steeple Keeper must **NOT** attempt to d
 ----
 
 {{<hint info>}}
-[Next Chapter](../110-rope-route/)
+**[Next Chapter](../110-rope-route/)** - **[Previous Chapter](../090-clappers/)**
 {{</hint>}}
 
 ----
