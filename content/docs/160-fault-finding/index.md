@@ -10,7 +10,7 @@ An online version of this will be introduced in due course. In the meantime, see
 ----
 
 {{<hint info>}}
-[Next Chapter](../170-glossary/)
+**[Next Chapter](../170-glossary/)** - **[Previous Chapter](../150-maintenance-schedule/)**
 {{</hint>}}
 
 ----
