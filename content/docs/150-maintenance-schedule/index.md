@@ -10,7 +10,7 @@ An online version of this will be introduced in due course. In the meantime, see
 ----
 
 {{<hint info>}}
-[Next Chapter](../160-fault-finding/)
+**[Next Chapter](../160-fault-finding/)** - **[Previous Chapter](../130-bells/)**
 {{</hint>}}
 
 -----
