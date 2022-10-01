@@ -108,7 +108,7 @@ This table prescribes items which may, subject to any specified conditions, be u
 ----
 
 {{<hint info>}}
-[Next Chapter](../040-health-and-safety/)
+**[Next Chapter](../040-health-and-safety/)** - **[Previous Chapter](../020-permissions/)**
 {{</hint>}}
 
 -----
