@@ -180,7 +180,7 @@ A fabricated headstock which has been galvanised should not normally require pai
 ----
 
 {{<hint info>}}
-[Next Chapter](../070-wheels/)
+**[Next Chapter](../070-wheels/)** - **[Previous Chapter](../050-bell-frames/)**
 {{</hint>}}
 
 ----
