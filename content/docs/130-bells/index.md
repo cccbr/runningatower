@@ -124,7 +124,7 @@ The following precautions must be observed to avoid damage to the bells – and 
 ----
 
 {{<hint info>}}
-[Next Chapter](../150-maintenance-schedule/)
+**[Next Chapter](../150-maintenance-schedule/)** - **[Previous Chapter](../120-ropes/)**
 {{</hint>}}
 
 ----
