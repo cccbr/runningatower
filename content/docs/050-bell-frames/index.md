@@ -101,7 +101,7 @@ Metal frames require little maintenance, although checks should be made for loos
 ----
 
 {{<hint info>}}
-[Next Chapter](../060-headstocks/)
+**[Next Chapter](../060-headstocks/)** - **[Previous Chapter](../040-health-and-safety/)**
 {{</hint>}}
 
 ----
