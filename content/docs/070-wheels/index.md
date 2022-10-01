@@ -129,7 +129,7 @@ Wheel stays, as used to support the wheel with a wooden headstock, are relativel
 ----
 
 {{<hint info>}}
-[Next Chapter](../080-stays-and-sliders/)
+**[Next Chapter](../080-stays-and-sliders/)** - **[Previous Chapter](../060-headstocks/)**
 {{</hint>}}
 
 ----
