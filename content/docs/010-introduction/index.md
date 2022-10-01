@@ -65,7 +65,7 @@ It may be that you have just ‘inherited’ a new tower – perhaps one where t
 ----
 
 {{<hint info>}}
-**[Next Chapter](../020-permissions/)**
+**[Next Chapter](../030-faculty-rules/)** - **[Previous Chapter](../010-introduction)**
 {{</hint>}}
 
 ----
