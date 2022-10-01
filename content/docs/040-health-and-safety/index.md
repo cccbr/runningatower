@@ -121,7 +121,7 @@ Some churches have installed closed-circuit TV systems allowing a choice of view
 ----
 
 {{<hint info>}}
-[Next Chapter](../050-bell-frames/)
+**[Next Chapter](../050-bell-frames/)** - **[Previous Chapter](../030-faculty-rules/)**
 {{</hint>}}
 
 ----
