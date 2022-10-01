@@ -116,7 +116,7 @@ Australia/New Zealand and North America have an increasing number of ringing tow
 ----
 
 {{<hint info>}}
-[Next Chapter](../030-faculty-rules/)
+**[Next Chapter](../030-faculty-rules/)** - **[Previous Chapter](../010-introduction)**
 {{</hint>}}
 
 ----
