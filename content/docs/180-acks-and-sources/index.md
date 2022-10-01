@@ -39,6 +39,12 @@ Jennings, T S (1991) *The Development of British Bell Fittings*. ISBN 0 9500076 
 
 Pickford, C (Undated) *Bellframes – A practical guide to inspection and recording*. Privately published. Available online [here](https://www.whitingsociety.org.uk/old-ringing-books/pickford-bellframes.html) (note copyright restrictions).
 
+----
+
+{{<hint info>}}
+**[Previous Chapter](../170-glossary/)**
+{{</hint>}}
+
 -----
 
 ## Disclaimer
