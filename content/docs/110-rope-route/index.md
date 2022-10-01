@@ -173,7 +173,7 @@ Ceiling bosses may work loose with time, leading to rattling as the bell is rung
 ----
 
 {{<hint info>}}
-[Next Chapter](../120-ropes/)
+**[Next Chapter](../120-ropes/)** - **[Previous Chapter](../100-bearings/)**
 {{</hint>}}
 
 -----
