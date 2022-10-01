@@ -152,7 +152,7 @@ A circular wooden component attached to the **Headstock** by which the rope is a
 ----
 
 {{<hint info>}}
-[Last Chapter](../180-acks-and-sources/)
+**[Last Chapter](../180-acks-and-sources/)** - **[Previous Chapter](../160-fault-finding/)**
 {{</hint>}}
 
 -----
