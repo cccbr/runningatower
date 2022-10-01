@@ -557,7 +557,7 @@ Ringing World* 2019 (5686): 388-391, (5694): 582-585 and (5679):
 ----
 
 {{<hint info>}}
-[Next Chapter](../100-bearings/)
+**[Next Chapter](../100-bearings/)** - **[Previous Chapter](../080-stays-and-sliders/)**
 {{</hint>}}
 
 -----
