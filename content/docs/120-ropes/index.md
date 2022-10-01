@@ -192,7 +192,7 @@ The rope is then tied off on the top spokes of the wheel, see Figure 8. Details 
 ----
 
 {{<hint info>}}
-[Next Chapter](../130-bells/)
+**[Next Chapter](../130-bells/)** - **[Previous Chapter](../110-rope-route/)**
 {{</hint>}}
 
 ----
