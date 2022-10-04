@@ -1,6 +1,6 @@
 baseURL = 'https://belfryupkeep.cccbr.org.uk'
 languageCode = 'en-us'
-title = 'Belfry Upkeep'
+title = 'Running a Tower'
 theme = 'hugo-book'
 sidebar_search_disable = true
 publishDir = "docs/"
