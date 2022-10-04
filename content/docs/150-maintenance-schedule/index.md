@@ -20,12 +20,3 @@ Version 1.0.1, September 2022
 
 © 2022 Central Council of Church Bell Ringers
 
-----
-
-# Test of download
-
- Temporary post - just checking something
-
-[Proforma docx file](static/schedule-proforma.docx)
-
- [Action Tracking docx file](static/action-tracking.docx)
