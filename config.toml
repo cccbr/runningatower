@@ -1,5 +1,5 @@
 baseURL = 'https://belfryupkeep.cccbr.org.uk'
-languageCode = 'en-us'
+languageCode = 'en-uk'
 title = 'Running a Tower'
 theme = 'hugo-book'
 sidebar_search_disable = true
