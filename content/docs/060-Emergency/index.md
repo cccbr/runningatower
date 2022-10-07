@@ -1,3 +1,8 @@
+---
+title: Emergencey
+weight: 60
+---
+
 # Emergency 
   
 
