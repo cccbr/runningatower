@@ -57,7 +57,7 @@ Be aware of the guidelines and follow them. If there are children, young persons
 ----
 
 {{<hint info>}}
-**[Next Chapter](../030-formalities/)** - **[Previous Chapter](../010-introduction)**
+**[Next Chapter](../020-communication/)** - **[Previous Chapter](../040-finance)**
 {{</hint>}}
 ----
 
