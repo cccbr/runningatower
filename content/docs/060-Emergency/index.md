@@ -1,11 +1,11 @@
 ---
-title: Emergencey
+title: Emergency
 weight: 60
 ---
 
 # Emergency 
   
-<img src="Broadclyst_ICE.JPG" alt="drawing" height="250">
+<img src="Broadclyst_ICE.jpg" alt="drawing" height="250">
 
 *Figure 1: In Case of Emergency notice*
 
@@ -37,13 +37,13 @@ The ICE should indicate:
 
 Liaise with the local emergency services to discuss their access and also emergency exits. Towers can be awkward and confined spaces presenting difficulties in access and egress, especially with stretchers and casualties. They may be happy to run a training exercise for both emergency services staff and ringers. 
 
-<img src="Fire_alarm.JPG" alt="drawing" height="250">
+<img src="Fire_alarm.jpg" alt="drawing" height="250">
 
 *Figure 2: Fire Alarm*
 
 Fire extinguisher and alarms – are these audible and visible when the bells are being rung? 
 
-<img src="Exit_indicator.JPG" alt="drawing" height="250"> 
+<img src="Exit_indicator.jpg" alt="drawing" height="250"> 
  
 *Figure 3: Emergency exit indicator*
 
