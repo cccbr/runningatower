@@ -9,6 +9,8 @@ type: docs
 
 <img src="Broadclyst.jpg" alt="drawing" height="250"/>
 
+*Figure 1: Broadclyst, Devon*
+
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
 {{</hint>}}
@@ -52,7 +54,7 @@ Officers, Meetings, Running ringing sessions.
 
 | Figure | Details | 
 | :---: | --- | 
-| Title Picture | Broadclyst, Devon (Photo: James Kirkcaldy)|
+| 1 | Broadclyst, Devon (Photo: James Kirkcaldy)|
 
 ----
 
