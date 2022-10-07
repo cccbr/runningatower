@@ -57,7 +57,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ## First Aid Kit 
 
-<img src="First_aid_kit" alt="drawing" height="250"/>
+<img src="First_aid_kit.jpg" alt="drawing" height="250"/>
 
 *Figure 1: Readily available first aid kit*
 
