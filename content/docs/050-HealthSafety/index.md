@@ -5,7 +5,7 @@ weight: 50
 
 # Health & Safety
 
-Further details can be found at Guidance notes - health and safety policy advice. 
+Further details can be found at Guidance notes - health and safety policy advice (https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
 
 These must be in-line with the Tower authority’s policies. 
 
