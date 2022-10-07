@@ -1,4 +1,9 @@
-# Health & Safety 
+---
+title: Health & Safety
+weight: 50
+---
+
+# Health & Safety
 
 Further details can be found at Guidance notes - health and safety policy advice. 
 
@@ -52,7 +57,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ## First Aid Kit 
 
-<>
+<img src="First_aid_kit" alt="drawing" height="250"/>
 
 *Figure 1: Readily available first aid kit*
 
@@ -94,9 +99,9 @@ Insert link to information in the 'Belfy Upkeep’ Chapter 5 for those working o
 
 ## Other Tower Users 
 
-<>
+<img src="Ground_floor.jpg" alt="drawing" height="250"/>     <img src="Barrier.jpg" alt="drawing" height="250"/>
 
-*Figure 2: Multi-use ringing chambers* (LEFT - CCCBR photo competition; RIGHT  - Alison Hodge) 
+*Figure 2: Multi-use ringing chamber; Figure 3: Ground floor ringing chamber with barrier*<>
 
 There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Also, clergy and choirs are often users and conflict at the same times as ringers.  
 
@@ -108,6 +113,35 @@ Insert link to information in 'Belfry Upkeep’
 
 External references e.g., HSE, Church Care, 
 
+ ## Image Credits
+
+| Figure | Details | Source |
+| :---: | --- | --- |
+| 1 | Small first aid kit | Photo: Tony Crabtree |
+| 2 | Multi-use ground floor chamber | Photo: Tony Crabtree |
+| 3 | Ground floor ring with barrier | Photo: Alison Hodge |
+
+----
+
+## Information supplied by 
+
+| Section | Contributors |
+| :---: | --- |
+| Health & Safety | Tony Crabtree |
+
+----
+
+{{<hint info>}}
+**[Previous Chapter](../040-Finance)** - **[Next Chapter](../060-Emergency/)**
+{{</hint>}}
+----
+
+## Disclaimer
  
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.1, September 2022
+
+© 2022 Central Council of Church Bell Ringers# Health & Safety 
 
  
