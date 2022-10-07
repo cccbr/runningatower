@@ -26,7 +26,7 @@ Insert link to the relevant section in ‘Belfry Upkeep’
 
 ## Contact Details 
 
-<img src="CCCBR_recruitment.jpg" alt="drawing" height="250"/> 
+<img src="CCCBR_porch.jpg" alt="drawing" height="250"/> 
 
 It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times.  
 
@@ -66,7 +66,7 @@ Most societies are affiliated to the CCCBR.
 
 ## Promotion 
 
-Link to CCCBR promotional leaflet (CCCBR) 
+<img src="CCCBR_recruitment.jpg" alt="drawing" height="250"/> 
 
 Consider the use of: 
 
