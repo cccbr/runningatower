@@ -59,7 +59,7 @@ Officers, Meetings, Running ringing sessions.
 ----
 
 {{<hint info>}}
-**[Next Chapter](../020-Communication/)** - **[Previous Chapter](../010-introduction)**
+**[Previous Chapter](../010-introduction)** - **[Next Chapter](../020-Communication/)**
 {{</hint>}}
 
 ## Disclaimer
