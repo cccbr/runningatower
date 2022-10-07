@@ -49,3 +49,34 @@ Fire extinguisher and alarms – are these audible and visible when the bells ar
 Emergency lighting and exits – are these regularly checked and are people aware of these, especially the lead of any group. 
 
 Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors can gain access to the building. Advise visitors to make contact in advance by publicising this, for instance on the building website. 
+
+ ## Image Credits
+
+| Figure | Details | Source |
+| :---: | --- | --- |
+| 1 | 'In Case of Emergency' example | Photo: James Kirkcaldy |
+| 2 | Typical fire alarm | Photo: Alison Hodge |
+| 3 | Emergency exit indicator | Photo: Alison Hodge |
+
+----
+
+## Information supplied by 
+
+| Section | Contributors |
+| :---: | --- |
+
+----
+
+{{<hint info>}}
+**[Previous Chapter](../040-Finance)** - **[Next Chapter](../060-Emergency/)**
+{{</hint>}}
+----
+
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.1, September 2022
+
+© 2022 Central Council of Church Bell Ringers# Health & Safety 
+
