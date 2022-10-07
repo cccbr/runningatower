@@ -10,7 +10,7 @@ Communication
 
 ## Liaison with relevant authority 
 
-<img src="Heavitree.jpg" alt="drawing" height="250"/>
+<img src="Heavitree.jpg" alt="drawing" height="250"/> <img src="Exeter_Cathedral.jpg" alt="drawing" height="250"/>
 
 The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells hung, for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells in those cases is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
