@@ -7,7 +7,7 @@ type: docs
 
 # Introduction
 
-<img src="Broadclyst.jpg" alt="drawing" width="500"/>
+<img src="Broadclyst.jpg" alt="drawing" height="200"/>
 
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
