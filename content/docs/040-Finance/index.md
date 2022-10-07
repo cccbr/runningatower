@@ -39,8 +39,8 @@ Subscriptions, to tower and local society.
 
 Arrangements must also be made for how the ringers receive the money. In the Church of England, it is likely that the couple pay all the costs at one time and the church then pass the money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
 
+<img src="Electronic_donation.jpg" alt="drawing" height="250"/> 
 
- 
 *Figure 1: Electronic donation (Alison Hodge)*
 
 Consider having an electronic payment system for fees and casual donations.  Avoid having a 'box on the wall', especially for downstairs rings, as these will invite theft and damage. 
