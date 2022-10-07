@@ -26,7 +26,7 @@ Insert link to the relevant section in ‘Belfry Upkeep’
 
 ## Contact Details 
 
-Link to CCCBR display poster (CCCBR) 
+<img src="CCCBR_recruitment.jpg" alt="drawing" height="250"/> 
 
 It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times.  
 
