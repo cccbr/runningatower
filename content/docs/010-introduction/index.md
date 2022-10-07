@@ -53,7 +53,7 @@ Officers, Meetings, Running ringing sessions.
 ## Image Credits
 
 | Figure | Details | 
-
+| :---: |
 | 1 | Broadclyst, Devon (Photo: James Kirkcaldy)|
 
 ----
