@@ -12,7 +12,7 @@ Communication
 
 <img src="Heavitree.jpg" alt="drawing" height="250"/>     <img src="Exeter_Cathedral.jpg" alt="drawing" height="250"/>     <img src="Dordrecht.jpg" alt="drawing" height="250"/>
 
-* Figure 1: Heavitree, Devon; Figure 2: Exeter Cathedral, Devon; Figure 3: t'Klockhuys, Dordrecht *
+*Figure 1: Heavitree, Devon; Figure 2: Exeter Cathedral, Devon; Figure 3: t'Klockhuys, Dordrecht*
 
 The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells hung, for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells in those cases is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
@@ -28,7 +28,7 @@ Insert link to the relevant section in ‘Belfry Upkeep’
 
 <img src="CCCBR_Porch.jpg" alt="drawing" height="250"/> 
 
-* Figure 4: CCCBR Porch Notice *
+*Figure 4: CCCBR Porch Notice*
 
 It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times.  
 
@@ -46,7 +46,7 @@ Whenever contact details are publicised consider:
 
 <img src="Society_Badges.jpg" alt="drawing" height="250"/>
 
-* Figure 5: Selection of Society Badges *
+*Figure 5: Selection of Society Badges*
 
 The tower may be affiliated to a local ringing society. That body may have the title of Association, Guild, Society, etc. It may cover the local area, county, diocese or country. A tower does not have to be a member of the local society. There are advantages to being a member, these may include: 
 
@@ -72,7 +72,7 @@ Most societies are affiliated to the CCCBR.
 
 <img src="CCCBR_recruitment.jpg" alt="drawing" height="250"/> 
 
-* Figure 6: CCCBR recuitment leaflet *
+*Figure 6: CCCBR recuitment leaflet*
 
 Consider the use of: 
 
