@@ -78,7 +78,7 @@ This allows VAT on certain maintenance costs to be reclaimed where the church is
 ----
 
 {{<hint info>}}
-**[Next Chapter](../050-HealthSafety/)** - **[Previous Chapter](../020-Formalities)**
+**[Previous Chapter](../020-Formalities)** - **[Next Chapter](../050-HealthSafety/)**
 {{</hint>}}
 ----
 
