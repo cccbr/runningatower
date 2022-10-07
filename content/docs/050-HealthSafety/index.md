@@ -57,7 +57,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ## First Aid Kit 
 
-<img src="First_aid_kit.jpg" alt="drawing" height="250">
+<img src="First_aid_kit.JPG" alt="drawing" height="250">
 
 *Figure 1: Readily available first aid kit*
 
@@ -99,7 +99,7 @@ Insert link to information in the 'Belfy Upkeep’ Chapter 5 for those working o
 
 ## Other Tower Users 
 
-<img src="Ground_floor.jpg" alt="drawing" height="250">     <img src="Barrier.jpg" alt="drawing" height="250">
+<img src="Ground_floor.JPG" alt="drawing" height="250">     <img src="Barrier.jpg" alt="drawing" height="250">
 
 *Figure 2: Multi-use ringing chamber; Figure 3: Ground floor ringing chamber with barrier*<>
 
