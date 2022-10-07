@@ -1,5 +1,5 @@
 ---
-title: Belfry Upkeep
+title: Running a Tower
 type: docs
 ---
 
