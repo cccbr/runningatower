@@ -1,5 +1,9 @@
-# Finance 
+---
+title: Finance
+weight: 40
+---
 
+#Finance
 
 ## Income  
 
@@ -35,9 +39,9 @@ Subscriptions, to tower and local society.
 
 Arrangements must also be made for how the ringers receive the money. In the Church of England, it is likely that the couple pay all the costs at one time and the church then pass the money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
 
- 
 
-Electronic donation (Alison Hodge) 
+ 
+*Figure 1: Electronic donation (Alison Hodge)*
 
 Consider having an electronic payment system for fees and casual donations.  Avoid having a 'box on the wall', especially for downstairs rings, as these will invite theft and damage. 
 
@@ -58,3 +62,30 @@ If essential, specific treasurer’s accounts are available and may be free from
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
 This allows VAT on certain maintenance costs to be reclaimed where the church is listed. This would normally apply to ropes purchased by the PCC (even if reimbursed by a separate ringers' fund) but not if purchased by a separate ringers' organisation. Further details at http://www.lpwscheme.org.uk/. 
+
+## Image Credits
+
+| Figure | Details | Source |
+| :---: | --- | --- |
+| 1 | Electonic donation box on wall | Photo: Alison Hodge |
+
+----
+
+## Information supplied by 
+
+| Section | Contributors |
+| :---: | --- |
+----
+
+{{<hint info>}}
+**[Next Chapter](../050-HealthSafety/)** - **[Previous Chapter](../020-Formalities)**
+{{</hint>}}
+----
+
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.1, September 2022
+
+© 2022 Central Council of Church Bell Ringers# Finance 
