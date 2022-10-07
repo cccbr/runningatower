@@ -13,7 +13,7 @@ This includes guidance on:
 
 - Risk Assessments. 
 
-- Fire precautions, further details can be found at Guidance notes - fire prevention. 
+- Fire precautions, further details can be found at Guidance notes - fire prevention (https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
 
 - Fire safety. 
 
@@ -83,7 +83,7 @@ Insert link to information in 'Belfy Upkeep’
 
 ## Tower Access 
 
-Guidance notes - Tower Access and Stairways (link to existing CCCBR documentation) 
+Guidance notes - Tower Access and Stairways ([link to existing CCCBR documentation](https://cccbr.org.uk/2017/05/16/tower-access-stairways-guidance/)) 
 
 Consider the number of keys and/or key holders. There is a balance between security (preventing access) but enabling reasonable access. Emergency exits must never be compromised. 
 
