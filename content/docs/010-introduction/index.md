@@ -7,6 +7,8 @@ type: docs
 
 # Introduction
 
+![Broadclyst, Devon](Broadclyst.jpg)
+
 <img src="Broadclyst.jpg" alt="drawing" height="200"/>
 
 {{<hint danger>}}
