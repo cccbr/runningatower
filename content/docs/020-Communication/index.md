@@ -109,7 +109,7 @@ For major projects such as the restoration of an installation, including augment
 ----
 
 {{<hint info>}}
-**[Next Chapter](../030-Formalities/)** - **[Previous Chapter](../010-introduction)**
+**[Previous Chapter](../010-introduction)** - **[Next Chapter](../030-Formalities/)**
 {{</hint>}}
 ----
 
