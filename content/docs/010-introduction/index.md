@@ -57,10 +57,8 @@ Officers, Meetings, Running ringing sessions.
 ----
 
 {{<hint info>}}
-**[First Chapter](/docs/010-introduction/)**
+**[Next Chapter](../020-Communication/)** - **[Previous Chapter](../010-introduction)**
 {{</hint>}}
-
------
 
 ## Disclaimer
 
