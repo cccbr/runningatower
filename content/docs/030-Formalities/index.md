@@ -41,5 +41,30 @@ Example forms?
 
 Be aware of the guidelines and follow them. If there are children, young persons or vulnerable adults arriving for a session, and the appropriate number of enhanced DBS cleared and other adults don’t turn up, cancel the session or ask the children, young persons or vulnerable adults to leave as soon as they can be safely escorted. A ringing room with a fair number of observing adults in it is an unlikely setting for abuse to take place and as the leader running the session you will quickly stamp on any bullying or unnecessary touching. Just be aware of any apparent friendships developing between adults and children, young persons or vulnerable adults that could lead to grooming taking place outside the ringing setting. If anything gives you cause for concern discuss it with your parish safeguarding officer. 
 
-Information supplied by Anne White, David Bassford 
+## Image Credits
 
+| Figure | Details | Source |
+| :---: | --- | --- |
+
+----
+
+## Information supplied by 
+
+| Section | Contributors |
+| :---: | --- |
+| Formalities | Anne White, David Bassford |
+| Promotion | Vicki Chapman |
+----
+
+{{<hint info>}}
+**[Next Chapter](../030-formalities/)** - **[Previous Chapter](../010-introduction)**
+{{</hint>}}
+----
+
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.1, September 2022
+
+© 2022 Central Council of Church Bell Ringers
