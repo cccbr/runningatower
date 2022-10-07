@@ -5,9 +5,6 @@ weight: 10
 
 # Communication
 
-Communication 
-
-
 ## Liaison with relevant authority 
 
 <img src="Heavitree.jpg" alt="drawing" height="250"/>     <img src="Exeter_Cathedral.jpg" alt="drawing" height="250"/>     <img src="Dordrecht.jpg" alt="drawing" height="250"/>
