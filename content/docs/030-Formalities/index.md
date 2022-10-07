@@ -1,4 +1,9 @@
-Formalities 
+---
+title: Formalities
+weight: 30
+---
+
+# Formalities 
 
 Relevant picture here? 
 
