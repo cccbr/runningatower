@@ -88,16 +88,19 @@ For major projects such as the restoration of an installation, including augment
 
 | Figure | Details | 
 | :---: | --- | 
-| 1 | St. Michael & All Angels, Heavitree, Devon (Photo: James Kirkcaldy)|
-| 2 | Cathedral Church of St. Peter, Exeter, Devon (Photo: James Kirkcaldy)|
-| 3 | t'Klockhuys, Dordrecht, Netherlands  (Photo: James Kirkcaldy)|
-| 4 | Various Society badges  (Photo: James Kirkcaldy)|
+| 1 | St. Michael & All Angels, Heavitree, Devon (Photo: James Kirkcaldy) |
+| 2 | Cathedral Church of St. Peter, Exeter, Devon (Photo: James Kirkcaldy) |
+| 3 | t'Klockhuys, Dordrecht, Netherlands  (Photo: James Kirkcaldy) |
+| 4 | Various Society badges  (Photo: James Kirkcaldy) |
 ----
+
 ## Information supplied by 
 
 | Section | Contributors |
+| :---: | --- | 
 | Communication | James Morgan 
 | Promotion | Vicki Chapman 
+----
 
 ## Disclaimer
  
