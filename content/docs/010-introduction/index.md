@@ -8,6 +8,7 @@ type: docs
 # Introduction
 
 ![Broadclyst, Devon](Broadclyst.jpg =x500)
+<img src="Broadclyst.jpg" alt="drawing" width="200"/>
 
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
