@@ -7,7 +7,7 @@ type: docs
 
 # Introduction
 
-![Broadclyst, Devon](Broadclyst.jpg width=100)
+![Broadclyst, Devon](Broadclyst.jpg width=500)
 
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
