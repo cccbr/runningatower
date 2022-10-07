@@ -5,36 +5,53 @@ type: docs
 
 
 
-# Belfry Upkeep
+# Introduction
 
-![Up Holland bells raised ready for ringing](up-holland-bells.jpg)
+![Broadclyst, Devon](intro-title.jpg)
+{{<hint danger>}}
+This document addresses key aspects of running a tower.
+{{</hint>}}
 
-Welcome to *Belfry Upkeep*. This online document, produced by the Central Council Stewardship & Management Workgroup, is aimed at the Steeple Keeper -- the one responsible for keeping the bells in order. You may be an established Steeple Keeper, or one just new to the job, or someone wondering if you should take it on.
+The lead role in this is often called the tower captain although other titles are sometimes used e.g. ringing master.
 
-Our aims in this document are:
+It is provided as advice and guidance for the tower captain or potential tower captain, but is also intended as a guide for ringers more
+generally.
 
-- To help you understand the installation in your tower (they are all different, in detail at least)
-- To describe the checks you should carry out to identify any problems
-- To advise you on the maintenance tasks that you should be able to carry out, possibly with expert advice or assistance
-- Most importantly, to help you recognise the tasks that require specialist knowledge from a Bell Hanger or other expert
+## Scope
 
-## Finding Your Way Round
+The content is not intended to be exhaustive.
 
-If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
+## Topics
 
-Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
+### Communication; keeping things running smoothly
 
-## Latest Changes
+Communication with people external to the band. Liaison with relevant authorities, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in 'Building a Team. |
 
-| Date | Changes |
-| ---- | ---- |
-| 30/09/2022 | Each chapter now has a link to the next and previous ones. |
-| 23/09/2022 | Acknowledgements & Sources: Pickford document available online. |
-| 31/08/2022 | First publication. All chapters at v1.0 |
+### Formalities; being compliant, safe and successful
+ 
+Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding
+
+### Finance; income and expenditure including fees
+ 
+### Health and safety; staying safe
+
+Attendance, Insurance, Security, Tower access. What to do in the case of an emergency is covered in a separate section.
+
+### Emergency; what to do if things go wrong
+
+### Tower Environment; keeping your tower running smoothly
+
+Divided between the ringing chamber and the bell chamber (primarily covered in 'Belfry Upkeep').
+
+### Building a Team; creating a supportive environment
+
+Officers, Meetings, Running ringing sessions.
 
 ## Image Credits
 
-Credits will be found at the end of each chapter. The picture on this page shows the six bells of St Thomas the Martyr, Up Holland, Lancashire, UK raised ready for ringing. This was the winner of the *Bells and Installations* round of the Central Council photographic competition. (Photo: Phil Pope)
+| Figure | Details | 
+| :---: | --- | 
+| Title Picture | Broadclyst, Devon (Photo: James Kirkcaldy)|
 
 ----
 
