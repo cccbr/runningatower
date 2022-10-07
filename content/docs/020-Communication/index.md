@@ -1,6 +1,6 @@
 ---
 title: Communication
-weight: 10
+weight: 20
 ---
 
 # Communication
