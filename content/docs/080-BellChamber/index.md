@@ -114,7 +114,7 @@ Are there any protected species e.g., bats?
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../060-Emergency)** - **[Next Chapter](../080-BellChamber/)**
+**[Previous Chapter](../070-RingingChamber)** - **[Next Chapter](../090-BuildingTeam/)**
 {{</hint>}}
 ----
 
