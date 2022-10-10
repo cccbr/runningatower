@@ -11,7 +11,7 @@ Try to keep the ringing chamber a tidy and welcoming place. This will give a goo
 
 ## Access
 
-<img src="Nonslip_Step.jpg" alt="drawing" height="250">
+<img src="Nonslip_Step.JPG" alt="drawing" height="250">
 
 *Figure 1: Non-slip staircase surface*
 
@@ -27,7 +27,7 @@ Is there any other way of accessing the ringing chamber that is less inconvenien
 
 ## Boxes 
 
-<img src="Boxes.jpg" alt="drawing" height="250">
+<img src="Boxes.JPG" alt="drawing" height="250">
 
 *Figure 2: Selection of boxes*
 
@@ -51,7 +51,7 @@ Mats, and carpets, where the ropes come into contact should be pure wool. They s
 
 ## Ceiling, Rope Guides,  Spiders 
 
-<img src="Rope_Guide.jpg" alt="drawing" height="250">
+<img src="Rope_Guide.JPG" alt="drawing" height="250">
 
 *Figure 4: Rope guide - Melbourne, Derbyshire*
 
@@ -101,7 +101,7 @@ Provide adequate seating to accommodate people not ringing. Seating may consist 
 
 ## Notices Boards and Information 
 
-<img src="Notice_Board.jpg" alt="drawing" height="250"> <img src="Resource_Table.jpg" alt="drawing" height="250">
+<img src="Notice_Board.JPF" alt="drawing" height="250"> <img src="Resource_Table.JPG" alt="drawing" height="250">
 
 *Figure 8: Typical notice board* *Figure 9: Teaching aids*
 
@@ -157,7 +157,7 @@ The following is a list of possible assets, though not exhaustive
 
 ### Display bell(s) 
 
-<img src="Model_Bell.jpg" alt="drawing" height="250">
+<img src="Model_Bell.JPG" alt="drawing" height="250">
 
 *Figure 11: Model bell for demonstration*
 
@@ -167,7 +167,7 @@ If possible, these should be portable allowing their use for demonstrations outs
 
 ### Handbells
 
-<img src="Handbells.jpg" alt="drawing" height="250">
+<img src="Handbells.JPG" alt="drawing" height="250">
 
 *Figure 12: Set of fourteen handbells in cases*
 
@@ -189,7 +189,7 @@ Peal and other commemorative boards, certificates and photographs. Are these rec
 
 Where can peal boards be obtained? Putting a board up requires consultation with the tower authorities and an Archdeacons' consultation in a Church of England church.
 
-<img src="Visitors_Book.jpg" alt="drawing" height="250">
+<img src="Visitors_Book.JPG" alt="drawing" height="250">
 
 *Figure 14: Visitor's book*
 
@@ -213,7 +213,7 @@ If unsure, consider contacting your local Association Towers & Belfries Committe
 
 ### Tools 
 
-<img src="Tools.jpg" alt="drawing" height="250">
+<img src="Tools.JPG" alt="drawing" height="250">
 
 *Figure 16: Selection of tools*
 
