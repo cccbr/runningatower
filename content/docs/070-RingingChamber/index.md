@@ -65,7 +65,7 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 <img src="Ellacombe.jpg" alt="drawing" height="250"> <img src="Apollo_Unit.jpg" alt="drawing" height="250">
 
-*Figure 5: Ellacombe chiming frame* *Figure 6: Electonic control unit*
+*Figure 5: Ellacombe chiming frame;* *Figure 6: Electonic control unit*
 
 Ellacombe apparatus, chiming hammers, electrical (e.g., Apollo) units and similar. Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber.  
 
@@ -101,9 +101,9 @@ Provide adequate seating to accommodate people not ringing. Seating may consist 
 
 ## Notices Boards and Information 
 
-<img src="Notice_Board.JPF" alt="drawing" height="250"> <img src="Resource_Table.JPG" alt="drawing" height="250">
+<img src="Notice_Board.JPG" alt="drawing" height="250"> <img src="Resource_Table.JPG" alt="drawing" height="250">
 
-*Figure 8: Typical notice board* *Figure 9: Teaching aids*
+*Figure 8: Typical notice board;* *Figure 9: Teaching aids*
 
 Notice board(s) with up-to-date notices and Association circulars.  
 
