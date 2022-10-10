@@ -9,7 +9,9 @@ weight: 60
 
 *Figure 1: In Case of Emergency notice*
 
-Link to ‘Running a Tower - 4. Emergency - ICE Pro Forma’ 
+{{<hint info>}}
+**[Blank ICE](../061-ICE)**
+{{</hint>}}
 
 Prominently display an ‘In Case of Emergency’ (ICE) notice. Ensure that this is kept up to date. 
 
