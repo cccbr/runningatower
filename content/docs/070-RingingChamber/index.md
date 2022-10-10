@@ -43,7 +43,7 @@ Wedges for uneven floors
 
 Carpets and Rope Mats
 
-<img src="Carpet_Mat.jpg" alt="drawing" height="250">
+<img src="Carpet_Mats.jpg" alt="drawing" height="250">
 
 *Figure 3: Carpet, mats and boxes - Exeter Cathedral*
 
@@ -63,7 +63,7 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 ## Chiming Apparatus 
 
-<img src="Ellacombe.jpg" alt="drawing" height="250"> <img src="Apollo Unit.jpg" alt="drawing" height="250">
+<img src="Ellacombe.jpg" alt="drawing" height="250"> <img src="Apollo_Unit.jpg" alt="drawing" height="250">
 
 *Figure 5: Ellacombe chiming frame* *Figure 6: Electonic control unit*
 
@@ -87,7 +87,7 @@ Consider arrangements to make the environment comfortable. In summer this would 
 
 ## Lighting 
 
-<img src="Well_lit.jpg" alt="drawing" height="250">
+<img src="Well_Lit.jpg" alt="drawing" height="250">
 
 *Figure 7: Well lit ringing chamber*
 
@@ -257,12 +257,12 @@ Although these are the usually the property of the awarding body, they are in th
 
 | Section | Contributors |
 | :---: | --- |
-Information supplied by Tony Crabtree 
+| Ringing Chamber | Tony Crabtree |
 
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../050-HealthSafety)** - **[Next Chapter](../070-RingingChamber/)**
+**[Previous Chapter](../060-Emergency)** - **[Next Chapter](../080-BellChamber/)**
 {{</hint>}}
 ----
 
