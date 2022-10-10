@@ -18,7 +18,10 @@ The agenda should be distributed in advance together with a request for items to
 
 The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
 The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the Parochial Church Council may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower authority would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
-Link to ‘Running a Tower – 6.a Building a Team - Agenda
+
+{{<hint info>}}
+**[Meeting Agenda](../090-Agenda)**
+{{</hint>}}
 
 ### Appointment of Officers
 
@@ -64,7 +67,9 @@ Not always possible if there are visitors, but generally you need to know why yo
 
 Decide what you want to achieve, both as a band and for individuals. If you can, publicise what is to be rung, and why, a few days before each session. As far as attendance and performance allows try and ring what was advertised. If you were unable to ring what you said, briefly explain why at the end of the session. Remember the ringers are volunteers, the degree to which you can overtly structure the purpose of a session will vary with the band and with individuals. This of course goes back to knowing your ringers. Some may come to sessions mainly to get out of the house and socialise as part of a group. They may well be happy to get better at ringing, but it may not be a prime consideration. On the other hand, some may want to progress their ringing more. Having some, if only loose, structure to a session should help keep more people happy as they can see there is something in for them.
 
-Link to ‘Running a Tower – 6.b Building a Team – Ringing Plan
+{{<hint info>}}
+**[Ringing plan](../092-Plan)**
+{{</hint>}}
 
 ### Recruitment and maintaining a band
 
