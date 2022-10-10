@@ -76,7 +76,7 @@ There are two basic types of muffle. The older type is attached by means of leat
 Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops. Bells are only rung fully muffled (or deeply muffled i.e.. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
 
 ## Silencers
-<img src="Solid_Tie_external.JPG" alt="drawing" height="250"> <img src="Rope_Tie_external.JPG" alt="drawing" height="250"> <img src="Rope_Tie_internal.JPG" alt="drawing" height="250">
+<img src="Solid_Tie.JPG" alt="drawing" height="250"> <img src="Rope_Tie_external.JPG" alt="drawing" height="250"> <img src="Rope_Tie_internal.JPG" alt="drawing" height="250">
 
 *Figure 5: Wooden clapper tie* *Figure 6: Rope clapper tie* *Figure 7: Rope clapper tie*
 
