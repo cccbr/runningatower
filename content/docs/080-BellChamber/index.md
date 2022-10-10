@@ -1,4 +1,13 @@
-This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing chamber. The bell installation is covered specifically by 'Belfy Upkeep’. 
+---
+title: Emergency
+weight: 60
+---
+
+# Emergency 
+  
+<img src="Broadclyst_ICE.jpg" alt="drawing" height="250">
+
+*Figure 1: In Case of Emergency notice*This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing chamber. The bell installation is covered specifically by 'Belfy Upkeep’. 
 
 Include links to Belfry Upkeep 
 
