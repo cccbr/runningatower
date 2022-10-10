@@ -78,7 +78,7 @@ Muffles are, traditionally, used on a limited number of occasions such as funera
 ## Silencers
 <img src="Solid_Tie.jpg" alt="drawing" height="250"> <img src="Rope_Tie_external.JPG" alt="drawing" height="250"> <img src="Rope_Tie_internal.JPG" alt="drawing" height="250">
 
-*Figure 5: Wooden clapper tie* *Figure 6: Rope clapper tie* *Figure 7: Rope clapper tie*
+*Figure 5: Wooden clapper tie* *Figures 6: nd 7: Rope clapper tie*
 
 There are various types and means of fitting. ART recommend one based on an old cycle inner tube which is very good. 
 
