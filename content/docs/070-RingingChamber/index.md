@@ -139,7 +139,7 @@ External acoustics for neighbours.
 
 <img src="CCTV.jpg" alt="drawing" height="250">
 
-*Figure 7: CCTV showing church interior and bell chamber*
+*Figure 10: CCTV covering church interior and bell chamber*
 
 CCTV may cover the ringing chamber and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
@@ -157,13 +157,99 @@ The following is a list of possible assets, though not exhaustive
 
 ### Display bell(s) 
 
+<img src="Model_Bell.jpg" alt="drawing" height="250">
 
+*Figure 11: Model bell for demonstration*
+
+Are these kept securely? Are they adequately insured?  
+
+If possible, these should be portable allowing their use for demonstrations outside of the tower.  
+
+### Handbells
+
+<img src="Handbells.jpg" alt="drawing" height="250">
+
+*Figure 12: Set of fourteen handbells in cases*
+
+Are these kept securely? Are they adequately insured?  
+
+Are these usable? If not, consider restoration.  
+
+A cheap option is a set of eight “rainbow” handbells. These are available online, inexpensive, robust and ideal for teaching place-counting, etc. 
+
+### Records
+
+<img src="Peal_Boards.jpg" alt="drawing" height="250">
+
+*Figure 13: Peal boards at St. Mark, Exeter*
+
+Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found in the History and Archive Work Group pages on the CCCBR website.  
+
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? A good idea is to maintain a quality photographic record of these in a separate location.  
+
+Where can peal boards be obtained? Putting a board up requires consultation with the tower authorities and an Archdeacons' consultation in a Church of England church.
+
+<img src="Visitors_Book.jpg" alt="drawing" height="250">
+
+*Figure 14: Visitor's book*
+
+### Simulators
+
+<img src="Simulator.jpg" alt="drawing" height="250">
+
+*Figure 15: using the simulator at Great Gransden, Cambridgeshire*
+
+Are the components kept securely? Have the electrical components been PAT tested by an approved contractor?  
+
+### Spare ropes  
+
+Insert link to information in 'Belfry Upkeep’.
+
+It is a good idea to have a few usable spares to cover any bell, as needed. 
+
+Do you have at least one person able, and willing, to check the ropes at suitable intervals? Perhaps, a local society 'expert'? Can they identify and correct any wear points, change or repair a rope if needed, and be prepared to order new ones when needed? 
+
+If unsure, consider contacting your local Association Towers & Belfries Committee 
+
+### Tools 
+
+<img src="Tools.jpg" alt="drawing" height="250">
+
+*Figure 16: Selection of tools*
+
+Are these usable and not simply rusted away? 
+
+It may be preferable for the person doing maintenance to provide their own tools, as tower tools have a habit of “walking” or being misused, even by vandals and other ill-intentioned visitors! 
+
+### Trophies 
+
+<img src="Trophies.jpg" alt="drawing" height="250">
+
+*Figure 17: Trophies at Exeter Cathedral*
+
+Although these are the usually the property of the awarding body, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body 
 
 ## Image Credits
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | 'In Case of Emergency' example | Photo: James Kirkcaldy |
+| 1 | Non-slip staircase surface | Photo: Tony Crabtree |
+| 2 | Pile of carpeted boxes |  Photo: Tony Crabtree |
+| 3 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
+| 4 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
+| 5 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
+| 6 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
+| 7 | Well lit ringing chamber at Great Barton, Suffolk | Photo: CCCBR archive |
+| 8 | Notice board | Photo: Tony Crabtree |
+| 9 | Teaching aids | Photo: Tony Crabtree |
+| 10 | CCTV showing church interior and bell chamber | Photo: Alison Hodge |
+| 11 | Model demonstration bell | Photo: Tony Crabtree |
+| 12 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 13 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 14 | Visitor's book | Photo: Tony Crabtree |
+| 15 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 16 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 17 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
 
 ----
 
