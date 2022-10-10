@@ -67,9 +67,9 @@ Spare stays or materials to fashion them. It is useful to have the dimensions of
 
 ## Muffles  
 
-<img src="Muffle_Velcro.jpg" alt="drawing" height="250">
+<img src="Muffle_Conventional.jpg" alt="drawing" height="250"> <img src="Muffle_Velcro.jpg" alt="drawing" height="250">
 
-*Figure 4: Modern, velcro fastening, muffle*
+*Figure 4: Older, leather fastening, muffle* *Figure 5: Modern, velcro fastening, muffle*
 
 There are two basic types of muffle. The older type is attached by means of leather straps and / or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Ensure that it is known how to fit these correctly. Muffles should be fitted with the bells down and, as in all cases when work is undertaken in the bell chamber, with a second person present. When not in use muffles should be stored in a fabric bag, ideally hung in the ringing chamber. They should not be thrown into a cupboard which may be damp and therefore cause deterioration. 
 
@@ -78,7 +78,7 @@ Muffles are, traditionally, used on a limited number of occasions such as funera
 ## Silencers
 <img src="Solid_Tie.jpg" alt="drawing" height="250"> <img src="Rope_Tie_external.JPG" alt="drawing" height="250"> <img src="Rope_Tie_internal.JPG" alt="drawing" height="250">
 
-*Figure 5: Wooden clapper tie* *Figures 6: and 7: Rope clapper tie*
+*Figure 5: Wooden clapper tie* *Figures 7: and 8: Rope clapper tie*
 
 There are various types and means of fitting. ART recommend one based on an old cycle inner tube which is very good. 
 
@@ -97,10 +97,11 @@ Are there any protected species e.g., bats?
 | 1 | Modern cast-iron low-side frame at Broadclyst | Photo: James Kirkcaldy |
 | 2 | Conventional stay and slider at All Saints, Loughborough | Photo: CCCBR archive |
 | 3 | Hastings stay and slider at All Saints, Loughborough | Photo: CCCBR archive |
-| 4 | Modern muffle with velcro fastening at Ripon Cathedral | Photo: CCCBR archive |
-| 5 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
-| 6 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
-| 7 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
+| 4 | Older muffle with leather thongs and buckle fastenings | Photo: James Kirkcaldy |
+| 5 | Modern muffle with velcro fastening at Ripon Cathedral | Photo: CCCBR archive |
+| 6 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
+| 7 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
+| 8 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
 
 ----
 
