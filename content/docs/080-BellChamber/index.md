@@ -90,11 +90,6 @@ It may be preferred to tie the clapper centrally if the main objective is simula
 
 Are there any protected species e.g., bats? 
 
-A typical modern bell installation at Broadclyst (J. Kirkcaldy) 
-LEFT a conventional stay and slider; RIGHT a Hastings stay - both All Saints Loughborough (CCCBR photo competition) 
-Picture of “older” muffle A modern muffle with Velcro fastening - Riponj Cathedral (CCCBR photo competition) 
-LEFT solid (wooden) clapper stay - Washington Cathedral (CCCBR photo competition); CENTRE & RIGHT a clapper tied  (Tony Crabtree)
-
 ## Image Credits
 
 | Figure | Details | Source |
@@ -102,7 +97,7 @@ LEFT solid (wooden) clapper stay - Washington Cathedral (CCCBR photo competition
 | 1 | Modern cast-iron low-side frame at Broadclyst | Photo: James Kirkcaldy |
 | 2 | Conventional stay and slider at All Saints, Loughborough | Photo: CCCBR archive |
 | 3 | Hastings stay and slider at All Saints, Loughborough | Photo: CCCBR archive |
-| 4 | Modern muffle with velcro fastening | Photo: CCCBR archive |
+| 4 | Modern muffle with velcro fastening at Ripon Cathedral | Photo: CCCBR archive |
 | 5 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
 | 6 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
 | 7 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
