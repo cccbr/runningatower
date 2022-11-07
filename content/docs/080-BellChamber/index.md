@@ -5,9 +5,7 @@ weight: 80
 
 # Bell Chamber
 
-This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing chamber. The bell installation is covered specifically by 'Belfy Upkeep’. 
-
-Include links to Belfry Upkeep 
+This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing chamber. The bell installation is covered specifically by ['Belfy Upkeep’](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). 
 
 <img src="Broadclyst_bells.jpg" alt="drawing" height="250">
 
@@ -21,39 +19,33 @@ Make a thorough check after any period of inactivity. Insert link to information
 
 ## Acoustics 
 
-Including examples of sound control in towers. Further details can be found at 'Guidance note - sound control in towers' - https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf. 
+Including examples of sound control in towers. Further details can be found at [Guidance note - sound control in towers](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
 ## Lighting
 
-Further details can be found at 'Guidance note - lighting in towers' - https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf. 
+Further details can be found at [Guidance note - lighting in towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf). 
 
 ## Lightning protection and Bell Frames
 
-Further details can be found at 'Guidance note - lightning conductors' - https://cccbr.org.uk/wp-content/uploads/2020/03/SM_LightningConductors_2020_Ver_1.pdf. 
+Further details can be found at [Guidance note - lightning conductors](https://cccbr.org.uk/wp-content/uploads/2020/03/SM_LightningConductors_2020_Ver_1.pdf). 
 
 ## The Bell Installation
 
-The following are useful: 
+The following checklists, available within [the SMWG pages on the CCCBR website](https://cccbr.org.uk/about/workgroups/stewardship-and-management/):  
 
-The checklists, available within the SMWG pages on the CCCBR website, are as follows:  
+- [Tower and bells periodic checks](https://cccbr.org.uk/wp-content/uploads/2021/01/Record-sheet-quarterly-and-annual-checks-Jan-2021-V1.pdf).
 
-- Tower and bells periodic checks - https://cccbr.org.uk/wp-content/uploads/2021/01/Record-sheet-quarterly-and-annual-checks-Jan-2021-V1.pdf
+- [Tower and bells detailed survey](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-survey-v1-26-Jan-2021.pdf).
 
-- Tower and bells detailed survey - https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-survey-v1-26-Jan-2021.pdf
+There are also the following short videos prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful to them for their permission to reuse this material. The links to which are as follow:
 
-'Belfry Upkeep’  
+- [Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)
 
-Insert link to information in 'Belfry Upkeep’ 
+- [Getting ready to inspect and maintain bells](https://www.youtube.com/watch?v=JK100rBzVE0)
 
-Four (short) videos prepared by Tom Ridgman, Ely Diocesan Bells Adviser and originally presented as a single 1-hour session. We are grateful to them for their permission to reuse this material. The links to which are as follow: 
+- [Looking after ringing chambers and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)
 
-- Making ringers welcome and comfortable - https://www.youtube.com/watch?v=a9dBoQGnmOE
-
-- Getting ready to inspect and maintain bells - https://www.youtube.com/watch?v=JK100rBzVE0
-
-- Looking after ringing chambers and access - https://www.youtube.com/watch?v=O4R-yfxXvPc
-
-- Maintaining bells and their fittings - https://www.youtube.com/watch?v=99jHnLDcic8
+- [Maintaining bells and their fittings](https://www.youtube.com/watch?v=99jHnLDcic8)
 
 Ensure regular checks of the bells, frame, fittings and whether all electrical items are working. N.B., some rectifications of faults may require professional intervention. This where the local society may be able to assist. 
 
