@@ -79,7 +79,7 @@ Consider the use of:
 
 - Regular updates in the parish magazine, local press, radio, television and social media.  
 
-Further guidance on the use of social media is available at https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf 
+[Further guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf).
 
 Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. 
 
