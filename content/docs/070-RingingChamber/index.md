@@ -15,11 +15,15 @@ Try to keep the ringing chamber a tidy and welcoming place. This will give a goo
 
 *Figure 1: Non-slip staircase surface*
 
-If the ringing chamber is upstairs, are the steps safe, secure, non-slippery and with good grab handles etc? 
+If the ringing chamber is upstairs:
 
-Are the steps well illuminated? 
+- Are the steps safe, secure, non-slippery?
 
-If the access door from the stairs opens inwards to the ringing chamber, are there measures, such as a window or a notice to ensure it is not opened into a ringer immediately inside? 
+- Is there a good handrail (an alternative may be suitably positioned grab handles)? 
+
+- Are the steps well illuminated? 
+
+If the access door opens inwards to the ringing chamber are there measures, such as a window or a notice, to ensure it is not opened into a ringer immediately inside? 
 
 If access is by a trap door, is it able to be safely secured when open? 
 
@@ -31,7 +35,7 @@ Is there any other way of accessing the ringing chamber that is less inconvenien
 
 *Figure 2: Selection of boxes*
 
-Guidance notes on ringing boxes - https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf. 
+[Guidance notes on ringing boxes](https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf). 
 
 Are these secure and suitable for use? 
 
@@ -39,15 +43,15 @@ Are they suitably sized so the ringer doesn’t feel any risk of being too near 
 
 Are they carpeted so they can be stacked safely and without sliding for very young ringers? 
 
-Wedges for uneven floors 
+Are there wedges for uneven floors 
 
-Carpets and Rope Mats
+## Carpets and Rope Mats
 
 <img src="Carpet_Mats.jpg" alt="drawing" height="250">
 
 *Figure 3: Carpet, mats and boxes - Exeter Cathedral*
 
-Mats, and carpets, where the ropes come into contact should be pure wool. They should not contain nylon as this can lead to excessive rope wear.  
+Mats and carpets, where the rope comes into contact should ideally be pure wool. They should not contain nylon as this can lead to excessive rope wear.  
 
 ## Ceiling, Rope Guides,  Spiders 
 
@@ -59,7 +63,7 @@ Are the rope bosses at the optimum height? Too high and the ropes can be flighty
 
 If unsure, seek expert advice, maybe from your Association towers and belfries committee or a professional bell hanger. 
 
-Is the rope circle poor or very unequally spaced? Again, consider seeking advice as above, especially when there are ropes too close together.  
+Is the rope circle poor or very unequally spaced? Again, consider seeking advice as above, especially when there are ropes very close together.  
 
 ## Chiming Apparatus 
 
@@ -73,17 +77,19 @@ Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar
 
 Are these fit for purpose?  
 
+Are they in suitable locations? Especially ensure that the do not lead to important items being hidden such as light switched, clock hammers.
+
 ## Curtains / blinds 
 
-Primarily to prevent ringers being blinded by sunlight. Heavy curtains may also be an effective way to shut off an open staircase, door way or open gallery to enable the ringing chamber to be heated without heating the rest of the building, staircase, etc.  
+These are primarily to prevent ringers being blinded by sunlight. Heavy curtains may also be an effective way to shut off an open staircase, door way or open gallery.  They may assist in enabling the ringing chamber to be heated without heating other unused areas such as the rest of the building, staircase, etc.  
 
 ## Electrical Devices 
 
-Power points and powered devices should be checked by a professional approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in church register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors Do not daisy chain from one socket – arrange for additional power points to be installed professionally by church approved contractor.
+Power points and powered devices should be checked by a professional, approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in the church register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
 
 ## Heating   
 
-Consider arrangements to make the environment comfortable. In summer this would include adequate ventilation. In winter this would include heating the area. If the ringing chamber is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area. If there are any windows through which the sun might shine investigate a blind or curtains to reduce this. 
+Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If the ringing chamber is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area. If there are any windows through which the sun might shine investigate a blind or curtains to reduce this. 
 
 ## Lighting 
 
@@ -91,13 +97,25 @@ Consider arrangements to make the environment comfortable. In summer this would 
 
 *Figure 7: Well lit ringing chamber*
 
-Further details can be found at Guidance notes - [lighting in and around towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
+Further details can be found at [Guidance notes - lighting in and around towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
 
-Is the ringing chamber lighting placed centrally to the rope circle so as to illuminate all ringers above and from the front; avoiding “silhouetting” of ringers? Are there at least two light sources, in case one “blows” or gets smashed by a wild rope? Does one of them have battery power-fail to protect against a blown fuse or power failure? 
+Is the ringing chamber:
 
-If the ringing chamber has large windows is there some means of reducing direct sunlight temporarily blinding the ringers such as curtains or blinds. Seating 
+- Is lighting placed centrally to the rope circle, so as to illuminate all ringers above and from the front? Avoiding “silhouetting” of any ringers whenever possible. 
+ 
+- Is there at least two light sources? This provides a back-up should one fail or is smashed by a wild rope. 
 
-Provide adequate seating to accommodate people not ringing. Seating may consist of chairs, benches, etc. Are these fit for purpose? 
+- Does, at least one of them, have a battery back-up to protect against a blown fuse or power failure? 
+
+If the ringing chamber has large windows is there some means of reducing direct sunlight temporarily blinding the ringers such as curtains or blinds. 
+
+## Seating 
+
+Seating may consist of chairs, benches, etc.
+
+Is there adequate seating to accommodate people not ringing? The size of the tower may restrict the amount of seating.
+
+Is all seating fit for purpose? 
 
 ## Notices Boards and Information 
 
@@ -105,35 +123,34 @@ Provide adequate seating to accommodate people not ringing. Seating may consist 
 
 *Figure 8: Typical notice board;* *Figure 9: Teaching aids*
 
-Notice board(s) with up-to-date notices and Association circulars.  
+Are notice board(s) displaying up-to-date information, such as tower and Society notices?  
 
-Teaching aids and a suitable space for teaching. This may include model bell(s), simulator(s), books and pictures of the bells above for those unable to climb to them (see also CCTV).  
+## Teaching aids and a suitable space for teaching. 
+
+This may include model bell(s), simulator(s), books and pictures of the bells above The latter is especially useful for those unable to climb to see them (see also CCTV).
 
 # Storage  
 
-Consider whether these need to be lockable, especially when the ringing chamber is readily accessible. 
+Consider whether storage spaces need to be lockable. This is especially important when the ringing chamber is readily accessible. It may also be necessary to lock any higher value items away.
 
 # The Ringing Experience 
 
-Also, major overlap with V&L group – are they producing anything? Also, ART?  
-
-Insert link to information in 'Belfry Upkeep’ 
+There is a major overlap here with the [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/).
 
 # Go of the bells 
 
-Are the bells odd-struck? This may be easily corrected to give a more satisfying experience. Consider seeking advice as above. 
-
-Are any bells set too fine or too deep. Again, this may be relatively easily corrected, consider seeking advice as above.  
+Are the bells odd-struck? Are any bells set too fine or too deep?
+This may be easily corrected to give a more satisfying experience. Consider seeking professional advice. 
 
 # Sound 
 
 Are the sound levels in the ringing chamber good? Is it echoey? if so, consider a carpet or large rug. Curtains and soft furnishings may also help. 
 
-Do the bells “shout” down through a trap door or from the stair's door? 
+Do the bells “shout” down through a trap door or through the stair door? Ensuring these are closed adequately insulted may be easily redressed.
 
-If so, take steps to remedy this or seek expert advice, maybe from your Association towers and belfries committee or the CCCBR. 
+Further advice maybe available from your Association towers and belfries committee or the CCCBR. If the problem is larger than consult a professional.
 
-External acoustics for neighbours.  
+Consider the external acoustics. The bells may cause annoyance to neighbours if especially loud. There may be a professional means of reducing this.
 
 ## Other areas to consider 
 
@@ -143,17 +160,17 @@ External acoustics for neighbours.
 
 CCTV may cover the ringing chamber and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
-Communication links to the body of the building, especially where the ringing chamber is separate. This may be as simple as a bell pull or as complex as a telephone / visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
+Communication links to the body of the building, especially where the ringing chamber is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone / visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
 
 Kitchen or at least a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
 
-Parking. 
+Toilet(s). As these are normally in the main part of the building access may be restricted.
 
-Toilet(s).  
+Parking. 
 
 ## Other Tower Resources  
 
-The following is a list of possible assets, though not exhaustive  
+The following is a list of possible assets, though not exhaustive. In all cases consider whether these are kept securely and are adequately insured?  
 
 ### Display bell(s) 
 
@@ -161,9 +178,7 @@ The following is a list of possible assets, though not exhaustive
 
 *Figure 11: Model bell for demonstration*
 
-Are these kept securely? Are they adequately insured?  
-
-If possible, these should be portable allowing their use for demonstrations outside of the tower.  
+If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
 
 ### Handbells
 
@@ -171,11 +186,9 @@ If possible, these should be portable allowing their use for demonstrations outs
 
 *Figure 12: Set of fourteen handbells in cases*
 
-Are these kept securely? Are they adequately insured?  
+Are these usable? If not, consider restoration otherwise they are merely a display item.
 
-Are these usable? If not, consider restoration.  
-
-A cheap option is a set of eight “rainbow” handbells. These are available online, inexpensive, robust and ideal for teaching place-counting, etc. 
+If handbells are considered a useful resource a cheap option is a set of eight “rainbow” handbells. These are readily available, inexpensive, robust and ideal for teaching place-counting, etc. 
 
 ### Records
 
@@ -183,11 +196,9 @@ A cheap option is a set of eight “rainbow” handbells. These are available on
 
 *Figure 13: Peal boards at St. Mark, Exeter*
 
-Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found in the History and Archive Work Group pages on the CCCBR website.  
+Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found from the [History and Archive Work Group](https://cccbr.org.uk/about/workgroups/historical-and-archive/).  
 
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? A good idea is to maintain a quality photographic record of these in a separate location.  
-
-Where can peal boards be obtained? Putting a board up requires consultation with the tower authorities and an Archdeacons' consultation in a Church of England church.
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower authorities and an Archdeacons' consultation in a Church of England church.
 
 <img src="Visitors_Book.JPG" alt="drawing" height="250">
 
@@ -203,11 +214,11 @@ Are the components kept securely? Have the electrical components been PAT tested
 
 ### Spare ropes  
 
-Insert link to information in 'Belfry Upkeep’.
+See relevant information in [Rope section of 'Belfry Upkeep'](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
 
 It is a good idea to have a few usable spares to cover any bell, as needed. 
 
-Do you have at least one person able, and willing, to check the ropes at suitable intervals? Perhaps, a local society 'expert'? Can they identify and correct any wear points, change or repair a rope if needed, and be prepared to order new ones when needed? 
+Do you have at least one person able, and willing, to check the ropes at suitable intervals? If not a local society 'expert' may be able to assist. If a person is avilable locally, can they identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
 If unsure, consider contacting your local Association Towers & Belfries Committee 
 
@@ -219,7 +230,7 @@ If unsure, consider contacting your local Association Towers & Belfries Committe
 
 Are these usable and not simply rusted away? 
 
-It may be preferable for the person doing maintenance to provide their own tools, as tower tools have a habit of “walking” or being misused, even by vandals and other ill-intentioned visitors! 
+It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by ill-intentioned people!
 
 ### Trophies 
 
@@ -227,7 +238,7 @@ It may be preferable for the person doing maintenance to provide their own tools
 
 *Figure 17: Trophies at Exeter Cathedral*
 
-Although these are the usually the property of the awarding body, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body 
+These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
 
 ## Image Credits
 
