@@ -5,7 +5,7 @@ weight: 50
 
 # Health & Safety
 
-Further details can be found at Guidance notes - health and safety policy advice (https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
+Further details can be found at [Guidance notes - health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
 
 These must be in-line with the Tower authority’s policies. 
 
@@ -13,7 +13,7 @@ This includes guidance on:
 
 - Risk Assessments. 
 
-- Fire precautions, further details can be found at Guidance notes - fire prevention (https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
+- Fire precautions, further details can be found at [Guidance notes - fire prevention](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
 
 - Fire safety. 
 
@@ -27,7 +27,6 @@ This includes guidance on:
 
 Consideration should be given to special occasions such as tower open days when large numbers of people may be present. 
 
-Special events probably need a completely separate section 
 
 Ringing is safe until you forget it is dangerous. Your first responsibility, as the person in charge, is the safety of the ringers.  
 
@@ -35,13 +34,13 @@ Ringing is safe until you forget it is dangerous. Your first responsibility, as 
 
 - Observe how any unknown visitor, who says they can ring, catches hold and if it looks wrong ask them to ring the bell on their own first and stand near in case you need to intervene. 
 
-- Invite any nervous ringers and especially nervous visitors to ring the bell solo a couple of times first.  
+- Invite any nervous ringers and especially nervous visitors to ring the bell a couple of times on their own first.  
 
 - If you see any signs of physical distress, especially in older ringers, call ‘Stand’ at once. 
 
 - Call ‘Stand’ if there is any significant loss of bell control or other incident.  
 
-- Don’t investigate any worrying noises or strange rope movements before any bells, that need to be, are rung down. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. N.B Take particular care if a clapper fails, this may break the slider, if they are present in the installation (Hasting stays do not have a slider). Do not try to stand the bell – ring it down with care.  
+- If there are any worrying noises or strange rope movements firsdt determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. N.B Take particular care if a clapper fails, this may break the slider if present in the installation (Hastings stays do not have a slider). Do not try to stand the bell, ring it down with care.  
 
 ## Attendance Record(s) 
 
@@ -53,7 +52,7 @@ Towers may wish to have a separate (traditional) visitors' book as an historic r
 
 The tower authority may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
 
-Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The CCCBR website details the latest guidance in these cases. 
+Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The CCCBR website will normally detail the latest guidance in such cases.
 
 ## First Aid Kit 
 
@@ -63,39 +62,39 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 Ideally there should be a first aid kit in the ringing chamber.  
 
-Ensure the location is indicated especially if it is elsewhere within the premises. 
+Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items remain within date.  
+Regularly check that all items are within date.
 
 ## Insurance 
 
 In the Church of England, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt. Do not expect a massive pay-out for a cut finger! 
 
-Further details can be found at Guidance notes - insurance 
+Further details can be found at [Guidance notes - insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
 ## Security 
 
-Further details can be found at Guidance notes - security for ringers 
+Further details can be found at [Guidance notes - security for ringers](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this will present difficulties at times of sickness or absence. All keys should be registered with the tower authority. This may be a condition of the building insurance. 
 
-Insert link to information in 'Belfy Upkeep’ 
+There is also [information in 'Belfy Upkeep’](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Tower Access 
 
-Guidance notes - Tower Access and Stairways ([link to existing CCCBR documentation](https://cccbr.org.uk/2017/05/16/tower-access-stairways-guidance/)) 
+[Guidance notes - Tower Access and Stairways](https://cccbr.org.uk/2017/05/16/tower-access-stairways-guidance/).
 
 Consider the number of keys and/or key holders. There is a balance between security (preventing access) but enabling reasonable access. Emergency exits must never be compromised. 
 
-Spider, ropes should, ideally, be left inaccessible e.g. locked away. This is essential in accessible ringing chambers.  
+Spiders and ropes should, ideally, be left inaccessible e.g. locked away. This is essential in accessible ringing chambers.  
 
-Bells should not be left up between ringing sessions especially where access to the bell and ringing chambers are not properly secured.  
+Bells should not be left up between ringing sessions, especially where access to the bell and ringing chambers is not secured.  
 
-Turning clappers when bells are up should be avoided in all but exceptional cases such as on heavy bells that are extremely difficult / impossible to rise right-sided. 
+Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult / impossible to rise right-sided. 
 
-There needs to be much more guidance on this e.g. –when it can be done / not done. Look at the EIG (Ecclesiastical Insurance) guidance on this – their document may be modified following a discussion with them. 
+Many churches are insured through the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/).
 
-Insert link to information in the 'Belfy Upkeep’ Chapter 5 for those working on bell installations. Latest documentation is in folder Stewardship & Management – MBM Revision- 03 – Health and Safety 
+Information, for those working on bell installations, is available in ['Belfy Upkeep’]([Chapter 5](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Other Tower Users 
 
@@ -103,13 +102,11 @@ Insert link to information in the 'Belfy Upkeep’ Chapter 5 for those working o
 
 *Figure 2: Multi-use ringing chamber; Figure 3: Ground floor ringing chamber with barrier*<>
 
-There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Also, clergy and choirs are often users and conflict at the same times as ringers.  
+There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Clergy and choirs are often users of ground floor areas and may do so at the same time as ringers.  
 
 Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. 
 
 There may also be persons requiring access to other installations (such as mobile telephone equipment housed in the tower). 
-
-Insert link to information in 'Belfry Upkeep’ 
 
 External references e.g., HSE, Church Care, 
 
