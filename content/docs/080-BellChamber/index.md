@@ -39,11 +39,7 @@ The following checklists, available within [the SMWG pages on the CCCBR website]
 
 There are also the following short videos prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful to them for their permission to reuse this material. The links to which are as follow:
 
-- [Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)
-
 - [Getting ready to inspect and maintain bells](https://www.youtube.com/watch?v=JK100rBzVE0)
-
-- [Looking after ringing chambers and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)
 
 - [Maintaining bells and their fittings](https://www.youtube.com/watch?v=99jHnLDcic8)
 
@@ -55,7 +51,7 @@ Ensure regular checks of the bells, frame, fittings and whether all electrical i
 
 *Figure 2: Conventional stay (and slider)* *Figure 3: Hastings Stay*
 
-Spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! Measurement of Hastings stays need to be particularly precise. 
+There are several different types of stays in use. Typically one of the above will be found. It is useful to have spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! The measurement of Hastings stays needs to be particularly precise. 
 
 ## Muffles  
 
@@ -80,7 +76,7 @@ It may be preferred to tie the clapper centrally if the main objective is simula
 
 ## Wildlife 
 
-Are there any protected species e.g., bats? 
+Are there any protected species e.g., bats? If there are, especial care must be taken so as not disturb them
 
 ## Image Credits
 
