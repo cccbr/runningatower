@@ -44,7 +44,7 @@ Attendance, Insurance, Security, Tower access. What to do in the case of an emer
 
 ### Tower Environment; keeping your tower running smoothly
 
-Divided between the ringing chamber and the bell chamber (primarily covered in 'Belfry Upkeep').
+Divided between the ringing chamber and the bell chamber. The latter is primarily covered in ['Belfry Upkeep'](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
 
 ### Building a Team; creating a supportive environment
 
