@@ -11,15 +11,15 @@ weight: 20
 
 *Figure 1: Heavitree, Devon; Figure 2: Exeter Cathedral, Devon; Figure 3: t'Klockhuys, Dordrecht*
 
-The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells hung, for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells in those cases is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
+The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
-Elsewhere, for example in Church of England cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. Authority also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner.  
+Elsewhere in religious buildings, for example in Church of England cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
+
+Authority also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner.  
 
 ## Faculties 
 
-These are applicable to the Church of England. Guidance notes on these should be consulted for any proposed changes within the tower. The following link gives more detail - Guidance notes - changes to the faculty process since April 2020. There were also updates in June 2022. 
-
-Insert link to the relevant section in ‘Belfry Upkeep’  
+These are applicable to the Church of England. Guidance notes on these should be consulted for any proposed changes within the tower. The following link gives more detail - [Guidance notes - changes to the faculty process](https://cccbr.org.uk/wp-content/uploads/2022/06/SM_Faculty_Changes_2022_Ver_3.pdf).
 
 ## Contact Details 
 
@@ -27,17 +27,15 @@ Insert link to the relevant section in ‘Belfry Upkeep’
 
 *Figure 4: CCCBR Porch Notice*
 
-It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times.  
+It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times. Contact details may contain name(s), telephone number(s) and / or e-mail address(es). Whenever contact details are publicised consider: 
 
-Whenever contact details are publicised consider: 
+- Personal details should be anonymised and GDPR compliant. Use only the details that the contact is prepared to publicise. The contact must give permission. It is better to give the name of their office and not a personal name.
 
-- Personal details should be anonymised and GDPR compliant. Use only the details that the contact is prepared to publicise. The contact must give permission. It is better to give the name of their office and not a personal name. 
+- Use a generic e-mail address e.g., “Tower Name-Bells @ domain name" instead of a personal e-mail address. This also allows the address to be passed on, should the contact change.
 
-- Use a generic e-mail address e.g., “Tower Name-Bells @ domain name" instead of a personal e-mail address. This also allows the address to be passed on, should the contact change. 
+- Provide a mobile telephone number rather than a landline telephone number. The individual may be travelling to the church when contact is attempted, especially when close to a ringing session.
 
-- Provide a mobile telephone number rather than a landline telephone number. The individual may be travelling to the church when contact is attempted, especially when close to a ringing session. 
-
-- Keep up to date – review at least annually e.g. at AGM. 
+- Keep up to date – review at least annually e.g. at AGM.
 
 ## Societies 
 
@@ -45,7 +43,7 @@ Whenever contact details are publicised consider:
 
 *Figure 5: Selection of Society Badges*
 
-The tower may be affiliated to a local ringing society. That body may have the title of Association, Guild, Society, etc. It may cover the local area, county, diocese or country. A tower does not have to be a member of the local society. There are advantages to being a member, these may include: 
+The tower may be affiliated to a local ringing society. That body may have the title of Association, Guild, Society, etc. It may cover the local area, county, diocese or country. A tower does not have to be a member of the local society, however there may be advantages to being a member, these may include: 
 
 - Access to training and development. 
 
@@ -53,15 +51,15 @@ The tower may be affiliated to a local ringing society. That body may have the t
 
 - Insurance. 
 
-- Ringing and social meetings. Opportunities to meet other ringers with similar experience and age group, especially important for younger ringers.  
+- Ringing and social meetings, presenting opportunities to meet other ringers with similar experience and age group, this is considered especially important for younger ringers. 
 
-- Ringing at other towers and experiencing different number and weights of bells. 
+- Ringing at other towers and experiencing different number and weights of bells.
 
-- Opportunities to ring quarter peals and peals. 
+- Opportunities to progress an individual's ringing expertise. This may be achieved by the opportunity to ring quarter peals and peals with more experienced ringers.
 
-- Finding a “mentor” to support the development of individuals and of the band. 
+- Providing a “mentor” to support the development of individuals and of the band.
 
-- Taking committee positions – young people could gain experience for future careers. 
+- Taking committee positions – this can help develop individuals. Young people could gain experience for future careers. 
 
 Most societies are affiliated to the CCCBR. 
 
@@ -73,7 +71,7 @@ Most societies are affiliated to the CCCBR.
 
 Consider the use of: 
 
-- Posters outside, or inside, the building. Ensure that these are up to date, especially contact details. There are Publicity materials insert link to existing CCCBR documentation, including downloadable templates. 
+- Posters outside, or inside, the building. Ensure that these are kept up to date, especially any contact details. There are Publicity materials [Existing CCCBR documentation, including downloadable templates](https://cccbr.org.uk/resources/publicity-material/).
 
 - Flags, banners and publicity stands may be available from a local society.  
 
@@ -85,7 +83,7 @@ Further guidance on the use of social media is available at https://cccbr.org.uk
 
 Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. 
 
-For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. Insert link to CCCBR documentation. 
+For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document [Running a Project](https://cccbr.org.uk/major-projects/).
 
 ## Image Credits
 
