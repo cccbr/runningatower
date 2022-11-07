@@ -19,7 +19,7 @@ The ICE should indicate:
 
 - Telephone access. Investigate whether there is acceptable mobile telephone coverage. If not investigate where the nearest acceptable coverage is and where the nearest, readily available, telephone landline is. Display this, prominently, alongside the location. 
 
-- The location. Consider what location provides the best access for larger vehicles such as ambulances or fire appliances. Also consider the easiest means of access for stretchers, etc. Consider using a combination of the following: 
+- The location. Consider which location provides the best access for larger vehicles such as ambulances or fire appliances. Also, consider the easiest means of access for stretchers, etc. Consider using a combination of the following: 
 
 - Post code, this might not uniquely identify a property and will not define the entrance - further details can be found at Postcode finder. 
 
