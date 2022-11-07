@@ -25,11 +25,11 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 ### Appointment of Officers
 
-Further details can be found at 'Guidance notes - appointment of tower captain' - https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf.
+Further details can be found at ['Guidance notes - appointment of tower captain'](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf).
 
 Any appointment should be made in agreement with the tower authority.
 
-If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian. Further details can be found at 'Guidance notes - ringers and churches' - https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf. Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
+If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian. Further details can be found at ['Guidance notes - ringers and churches'](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf). Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
 
 A draft constitution may be available 
 
@@ -44,7 +44,7 @@ Consider when to ring and when not to ring. Occasions to ring include Sunday ser
 
 ### Arranging Ringing
 
-The advice is considered the responsibility ofthe CCCBR Volunteering and Leadership Work Group.
+This area is considered the responsibility of the [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/). The following information has been primarily source from that group.
 
 If you are not used to running ringing, doing so can seem daunting. There is no need for it to be, in essence it is simple. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. 
 
@@ -73,23 +73,23 @@ Decide what you want to achieve, both as a band and for individuals. If you can,
 
 ### Recruitment and maintaining a band
 
-Further details can be found at 'Guidance notes - recruitment and retention' https://cccbr.org.uk/resources/recruitment-and-retention/workshop/.
-There are resources available on the Central Council’s website Publicity material resources - https://cccbr.org.uk/resources/publicity-material/.
+Further details can be found at [Guidance notes - recruitment and retention](https://cccbr.org.uk/resources/recruitment-and-retention/workshop/).
+There are resources available in the [CCCBR Publicity material resources](https://cccbr.org.uk/resources/publicity-material/). These include the following:
 - Recruitment Leaflet - designed for distribution to the general public. Printed copies are available on request.
 - Tower Open Day poster - to be used for promotion of such.
 - Porch Notice - display essential information about ringing at the tower.
 - Engaging with the Public - useful information for engaging the public with ringing and any ringing-related activity taking place.
 Publicity Flyer: ‘Bell Ringing is fun and …’ - This leaflet was produced by Sue Hall, originally for the Derby Diocesan Association. It is downloadable and customisable.
 
-Other Central Council guidance through the following links to existing CCCBR documentation
-- Social media - https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf
-- Running a successful open day 
+Other Central Council guidance is available:
+- [Social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf).
+- [Running a successful open day](https://cccbr.org.uk/running-a-successful-tower-open-day-v6/).
 
-Further details can be found at Recruitment and retention workshop. https://cccbr.org.uk/resources/recruitment-and-retention/workshop/
+Further details can be found at [Recruitment and retention workshop](https://cccbr.org.uk/resources/recruitment-and-retention/workshop/).
 
 Teaching and developing visiting other towers, striking competitions, special practices.
 
-The Association of Ringing Teachers (ART) provides a structured set of guidelines - http://ringingteachers.org/resources/recruitment-and-retention
+The Association of Ringing Teachers (ART) provides a structured set of [guidelines](http://ringingteachers.org/resources/recruitment-and-retention).
 
 ### Safeguarding
 
@@ -106,10 +106,7 @@ There may be others, such as a tower subscription to The Ringing World.
 
 ### Visitors
 
-Is there an agreed policy for the number of visiting bands, how long such ringing should last and any special considerations around timings. The later may particularly apply when the bells are intrusive.
-
-Is there CCCBR guidance for acceptable use? There was a legal case many years ago – Harrogate? 
-John Harrison book – comprehensive, but now dated in some places
+Is there an agreed policy for the number of visiting bands, how long such ringing should last and any special considerations around timings. The latter may particularly apply when the bells are intrusive.
 
 ## Image Credits
 
