@@ -13,9 +13,9 @@ In the Church of England, the fees for wedding ringing are set by the PCC, hopef
 
 - Before and / or after the wedding. 
 
-- The length of the ringing. 
+- The length of time spent ringing. 
 
-- The number of bells. 
+- The number of bells to be rung. Some towers charge proportionately.
 
 - Likely travel times and distances, etc. 
 
@@ -31,13 +31,7 @@ Consider having fixed fees for:
 
 - Peals 
 
-These may be determined in consultation with the tower authority.  
-
-Subscriptions, to tower and local society. 
-
-## Payment of Fees 
-
-Arrangements must also be made for how the ringers receive the money. In the Church of England, it is likely that the couple pay all the costs at one time and the church then pass the money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
+These may be determined in consultation with the tower authority. If there are no fixed fees it is not unusual to expect voluntary donations from visiting bands and individuals.
 
 <img src="Electronic_donation.jpg" alt="drawing" height="250"/> 
 
@@ -47,21 +41,29 @@ Consider having an electronic payment system for fees and casual donations.  Avo
 
 Add request for Gift Aid – enables tax to be reclaimed 
 
+## Payment of Fees 
+
+Arrangements must also be made for how the ringers receive any payments. In the Church of England, it is likely that the couple pay the church the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
+
+## Subscriptions
+
+The tower and / or the local society may charge a subscription, thypically this is an amount payable annually.
+
 ## Expenditure 
 
 Agree with the tower authority and agree in advance who will pay for replaceable items e.g., ropes. 
 
-If a major project is envisaged the funding of this must be agreed in consultation with the tower authority. A separate document covers the running of a project. Insert link to that document 
+If a major project is envisaged the funding of this must be agreed in consultation with the tower authority. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
 ## Tower Funds 
 
-Towers sometimes have funds separate from the tower authority. These traditionally have been used for minor repairs and social events for ringers. Such funds are not advisable and money should not be held by individuals.  
+Towers sometimes have funds separate from the tower authority. These traditionally have been used for minor repairs and social events for ringers. Such funds are not advisable. Money should never be held by individuals.  
 
-If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts.  If lodging money with the PCC ensure that this is in a RESTRICTED fund designated for use only on the bells and associated installation. This should prevent the funds being diverted to other church projects. 
+If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts. If money is lodged with the PCC, ensure that this is in a RESTRICTED fund designated for use only on the bells and associated installation. This should prevent any money being diverted to other projects.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
-This allows VAT on certain maintenance costs to be reclaimed where the church is listed. This would normally apply to ropes purchased by the PCC (even if reimbursed by a separate ringers' fund) but not if purchased by a separate ringers' organisation. Further details at http://www.lpwscheme.org.uk/. 
+This allows VAT on certain maintenance costs to be reclaimed where the church is listed. This would normally apply to ropes purchased by the PCC (even if reimbursed by a separate ringers' fund) but not if purchased by a separate ringers' organisation. [Further details are available online](http://www.lpwscheme.org.uk/). 
 
 ## Image Credits
 
