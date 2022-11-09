@@ -48,11 +48,13 @@ Be aware of the guidelines and follow them. If there are children, young persons
 | :---: | --- |
 | Formalities | Anne White, David Bassford |
 | Promotion | Vicki Chapman |
+
 ----
 
 {{<hint info>}}
 **[Previous Chapter](../020-Communication/)** - **[Next Chapter](../040-Finance/)**
 {{</hint>}}
+
 ----
 
 ## Disclaimer
