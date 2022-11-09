@@ -69,7 +69,7 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber. A warning notice should be prominently displayed. 
 
-![Electronic control unit](Apoll0_Unit.jpg)
+![Electronic control unit](Apollo_Unit.jpg)
 
 ## Coat Hooks 
 
