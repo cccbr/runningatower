@@ -65,6 +65,7 @@ Ensure that ringers are not “locked in” the tower during ringing. Conversely
 {{<hint info>}}
 **[Previous Chapter](../050-HealthSafety/)** - **[Next Chapter](../070-RingingChamber/)**
 {{</hint>}}
+
 ----
 
 ## Disclaimer
