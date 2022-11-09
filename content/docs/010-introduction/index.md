@@ -25,7 +25,7 @@ The content is not intended to be exhaustive.
 
 ### Communication; keeping things running smoothly
 
-Communication with people external to the band. Liaison with relevant authorities, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-BuildingaTeam/).
+Communication with people external to the band. Liaison with relevant authorities, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
 
 ### Formalities; being compliant, safe and successful
  
@@ -35,7 +35,7 @@ Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR)
  
 ### Health and safety; staying safe
 
-Attendance, Insurance, Security, Tower access. What to do in the case of an emergency is covered [Emergency](../060-Emergency/).
+Attendance, Insurance, Security, Tower access. What to do in the case of an emergency is covered [Emergency](../060-emergency/).
 
 ### Emergency; what to do if things go wrong
 
