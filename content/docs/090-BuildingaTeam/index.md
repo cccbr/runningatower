@@ -5,9 +5,7 @@ weight: 90
 
 # Building a Team
 
-<img src="RingingChamber.jpg" alt="drawing" height="250">
-
-*Figure 1: Typical ringing chamber*
+![Typical ringing chamber](RingingChamber.jpg)
 
 ## Administration
 
@@ -59,9 +57,7 @@ The following are a series of tips to running ringing. Not all will be applicabl
 
 Not always possible if there are visitors, but generally you need to know why your ringers come to the ringing session, what their skill level is and at a practice, what if anything, they want to improve on. If there are visitors you don’t know then ask them if and what they can ring. Suggest some rounds for them to ‘get a feel of the bells’. When they ring, judge for yourself how accurate their statements were.
 
-<img src="YoungRingers.jpg" alt="drawing" height="250">
-
-*Figure 2: Young ringers in action*
+![Young ringers in action](YoungRingers.jpg)
 
 ### Purpose
 
@@ -113,7 +109,7 @@ Is there an agreed policy for the number of visiting bands, how long such ringin
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Typical ringing chamber at Great Barton, Suffolk | Photo: CCCBR archive |
-| 2 | Younger ringers in action at St Bartholomew, Nettlebed | Photo: CCCBR archive |
+| 2 | Young ringers in action at St Bartholomew, Nettlebed | Photo: CCCBR archive |
 
 
 ## Information supplied by 
