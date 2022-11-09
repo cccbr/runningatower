@@ -1,3 +1,8 @@
+---
+title: Planning
+weight: 92
+---
+
 # Building a Tower – Planning ringing 
 
 ## Timing  
@@ -57,3 +62,30 @@ For a ninety-minute practice session, you now have a basic 11 pieces of ringing 
 Note this is a template not a rigid plan. You will have to adjust as the session proceeds. You may not have enough ringers to divide into three or even two ability groups. There may not be a low-risk option for that final well struck piece of ringing. You might even want to practice ringing up and down in peal more than once! 
 
 What matters is to know what is going to be rung next and to some extent who is going to ring it. This will cut out dithering between ringing over what to ring and give you and ringers confidence that you are proactively running the session. Announcing what is coming after the next piece of ringing will speed up the changeover between pieces of ringing, as well as providing the mental rehearsal time mentioned above. 
+
+## Image Credits
+
+| Figure | Details | Source |
+| :---: | --- | --- |
+|  |  |  |
+
+## Information supplied by 
+
+| Section | Contributors |
+| :---: | --- |
+|  |  |
+
+----
+
+{{<hint info>}}
+**[Return](../090-BuildingaTeam/)**
+{{</hint>}}
+----
+
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.1, September 2022
+
+© 2022 Central Council of Church Bell Ringers
