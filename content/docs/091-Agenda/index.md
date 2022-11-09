@@ -1,3 +1,8 @@
+---
+title: Agenda
+weight: 91
+---
+
 # Agenda
 
 The following is an annotated example of an agenda. 
@@ -66,4 +71,31 @@ This is a good idea as this removes the difficulties when trying to arrange a me
 
 Avoid where possible and tell those attending that only items on the agenda will normally be discussed (inviting them to suggest items in advance). 
 
-Some organisations refer to this as "any other competent business". It should not be allowed to digress into a discussion. Ideally items here should be notified in advance. 
+Some organisations refer to this as "any other competent business". It should not be allowed to digress into a discussion. Ideally items here should be notified in advance.
+
+## Image Credits
+
+| Figure | Details | Source |
+| :---: | --- | --- |
+|  |  |
+
+## Information supplied by 
+
+| Section | Contributors |
+| :---: | --- |
+| |  |
+
+----
+
+{{<hint info>}}
+**[Return](../090-BuildingaTeam/)**
+{{</hint>}}
+----
+
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.1, September 2022
+
+© 2022 Central Council of Church Bell Ringers# Health & Safety 
