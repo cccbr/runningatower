@@ -9,25 +9,14 @@ weight: 20
 
 ![Heavitree, Devon](Heavitree.jpg)
 
-<img src="Heavitree.jpg" alt="drawing" height="250"/>
-
-*Figure 1: Heavitree, Devon*
 
 The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
 ![Exeter Cathedral, Devon](Exeter_Cathedral.jpg)
 
-<img src="Exeter_Cathedral.jpg" alt="drawing" height="250"/>
-
-*Figure 2: Exeter Cathedral, Devon*
-
 Elsewhere in religious buildings, for example in Church of England cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
 
 ![t'Klockhuys, Dordrecht, Netherlands](Dordrecht.jpg)
-
-<img src="Dordrecht.jpg" alt="drawing" height="250"/>
-
-*Figure 3: t'Klockhuys, Dordrecht*
 
 Authority also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner.  
 
@@ -38,10 +27,6 @@ These are applicable to the Church of England. Guidance notes on these should be
 ## Contact Details 
 
 ![CCCBR Porch Notice](CCCBR_Porch.jpg)
-
-<img src="CCCBR_Porch.jpg" alt="drawing" height="250"/> 
-
-*Figure 4: CCCBR Porch Notice*
 
 It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times. Contact details may contain name(s), telephone number(s) and / or e-mail address(es). Whenever contact details are publicised consider: 
 
@@ -56,10 +41,6 @@ It is useful to display contact details outside of the building, so as to be vis
 ## Societies 
 
 ![Badges of ringing societies](Society_Badges.jpg)
-
-<img src="Society_Badges.jpg" alt="drawing" height="250"/>
-
-*Figure 5: Selection of Society Badges*
 
 The tower may be affiliated to a local ringing society. That body may have the title of Association, Guild, Society, etc. It may cover the local area, county, diocese or country. A tower does not have to be a member of the local society, however there may be advantages to being a member, these may include: 
 
@@ -84,10 +65,6 @@ Most societies are affiliated to the CCCBR.
 ## Promotion 
 
 ![CCCBR recruitment leaflet](CCCBR_recruitment.jpg)
-
-<img src="CCCBR_recruitment.jpg" alt="drawing" height="250"/> 
-
-*Figure 6: CCCBR recuitment leaflet*
 
 Consider the use of: 
 
