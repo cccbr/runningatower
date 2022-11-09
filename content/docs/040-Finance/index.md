@@ -33,9 +33,7 @@ Consider having fixed fees for:
 
 These may be determined in consultation with the tower authority. If there are no fixed fees it is not unusual to expect voluntary donations from visiting bands and individuals.
 
-<img src="Electronic_donation.jpg" alt="drawing" height="250"/> 
-
-*Figure 1: Electronic donation (Alison Hodge)*
+!Electronic donation](Electronic_donation.jpg)
 
 Consider having an electronic payment system for fees and casual donations.  Avoid having a 'box on the wall', especially for downstairs rings, as these will invite theft and damage. 
 
