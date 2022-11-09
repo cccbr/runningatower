@@ -122,7 +122,7 @@ Is there an agreed policy for the number of visiting bands, how long such ringin
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../080-BellChamber)** - **[Next Chapter](../090-BuildingaTeam/)**
+**[Previous Chapter](../080-BellChamber)** - **[Next Chapter](../090-BuildingaTeam)**
 {{</hint>}}
 ----
 
