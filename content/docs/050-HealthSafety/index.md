@@ -5,7 +5,7 @@ weight: 50
 
 # Health & Safety
 
-Further details can be found at [Guidance notes - health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
+Further details can be found at [health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
 
 These must be in-line with the Tower authority’s policies. 
 
@@ -13,7 +13,7 @@ This includes guidance on:
 
 - Risk Assessments. 
 
-- Fire precautions, further details can be found at [Guidance notes - fire prevention](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
+- Fire precautions, further details can be found at [fire prevention](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
 
 - Fire safety. 
 
@@ -70,15 +70,15 @@ Regularly check that all items are within date.
 
 In the Church of England, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt. Do not expect a massive pay-out for a cut finger! 
 
-Further details can be found at [Guidance notes - insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
+Further details can be found at [insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
 ## Security 
 
-Further details can be found at [Guidance notes - security for ringers](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
+Further details can be found at [security for ringers](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this will present difficulties at times of sickness or absence. All keys should be registered with the tower authority. This may be a condition of the building insurance. 
 
-There is also [information in 'Belfy Upkeep’](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+There is also information in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Tower Access 
 
@@ -94,7 +94,7 @@ Turning clappers when bells are up should be avoided in all but exceptional case
 
 Many churches are insured through the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/).
 
-Information, for those working on bell installations, is available in ['Belfy Upkeep’]([Chapter 5](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+Information, for those working on bell installations, is available in [Belfry Upkeep]([Chapter 5](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Other Tower Users 
 
@@ -139,6 +139,4 @@ External references e.g., HSE, Church Care,
 
 Version 1.0.1, September 2022
 
-© 2022 Central Council of Church Bell Ringers# Health & Safety 
-
- 
+© 2022 Central Council of Church Bell Ringers
