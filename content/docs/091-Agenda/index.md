@@ -88,7 +88,7 @@ Some organisations refer to this as "any other competent business". It should no
 ----
 
 {{<hint info>}}
-**[Return](../090-BuildingaTeam/)**
+**[Return](../090-buildingateam/)**
 {{</hint>}}
 
 ----
