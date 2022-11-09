@@ -56,9 +56,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ## First Aid Kit 
 
-<img src="First_aid_kit.JPG" alt="drawing" height="250">
-
-*Figure 1: Readily available first aid kit*
+![Typical First Aid kit](First_aid_kit.jpg)
 
 Ideally there should be a first aid kit in the ringing chamber.  
 
@@ -98,11 +96,11 @@ Information, for those working on bell installations, is available in [Belfry Up
 
 ## Other Tower Users 
 
-<img src="Ground_floor.JPG" alt="drawing" height="250">     <img src="Barrier.jpg" alt="drawing" height="250">
-
-*Figure 2: Multi-use ringing chamber; Figure 3: Ground floor ringing chamber with barrier*<>
+![Multi-use ringing chamber](Ground_floor.jpg)
 
 There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Clergy and choirs are often users of ground floor areas and may do so at the same time as ringers.  
+
+![Barrier in ground floor ringing chamber](Barrier.jpg)
 
 Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. 
 
