@@ -30,7 +30,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 ----
 
 {{<hint info>}}
-**[First Chapter](/docs/010-introduction/)**
+**[First Chapter](/docs/010-Introduction/)**
 {{</hint>}}
 
 -----
