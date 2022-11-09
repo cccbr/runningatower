@@ -3,9 +3,7 @@ title: Running a Tower
 type: docs
 ---
 
-
-
-# Introduction
+# Introduction in content
 
 <img src="Broadclyst.jpg" alt="drawing" height="250"/>
 
