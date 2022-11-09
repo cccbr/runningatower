@@ -9,11 +9,9 @@ weight: 60
 
 *Figure 1: In Case of Emergency notice*
 
-{{<hint info>}}
-**[Blank ICE](../061-ICE)**
-{{</hint>}}
-
 Prominently display an ‘In Case of Emergency’ (ICE) notice. Ensure that this is kept up to date. 
+
+A blank form can be found [here](content/docs/060-Emergency/ICE Pro Forma.pdf).
 
 The ICE should indicate: 
 
@@ -81,5 +79,4 @@ Ensure that ringers are not “locked in” the tower during ringing. Conversely
 
 Version 1.0.1, September 2022
 
-© 2022 Central Council of Church Bell Ringers# Health & Safety 
-
+© 2022 Central Council of Church Bell Ringers
