@@ -20,22 +20,22 @@ The person chairing the meeting should be aware of the focus of the meeting and 
 The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the Parochial Church Council may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower authority would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
 
 {{<hint info>}}
-**[Meeting Agenda](../090-Agenda)**
+**[Meeting Agenda](../091-Agenda)**
 {{</hint>}}
 
 ### Appointment of Officers
 
-Further details can be found at ['Guidance notes - appointment of tower captain'](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf).
+Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf).
 
 Any appointment should be made in agreement with the tower authority.
 
-If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian. Further details can be found at ['Guidance notes - ringers and churches'](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf). Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
+If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian. Further details can be found at [Guidance notes - ringers and churches](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf). Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
 
 A draft constitution may be available 
 
 ### Calendar
 
-Maintain a calendar which is publicised to all, including the tower authority. This may be printed or held by some electronic means. The calendar should list
+Maintain a calendar which is publicised to all, including the tower authority. This may be printed or held by some electronic means. The calendar should list:
 •	The weekly, monthly schedule.
 •	Annual dates e.g., ringers’ dinner, tower outing(s), AGM
 •	Special events e.g., particular Saint’s days, (church) patronal festival, fetes 
@@ -68,7 +68,7 @@ Not always possible if there are visitors, but generally you need to know why yo
 Decide what you want to achieve, both as a band and for individuals. If you can, publicise what is to be rung, and why, a few days before each session. As far as attendance and performance allows try and ring what was advertised. If you were unable to ring what you said, briefly explain why at the end of the session. Remember the ringers are volunteers, the degree to which you can overtly structure the purpose of a session will vary with the band and with individuals. This of course goes back to knowing your ringers. Some may come to sessions mainly to get out of the house and socialise as part of a group. They may well be happy to get better at ringing, but it may not be a prime consideration. On the other hand, some may want to progress their ringing more. Having some, if only loose, structure to a session should help keep more people happy as they can see there is something in for them.
 
 {{<hint info>}}
-**[Ringing plan](../092-Plan)**
+**[Ringing plan](../092-Planning)**
 {{</hint>}}
 
 ### Recruitment and maintaining a band
@@ -126,7 +126,7 @@ Is there an agreed policy for the number of visiting bands, how long such ringin
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../080-BellChamber)** - **[Next Chapter](../090-BuildingTeam/)**
+**[Previous Chapter](../080-BellChamber)** - **[Next Chapter](../090-BuildingaTeam/)**
 {{</hint>}}
 ----
 
@@ -136,4 +136,4 @@ Is there an agreed policy for the number of visiting bands, how long such ringin
 
 Version 1.0.1, September 2022
 
-© 2022 Central Council of Church Bell Ringers# Health & Safety 
+© 2022 Central Council of Church Bell Ringers
