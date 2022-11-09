@@ -1,4 +1,4 @@
-baseURL = 'https://cccbr.github.io/runningatower'
+baseURL = 'https://runningatower.cccbr.org.uk'
 languageCode = 'en-uk'
 title = 'Running a Tower'
 theme = 'hugo-book'
