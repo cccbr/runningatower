@@ -52,7 +52,7 @@ Be aware of the guidelines and follow them. If there are children, young persons
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../020-Communication/)** - **[Next Chapter](../040-Finance/)**
+**[Previous Chapter](../020-communication/)** - **[Next Chapter](../040-finance/)**
 {{</hint>}}
 
 ----
