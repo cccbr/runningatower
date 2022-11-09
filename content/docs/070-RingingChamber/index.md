@@ -17,9 +17,7 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 ## Access
 
-<img src="Nonslip_Step.JPG" alt="drawing" height="250">
-
-*Figure 1: Non-slip staircase surface*
+![Non-slip staircase](Nonslip_Step.JPG)
 
 If the ringing chamber is upstairs:
 
@@ -37,9 +35,7 @@ Is there any other way of accessing the ringing chamber that is less inconvenien
 
 ## Boxes 
 
-<img src="Boxes.JPG" alt="drawing" height="250">
-
-*Figure 2: Selection of boxes*
+![Selection of boxes](Boxes.JPG)
 
 Further details are available at [notes on ringing boxes](https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf). 
 
@@ -53,17 +49,13 @@ Are there wedges for uneven floors
 
 ## Carpets and Rope Mats
 
-<img src="Carpet_Mats.jpg" alt="drawing" height="250">
-
-*Figure 3: Carpet, mats and boxes - Exeter Cathedral*
+![Carpet, mats and boxes at Exeter Cathedral](Carpet_Mats.jpg)
 
 Mats and carpets, where the rope comes into contact should ideally be pure wool. They should not contain nylon as this can lead to excessive rope wear.  
 
 ## Ceiling, Rope Guides,  Spiders 
 
-<img src="Rope_Guide.JPG" alt="drawing" height="250">
-
-*Figure 4: Rope guide - Melbourne, Derbyshire*
+![Rope guide at Melbourne, Derbyshire](Rope_Guide.JPG)
 
 Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. 
 
@@ -73,11 +65,11 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 ## Chiming Apparatus 
 
-<img src="Ellacombe.jpg" alt="drawing" height="250"> <img src="Apollo_Unit.jpg" alt="drawing" height="250">
-
-*Figure 5: Ellacombe chiming frame;* *Figure 6: Electronic control unit*
+![Ellacombe chiming frame](Ellacombe.jpg)
 
 Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber. A warning notice should be prominently displayed. 
+
+![Electronic control unit](Apoll0_Unit.jpg)
 
 ## Coat Hooks 
 
@@ -99,9 +91,7 @@ Consider arrangements to make the environment comfortable. In summer this may in
 
 ## Lighting 
 
-<img src="Well_Lit.jpg" alt="drawing" height="250">
-
-*Figure 7: Well lit ringing chamber*
+![A well lit ringing chamber](Well_Lit.jpg)
 
 Further details can be found at [lighting in and around towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
 
@@ -125,9 +115,7 @@ Is all seating fit for purpose?
 
 ## Notices Boards and Information 
 
-<img src="Notice_Board.JPG" alt="drawing" height="250"> <img src="Resource_Table.JPG" alt="drawing" height="250">
-
-*Figure 8: Typical notice board;* *Figure 9: Teaching aids*
+![Typical notice board](Notice_Board.JPG)
 
 Are notice board(s) displaying up-to-date information, such as tower and Society notices?  
 
@@ -160,9 +148,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ## Other areas to consider 
 
-<img src="CCTV.jpg" alt="drawing" height="250">
-
-*Figure 10: CCTV covering church interior and bell chamber*
+![CCTV installation](CCTV.jpg)
 
 CCTV may cover the ringing chamber and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
@@ -180,17 +166,13 @@ The following is a list of possible assets, though not exhaustive. In all cases 
 
 ### Display bell(s) 
 
-<img src="Model_Bell.JPG" alt="drawing" height="250">
-
-*Figure 11: Model bell for demonstration*
+![Demonstration bell](Model_Bell.JPG)
 
 If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
 
 ### Handbells
 
-<img src="Handbells.JPG" alt="drawing" height="250">
-
-*Figure 12: Set of fourteen handbells in cases*
+![Set of handbells in carrying cases](Handbells.JPG)
 
 Are these usable? If not, consider restoration otherwise they are merely a display item.
 
@@ -198,23 +180,17 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 
 ### Records
 
-<img src="Peal_Boards.jpg" alt="drawing" height="250">
-
-*Figure 13: Peal boards at St. Mark, Exeter*
+![Peal boards at St. Mark, Exeter, Devon](Peal_Boards.jpg)
 
 Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found in the [History and Archive work group](https://cccbr.org.uk/about/workgroups/historical-and-archive/) pages.  
 
 Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower authorities and an Archdeacons' consultation in a Church of England church.
 
-<img src="Visitors_Book.JPG" alt="drawing" height="250">
-
-*Figure 14: Visitor's book*
+![Typical visitor book](Visitors_Book.JPG)
 
 ### Simulators
 
-<img src="Simulator.jpg" alt="drawing" height="250">
-
-*Figure 15: using the simulator at Great Gransden, Cambridgeshire*
+![Simulator at Great Gransden, Cambridgeshire](Simulator.jpg)
 
 Are the components kept securely? Have the electrical components been PAT tested by an approved contractor?  
 
@@ -230,9 +206,7 @@ If unsure, consider contacting your local Association Towers & Belfries Committe
 
 ### Tools 
 
-<img src="Tools.JPG" alt="drawing" height="250">
-
-*Figure 16: Selection of tools*
+![Stable tools](Tools.JPG)
 
 Are these usable and not simply rusted away? 
 
@@ -240,9 +214,7 @@ It may be preferable for the person doing maintenance to provide their own tools
 
 ### Trophies 
 
-<img src="Trophies.jpg" alt="drawing" height="250">
-
-*Figure 17: Trophies at Exeter Cathedral*
+![Ringing trophies heald at Exeter Cathedral, Devon](Trophies.jpg)
 
 These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
 
