@@ -7,8 +7,9 @@ weight: 10
 
 # Introduction
 
-<img src="Broadclyst.jpg" alt="drawing" height="250"/>
 ![Broadclyst, Devon](Broadclyst.jpg)
+
+<img src="Broadclyst.jpg" alt="drawing" height="250"/>
 
 *Figure 1: Broadclyst, Devon*
 
