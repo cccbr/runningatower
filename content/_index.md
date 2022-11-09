@@ -3,61 +3,37 @@ title: Running a Tower
 type: docs
 ---
 
-# Introduction in content
+Welcome to *Running a Tower*. This online document, produced by the Central Council Stewardship & Management Workgroup, is aimed at the Tower Captain -- the one overall responsible for looking after all aspects of a tower.. You may be an established Tower Captain, one just new to the job or someone wondering if you should take it on.
 
-<img src="Broadclyst.jpg" alt="drawing" height="250"/>
+Our aims in this document are:
 
-*Figure 1: Broadclyst, Devon*
+- To help you understand what requirements there are including statutory and legal 
+- To help you make your tower an enjoyable place to be
+- To give you hints on how to run the tower
 
-{{<hint danger>}}
-This document addresses key aspects of running a tower.
-{{</hint>}}
+## Finding Your Way Round
 
-The lead role in this is often called the tower captain although other titles are sometimes used e.g. ringing master.
+If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
 
-It is provided as advice and guidance for the tower captain or potential tower captain, whilst also acting as a guide for ringers generally.
-
-## Scope
-
-The content is not intended to be exhaustive.
-
-## Topics
-
-### Communication; keeping things running smoothly
-
-Communication with people external to the band. Liaison with relevant authorities, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-BuildingaTeam/).
-
-### Formalities; being compliant, safe and successful
- 
-Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
-
-### Finance; income and expenditure including fees
- 
-### Health and safety; staying safe
-
-Attendance, Insurance, Security, Tower access. What to do in the case of an emergency is covered [Emergency](../060-Emergency/).
-
-### Emergency; what to do if things go wrong
-
-### Tower Environment; keeping your tower running smoothly
-
-Divided between the ringing chamber and the bell chamber. The latter is primarily covered in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
-
-### Building a Team; creating a supportive environment
-
-Officers, Meetings, Running ringing sessions.
+Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic*** blue refer to entries in the 'Glossary' chapter.
 
 ## Image Credits
 
-| Figure | Details | Contributor |
-| :---: | --- | --- |
-| 1 | Broadclyst, Devon | James Kirkcaldy |
+Credits will be found at the end of each chapter. The picture on this page shows 
+
+## Latest Changes
+
+| Date | Changes |
+| ---- | ---- |
+| 09/11/2022 | First publication. All chapters at v1.0 |
 
 ----
 
 {{<hint info>}}
-**[First Chapter](/docs/010-introduction)**
+**[First Chapter](/docs/010-introduction/)**
 {{</hint>}}
+
+-----
 
 ## Disclaimer
 
