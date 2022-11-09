@@ -7,19 +7,27 @@ weight: 20
 
 ## Liaison with relevant authority 
 
-<img src="Heavitree.jpg" alt="drawing" height="250"/>     <img src="Exeter_Cathedral.jpg" alt="drawing" height="250"/>     <img src="Dordrecht.jpg" alt="drawing" height="250"/>
+<img src="Heavitree.jpg" alt="drawing" height="250"/>
 
-*Figure 1: Heavitree, Devon; Figure 2: Exeter Cathedral, Devon; Figure 3: t'Klockhuys, Dordrecht*
+*Figure 1: Heavitree, Devon*
 
 The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
+<img src="Exeter_Cathedral.jpg" alt="drawing" height="250"/>
+
+*Figure 2: Exeter Cathedral, Devon*
+
 Elsewhere in religious buildings, for example in Church of England cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
+
+<img src="Dordrecht.jpg" alt="drawing" height="250"/>
+
+*Figure 3: t'Klockhuys, Dordrecht*
 
 Authority also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner.  
 
 ## Faculties 
 
-These are applicable to the Church of England. Guidance notes on these should be consulted for any proposed changes within the tower. The following link gives more detail - [Guidance notes - changes to the faculty process](https://cccbr.org.uk/wp-content/uploads/2022/06/SM_Faculty_Changes_2022_Ver_3.pdf).
+These are applicable to the Church of England. Guidance notes on these should be consulted for any proposed changes within the tower. Futher information can be found at [changes to the faculty process](https://cccbr.org.uk/wp-content/uploads/2022/06/SM_Faculty_Changes_2022_Ver_3.pdf).
 
 ## Contact Details 
 
@@ -71,7 +79,7 @@ Most societies are affiliated to the CCCBR.
 
 Consider the use of: 
 
-- Posters outside, or inside, the building. Ensure that these are kept up to date, especially any contact details. There are Publicity materials [Existing CCCBR documentation, including downloadable templates](https://cccbr.org.uk/resources/publicity-material/).
+- Posters outside, or inside, the building. Ensure that these are kept up to date, especially any contact details. There are [Publicity materials](https://cccbr.org.uk/resources/publicity-material/) on the CCCBR website, this includes downloadable templates.
 
 - Flags, banners and publicity stands may be available from a local society.  
 
