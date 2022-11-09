@@ -86,6 +86,6 @@ What matters is to know what is going to be rung next and to some extent who is 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.1, September 2022
+Version 1.0.0, November 2022
 
 © 2022 Central Council of Church Bell Ringers
