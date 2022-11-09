@@ -8,6 +8,7 @@ weight: 10
 # Introduction
 
 <img src="Broadclyst.jpg" alt="drawing" height="250"/>
+![Broadclyst, Devon](Broadclyst.jpg)
 
 *Figure 1: Broadclyst, Devon*
 
