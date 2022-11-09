@@ -9,10 +9,6 @@ weight: 10
 
 ![Broadclyst, Devon](Broadclyst.jpg)
 
-<img src="Broadclyst.jpg" alt="drawing" height="250"/>
-
-*Figure 1: Broadclyst, Devon*
-
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
 {{</hint>}}
