@@ -101,7 +101,7 @@ Are there any protected species e.g., bats? If there are, especial care must be 
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../070-RingingChamber/)** - **[Next Chapter](../090-BuildingaTeam/)**
+**[Previous Chapter](../070-ringingchamber/)** - **[Next Chapter](../090-buildingateam/)**
 {{</hint>}}
 
 ----
