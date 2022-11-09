@@ -9,7 +9,7 @@ Picture of welcoming tower interior
 
 Try to keep the ringing chamber a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
 
-The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful to them for their permission to reuse this material. The links to which are as follow:
+The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful for permission to reuse this material. The links are:
 
 - [Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)
 
@@ -41,7 +41,7 @@ Is there any other way of accessing the ringing chamber that is less inconvenien
 
 *Figure 2: Selection of boxes*
 
-[Guidance notes on ringing boxes](https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf). 
+Further details are available at [notes on ringing boxes](https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf). 
 
 Are these secure and suitable for use? 
 
@@ -77,7 +77,7 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 *Figure 5: Ellacombe chiming frame;* *Figure 6: Electronic control unit*
 
-Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber.  
+Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber. A warning notice should be prominently displayed. 
 
 ## Coat Hooks 
 
@@ -103,7 +103,7 @@ Consider arrangements to make the environment comfortable. In summer this may in
 
 *Figure 7: Well lit ringing chamber*
 
-Further details can be found at [Guidance notes - lighting in and around towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
+Further details can be found at [lighting in and around towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
 
 Is the ringing chamber:
 
@@ -141,7 +141,7 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 # The Ringing Experience 
 
-There is a major overlap here with the [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/).
+The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) pages should also be consulted.
 
 # Go of the bells 
 
@@ -202,7 +202,7 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 
 *Figure 13: Peal boards at St. Mark, Exeter*
 
-Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found from the [History and Archive Work Group](https://cccbr.org.uk/about/workgroups/historical-and-archive/).  
+Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found in the [History and Archive work group](https://cccbr.org.uk/about/workgroups/historical-and-archive/) pages.  
 
 Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower authorities and an Archdeacons' consultation in a Church of England church.
 
@@ -220,7 +220,7 @@ Are the components kept securely? Have the electrical components been PAT tested
 
 ### Spare ropes  
 
-See relevant information in [Rope section of 'Belfry Upkeep'](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
+See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
 
 It is a good idea to have a few usable spares to cover any bell, as needed. 
 
@@ -275,6 +275,7 @@ These are the usually the property of the awarding body. However, they are in th
 | Section | Contributors |
 | :---: | --- |
 | Ringing Chamber | Tony Crabtree |
+| Ringing Chamber | Tom Ridgman |
 
 ----
 
@@ -289,4 +290,4 @@ These are the usually the property of the awarding body. However, they are in th
 
 Version 1.0.1, September 2022
 
-© 2022 Central Council of Church Bell Ringers# Health & Safety 
+© 2022 Central Council of Church Bell Ringers
