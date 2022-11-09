@@ -63,7 +63,7 @@ If essential, specific treasurer’s accounts are available and may be free from
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
-This allows VAT on certain maintenance costs to be reclaimed where the church is listed. This would normally apply to ropes purchased by the PCC (even if reimbursed by a separate ringers' fund) but not if purchased by a separate ringers' organisation. [Further details are available online](http://www.lpwscheme.org.uk/). 
+This allows VAT on certain maintenance costs to be reclaimed where the church is listed. This would normally apply to ropes purchased by the PCC (even if reimbursed by a separate ringers' fund) but not if purchased by a separate ringers' organisation. Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/). 
 
 ## Image Credits
 
@@ -90,4 +90,4 @@ This allows VAT on certain maintenance costs to be reclaimed where the church is
 
 Version 1.0.1, September 2022
 
-© 2022 Central Council of Church Bell Ringers# Finance 
+© 2022 Central Council of Church Bell Ringers
