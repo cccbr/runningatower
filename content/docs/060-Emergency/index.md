@@ -5,7 +5,7 @@ weight: 60
 
 # Emergency 
 
-![An ICE notice](ice_350_ICE.jpg)
+![An ICE notice](ice_350.jpg)
 
 Prominently display an ‘In Case of Emergency’ (ICE) notice. Ensure that this is kept up to date. 
 
