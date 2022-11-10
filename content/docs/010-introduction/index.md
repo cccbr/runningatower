@@ -7,7 +7,7 @@ weight: 10
 
 # Introduction
 
-![Broadclyst, Devon](broadclyst_500.jpg)
+![Broadclyst, Devon](broadclyst_350.jpg)
 
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
