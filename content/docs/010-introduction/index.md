@@ -51,7 +51,7 @@ Officers, Meetings, Running ringing sessions.
 
 | Figure | Details | Contributor |
 | :---: | --- | --- |
-| 1 | Broadclyst, Devon | James Kirkcaldy |
+| 1 | Broadclyst, Devon | Photo: James Kirkcaldy |
 
 ----
 
