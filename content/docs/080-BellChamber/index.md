@@ -51,11 +51,9 @@ There are several different types of stays in use. Typically one of the above wi
 
 ## Muffles  
 
-![(Older) leather fastening muffle](muffle_old_350.jpg)
+![(Older) leather fastening muffle](muffle_old_350.jpg) ![(Modern) Velcro fastening muffle](muffle_new_350.jpg)
 
 There are two basic types of muffle. The older type is attached by means of leather straps and / or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Ensure that it is known how to fit these correctly. Muffles should be fitted with the bells down and, as in all cases when work is undertaken in the bell chamber, with a second person present. When not in use muffles should be stored in a fabric bag, ideally hung in the ringing chamber. They should not be thrown into a cupboard which may be damp and therefore cause deterioration. 
-
-![(Modern) Velcro fastening muffle](muffle_new_350.jpg)
 
 Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops. Bells are only rung fully muffled (or deeply muffled i.e.. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
 
