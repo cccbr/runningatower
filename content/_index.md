@@ -23,6 +23,10 @@ Within the text, links to sections within the current chapter, to other chapters
 
 Credits will be found at the end of each chapter. The picture on this page shows 
 
+| Figure | Details | Contributor |
+| :---: | --- | --- |
+| 1 | Fortheringhay, Northamptonshire | James Kirkcaldy |
+
 ## Latest Changes
 
 | Date | Changes |
