@@ -65,7 +65,7 @@ Muffles are, traditionally, used on a limited number of occasions such as funera
 
 There are various types and means of fitting. ART recommend one based on an old cycle inner tube which is very good. 
 
-![Rope clapper tie](tie_rope_1_350.JPG) ![](tie_rope_2_350.JPG)
+![Rope clapper tie](tie_rope1_350.JPG) ![](tie_rope_2.JPG)
 
 It may be preferred to tie the clapper on the hand stroke side so as not to be fine-set for teaching basic bell handling. 
 
