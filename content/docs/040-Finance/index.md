@@ -3,8 +3,6 @@ title: Finance
 weight: 40
 ---
 
-#Finance
-
 ## Income  
 
 ### Weddings 
