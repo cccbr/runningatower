@@ -19,7 +19,7 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 {{<hint info>}}%
 **[Meeting Agenda](../091-agenda)**
-{{</hint>}
+{{</hint>}}
 
 ### Appointment of Officers
 
