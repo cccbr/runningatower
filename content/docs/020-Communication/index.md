@@ -25,7 +25,7 @@ These are applicable to the Church of England. Guidance notes on these should be
 
 ## Contact Details 
 
-![CCCBR Porch Notice](CCCBR_Porch.jpg)
+![CCCBR Porch Notice](porch_350.jpg)
 
 It is useful to display contact details outside of the building, so as to be visible when the building is not open. If regular ringing takes place, include the relevant times. Contact details may contain name(s), telephone number(s) and / or e-mail address(es). Whenever contact details are publicised consider: 
 
@@ -63,7 +63,7 @@ Most societies are affiliated to the CCCBR.
 
 ## Promotion 
 
-![CCCBR recruitment leaflet](CCCBR_recruitment.jpg)
+![CCCBR recruitment leaflet](recruitment_350.jpg)
 
 Consider the use of: 
 
