@@ -29,7 +29,7 @@ Any appointment should be made in agreement with the tower authority.
 
 If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian. Further details can be found at [Guidance notes - ringers and churches](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf). Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
 
-A draft constitution may be available 
+A draft constitution may be available.
 
 ### Calendar
 
@@ -53,7 +53,7 @@ Perhaps the most important things to remember are:
 
 The following are a series of tips to running ringing. Not all will be applicable to you and the ringing that you are running. You do not need to remember, let alone master, them all when you start. You will discover which work in your unique circumstances. There is no standard tower nor standard ringing session. With that in mind here are some tips.
 
-### Know your ringers 
+### Know your ringers
 
 Not always possible if there are visitors, but generally you need to know why your ringers come to the ringing session, what their skill level is and at a practice, what if anything, they want to improve on. If there are visitors you don’t know then ask them if and what they can ring. Suggest some rounds for them to ‘get a feel of the bells’. When they ring, judge for yourself how accurate their statements were.
 
