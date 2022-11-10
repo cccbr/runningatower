@@ -39,7 +39,7 @@ It is useful to display contact details outside of the building, so as to be vis
 
 ## Societies 
 
-![Badges of ringing societies](Society_Badges.jpg)
+![Badges of ringing societies](badges_350.jpg)
 
 The tower may be affiliated to a local ringing society. That body may have the title of Association, Guild, Society, etc. It may cover the local area, county, diocese or country. A tower does not have to be a member of the local society, however there may be advantages to being a member, these may include: 
 
