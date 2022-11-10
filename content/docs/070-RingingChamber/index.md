@@ -121,7 +121,7 @@ Are notice board(s) displaying up-to-date information, such as tower and Society
 
 ## Teaching aids and a suitable space for teaching. 
 
-![Typical resources](resource_350.jpg)
+![Typical resources](resource_350.JPG)
 
 This may include model bell(s), simulator(s), books and pictures of the bells above The latter is especially useful for those unable to climb to see them (see also CCTV).
 
@@ -152,7 +152,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ![CCTV installation](cctv_350.jpg)
 
-CCTV may cover the ringing chamber and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
+CCTV. This may cover the ringing chamber and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
 Communication links to the body of the building, especially where the ringing chamber is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone / visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
 
