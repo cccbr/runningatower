@@ -7,7 +7,7 @@ weight: 80
 
 This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing chamber. The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). 
 
-![Low-side metal frame at Broadclyst, Devon](Broadclyst_bells.jpg)
+![Low-side metal frame at Broadclyst, Devon](frame_350.jpg)
 
 Need to be clear about who is responsible whilst pointing out that ringers are often the only ones with regular access to parts of the church building and have a 'duty of care'. 
 
@@ -45,29 +45,27 @@ Ensure regular checks of the bells, frame, fittings and whether all electrical i
 
 ## Stays 
 
-![Conventional stay and slider](Stay_Conventional.jpg)
+![Conventional stay and slider](stay_conv_1.jpg) ![Hastings stay](stay_hast_1.jpg)
 
 There are several different types of stays in use. Typically one of the above will be found. It is useful to have spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! The measurement of Hastings stays needs to be particularly precise. 
 
-![Hastings stay](Stay_Hastings.jpg)
-
 ## Muffles  
 
-![(Older) leather fastening muffle](Muffle_Conventional.jpg)
+![(Older) leather fastening muffle](muffle_old_350.jpg)
 
 There are two basic types of muffle. The older type is attached by means of leather straps and / or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Ensure that it is known how to fit these correctly. Muffles should be fitted with the bells down and, as in all cases when work is undertaken in the bell chamber, with a second person present. When not in use muffles should be stored in a fabric bag, ideally hung in the ringing chamber. They should not be thrown into a cupboard which may be damp and therefore cause deterioration. 
 
-![(Modern) Velcro fastening muffle](Muffle_Velcro.jpg)
+![(Modern) Velcro fastening muffle](muffle_new_350.jpg)
 
 Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops. Bells are only rung fully muffled (or deeply muffled i.e.. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
 
 ## Silencers
 
-![Wooden clapper tie](Solid_Tie.jpg)
+![Wooden clapper tie](tie_solid_350.jpg)
 
 There are various types and means of fitting. ART recommend one based on an old cycle inner tube which is very good. 
 
-![Rope clapper tie](Rope_Tie_external.JPG) ![](Rope_Tie_internal.JPG)
+![Rope clapper tie](tie_rope_1_350.JPG) ![](tie_rope_2_350.JPG)
 
 It may be preferred to tie the clapper on the hand stroke side so as not to be fine-set for teaching basic bell handling. 
 
