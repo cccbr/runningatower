@@ -15,7 +15,7 @@ The term “Authority” is used to mean the owner(s) and / or persons responsib
 
 Elsewhere in religious buildings, for example in Church of England cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
 
-![t'Klockhuys, Dordrecht, Netherlands](Dordrecht.jpg)
+![t'Klockhuys, Dordrecht, Netherlands](dordrecht_350.jpg)
 
 Authority also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner.  
 
