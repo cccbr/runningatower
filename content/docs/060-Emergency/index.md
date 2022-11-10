@@ -5,7 +5,7 @@ weight: 60
 
 # Emergency 
 
-![An ICE notice](Broadclyst_ICE.jpg)
+![An ICE notice](ice_350_ICE.jpg)
 
 Prominently display an ‘In Case of Emergency’ (ICE) notice. Ensure that this is kept up to date. 
 
@@ -35,11 +35,11 @@ The ICE should indicate:
 
 Liaise with the local emergency services to discuss their access and also emergency exits. Towers can be awkward and confined spaces presenting difficulties in access and egress, especially with stretchers and casualties. They may be happy to run a training exercise for both emergency services staff and ringers. 
 
-![Typical fire alarm](Fire_alarm.jpg)
+![Typical fire alarm](alarm_350.jpg)
 
 Fire extinguisher and alarms – are these audible and visible when the bells are being rung? 
 
-![Fire exit indicator](Exit_indicator.jpg)
+![Fire exit indicator](exit_350.jpg)
 
 Emergency lighting and exits – are these regularly checked and are people aware of these, especially the lead of any group. 
 
