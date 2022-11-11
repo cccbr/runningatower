@@ -3,6 +3,8 @@ title: Bell Chamber
 weight: 80
 ---
 
+**Site currently under construction**
+
 # Bell Chamber
 
 This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing chamber. The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). 
