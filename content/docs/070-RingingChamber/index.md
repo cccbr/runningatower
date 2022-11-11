@@ -1,5 +1,5 @@
 ---
-title: RingingChamber
+title: Ringing Chamber
 weight: 70
 ---
 
