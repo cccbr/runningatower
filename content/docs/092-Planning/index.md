@@ -3,6 +3,8 @@ title: Planning
 weight: 92
 ---
 
+**Site currently under construction**
+
 # Building a Tower – Planning ringing 
 
 ## Timing  
