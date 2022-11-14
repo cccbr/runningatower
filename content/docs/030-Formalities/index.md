@@ -49,7 +49,6 @@ Be aware of the guidelines and follow them. If there are children, young persons
 | Section | Contributors |
 | :---: | --- |
 | Formalities | Anne White, David Bassford |
-| Promotion | Vicki Chapman |
 
 ----
 
