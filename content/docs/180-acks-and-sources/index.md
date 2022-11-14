@@ -19,6 +19,13 @@ This chapter lists the people who have contributed, in various ways, to this doc
 
 ## Sources
 
+| Section | Contributors |
+| :---: | --- |
+| Communication | James Morgan, Vicki Chapman |
+| Formalities | Anne White, David Bassford |
+| Health & Safety | Tony Crabtree |
+| Ringing Chamber | Tony Crabtree |
+| Building a Team | Paul Wotton | Vicki Chapman |
 
 ----
 
