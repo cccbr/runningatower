@@ -21,13 +21,15 @@ In the Church of England, the fees for wedding ringing are set by the PCC, hopef
 
 - Likely travel times and distances, etc. 
 
-The couple should be advised that ringing may not continue until the bride arrives if she is excessively late.  
+The couple should be advised that if the bride arrives excessively late, ringing may not continue until her arrival and may be curtailed after the service. Consider setting an end time when ringing will finish by, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and helps get a band. This is useful to help co-ordinate when ringers are required at a few local churches on the same day. 
 
 ## Fees for other ringing 
 
 Consider having fixed fees for: 
 
-- Visiting bands  
+- Visiting bands
+
+- Funerals, possibly fee commensurate with that for weddings.
 
 - Quarter peals 
 
@@ -39,7 +41,7 @@ These may be determined in consultation with the tower authority. If there are n
 
 Consider having an electronic payment system for fees and casual donations.  Avoid having a 'box on the wall', especially for downstairs rings, as these will invite theft and damage. 
 
-Add request for Gift Aid – enables tax to be reclaimed 
+Include a request for Gift Aid which enables tax to be reclaimed.
 
 ## Payment of Fees 
 
