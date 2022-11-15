@@ -47,7 +47,7 @@ Ensure regular checks of the bells, frame, fittings and whether all electrical i
 
 ## Stays 
 
-![Conventional stay and slider](stay_conv_1.jpg) ![Hastings stay](stay_hast_1.jpg)
+![Conventional stay and slider](stay_conv_1a.jpg) ![Hastings stay](stay_hast_1.jpg)
 
 There are several different types of stays in use. Typically one of the above will be found. It is useful to have spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! The measurement of Hastings stays needs to be particularly precise, including the designed tapers. 
 
