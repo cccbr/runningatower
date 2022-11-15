@@ -17,7 +17,7 @@ The term ***[authority](../170-glossary/#authority)*** is used to mean the owner
 
 Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#CofE)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
 
-![Mobile Belfry 2 at CCCBR, Nottingham](mobile2_350.jpg)
+![Mobile Belfry 2 at CCCBR, Nottingham](mobile2_350.JPG)
 
 ***[Authority](../170-glossary/#authority)*** also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner. 
 
@@ -89,7 +89,7 @@ For major projects such as the restoration of an installation, including augment
 | :---: | --- | --- |
 | 1 | St. Michael & All Angels, Heavitree, Devon | Photo: James Kirkcaldy |
 | 2 | Cathedral Church of St. Peter, Exeter, Devon | Photo: James Kirkcaldy |
-| 3 | t'Klockhuys, Dordrecht | Photo: James Kirkcaldy |
+| 3 | Mobile Belfry 2 at Nottingham CCCBR Road Show | Photo: James Kirkcaldy |
 | 4 | CCCBR porch notice | CCCBR |
 | 5 | Various Society badges | Photo: James Kirkcaldy |
 | 6 | CCCBR recruitment leaflet page 1 | CCCBR |
