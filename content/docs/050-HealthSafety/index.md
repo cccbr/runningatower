@@ -8,12 +8,12 @@ weight: 50
 # Health & Safety
 
 {{<hint danger>}}
-A tower is a non-domestic setting, and as such the controller of premises has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the controller of premises is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
+A tower is a non-domestic setting, and as such the tower ***[authority](../170-glossary/#authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the ***[authority](../170-glossary/#authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
 {{</hint>}}
 
 Further details can be found at [health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
 
-These must be in-line with the Tower authority’s policies. Tower authority is defined within [liaison with relevant authority](../020-Communication/).
+These must be in-line with the Tower ***[authority](../170-glossary/#authority)***'s policies. Tower authority is defined within [liaison with relevant authority](../020-Communication/).
 
 This includes guidance on: 
 
@@ -55,7 +55,7 @@ Towers may wish to have a separate (traditional) visitors' book as an historic r
 
 ## Additional requirements 
 
-The tower authority may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
+The tower ***[authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
 
 Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The CCCBR website will normally detail the latest guidance in such cases.
 
