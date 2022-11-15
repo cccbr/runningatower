@@ -11,7 +11,7 @@ weight: 40
 
 ### Weddings 
 
-In the Church of England, the fees for wedding ringing are set by the ***[PCC](../170-glossary/#PCC)***, hopefully in consultation with the ringers. These should reflect whether ringing is: 
+In the ***[C of E](../170-glossary/#CofE)***, the fees for wedding ringing are set by the ***[PCC](../170-glossary/#PCC)***, hopefully in consultation with the ringers. These should reflect whether ringing is: 
 
 - Before and / or after the wedding. 
 
@@ -41,11 +41,11 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these will
 
 ![Electronic donation](donate_350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. These may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the ***[PCC](../170-glossary/#PCC)*** and its treasurer, within a church setting, which may allow gift aid to be recovered and ensure that payments for ringing can be captured in an appropriate account. N.B. Request for Gift Aid, enabling tax to be reclaimed, only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. These may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the ***[PCC](../170-glossary/#PCC)*** and its treasurer, within a church in the ***[C of E](../170-glossary/#CofE)***. It may allow gift aid to be recovered and ensure that payments for ringing can be captured in an appropriate account. N.B. Request for Gift Aid, enabling tax to be reclaimed, only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
-Arrangements must also be made for how the ringers receive any payments. In the Church of England, it is likely that the couple pay the church the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
+Arrangements must also be made for how the ringers receive any payments. In the ***[C of E](../170-glossary/#CofE)***, it is likely that the couple pay the church the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
 
 ## Subscriptions
 
@@ -59,7 +59,7 @@ If a major project is envisaged the funding of this must be agreed in consultati
 
 ## Tower Funds 
 
-In the Church of England, funds are best held within the ***[PCC](../170-glossary/#PCC)*** accounts. Ideally these should be ring-fenced so as to prevent their use for non-ringing related expenditure. This is achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
+In the ***[C of E](../170-glossary/#CofE)***, funds are best held within the ***[PCC](../170-glossary/#PCC)*** accounts. Ideally these should be ring-fenced so as to prevent their use for non-ringing related expenditure. This is achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
 If a tower has funds, separate from the tower ***[authority](../170-glossary/#authority)***, these should never be held by an individual. These, traditionally, have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
