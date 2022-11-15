@@ -49,7 +49,7 @@ Ensure regular checks of the bells, frame, fittings and whether all electrical i
 
 ![Conventional stay and slider](stay_conv_1.jpg) ![Hastings stay](stay_hast_1.jpg)
 
-There are several different types of stays in use. Typically one of the above will be found. It is useful to have spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! The measurement of Hastings stays needs to be particularly precise. 
+There are several different types of stays in use. Typically one of the above will be found. It is useful to have spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! The measurement of Hastings stays needs to be particularly precise, including the designed tapers. 
 
 ## Muffles  
 
@@ -57,13 +57,13 @@ There are several different types of stays in use. Typically one of the above wi
 
 There are two basic types of muffle. The older type is attached by means of leather straps and / or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Ensure that it is known how to fit these correctly. Muffles should be fitted with the bells down and, as in all cases when work is undertaken in the bell chamber, with a second person present. When not in use muffles should be stored in a fabric bag, ideally hung in the ringing chamber. They should not be thrown into a cupboard which may be damp and therefore cause deterioration. 
 
-Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops. Bells are only rung fully muffled (or deeply muffled i.e.. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
+Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops. Bells are only rung fully muffled (or deeply muffled i.e. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
 
 ## Silencers
 
 ![Wooden clapper tie](tie_solid_350.jpg)
 
-There are various types and means of fitting. ART recommend one based on an old cycle inner tube which is very good. 
+There are various types and means of fitting. ART recommend one based on an old cycle inner tube. 
 
 ![Rope clapper tie](tie_rope1_350.JPG) ![](tie_rope_2.JPG)
 
@@ -73,7 +73,7 @@ It may be preferred to tie the clapper centrally if the main objective is simula
 
 ## Wildlife 
 
-Are there any protected species e.g., bats? If there are, especial care must be taken so as not disturb them
+Are there any protected species e.g. bats? If there are, especial care must be taken so as not disturb them. It should be noted that ingress by any species, whether protected or not, will create a great deal of mess. Removing this must not be undertaken without suitable protective equipment.
 
 ## Image Credits
 
