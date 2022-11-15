@@ -33,7 +33,7 @@ The following are, probably, the minimum that an active society should have - Ri
 
 ## Election of Officers.  
 
-The following is given as a suggestion and is not definitive. The society, together with the tower ***[authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have - Ringing Master, Deputy Ringing Master, Secretary, Treasurer, Steeple Keeper. These are recommendations to the tower authority for their approval. 
+The following is given as a suggestion and is not definitive. The society, together with the tower ***[authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have - Ringing Master, Deputy Ringing Master, Secretary, Treasurer, Steeple Keeper. These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval. 
 
 ## Review of membership.  
 
