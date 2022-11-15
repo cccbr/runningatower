@@ -11,7 +11,7 @@ weight: 20
 
 ![Heavitree, Devon](heavitree_350.jpg)
 
-The term “Authority” is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
+The term ***[authority](../170-glossary/#authority)***“ is used to mean the owner(s) and / or persons responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the Church of England. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The Parochial Church Council (PCC) has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
@@ -19,9 +19,7 @@ Elsewhere in religious buildings, for example in Church of England cathedrals, c
 
 ![t'Klockhuys, Dordrecht, Netherlands](dordrecht_350.JPG)
 
-Authority also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner. 
-
-The legal term for this is "Controller of Premisses", it doesn’t matter who specifically, but this could be the PCC, Dean and Chapter, a charitable group, or an individual who is legally responsible for the building. Technically it is incumbent on the Controller of Premises to ensure all regulations are compiled with, but they should also support the ringers if things are not available.
+***[Authority](../170-glossary/#authority)*** also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner. 
 
 ## Faculties 
 
