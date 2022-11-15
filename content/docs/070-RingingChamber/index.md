@@ -68,7 +68,7 @@ These should be fit for purpose. There is a commonly held belief that wool is be
 
 Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. 
 
-Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomess abrasive to ropes, generally wearing out the rope immediately above the sally. A dense timber is better as it holds a polish and doesn’t abrade the ropes. If unsure, seek expert advice, maybe from your Association towers and belfries committee or a professional bell hanger. 
+Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomess abrasive to ropes, generally wearing out the rope immediately above the sally. A dense timber is better as it holds a polish and doesn’t abrade the ropes. If unsure, seek expert advice, maybe from your Society, ***[CCCBR](../170-glossary/#CCCBR)***, or a professional bell hanger. 
 
 Is the rope circle poor or very unequally spaced? Again, consider seeking advice as above, especially when there are ropes very close together.  
 
@@ -152,7 +152,7 @@ Are the sound levels in the ringing chamber good? Is it echoey? if so, consider 
 
 Do the bells “shout” down through a trap door or through the stair door? Ensuring these are closed adequately insulted may be easily redressed.
 
-Further advice may be available from your local Society or the CCCBR. If the problem is larger then consult a professional.
+Further advice may be available from your local Society or the ***[CCCBR](../170-glossary/#CCCBR)***. If the problem is larger then consult a professional.
 
 Consider the external acoustics. The bells may cause annoyance to neighbours if especially loud. There may be a professional means of reducing this.
 
@@ -214,7 +214,7 @@ It is a good idea to have a few usable spares to cover any bell, as needed. Natu
 
 Do you have at least one person able, and willing, to check the ropes at suitable intervals? If not a local society 'expert' may be able to assist. If a person is available locally, can they identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
-If unsure, consider contacting your local Society or the CCCBR.
+If unsure, consider contacting your local Society or the ***[CCCBR](../170-glossary/#CCCBR)***.
 
 ### Tools 
 
