@@ -21,11 +21,11 @@ The ICE should indicate:
 
 - Post code, this might not uniquely identify a property and will not define the entrance - further details can be found at Postcode finder. 
 
-- What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at what3words.  
+- What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at [what3words](https://what3words.com/about).  
 
 - Ordnance Survey grid reference, these can be easily transposed when under pressure. Reference can be determined using e.g., google maps. 
 
-- Names of any trained first aiders. 
+- Names of any trained first aiders. Ideally the ***[authority](../170-glossary/#authority)*** should offer training, which should be kept up to date.
 
 - Location of the first aid kit. The first aid kit must be accessible to ringers when the rest of the building is locked e.g., it must not be in a locked vestry. 
 
@@ -39,13 +39,19 @@ Liaise with the local emergency services to discuss their access and also emerge
 
 ![Typical fire alarm](alarm_350.jpg)
 
-Fire extinguisher and alarms – are these audible and visible when the bells are being rung? 
+## Fire extinguisher and alarms.
+
+These must audible and visible when the bells are being rung. These must be inspected tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement.
 
 ![Fire exit indicator](exit_350.jpg)
 
-Emergency lighting and exits – are these regularly checked and are people aware of these, especially the lead of any group. 
+## Emergency lighting and exits
 
-Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors can gain access to the building. Advise visitors to make contact in advance by publicising this, for instance on the building website. 
+These must be inspected tested regularly and be in date. They must be to adequate to safely set the bells ahould the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[authority](../170-glossary/#authority)***.
+
+The design of the fire alarm system shall be in accordance with a fire safety plan. 
+
+Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors might gain access to the building. Advise such visitors to make contact in advance by publicising this, for instance on the building website. 
 
  ## Image Credits
 
