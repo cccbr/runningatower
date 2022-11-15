@@ -61,7 +61,7 @@ The tower may be affiliated to a local ringing society. That body may have the t
 
 - Taking committee positions – this can help develop individuals. Young people could gain experience for future careers. 
 
-Most societies are affiliated to the ***[authority](../170-glossary/#CCCBR)***. 
+Most societies are affiliated to the ***[CCCBR](../170-glossary/#CCCBR)***. 
 
 ## Promotion 
 
