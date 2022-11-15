@@ -13,11 +13,11 @@ weight: 90
 
 ### Annual Meeting
 
-Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the tower authority. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
+Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the tower ***[authority](../170-glossary/#authority)***. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
 The agenda should be distributed in advance together with a request for items to be included in any other business. The idea of an agenda is to keep a meeting on track. 
 
 The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
-The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the Parochial Church Council may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower authority would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
+The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the Parochial Church Council may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower ***[authority](../170-glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
 
 {{<hint info>}}%
 **[Meeting Agenda](../091-agenda)**
@@ -27,7 +27,7 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf).
 
-Any appointment should be made in agreement with the tower authority.
+Any appointment should be made in agreement with the tower ***[authority](../170-glossary/#authority)***.
 
 If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian. Further details can be found at [Guidance notes - ringers and churches](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf). Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
 
@@ -35,7 +35,7 @@ A draft constitution may be available.
 
 ### Calendar
 
-Maintain a calendar which is publicised to all, including the tower authority. This may be printed or held by some electronic means. The calendar should list:
+Maintain a calendar which is publicised to all, including the tower ***[authority](../170-glossary/#authority)***. This may be printed or held by some electronic means. The calendar should list:
 •	The weekly, monthly schedule.
 •	Annual dates e.g., ringers’ dinner, tower outing(s), AGM
 •	Special events e.g., particular Saint’s days, (church) patronal festival, fetes 
