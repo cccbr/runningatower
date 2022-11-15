@@ -35,13 +35,13 @@ Consider having fixed fees for:
 
 - Peals 
 
-These may be determined in consultation with the tower authority. If there are no fixed fees it is not unusual to expect voluntary donations from visiting bands and individuals.
+These may be determined in consultation with the tower ***[authority](../170-glossary/#authority)***. If there are no fixed fees it is not unusual to expect voluntary donations from visiting bands and individuals.
 
 Avoid having a 'box on the wall', especially for downstairs rings, as these will invite theft and damage. 
 
 ![Electronic donation](donate_350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. These may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the PCC and PCC treasurer which may allow gift aid to be recovered and ensure that payments for ringing can be captured in an appropriate account. N.B. Request for Gift Aid, enabling tax to be reclaimed, only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. These may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the PCC and PCC treasurer, within a church setting, which may allow gift aid to be recovered and ensure that payments for ringing can be captured in an appropriate account. N.B. Request for Gift Aid, enabling tax to be reclaimed, only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
@@ -53,14 +53,14 @@ The tower and / or the local society may charge a subscription, thypically this 
 
 ## Expenditure 
 
-Agree with the tower authority and agree in advance who will pay for replaceable items e.g., ropes. It may be worth running more of the tower funds through the PCC (registered charity and registered with HMRC for Gift Aid). For example, a £600 inc VAT invoice, paid by the church can reduce the cost to a (tax paying) donor to £400. That is a reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This is a big encouragement to use the PCC funds over any tower fund. The LPWS (at present day) covers all bell fittings, bells, bell ropes and muffles.
+Agree with the tower ***[authority](../170-glossary/#authority)*** and agree in advance who will pay for replaceable items e.g., ropes. In the Church of England, it may be worth running more of the tower funds through the PCC (registered charity and registered with HMRC for Gift Aid). For example, a £600 inc VAT invoice, paid by the church can reduce the cost to a (tax paying) donor to £400. That is a reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This is a big encouragement to use the PCC funds over any tower fund. The LPWS (at present day) covers all bell fittings, bells, bell ropes and muffles.
 
-If a major project is envisaged the funding of this must be agreed in consultation with the tower authority. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
+If a major project is envisaged the funding of this must be agreed in consultation with the tower ***[authority](../170-glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
 ## Tower Funds 
 
-Funds are best held within the PCC accounts. Ideally these should be ring-fenced so as to prevent their use for non-ringing related expenditure. This is achieved by a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
-If a tower has funds, separate from the tower authority, these should never be held by an individual. These, traditionally, have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts.
+In the Church of England, funds are best held within the PCC accounts. Ideally these should be ring-fenced so as to prevent their use for non-ringing related expenditure. This is achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
+If a tower has funds, separate from the tower ***[authority](../170-glossary/#authority)***, these should never be held by an individual. These, traditionally, have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
