@@ -15,7 +15,7 @@ The term ***[authority](../170-glossary/#authority)*** is used to mean the owner
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
-Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#C of E)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
+Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#CofE)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
 
 ![t'Klockhuys, Dordrecht, Netherlands](dordrecht_350.JPG)
 
@@ -23,7 +23,7 @@ Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#C 
 
 ## Faculties 
 
-These are applicable to the ***[C of E](../170-glossary/#C of E)***. Guidance notes on these should be consulted for any proposed changes within the tower. Futher information can be found at [changes to the faculty process](https://cccbr.org.uk/wp-content/uploads/2022/06/SM_Faculty_Changes_2022_Ver_3.pdf).
+These are applicable to the ***[C of E](../170-glossary/#CofE)***. Guidance notes on these should be consulted for any proposed changes within the tower. Futher information can be found at [changes to the faculty process](https://cccbr.org.uk/wp-content/uploads/2022/06/SM_Faculty_Changes_2022_Ver_3.pdf).
 
 ## Contact Details 
 
