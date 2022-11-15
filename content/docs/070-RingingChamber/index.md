@@ -144,7 +144,7 @@ The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/
 # Go of the bells 
 
 Are the bells odd-struck? Are any bells set too fine or too deep?
-This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, CCCBR or a professional. 
+This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../170-glossary/#CCCBR)*** or a professional. 
 
 # Sound 
 
