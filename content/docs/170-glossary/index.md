@@ -21,6 +21,10 @@ The legal term for this is “Controller of Premisses”, it doesn’t matter wh
 
 The Council is the representative body for all who ring bells in the English tradition with rope and wheel. Founded in 1891, the Council today represents 65 affiliated societies, which cover all parts of the British Isles as well as centres of ringing in Australia, New Zealand, Canada, the USA, South Africa and Italy. These societies in turn comprise the members of the local companies of ringers in their areas. Further details on their **[website](https://cccbr.org.uk/about/workgroups/stewardship-and-management)/**.
 
+## C of E - Church of England
+
+The established Christian church in England and the mother church of the international Anglican Communion. Further details on their **[website](https://churchofengland.org.uk)**. Over 95% of towers containing at least three bells are in the Anglican Communion.
+
 ## PCC - Parochial Church Council
 
 The principal function, or purpose, of the PCC is defined as "promoting in the parish the whole mission of the Church". The PCC is a charity governed by two pieces of Church of England legislation, called Measures. Further details on their **[website](https://www.churchofengland.org/resources/clergy-resources/pcc-accountability-guide)**.
