@@ -11,7 +11,7 @@ As with any technical subject, bell ringing and bell hanging has, over the years
 
 ## ART - Association of Ringing Teachers
 
-Organisation involved with all aspects of teaching ringing. Further details on their [website](https://ringingteachers.org/).
+Organisation involved with all aspects of teaching ringing. Further details on their **[website](https://ringingteachers.org/)**.
 
 ## Authority 
 
