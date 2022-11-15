@@ -13,7 +13,7 @@ The following is an annotated example of an agenda.
 
 ## Prayers and opening remarks.  
 
-Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the tower authority, and possibly not a ringer, they may provide feedback on a more public basis. 
+Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the tower ***[authority](../170-glossary/#authority)***, and possibly not a ringer, they may provide feedback on a more public basis. 
 
 ## Apologies for absence.  
 
@@ -33,7 +33,7 @@ The following are, probably, the minimum that an active society should have - Ri
 
 ## Election of Officers.  
 
-The following is given as a suggestion and is not definitive. The society, together with the tower authority, may decide on additional offices. The following are the, probably, the minimum that an active society should have - Ringing Master, Deputy Ringing Master, Secretary, Treasurer, Steeple Keeper. These are recommendations to the tower authority for their approval. 
+The following is given as a suggestion and is not definitive. The society, together with the tower ***[authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have - Ringing Master, Deputy Ringing Master, Secretary, Treasurer, Steeple Keeper. These are recommendations to the tower authority for their approval. 
 
 ## Review of membership.  
 
@@ -49,11 +49,11 @@ The person with responsibility, in the tower, should be invited to report and up
 
 ## Financial Matters 
 
-Tower and society subscriptions. Proposals for fees for weddings, special occasions, visiting bands, quarter peals, peals, etc. These are recommendations to the tower authority for their approval. Funding for routine maintenance and any special projects. 
+Tower and society subscriptions. Proposals for fees for weddings, special occasions, visiting bands, quarter peals, peals, etc. These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval. Funding for routine maintenance and any special projects. 
 
 ## Tower environment and bell installation condition. 
 
-Status of checks, formal record of work undertaken, in progress and required. Feedback from tower authority. In the case of a church this would include the quinquennial inspection. Other formal assessments as required. 
+Status of checks, formal record of work undertaken, in progress and required. Feedback from tower ***[authority](../170-glossary/#authority)***. In the case of a church this would include the quinquennial inspection. Other formal assessments as required. 
 
 ## Ringing plans.  
 
