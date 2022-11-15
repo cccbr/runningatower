@@ -49,11 +49,19 @@ The person with responsibility, in the tower, should be invited to report and up
 
 ## Financial Matters 
 
-Tower and society subscriptions. Proposals for fees for weddings, special occasions, visiting bands, quarter peals, peals, etc. These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval. Funding for routine maintenance and any special projects. 
+- Tower and society subscriptions. 
+- Proposals for fees for weddings, special occasions, visiting bands, quarter peals, peals, etc. 
+- Funding for routine maintenance and any special projects.
+- If a ring-fenced account is in use, any changes to the conditions.
+
+These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval.
 
 ## Tower environment and bell installation condition. 
 
-Status of checks, formal record of work undertaken, in progress and required. Feedback from tower ***[authority](../170-glossary/#authority)***. In the case of a church this would include the quinquennial inspection. Other formal assessments as required. 
+- Status of checks.
+- Formal record of work undertaken, in progress and required. 
+- Feedback from tower ***[authority](../170-glossary/#authority)***. In the case of a church this would include the quinquennial inspection. 
+- Other formal assessments as required. 
 
 ## Ringing plans.  
 
