@@ -57,7 +57,7 @@ Towers may wish to have a separate (traditional) visitors' book as an historic r
 
 The tower ***[authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
 
-Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The CCCBR website will normally detail the latest guidance in such cases.
+Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The ***[CCCBR](../170-glossary/#CCCBR)*** website will normally detail the latest guidance in such cases.
 
 ## First Aid Kit 
 
