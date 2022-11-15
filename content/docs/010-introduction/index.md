@@ -25,7 +25,7 @@ The content is not intended to be exhaustive.
 
 ### Communication; keeping things running smoothly
 
-Communication with people external to the band. Liaison with relevant authorities, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
+Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
 
 ### Formalities; being compliant, safe and successful
  
