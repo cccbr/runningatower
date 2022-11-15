@@ -7,7 +7,7 @@ type: docs
 
 ![Fotheringhay, Northamptonshire](fotheringhay_350.jpg)
 
-Welcome to *Running a Tower*. This online document, produced by the Central Council Stewardship & Management Workgroup, is aimed at the Tower Captain -- the person with overall responsibility for looking after all aspects of a tower. You may be an established Tower Captain, one just new to the job or someone wondering if you should take it on.
+Welcome to *Running a Tower*. This online document, produced by the ***[Central Council Stewardship & Management Workgroup](../170-glossary/#CCCBR)***, is aimed at the Tower Captain -- the person with overall responsibility for looking after all aspects of a tower. You may be an established Tower Captain, one just new to the job or someone wondering if you should take it on.
 
 Our aims in this document are:
 
