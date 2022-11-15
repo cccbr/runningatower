@@ -33,11 +33,21 @@ The following are, probably, the minimum that an active society should have - Ri
 
 ## Election of Officers.  
 
-The following is given as a suggestion and is not definitive. The society, together with the tower ***[authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have - Ringing Master, Deputy Ringing Master, Secretary, Treasurer, Steeple Keeper. These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval. 
+The following is given as a suggestion and is not definitive. The society, together with the tower ***[authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have 
+- Ringing Master
+- Deputy Ringing Master
+- Secretary
+- Treasurer
+- Steeple Keeper. 
+
+These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval. 
 
 ## Review of membership.  
 
-This includes the election of new members, any updates to the tower constitution and members ’Code of Conduct. This item may be used to record thanks to previous members, congratulations, condolences, etc. This item also offers the opportunity for members to be reminded of the tower’s approach to GDPR for the retention of their personal details, and that Equality and Diversity are topics to be respected. Particular attention must be made for members under 18 for their parental engagement. 
+- Election of new members
+- Uupdates to the tower constitution and members ’Code of Conduct. 
+- This item may be used to record thanks to previous members, congratulations, condolences, etc. 
+- This item also offers the opportunity for members to be reminded of the tower’s approach to GDPR for the retention of their personal details, and that Equality and Diversity are topics to be respected. Particular attention must be made for members under 18 for their parental engagement. 
 
 ## Safeguarding.  
 
@@ -67,15 +77,14 @@ These are recommendations to the tower ***[authority](../170-glossary/#authority
 
 There are several areas that this may cover.  
 
-A focus on what it is planned to ring as a goal for individuals and as a band.  
-
-Dates and times of future ringing sessions, especially extra ones.  
-
-Allocation of peal attempts, visiting bands, social events, etc. Consider national and local events that may warrant special ringing. 
+- A focus on what it is planned to ring as a goal for individuals and as a band.
+- Dates and times of future ringing sessions, especially extra ones.
+- Allocation of peal attempts, visiting bands, social events, etc. 
+- Consideration of national and local events that may warrant special ringing. 
 
 ## Date of next meeting.  
 
-This is a good idea as this removes the difficulties when trying to arrange a meeting at short notice, when participants diaries may be filling up or full. 
+This is a good idea. This removes the difficulties when trying to arrange a meeting at short notice, when participants diaries may be filling up or full. 
 
 ## Any other business.  
 
