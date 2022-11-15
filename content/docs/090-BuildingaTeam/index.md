@@ -33,12 +33,18 @@ If there are a number of ringers attached to the tower, it is a good idea to eng
 
 A draft constitution may be available.
 
+### Bell Fund
+
+If tower funds are held in a PCC restricted bell fund, that should be reviewed. The bellringers (not the PCC) should have the ability to amend the restrictions at the AGM by a majority vote.
+
 ### Calendar
 
 Maintain a calendar which is publicised to all, including the tower ***[authority](../170-glossary/#authority)***. This may be printed or held by some electronic means. The calendar should list:
-•	The weekly, monthly schedule.
-•	Annual dates e.g., ringers’ dinner, tower outing(s), AGM
-•	Special events e.g., particular Saint’s days, (church) patronal festival, fetes 
+-	The weekly, monthly schedule.
+-	Annual dates e.g. ringers’ dinner, tower outing(s), AGM
+-	Special events e.g. particular Saint’s days, (church) patronal festival, fetes 
+-	Public Open days, e.g. heritage open days.
+- Training days, teaching sessions when not a practice night.
 
 Consider when to ring and when not to ring. Occasions to ring include Sunday services, weddings, funerals, church events, national events, patronal day, local festivals and traditions. It is worth compiling a list for your tower. Occasions not to ring may include Holy Week, see the “Ringing Forums” discussion on this. 
 
@@ -49,9 +55,9 @@ This area is considered the responsibility of the [CCCBR Volunteering and Leader
 If you are not used to running ringing, doing so can seem daunting. There is no need for it to be, in essence it is simple. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. 
 
 Perhaps the most important things to remember are:
-•	Ringers are volunteers. They are at the practice because they want to be.
-•	Ringers are human. They have good days and bad days. What they can ring well one week they might struggle with the next.
-•	Ringing is a team activity. How well we ring and how much pleasure we get from it depends on how well the band rings; not just on how well the individual rings.
+-	Ringers are volunteers. They are at the practice because they want to be.
+-	Ringers are human. They have good days and bad days. What they can ring well one week they might struggle with the next.
+-	Ringing is a team activity. How well we ring and how much pleasure we get from it depends on how well the band rings; not just on how well the individual rings.
 
 The following are a series of tips to running ringing. Not all will be applicable to you and the ringing that you are running. You do not need to remember, let alone master, them all when you start. You will discover which work in your unique circumstances. There is no standard tower nor standard ringing session. With that in mind here are some tips.
 
