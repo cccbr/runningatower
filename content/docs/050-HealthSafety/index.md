@@ -25,16 +25,15 @@ This includes guidance on:
 
 - First aid. 
 
-- Electrical power, lighting and emergency lighting. 
+- Electrical power, lighting and emergency lighting. The inspection and test records, including annual PAT testing of all plug in portable appliances. Earth bonding testing of the tower and lightning protection.
 
 - Accidents and illness. 
 
-- Advice for visitors, both ringers and non-ringers. 
+- Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g if ringing a peal. Induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
 
-Consideration should be given to special occasions such as tower open days when large numbers of people may be present. 
+Consideration should be given to special occasions such as tower open days when large numbers of people may be present. There is some advce within [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/), however this not written by CCCBR.
 
-
-Ringing is safe until you forget it is dangerous. Your first responsibility, as the person in charge, is the safety of the ringers.  
+Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers.  
 
 - If a novice ringer is normally able to handle a bell but still sometimes gets into trouble, nominate an experienced ringer to stand close by to intervene if necessary. 
 
@@ -98,7 +97,7 @@ Turning clappers when bells are up should be avoided in all but exceptional case
 
 Many churches are insured through the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/).
 
-Information, for those working on bell installations, is available in [Belfry Upkeep]([Chapter 5](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+Information, for those working on bell installations, is available in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Other Tower Users 
 
