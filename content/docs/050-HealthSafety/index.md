@@ -67,11 +67,11 @@ Ideally there should be a first aid kit in the ringing chamber.
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items are within date.
+Regularly check that all items are within date. The First Aid kit should be listed on the ***[authorities](../170-glossary/#authority)*** log of First aid kits within the building, together with records of periodic inspections.
 
 ## Insurance 
 
-In the Church of England, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt. Do not expect a massive pay-out for a cut finger! 
+In the Church of England, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt.
 
 Further details can be found at [insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
@@ -87,7 +87,7 @@ There is also information in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/d
 
 [Guidance notes - Tower Access and Stairways](https://cccbr.org.uk/2017/05/16/tower-access-stairways-guidance/).
 
-Consider the number of keys and/or key holders. There is a balance between security (preventing access) but enabling reasonable access. Emergency exits must never be compromised. 
+Consider the number of keys and/or key holders. There is a balance between security (preventing access) but enabling reasonable access. Exits for use in an emergency  must never be compromised. 
 
 Spiders and ropes should, ideally, be left inaccessible e.g. locked away. This is essential in accessible ringing chambers.  
 
@@ -111,14 +111,12 @@ Consideration also needs to be given to visitors on open days and the general pu
 
 There may also be persons requiring access to other installations (such as mobile telephone equipment housed in the tower). 
 
-External references e.g., HSE, Church Care, 
-
  ## Image Credits
 
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Small first aid kit | Photo: Tony Crabtree |
-| 2 | Multi-use ground floor chamber | Photo: Tony Crabtree |
+| 2 | Ground floor chamber | Photo: Tony Crabtree |
 | 3 | Ground floor ring with barrier | Photo: Alison Hodge |
 
 ----
