@@ -118,4 +118,4 @@ Some organisations refer to this as "any other competent business". It should no
 
 Version 1.0.0, November 2022
 
-© 2022 Central Council of Church Bell Ringers# Health & Safety 
+© 2022 Central Council of Church Bell Ringers
