@@ -71,7 +71,7 @@ Regularly check that all items are within date. The First Aid kit should be list
 
 ## Insurance 
 
-In the Church of England, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt.
+In the ***[C of E](../170-glossary/#CofE)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt.
 
 Further details can be found at [insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
