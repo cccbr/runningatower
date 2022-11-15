@@ -9,7 +9,7 @@ weight: 30
 
 # Disclosure and Barring Service (DBS) Checks 
 
-In the Church of England, the Tower Captain and anyone teaching within the tower, must have an up-to-date check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
+In the ***[C of E](../170-glossary/#CofE)***, the Tower Captain and anyone teaching within the tower, must have an up-to-date check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
 
 # General Data Protection Regulation (GDPR) 
 
@@ -25,7 +25,7 @@ Further details can be found at [General Data Protection Regulation](https://ccc
 
 Further details can be found at [safeguarding](https://cccbr.org.uk/safeguarding/). 
 
-In a Church of England setting, the Tower Captain, and other persons with responsibilities, should have completed the Safeguarding Leadership training module. It would be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
+In a ***[C of E](../170-glossary/#CofE)*** setting, the Tower Captain, and other persons with responsibilities, should have completed the Safeguarding Leadership training module. It would be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
 
 The required levels must always be in line with the tower authority’s policies.   
 
