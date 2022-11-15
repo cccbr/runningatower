@@ -13,7 +13,7 @@ A tower is a non-domestic setting, and as such the controller of premises has a 
 
 Further details can be found at [health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf). 
 
-These must be in-line with the Tower authority’s policies. 
+These must be in-line with the Tower authority’s policies. Tower authority is defined within [liaison with relevant authority](../020-communication/).
 
 This includes guidance on: 
 
