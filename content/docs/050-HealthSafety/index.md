@@ -31,7 +31,7 @@ This includes guidance on:
 
 - Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g if ringing a peal. Induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
 
-Consideration should be given to special occasions such as tower open days when large numbers of people may be present. There is some advce within [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/), however this not written by CCCBR.
+Consideration should be given to special occasions such as tower open days when large numbers of people may be present. There is some advce within [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/), however this was not written by the ***[CCCBR](../170-glossary/#CCCBR)***.
 
 Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers.  
 
