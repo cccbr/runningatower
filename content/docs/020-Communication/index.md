@@ -19,7 +19,7 @@ Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#Co
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
 
-***[Authority](../170-glossary/#authority)*** also means those owning and / or responsible for rings of bells in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner. 
+***[Authority](../170-glossary/#authority)*** also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – for example, the Local Authority for a municipal ring of bells, or a private owner. 
 
 ## Faculties 
 
