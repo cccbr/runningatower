@@ -5,7 +5,7 @@ type: docs
 
 {{<hint danger>}}
 **Site currently under construction**
-{{</hint}}
+{{</hint>}}
 
 ![Fotheringhay, Northamptonshire](fotheringhay_350.jpg)
 
