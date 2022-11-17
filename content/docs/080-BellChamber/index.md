@@ -90,14 +90,6 @@ Are there any protected species e.g. bats? If there are, especial care must be t
 
 ----
 
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| The Bell Installation | Tom Ridgman |
-
-----
-
 {{<hint info>}}
 **[Previous Chapter](../070-ringingchamber/)** - **[Next Chapter](../090-buildingateam/)**
 {{</hint>}}
