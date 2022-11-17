@@ -3,25 +3,24 @@ title: Planning
 weight: 92
 ---
 
-**Site currently under construction**
+**Site currently under contruction**
 
-# Building a Tower – Planning ringing 
+# Planning ringing
 
 ![Ringers at Southrepps, Norfolk](Southrepps.jpg)
 
-## Timing  
+## Timing
 
-{{<hint info>}}
-- At the start not all ringers will arrive on time, also allow for greeting, hanging up coats, etc. (There will be a similar process at the end of the session.)
-- If bells have to be raised and lowered, this can take up to 15 minutess out of the time. This won’t be all ringing time.
-- If the session is 90 minutes long, this leaves 75 minutes to achieve aims and, hopefully, give everyone at least one piece of useful and satisfy ringing. 
-- It takes 4-5 minutes to ring 120 changes of Doubles or Minor. On 8, or more, bells plain courses and touches will be. 4-5 minutes is also a reasonable period to time for rounds and/or call changes. 
-- Allow 2-3 minutes to change over between each piece.
-{{<\hint>}}
-
-Using the above calculations allows for 9 pieces of ringing.
-
-## Plan ahead 
+- At the start not all ringers will arrive on time.
+- Allow for greeting, hanging up coats, etc.
+- Bells may have to be raised and lowered which may take up to 15 minutes.
+- If session is 90 minutes long, this allows 75 minutes to achieve aims. These should give everyone at least one piece of useful and satisfying ringing.
+- 120 changes of Doubles or Minor takes 4-5 minutes. On 8, or more, pieces will generally be longer. 4-5 minutes is a suitable time for rounds and call changes.
+- Allow 2-3 minutes to change over between pieces.
+           
+The above calculations result in around 9 pieces of ringing.
+           
+## Plan Ahead
 
 To get the most out of the time available plan at least one piece of ringing ahead, ideally two. This reduces gaps between pieces and allows more time for ringing. 
  
@@ -35,7 +34,6 @@ To get the most out of the time available plan at least one piece of ringing ahe
 
 For a ninety-minute practice session, you now have a basic 11 pieces of ringing template. 
 
-{{<hint info>}}
 - Ring up, in peal (if you can)
 - Simplest for some members of least able group 
 - Relatively simple for middle ability group 
@@ -47,7 +45,6 @@ For a ninety-minute practice session, you now have a basic 11 pieces of ringing 
 - Middle ability group piece 
 - Low risk higher ability group piece 
 - Ring down, in peal (if you can)
-{{<\hint>}}
 
 Note this is a template not a rigid plan. 
             
@@ -81,9 +78,7 @@ Nominate a competent conductor if a piece of ringing is for the benefit of less 
 
 Example announcement of next piece of ringing 
  
- {{<hint warning>}}
  “Rounds and Call changes next. "Target ringer A" please ring the 3rd and "Target ringer B" please ring the 5th. Fred, please call from the 4th. Ann ring the tenor, Bill the treble and Cath the 2nd please. After this we will ring Plain Bob Doubles for "Target ringer C" and I will call it.” 
- {{<\hint>}}
 
 ## Summary 
 
