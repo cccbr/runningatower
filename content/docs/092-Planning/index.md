@@ -11,13 +11,13 @@ weight: 92
 
 ## Timing  
 
-{{<hint info>}}
+
 - At the start, not all ringers will on time, also allow for greeting, hanging up coats, etc. (There will be a similar process at the end of the session.)
 - If bells have to be raised and lowered, this can take up to 15 minutess out of the time. This won’t be all ringing time.
 - If the session is 90 minutes long, this leaves 75 minutes to achieve aims and, hopefully, give everyone at least one piece of useful and satisfy ringing. 
 - It takes 4-5 minutes to ring 120 changes of Doubles or Minor. On 8, or more, bells plain courses and touches will be. 4-5 minutes is also a reasonable period to time for rounds and/or call changes. 
 - Allow 2-3 minutes to change over between each piece.
-{{<\hint>}}
+
 
 Using the above calculations allow for 9 pieces of ringing.
 
@@ -35,7 +35,7 @@ To get the most out of the time available plan at least one piece of ringing ahe
 
 For a ninety-minute practice session, you now have a basic 11 pieces of ringing template. 
 
-{{<hint info>}}
+
 - Ring up, in peal (if you can)
 - Simplest for some members of least able group 
 - Relatively simple for middle ability group 
@@ -47,7 +47,7 @@ For a ninety-minute practice session, you now have a basic 11 pieces of ringing 
 - Middle ability group piece 
 - Low risk higher ability group piece 
 - Ring down, in peal (if you can)
-{{<\hint}}
+
 
 Note this is a template not a rigid plan. 
             
