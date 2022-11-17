@@ -19,6 +19,10 @@ The meeting was opened at TIME
 
 Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the tower ***[authority](../170-glossary/#authority)***, and possibly not a ringer, they may provide feedback on a more public basis. 
 
+## Present
+
+A list of those present may be useful at a later date.
+
 ## Apologies for absence.  
 
 Ideally, these should be obtained in advance. 
