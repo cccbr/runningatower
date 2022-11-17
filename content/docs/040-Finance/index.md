@@ -3,9 +3,9 @@ title: Finance
 weight: 40
 ---
 
-{{<hint danger}}
+{{<hint danger>}}
 **Site currently under construction**
-{{</hint}}
+{{</hint>}}
  
 # Finance
 
