@@ -74,13 +74,6 @@ This allows VAT on eligible expenditure to be reclaimed where the church is list
 
 ----
 
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-
-----
-
 {{<hint info>}}
 **[Previous Chapter](../030-formalities/)** - **[Next Chapter](../050-healthsafety/)**
 {{</hint>}}
