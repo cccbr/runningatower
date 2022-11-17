@@ -3,8 +3,10 @@ title: Formalities
 weight: 30
 ---
 
+{{<hint danger>}}
 **Site currently under construction**
-
+{{</hint}}
+ 
 # Formalities 
 
 # Disclosure and Barring Service (DBS) Checks 
