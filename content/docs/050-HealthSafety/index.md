@@ -121,14 +121,6 @@ There may also be persons requiring access to other installations (such as mobil
 
 ----
 
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| Health & Safety | Tony Crabtree |
-
-----
-
 {{<hint info>}}
 **[Previous Chapter](../040-finance/)** - **[Next Chapter](../060-emergency/)**
 {{</hint>}}
