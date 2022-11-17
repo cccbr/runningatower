@@ -44,14 +44,6 @@ Be aware of the guidelines and follow them. If there are children, young persons
 
 ----
 
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| Formalities | Anne White, David Bassford |
-
-----
-
 {{<hint info>}}
 **[Previous Chapter](../020-communication/)** - **[Next Chapter](../040-finance/)**
 {{</hint>}}
