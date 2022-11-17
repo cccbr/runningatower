@@ -7,9 +7,9 @@ weight: 91
 **Site currently under construction**
 {{</hint>}}
 
-# Agenda
+# Draft Agenda
 
-The following is an annotated example of an agenda. 
+The following is an annotated draft of an agenda. 
 
 # Agenda for Annual Meeting of XXXX ringers at XXXX on DATE at TIME   
 
