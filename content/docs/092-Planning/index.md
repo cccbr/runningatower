@@ -7,6 +7,8 @@ weight: 92
 
 # Building a Tower – Planning ringing 
 
+![Ringers at Southrepps, Norfolk](Southrepps.jpg)
+
 ## Timing  
 
 If you have to raise and lower the bells at the start and end of the session it will take about 15 mins out of the time. This won’t be all ringing time. At the start, some ringers will not arrive exactly on time, then there is the saying hello, hanging up coats, etc. There will be similar process at the end of the session. If your session is ninety mins long, you now have seventy-five mins to achieve your aims and hopefully give everyone at least one piece of useful and satisfy ringing. It takes four to five minutes to ring, say one hundred and twenty changes of Doubles or Minor. On eight, or more, bells plain courses and touches will tend to be a bit longer. Four to five minutes is also a reasonable period to time to ring some rounds or call changes. Allowing for a two-to-three-minute change over period between each piece of ringing will use up about seven to eight minutes. Seven and a half minutes gives 10 pieces of ringing between raising and lowering the bells. In practice it will often be nine or less. Nine pieces of ringing is a good planning assumption. 
@@ -69,7 +71,7 @@ What matters is to know what is going to be rung next and to some extent who is 
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-|  |  |  |
+| 1 | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
 
 ## Information supplied by 
 
