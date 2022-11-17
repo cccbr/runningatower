@@ -3,9 +3,9 @@ title: Running a Tower
 weight: 10
 ---
 
-{{<hint danger}}
+{{<hint danger>}}
 **Site currently under construction**
-{{</hint}}
+{{</hint>}}
 
 # Introduction
 
