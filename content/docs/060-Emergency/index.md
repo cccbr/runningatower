@@ -13,7 +13,7 @@ weight: 60
 
 Prominently display an ‘In Case of Emergency’ (ICE) notice. Ensure that this is kept up to date. 
 
-A blank form can be found [here](content/docs/060-Emergency/ICE Pro Forma.pdf).
+A blank form can be found [here](../ICE Pro Forma.pdf).
 
 The ICE should indicate: 
 
