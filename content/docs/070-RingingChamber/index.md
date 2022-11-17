@@ -254,15 +254,6 @@ These are the usually the property of the awarding body. However, they are in th
 
 ----
 
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| Ringing Chamber | Tony Crabtree |
-| Ringing Chamber | Tom Ridgman |
-
-----
-
 {{<hint info>}}
 **[Previous Chapter](../060-emergency/)** - **[Next Chapter](../080-bellchamber/)**
 {{</hint>}}
