@@ -11,7 +11,9 @@ weight: 91
 
 The following is an annotated draft of an agenda. 
 
-# Agenda for Annual Meeting of XXXX ringers at XXXX on DATE at TIME   
+# Meeting of xxxxxxxx ringers held at XXXX on DATE 
+
+The meeting was opened at TIME   
 
 ## Prayers and opening remarks.  
 
