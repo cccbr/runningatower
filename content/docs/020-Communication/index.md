@@ -3,9 +3,9 @@ title: Communication
 weight: 20
 ---
 
-{{<hint danger}}
+{{<hint danger>}}
 **Site currently under construction**
-{{</hint}}
+{{</hint>}}
 
 # Communication
 
