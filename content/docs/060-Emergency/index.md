@@ -3,9 +3,9 @@ title: Emergency
 weight: 60
 ---
 
-{{<hint danger}}
+{{<hint danger>}}
 **Site currently under construction**
-{{</hint}}
+{{</hint>}}
 
 # Emergency 
 
