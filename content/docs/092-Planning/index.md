@@ -11,12 +11,14 @@ weight: 92
 
 ## Timing
 
+{{<hint info>}}
 - At the start not all ringers will arrive on time.
 - Allow for greeting, hanging up coats, etc.
 - Bells may have to be raised and lowered which may take up to 15 minutes.
 - If session is 90 minutes long, this allows 75 minutes to achieve aims. These should give everyone at least one piece of useful and satisfying ringing.
 - 120 changes of Doubles or Minor takes 4-5 minutes. On 8, or more, pieces will generally be longer. 4-5 minutes is a suitable time for rounds and call changes.
 - Allow 2-3 minutes to change over between pieces.
+{{</hint>}}
            
 The above calculations result in around 9 pieces of ringing.
            
@@ -34,6 +36,7 @@ To get the most out of the time available plan at least one piece of ringing ahe
 
 For a ninety-minute practice session, you now have a basic 11 pieces of ringing template. 
 
+{{<hint info>}}
 - Ring up, in peal (if you can)
 - Simplest for some members of least able group 
 - Relatively simple for middle ability group 
@@ -45,7 +48,8 @@ For a ninety-minute practice session, you now have a basic 11 pieces of ringing 
 - Middle ability group piece 
 - Low risk higher ability group piece 
 - Ring down, in peal (if you can)
-
+{{</hint>}}
+           
 Note this is a template not a rigid plan. 
             
 - Adjust as the session proceeds.
@@ -77,8 +81,10 @@ Announcing then next two rings, together with the bells the ‘target’ ringers
 Nominate a competent conductor if a piece of ringing is for the benefit of less able ringers. If the purpose is to give a ringer conducting practice, then give them a competent band. Less able ringers’ confidence will be damaged if something is miscalled and they may blame themselves. The learner conductor’s confidence will be damaged if they cannot know where to put calls because bells, particularly the treble, are in the wrong place. 
 
 Example announcement of next piece of ringing 
- 
- “Rounds and Call changes next. "Target ringer A" please ring the 3rd and "Target ringer B" please ring the 5th. Fred, please call from the 4th. Ann ring the tenor, Bill the treble and Cath the 2nd please. After this we will ring Plain Bob Doubles for "Target ringer C" and I will call it.” 
+
+{{<hint warning>}}
+“Rounds and Call changes next. "Target ringer A" please ring the 3rd and "Target ringer B" please ring the 5th. Fred, please call from the 4th. Ann ring the tenor, Bill the treble and Cath the 2nd please. After this we will ring Plain Bob Doubles for "Target ringer C" and I will call it.” 
+{{</hint>}}
 
 ## Summary 
 
