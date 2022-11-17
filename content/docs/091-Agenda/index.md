@@ -3,7 +3,9 @@ title: Agenda
 weight: 91
 ---
 
+{{<hint danger}}
 **Site currently under construction**
+{{</hint}}
 
 # Agenda
 
