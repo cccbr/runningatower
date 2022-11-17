@@ -122,7 +122,7 @@ Is there an agreed policy for the number of visiting bands, how long such ringin
 | 2 | Young ringers in action at St Bartholomew, Nettlebed | Photo: CCCBR archive |
 
 {{<hint info>}}
-**[Previous Chapter](../080-bellchamber/)** - **[Next Chapter](../090-buildingateam/)**
+**[Previous Chapter](../080-bellchamber/)** - **[Next Chapter](../170-glossary/)**
 {{</hint>}}
 
 ----
