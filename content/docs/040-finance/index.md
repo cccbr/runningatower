@@ -37,9 +37,9 @@ Consider having fixed fees for:
 
 - Peals 
 
-These may be determined in consultation with the tower ***[authority](../170-glossary/#authority)***. If there are no fixed fees it is not unusual to expect voluntary donations from visiting bands and individuals.
+These may be determined in consultation with the tower ***[authority](../170-glossary/#authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
 
-Avoid having a 'box on the wall', especially for downstairs rings, as these will invite theft and damage. 
+Avoid having a 'box on the wall', especially for downstairs rings, as these invite theft and damage. 
 
 ![Electronic donation](donate_350.jpg)
 
@@ -47,21 +47,22 @@ Consider having an electronic payment system for fees and casual donations. Thes
 
 ## Payment of Fees 
 
-Arrangements must also be made for how the ringers receive any payments. In the ***[C of E](../170-glossary/#CofE)***, it is likely that the couple pay the church the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via bank transfer. 
+Arrangements must also be made for how the ringers receive any payments. In the ***[C of E](../170-glossary/#CofE)***, it is likely that a couple getting married pay the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via a bank transfer. 
 
 ## Subscriptions
 
-The tower and / or the local society may charge a subscription, thypically this is an amount payable annually.
+The tower and / or the local society may charge a subscription, typically this is an amount payable annually.
 
 ## Expenditure 
 
-Agree with the tower ***[authority](../170-glossary/#authority)*** and agree in advance who will pay for replaceable items e.g., ropes. In the Church of England, it may be worth running more of the tower funds through the PCC (registered charity and registered with HMRC for Gift Aid). For example, a £600 inc VAT invoice, paid by the church can reduce the cost to a (tax paying) donor to £400. That is a reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This is a big encouragement to use the PCC funds over any tower fund. The LPWS (at present day) covers all bell fittings, bells, bell ropes and muffles.
+Agree with the tower ***[authority](../170-glossary/#authority)***, in advance, who will pay for replaceable items e.g., ropes. In the Church of England, it may be worth running more of the tower funds through the PCC (registered charity and registered with HMRC for Gift Aid). For example, a £600 inc VAT invoice, paid by the church can reduce the cost to a (tax paying) donor to £400. A reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This is a big encouragement to use the PCC funds over any tower fund. The LPWS (at present day) covers all bell fittings, bells, bell ropes and muffles.
 
 If a major project is envisaged the funding of this must be agreed in consultation with the tower ***[authority](../170-glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
 ## Tower Funds 
 
 In the ***[C of E](../170-glossary/#CofE)***, funds are best held within the ***[PCC](../170-glossary/#PCC)*** accounts. Ideally these should be ring-fenced so as to prevent their use for non-ringing related expenditure. This is achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
+
 If a tower has funds, separate from the tower ***[authority](../170-glossary/#authority)***, these should never be held by an individual. These, traditionally, have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
