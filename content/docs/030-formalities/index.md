@@ -9,11 +9,11 @@ weight: 30
  
 # Formalities 
 
-# Disclosure and Barring Service (DBS) Checks 
+## Disclosure and Barring Service (DBS) Checks 
 
 In the ***[C of E](../170-glossary/#CofE)***, the Tower Captain and anyone teaching within the tower, must have an up-to-date check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
 
-# General Data Protection Regulation (GDPR) 
+## General Data Protection Regulation (GDPR) 
 
 Any records of ringers must be in-line with statutory regulations and any requirements of the tower authority.  
 
@@ -23,7 +23,7 @@ Membership list and contact details should be kept secure. Access should be rest
 
 Further details can be found at [General Data Protection Regulation](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf)
 
-# Safeguarding 
+## Safeguarding 
 
 Further details can be found at [safeguarding](https://cccbr.org.uk/safeguarding/). 
 
