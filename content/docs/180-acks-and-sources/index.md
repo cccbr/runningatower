@@ -13,19 +13,11 @@ This chapter lists the people who have contributed, in various ways, to this doc
 
 **Production Software**: [Hugo](https://gohugo.io) Static Site Generator, [Book](https://github.com/alex-shpak/hugo-book) Theme.
 
-**For technical advice**: .
+**For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
 
-**For words, pictures, reviews, comments and general assistance**: 
+**For words, pictures, reviews, comments and general assistance**: David Bassford, Vicki Chapman, Tony Crabtree, Alison Hodge, James Kirkcaldy, James Morgan, Tom Ridgman, Anne White, Paul Wotton 
 
 ## Sources
-
-| Section | Contributors |
-| :---: | --- |
-| Communication | James Morgan, Vicki Chapman |
-| Formalities | Anne White, David Bassford |
-| Health & Safety | Tony Crabtree |
-| Ringing Chamber | Tony Crabtree |
-| Building a Team | Paul Wotton | Vicki Chapman |
 
 ----
 
