@@ -96,14 +96,6 @@ For major projects such as the restoration of an installation, including augment
 
 ----
 
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| Communication | James Morgan |
-| Promotion | Vicki Chapman |
-----
-
 {{<hint info>}}
 **[Previous Chapter](../010-introduction/)** - **[Next Chapter](../030-formalities/)**
 {{</hint>}}
