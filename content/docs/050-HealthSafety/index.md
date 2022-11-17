@@ -3,9 +3,9 @@ title: Health & Safety
 weight: 50
 ---
 
-{{<hint danger}}
+{{<hint danger>}}
 **Site currently under construction**
-{{</hint}}
+{{</hint>}}
 
 # Health & Safety
 
