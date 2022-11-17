@@ -3,7 +3,9 @@ title: Running a Tower
 type: docs
 ---
 
+{{<hint danger>}}
 **Site currently under construction**
+{{</hint}}
 
 ![Fotheringhay, Northamptonshire](fotheringhay_350.jpg)
 
