@@ -31,7 +31,7 @@ Consider having fixed fees for:
 
 - Visiting bands
 
-- Funerals, possibly fee commensurate with that for weddings.
+- Funerals, possibly commensurate with that for weddings.
 
 - Quarter peals 
 
