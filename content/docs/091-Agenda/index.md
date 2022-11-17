@@ -92,20 +92,6 @@ Avoid where possible and tell those attending that only items on the agenda will
 
 Some organisations refer to this as "any other competent business". It should not be allowed to digress into a discussion. Ideally items here should be notified in advance.
 
-## Image Credits
-
-| Figure | Details | Source |
-| :---: | --- | --- |
-|  |  |
-
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| |  |
-
-----
-
 {{<hint info>}}
 **[Return](../090-buildingateam/)**
 {{</hint>}}
