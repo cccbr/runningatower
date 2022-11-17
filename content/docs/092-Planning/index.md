@@ -3,7 +3,9 @@ title: Planning
 weight: 92
 ---
 
-**Site currently under contruction**
+{{<hint danger}}
+**Site currently under construction**
+{{</hint}}
 
 # Planning ringing
 
