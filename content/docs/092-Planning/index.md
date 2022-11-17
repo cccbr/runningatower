@@ -21,7 +21,44 @@ weight: 92
 
 Using the above calculations allow for 9 pieces of ringing. 
 
-## Plan ahead - Place the band 
+## Plan ahead 
+
+To get the most out of the time available plan at least one piece of ringing ahead, ideally two. This reduces gaps between pieces and allows more time for ringing. 
+ 
+- Know what is going to be rung next and for whose primary benefit. Ringers benefit from knowing what is coming next, they can mentally rehearse or even look up things while they are sitting out. If sessions are regularly run to a pattern, ringers start to follow the pattern and know when they are likely to get a chance to ring what they need to practice.
+- Try to avoid the trap where the ‘good’ ringer(s) only come at the end of the practice for the ‘good/advanced ringing’. 
+- Assess what the least and most advanced levels of ringing that there is value in performing. If a practice session, there is little point practicing what all the ringers present have mastered. 
+- There is no point in trying to ring something that there are not got enough competent ringers for, to support the one or two who are learning. 
+- Triage the ringers by ability. Ringers' abilities and experience vary. Roughly assign the ringers to at least, a learner, middling and higher ability group. Be prepared to adjust this as the session proceeds, we all have good days and bad days.
+- Try to arrange the ringing so that everyone gets something out of the session. 
+- Sequence the pieces of ringing to provide opportunities for the ringers, from the three groups, in turn. Aim to start with the simplest ringing needed for the least able group and end with the most advanced that the higher ability group should be able to ring well. The aim is to end on a high point, one that hopefully allows the less able to hear what better ringing sounds like. 
+
+For a ninety-minute practice session, you now have a basic 11 pieces of ringing template. 
+
+{{<hint info>}}
+- Ring up, in peal (if you can)
+- Simplest for some members of least able group 
+- Relatively simple for middle ability group 
+- Relatively simple for higher ability group 
+- Least able group piece 
+- Middle ability group piece 
+- Challenging higher ability group piece (remember you are aiming for a well struck higher ability group piece to end with) 
+- Least able group piece 
+- Middle ability group piece 
+- Low risk higher ability group piece 
+- Ring down, in peal (if you can)
+{{<\hint.}}
+
+Note this is a template not a rigid plan. 
+            
+- Adjust as the session proceeds.
+- There may be insufficient ringers to divide into three or even two ability groups.
+- There may not be a low-risk option for that final well struck piece of ringing. 
+- It might be an opportunity to practice ringing up and down in peal more than once! 
+
+What matters is to know what is going to be rung next and, to some extent, who is going to ring it. This cuts out dithering between ringing over what to ring and gives all the ringers confidence that the session is running proactively.
+ 
+## Place the band 
 
 At first this can seem overly officious and may need an explaination. Ideally do this in the margins of ringing rather than during a session. 
 
@@ -42,45 +79,20 @@ Announcing then next two rings, together with the bells the ‘target’ ringers
 
 Nominate a competent conductor if a piece of ringing is for the benefit of less able ringers. If the purpose is to give a ringer conducting practice, then give them a competent band. Less able ringers’ confidence will be damaged if something is miscalled and they may blame themselves. The learner conductor’s confidence will be damaged if they cannot know where to put calls because bells, particularly the treble, are in the wrong place. 
 
-Example announcement of next piece of ringing “Rounds and Call changes next. {Target ringer A} please ring the 3rd and {Target ringer B} please ring the 5th. Fred, please call them from the 4th. Ann ring the tenor, Bill the treble and Cath the 2nd please. After this we will ring Plain Bob Doubles for {Target ringer C} and I will call it.” 
+Example announcement of next piece of ringing 
+ 
+ {{<hint warning>}}
+ “Rounds and Call changes next. {Target ringer A} please ring the 3rd and {Target ringer B} please ring the 5th. Fred, please call from the 4th. Ann ring the tenor, Bill the treble and Cath the 2nd please. After this we will ring Plain Bob Doubles for {Target ringer C} and I will call it.” 
+ {{<\hint>}}
 
 ## Summary 
 
-Some, maybe all, of the tips above may seem totally unrealistic in your tower. You will need to use your leadership skills to assess both the attitude and ability of your ringers. This will determine how much you can structure the session and how hard you can push them. Unless you have very good sound control or have simulators on all bells, your session is a very public affair. The quality of the ringing says something about the church you ring at. Try to encourage the pursuit of good ringing in your ringers, noting that good ringing does not need to be advanced ringing. Applying aspects of the advice above should help. 
+Some, maybe all, of the tips above may seem totally unrealistic in your tower. 
+- Use your leadership skills to assess both the attitude and ability of your ringers. This will determine how the session can be structured and how hard the push can be. 
+- Unless there is very good sound control or simulators on all bells, any session is a very public affair. The quality of the ringing says something about the church you ring at. 
+- Try to encourage the pursuit of good ringing in all ringers, N.B. good ringing does not need to be advanced ringing. 
 
-- To get the most out of the time available you need to plan at least one piece of ringing ahead, ideally two. This will reduce the gaps between pieces of ringing allowing more of the time to be used for ringing. You need to know what is going to be rung next and for whose primary benefit. The ringers will benefit from knowing what is coming next so they can mentally rehearse or even look up things while they are sitting out.  There are two techniques to keep it simple and for deciding and keeping track of what is to be rung. If you regularly run sessions to a pattern, the other ringers start to follow the pattern and can see when they are likely to get a chance to ring what they need to practice. Try and avoid the trap where the ‘good’ ringer’ only come at the end of the practice for the ‘good/advanced ringing’. Assess what the least and most advanced levels of ringing that there is value in performing. If a practice session, there is little point practicing what all the ringers present have mastered. There is no point in trying to ring what you have not got enough ringers for, at minimum that’s enough who are competent to support the one or two for whom this a sensible next step in their ringing. 
-
-- Triage the ringers by ability. Ringers' abilities and experience vary. You need some way of arranging the ringing so that everyone gets something out of the session. Roughly assign the ringers to a least, middling and higher ability group. Be prepared to adjust this as the session proceeds, we all have good days and bad days. 
-
-- Sequence the pieces of ringing to provide opportunities for the ringers, from the three groups, in turn. If you have enough ringers who should be sound at the level to be rung, have only one or two ringers for whom it will represent progress - the target ringers for that piece. Aim to start with the simplest ringing needed for the least able group and end with the most advanced that the higher ability group should be able to ring well. The aim is to end on a high point, one that hopefully allows the less able to hear what better ringing sounds like. 
-
-For a ninety-minute practice session, you now have a basic 11 pieces of ringing template. 
-
-- Ring up, in peal if you can 
-
-- Simplest for some members of least able group 
-
-- Relatively simple for middle ability group 
-
-- Relatively simple for higher ability group 
-
-- Least able group piece 
-
-- Middle ability group piece 
-
-- Challenging higher ability group piece (remember you are aiming for a well struck higher ability group piece to end with) 
-
-- Least able group piece 
-
-- Middle ability group piece 
-
-- Low risk higher ability group piece 
-
-- Ring down, in peal if you can 
-
-Note this is a template not a rigid plan. You will have to adjust as the session proceeds. You may not have enough ringers to divide into three or even two ability groups. There may not be a low-risk option for that final well struck piece of ringing. You might even want to practice ringing up and down in peal more than once! 
-
-What matters is to know what is going to be rung next and to some extent who is going to ring it. This will cut out dithering between ringing over what to ring and give you and ringers confidence that you are proactively running the session. Announcing what is coming after the next piece of ringing will speed up the changeover between pieces of ringing, as well as providing the mental rehearsal time mentioned above. 
+Applying aspects of the advice above should help. 
 
 ## Image Credits
 
