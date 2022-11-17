@@ -19,7 +19,7 @@ weight: 92
 - Allow 2-3 minutes to change over between each piece.
 {{<\hint>}}
 
-Using the above calculations allow for 9 pieces of ringing.
+Using the above calculations allows for 9 pieces of ringing.
 
 ## Plan ahead 
 
