@@ -119,16 +119,6 @@ Is there an agreed policy for the number of visiting bands, how long such ringin
 | 1 | Typical ringing chamber at Great Barton, Suffolk | Photo: CCCBR archive |
 | 2 | Young ringers in action at St Bartholomew, Nettlebed | Photo: CCCBR archive |
 
-
-## Information supplied by 
-
-| Section | Contributors |
-| :---: | --- |
-| Arranging Ringing | Paul Wooton |
-| Recruitment and maintaining a band | Vicki Chapman |
-
-----
-
 {{<hint info>}}
 **[Previous Chapter](../080-bellchamber/)** - **[Next Chapter](../090-buildingateam/)**
 {{</hint>}}
