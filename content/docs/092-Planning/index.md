@@ -47,7 +47,7 @@ For a ninety-minute practice session, you now have a basic 11 pieces of ringing 
 - Middle ability group piece 
 - Low risk higher ability group piece 
 - Ring down, in peal (if you can)
-{{<\hint.}}
+{{<\hint}}
 
 Note this is a template not a rigid plan. 
             
