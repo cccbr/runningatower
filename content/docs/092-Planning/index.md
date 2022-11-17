@@ -12,7 +12,7 @@ weight: 92
 ## Timing  
 
 {{<hint info>}}
-- At the start, not all ringers will on time, also allow for greeting, hanging up coats, etc. (There will be a similar process at the end of the session.)
+- At the start not all ringers will arrive on time, also allow for greeting, hanging up coats, etc. (There will be a similar process at the end of the session.)
 - If bells have to be raised and lowered, this can take up to 15 minutess out of the time. This won’t be all ringing time.
 - If the session is 90 minutes long, this leaves 75 minutes to achieve aims and, hopefully, give everyone at least one piece of useful and satisfy ringing. 
 - It takes 4-5 minutes to ring 120 changes of Doubles or Minor. On 8, or more, bells plain courses and touches will be. 4-5 minutes is also a reasonable period to time for rounds and/or call changes. 
