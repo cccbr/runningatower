@@ -25,7 +25,7 @@ Central Council of Church Bell Ringers. The Council is the representative body f
 
 ## C of E
 
-Church of England. The established Christian church in England and the mother church of the international Anglican Communion. Further details on their **[website](https://churchofengland.org.uk)**. Over 95% of towers containing at least three bells are in the Anglican Communion.
+Church of England. The established Christian church in England and the mother church of the international Anglican Communion. Further details on their **[website](https://churchofengland.org)**. Over 95% of towers containing at least three bells are in the Anglican Communion.
 
 ## PCC
 
