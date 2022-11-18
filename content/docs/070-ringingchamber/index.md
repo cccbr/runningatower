@@ -198,7 +198,7 @@ Tower records of visitors, quarter peals and peals. Within churches in the Churc
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
 
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower ***[authority(../170-glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../170-glossary/#CofE)*** church.
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower ***[authority](../170-glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../170-glossary/#C-of-E)*** church.
 
 ### Simulators
 
