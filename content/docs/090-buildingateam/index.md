@@ -99,11 +99,11 @@ The ***[Association of Ringing Teachers](../170-glossary/#art)*** provides a str
 
 ### Safeguarding
 
-See information contained with ‘Formalities - Safeguarding’.
+See information contained at ***[Formalities - Safeguarding](../030-formalities/#Disclosure)***.
 
 ### Safety 
 
-See information contained with ‘Health & Safety’.
+See information contained in [Health & Safety](../050-healthsafety).
 
 ### Subscriptions
 
