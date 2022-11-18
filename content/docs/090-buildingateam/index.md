@@ -82,6 +82,7 @@ Decide what you want to achieve, both as a band and for individuals. If you can,
 ### Recruitment and maintaining a band
 
 Further details can be found at [Guidance notes - recruitment and retention](https://cccbr.org.uk/resources/recruitment-and-retention/workshop/).
+
 There are resources available in the [CCCBR Publicity material resources](https://cccbr.org.uk/resources/publicity-material/). These include the following:
 - Recruitment Leaflet - designed for distribution to the general public. Printed copies are available on request.
 - Tower Open Day poster - to be used for promotion of such.
@@ -92,8 +93,6 @@ Publicity Flyer: ‘Bell Ringing is fun and …’ - This leaflet was produced b
 Other Central Council guidance is available:
 - [Social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf).
 - [Running a successful open day](https://cccbr.org.uk/running-a-successful-tower-open-day-v6/).
-
-Further details can be found at [Recruitment and retention workshop](https://cccbr.org.uk/resources/recruitment-and-retention/workshop/).
 
 Teaching and developing visiting other towers, striking competitions, special practices.
 
