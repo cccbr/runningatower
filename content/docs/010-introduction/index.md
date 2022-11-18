@@ -25,29 +25,23 @@ The content is not intended to be exhaustive.
 
 ## Topics
 
-### Communication; keeping things running smoothly
+An verview of what is available in each chapter (listed top left).
 
-Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
+Communication; keeping things running smoothly. Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
 
-### Formalities; being compliant, safe and successful
+Formalities; being compliant, safe and successful. Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
+
+Finance; income and expenditure including fees.
  
-Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
+Health and safety; staying safe. Attendance, Insurance, Security, Tower access.
 
-### Finance; income and expenditure including fees
- 
-### Health and safety; staying safe
+Emergency; what to do if things go wrong
 
-Attendance, Insurance, Security, Tower access. What to do in the case of an emergency is covered [Emergency](../060-emergency/).
+Bell chamber; keeping your tower running smoothly.
 
-### Emergency; what to do if things go wrong
+Ringing chamber; this is is primarily covered in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
 
-### Tower Environment; keeping your tower running smoothly
-
-Divided between the ringing chamber and the bell chamber. The latter is primarily covered in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
-
-### Building a Team; creating a supportive environment
-
-Officers, Meetings, Running ringing sessions.
+Building a Team; creating a supportive environment. Officers, Meetings, Running ringing sessions.
 
 ## Image Credits
 
