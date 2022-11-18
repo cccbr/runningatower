@@ -113,6 +113,7 @@ There may be others, such as a tower subscription to The Ringing World.
 
 Is there an agreed policy for the number of visiting bands, how long such ringing should last and any special considerations around timings. The latter may particularly apply when the bells are intrusive.
 
+
 Further information can be found at [Guidance notes - ringers and churches](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf), a document written by The Guild of Clerical Ringers.
 
 ## Image Credits
