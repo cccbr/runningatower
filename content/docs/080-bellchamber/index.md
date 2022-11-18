@@ -65,7 +65,7 @@ Muffles are, traditionally, used on a limited number of occasions such as funera
 
 ![Wooden clapper tie](tie_solid_350.jpg)
 
-There are various types and means of fitting. ***[ART](../170-glossary/#ART)*** recommend one based on an old cycle inner tube. 
+There are various types and means of fitting. ***[ART](../170-glossary/#art)*** recommend one based on an old cycle inner tube. 
 
 ![Rope clapper tie](tie_rope1_350.JPG) ![](tie_rope_2.JPG)
 
