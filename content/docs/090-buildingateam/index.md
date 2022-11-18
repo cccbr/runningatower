@@ -19,7 +19,7 @@ Hold a meeting when all officers are appointed from within the band. These may b
 The agenda should be distributed in advance together with a request for items to be included in any other business. The idea of an agenda is to keep a meeting on track. 
 
 The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
-The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../170-glossary/#PCC)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower ***[authority](../170-glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
+The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../170-glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower ***[authority](../170-glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
 
 {{<hint info>}}
 **[Sample agenda](../091-agenda/)**
@@ -95,7 +95,7 @@ Further details can be found at [Recruitment and retention workshop](https://ccc
 
 Teaching and developing visiting other towers, striking competitions, special practices.
 
-The Association of Ringing Teachers (ART) provides a structured set of [guidelines](http://ringingteachers.org/resources/recruitment-and-retention).
+The ***[Association of Ringing Teachers](../170-glossary/#art)*** provides a structured set of [guidelines](http://ringingteachers.org/resources/recruitment-and-retention).
 
 ### Safeguarding
 
