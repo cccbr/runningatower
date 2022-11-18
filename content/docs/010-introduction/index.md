@@ -9,7 +9,7 @@ weight: 10
 
 # Introduction
 
-{{<hint warn>}}
+{{<hint danger>}}
 This document addresses key aspects of running a tower.
 {{</hint>}}
 
