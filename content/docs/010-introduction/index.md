@@ -10,7 +10,7 @@ weight: 10
 # Introduction
 
 {{<hint warn>}}
-**This document addresses key aspects of running a tower.**
+This document addresses key aspects of running a tower.
 {{</hint>}}
 
 It is produced by the ***[Stewardship and Management Work Group](../170-glossary/#smwg)*** of the ***[CCCBR](../170-glossary/#cccbr)***.
