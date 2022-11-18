@@ -13,11 +13,11 @@ weight: 20
 
 ![Heavitree, Devon](heavitree_350.jpg)
 
-The term ***[authority](../170-glossary/#authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../170-glossary/#CofE)***. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The ***[PCC](../170-glossary/#PCC)*** has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
+The term ***[authority](../170-glossary/#authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../170-glossary/#C of E)***. The legal ownership of the bells, in those cases, is vested in the Churchwardens. The ***[PCC](../170-glossary/#PCC)*** has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
-Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#CofE)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
+Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#C of E)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
 
