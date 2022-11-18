@@ -9,13 +9,13 @@ weight: 10
 
 # Introduction
 
-![Broadclyst, Devon](broadclyst_350.jpg)
-
 {{<hint warn>}}
 **This document addresses key aspects of running a tower. **
 {{</hint>}}
 
 It is produced by the ***[Stewardship and Management Work Group](../170-glossary/#smwg)*** of the ***[CCCBR](../170-glossary/#cccbr)***.
+
+![Broadclyst, Devon](broadclyst_350.jpg)
 
 The lead role in this is often called the tower captain although other titles are sometimes used e.g. ringing master.
 
