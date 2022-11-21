@@ -37,19 +37,21 @@ The ICE should indicate:
 
 - If the emergency services are called, send someone to meet and guide them, when possible. 
 
+## Emergency Services
+
 Liaise with the local emergency services to discuss their access and also emergency exits. Towers can be awkward and confined spaces presenting difficulties in access and egress, especially with stretchers and casualties. They may be happy to run a training exercise for both emergency services staff and ringers. 
 
 ![Typical fire alarm](alarm_350.jpg)
 
 ## Fire extinguisher and alarms.
 
-These must audible and visible when the bells are being rung. These must be inspected tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement.
+These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement.
 
 ![Fire exit indicator](exit_350.jpg)
 
 ## Emergency lighting and exits
 
-These must be inspected tested regularly and be in date. They must be to adequate to safely set the bells ahould the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[authority](../170-glossary/#authority)***.
+These must be inspected, tested regularly and be in date. They must be to adequate to safely set the bells ahould the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[authority](../170-glossary/#authority)***.
 
 The design of the fire alarm system shall be in accordance with a fire safety plan. 
 
