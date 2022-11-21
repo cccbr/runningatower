@@ -48,11 +48,14 @@ If tower funds are held in a PCC restricted bell fund, that should be reviewed. 
 ### Calendar
 
 Maintain a calendar which is publicised to all, including the tower ***[authority](../170-glossary/#authority)***. This may be printed or held by some electronic means. The calendar should list:
+
+{{<hint info>}}
 -	The weekly, monthly schedule.
 -	Annual dates e.g. ringers’ dinner, tower outing(s), AGM
 -	Special events e.g. particular Saint’s days, (church) patronal festival, fetes 
 -	Public Open days, e.g. heritage open days.
 - Training days, teaching sessions when not a practice night.
+{{</hint>}}
 
 Consider when to ring and when not to ring. 
 Occasions to ring include Sunday services, weddings, funerals, church events, national events, patronal day, local festivals and traditions. It is worth compiling a list for your tower. 
