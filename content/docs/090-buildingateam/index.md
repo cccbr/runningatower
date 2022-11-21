@@ -40,7 +40,6 @@ Further details can be found at [Guidance notes - appointment of tower captain](
 
 If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian.  Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
 
-A draft constitution may be available.
 
 ### Bell Fund
 
@@ -55,7 +54,9 @@ Maintain a calendar which is publicised to all, including the tower ***[authorit
 -	Public Open days, e.g. heritage open days.
 - Training days, teaching sessions when not a practice night.
 
-Consider when to ring and when not to ring. Occasions to ring include Sunday services, weddings, funerals, church events, national events, patronal day, local festivals and traditions. It is worth compiling a list for your tower. Occasions not to ring may include Holy Week, see the “Ringing Forums” discussion on this.
+Consider when to ring and when not to ring. 
+Occasions to ring include Sunday services, weddings, funerals, church events, national events, patronal day, local festivals and traditions. It is worth compiling a list for your tower. 
+Occasions not to ring may include Holy Week, see the “Ringing Forums” [discussion](https://www.ringingforums.org/discussion/93/ringing-in-holy-week-time-to-spring-clean-the-tower-but-what-ringing-for-a-funeral) on this.
 
 There are proprietary apps available that might be of use in arranging a calendar, e.g. WhatsApp, Band.
 
