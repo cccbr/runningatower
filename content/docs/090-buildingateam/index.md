@@ -78,16 +78,20 @@ The following are a series of tips to running ringing. Not all will be applicabl
 
 ### Know your ringers
 
-Not always possible if there are visitors, but generally you need to know why your ringers come to the ringing session, what their skill level is and at a practice, what if anything, they want to improve on. If there are visitors you don’t know then ask them if and what they can ring. Suggest some rounds for them to ‘get a feel of the bells’. When they ring, judge for yourself how accurate their statements were.
+This is not always possible if there are visitors. Generally you need to be aware:
+- Why your ringers come to a ringing session.
+- What their skill level is.
+- At a practice what, if anything, they want to improve on. 
+- If there are visitors you don’t know then ask them if and what they can ring. Suggest some rounds for them to ‘get a feel of the bells’. When they ring, judge for yourself how accurate their statements were.
 
 ![Young ringers in action](young_350.jpg)
 
 ### Purpose
 
-Decide what you want to achieve, both as a band and for individuals. If you can, publicise what is to be rung, and why, a few days before each session. As far as attendance and performance allows try and ring what was advertised. If you were unable to ring what you said, briefly explain why at the end of the session. Remember the ringers are volunteers, the degree to which you can overtly structure the purpose of a session will vary with the band and with individuals. This of course goes back to knowing your ringers. Some may come to sessions mainly to get out of the house and socialise as part of a group. They may well be happy to get better at ringing, but it may not be a prime consideration. On the other hand, some may want to progress their ringing more. Having some, if only loose, structure to a session should help keep more people happy as they can see there is something in for them.
+Decide what you want to achieve, both as a band and for individuals. If you can, publicise what is to be rung and why, a few days before each session. As far as attendance and performance allows, try and ring what was advertised. If you were unable to ring what you said, briefly explain why at the end of the session. Remember the ringers are volunteers, the degree to which you can structure a session will vary with the band and with individuals. Some ringers may come to sessions mainly to get out of the house and socialise as part of a group. They may well be happy to get better at ringing, but it may not be a prime consideration. On the other hand, some may want to progress their ringing more. Having some, if only loose, structure to a session should help keep more people happy as they can see there is something in it for them.
 
 {{<hint info>}}
-**[Ringing plan](../092-planning)**
+The following is an example of a **[ringing plan](../092-planning)**
 {{</hint>}}
 
 ### Recruitment and maintaining a band
