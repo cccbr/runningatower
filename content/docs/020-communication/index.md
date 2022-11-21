@@ -77,7 +77,7 @@ Consider the use of:
 
 - Publicity away from the building especially where the building is not on a main thoroughfare. 
 
-- Regular updates in the parish magazine, local press, radio, television and social media.  
+- Regular updates in the parish magazine, local press, radio, television and social media. There is a useful [document](https://cccbr.org.uk/wp-content/uploads/2022/11/Press-Info.pdf) on engaging with the press on the CCCBR website.  
 
 [Further guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf).
 
