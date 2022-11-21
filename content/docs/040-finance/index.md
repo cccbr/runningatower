@@ -23,19 +23,20 @@ In the ***[C of E](../170-glossary/#c-of-e)***, the fees for wedding ringing are
 
 - Likely travel times and distances, etc. 
 
-The couple should be advised that if the bride arrives excessively late, ringing may not continue until her arrival and may be curtailed after the service. Consider setting an end time when ringing will finish by, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and helps get a band. This is useful to help co-ordinate when ringers are required at a few local churches on the same day. 
+The couple should be advised that if the bride arrives excessively late, ringing may not continue until her arrival and may be curtailed after the service. 
+Consider setting an end time when ringing will finish, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and may help get a band. This is especially useful when ringers are required at a few local churches on the same day. 
 
 ## Fees for other ringing 
 
 Consider having fixed fees for: 
 
-- Visiting bands
+- Visiting bands.
 
 - Funerals, possibly commensurate with that for weddings.
 
-- Quarter peals 
+- Quarter peals. 
 
-- Peals 
+- Peals.
 
 These may be determined in consultation with the tower ***[authority](../170-glossary/#authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
 
@@ -43,11 +44,11 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these invi
 
 ![Electronic donation](donate_350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. These may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer, within a church in the ***[C of E](../170-glossary/#c-of-e)***. It may allow gift aid to be recovered and ensure that payments for ringing can be captured in an appropriate account. N.B. Request for Gift Aid, enabling tax to be reclaimed, only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer, within a church in the ***[C of E](../170-glossary/#c-of-e)***. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid, this enables tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
-Arrangements must also be made for how the ringers receive any payments. In the ***[C of E](../170-glossary/#c-of-e)***, it is likely that a couple getting married pay the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via a bank transfer. 
+Arrangements must be made for how the ringers receive any payments. In the ***[C of E](../170-glossary/#c-of-e)***, it is likely that a couple getting married pay the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via a bank transfer. 
 
 ## Subscriptions
 
@@ -55,19 +56,21 @@ The tower and / or the local society may charge a subscription, typically this i
 
 ## Expenditure 
 
-Agree with the tower ***[authority](../170-glossary/#authority)***, in advance, who will pay for replaceable items e.g., ropes. In the Church of England, it may be worth running more of the tower funds through the PCC (registered charity and registered with HMRC for Gift Aid). For example, a £600 inc VAT invoice, paid by the church can reduce the cost to a (tax paying) donor to £400. A reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This is a big encouragement to use the PCC funds over any tower fund. The LPWS (at present day) covers all bell fittings, bells, bell ropes and muffles.
+Agree with the tower ***[authority](../170-glossary/#authority)***, in advance, who will pay for replaceable items e.g., ropes. 
+In the Church of England, it may be worth running the tower funds through the PCC (which is a registered charity and registered with HMRC for Gift Aid). The result might be that a £600 inc VAT invoice, paid by the church can reduce to a (tax paying) donor to £400. A reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This should be a big encouragement to use PCC funds over any tower fund.
 
 If a major project is envisaged the funding of this must be agreed in consultation with the tower ***[authority](../170-glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
 ## Tower Funds 
 
-In the ***[C of E](../170-glossary/#c-of-e)***, funds are best held within the ***[PCC](../170-glossary/#pcc)*** accounts. Ideally these should be ring-fenced so as to prevent their use for non-ringing related expenditure. This is achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
+In the ***[C of E](../170-glossary/#c-of-e)***, funds are best held within the ***[PCC](../170-glossary/#pcc)*** account(s). Ideally these should be ring-fenced preventing their use for non-ringing related expenditure. This can be achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
 
-If a tower has funds, separate from the tower ***[authority](../170-glossary/#authority)***, these should never be held by an individual. These, traditionally, have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to having small society accounts.
+If a tower has funds, separate from the tower ***[authority](../170-glossary/#authority)***, these should never be held by an individual. Traditionally, such have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
-This allows VAT on eligible expenditure to be reclaimed where the church is listed. The eligible expenditure is very vague when it comes to bells, but generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related that keep the hardware going are likely to be eligible, but it is worth checking as the scheme does change. Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/). Also, a claim, with multiple invoices below the £1000 threshold, can be made once per year. This means one can claim £10 back on a £60 (including VAT) invoice - it is not a difficult process.
+This allows VAT on eligible expenditure to be reclaimed where the church is listed. The definition of eligible expenditure is vague when it comes to bells. It generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related, that keep the hardware going, are likely to be eligible, but it is worth checking as the scheme does change. 
+Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/). Also, a claim, with multiple invoices below the £1000 threshold, can be made once per year. It is not a difficult process to make these claims.
 
 ## Image Credits
 
