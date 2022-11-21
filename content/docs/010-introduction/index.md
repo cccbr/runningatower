@@ -27,7 +27,7 @@ The content is not intended to be exhaustive.
 
 ## Topics
 
-An verview of what is available in each chapter (listed top left).
+An overview of what is available in each chapter (listed top left).
 
 Communication; keeping things running smoothly. Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
 
@@ -39,9 +39,9 @@ Health and safety; staying safe. Attendance, Insurance, Security, Tower access.
 
 Emergency; what to do if things go wrong
 
-Bell chamber; keeping your tower running smoothly.
+Ringing chamber; keeping your tower running smoothly.
 
-Ringing chamber; this is is primarily covered in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
+Bell chamber; this is is primarily covered in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
 
 Building a Team; creating a supportive environment. Officers, Meetings, Running ringing sessions.
 
