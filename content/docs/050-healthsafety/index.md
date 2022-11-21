@@ -69,19 +69,19 @@ Ideally there should be a first aid kit in the ringing chamber.
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items are within date. The First Aid kit should be listed on the ***[authorities](../170-glossary/#authority)*** log of First aid kits within the building, together with records of periodic inspections.
+Regularly check that all items are within date. The kit should be listed on the ***[authorities](../170-glossary/#authority)*** log of first aid kits held within the building, together with records of periodic inspections.
 
 ## Insurance 
 
-In the ***[C of E](../170-glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. It is probably worth checking what the cover is if there is any doubt.
+In the ***[C of E](../170-glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. If there is any doubt then checking what the cover is.
 
-Further details can be found at [insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
+Further details can be found in the [insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf) document on the CCCBR website.
 
 ## Security 
 
-Further details can be found at [security for ringers](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
+Further details can be found in the [security for ringers](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf) document on the CCCBR website.
 
-A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this will present difficulties at times of sickness or absence. All keys should be registered with the tower authority. This may be a condition of the building insurance. 
+A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the tower authority. This may be a condition of the building insurance.
 
 There is also information in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
@@ -89,7 +89,7 @@ There is also information in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/d
 
 [Guidance notes - Tower Access and Stairways](https://cccbr.org.uk/2017/05/16/tower-access-stairways-guidance/).
 
-Consider the number of keys and/or key holders. There is a balance between security (preventing access) but enabling reasonable access. Exits for use in an emergency  must never be compromised. 
+Consider the number of keys and / or key holders. There is a balance between security (preventing access) and enabling reasonable access. Exits for use in an emergency  must never be compromised and should be signed.
 
 Spiders and ropes should, ideally, be left inaccessible e.g. locked away. This is essential in accessible ringing chambers.  
 
