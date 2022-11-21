@@ -9,8 +9,6 @@ weight: 70
 
 # Ringing Chamber 
 
-Picture of welcoming tower interior 
-
 Try to keep the ringing chamber a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
 
 The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful for permission to reuse this material. The links are:
