@@ -61,7 +61,7 @@ There are proprietary apps available that might be of use in arranging a calenda
 
 ### Arranging Ringing
 
-This area is considered the responsibility of the [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/). The following information has been primarily source from that group.
+The [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) is the primary source of information for this topic.
 
 If you are not used to running ringing, doing so can seem daunting. There is no need for it to be, in essence it is simple. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. 
 
@@ -121,7 +121,7 @@ There may be others, such as a tower subscription to The Ringing World.
 ### Visitors
 
 Is there an agreed policy for the number of visiting bands, how long such ringing should last and any special considerations around timings. The latter may particularly apply when the bells are intrusive.
-
+It is to be hoped that visiting bands try to perform well. 
 
 The Guild of Clerical Ringers [document](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf) covers some of these topics from more of a clergy point of view.
 
