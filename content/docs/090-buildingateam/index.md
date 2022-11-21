@@ -57,7 +57,7 @@ Maintain a calendar which is publicised to all, including the tower ***[authorit
 
 Consider when to ring and when not to ring. Occasions to ring include Sunday services, weddings, funerals, church events, national events, patronal day, local festivals and traditions. It is worth compiling a list for your tower. Occasions not to ring may include Holy Week, see the “Ringing Forums” discussion on this.
 
-There are proprietory apps available that might be of use in arranging a calendar, e.g. WhatsApp, Band.
+There are proprietary apps available that might be of use in arranging a calendar, e.g. WhatsApp, Band.
 
 ### Arranging Ringing
 
