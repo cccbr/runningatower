@@ -27,9 +27,16 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 ### Appointment of Officers
 
-Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf).
+Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the tower ***[authority](../170-glossary/#authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
 
-Any appointment should be made in agreement with the tower ***[authority](../170-glossary/#authority)***.
+{{<hint info>}}
+ - Tower Captain. Overall responsibility.
+ - Ringing Master. Runs the ringing.
+ - Secretary. Looks after the administration.
+ - Treasurer. Looks after the funds and expenditure.
+ - Steeple Keeper. Looks after the installation.
+ - Social Secretary. Looks after the non-ringing events.
+{{</hint>}}
 
 If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian.  Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
 
