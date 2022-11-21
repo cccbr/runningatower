@@ -9,7 +9,7 @@ weight: 70
 
 # Ringing Chamber 
 
-!Ringing chamber at St Machar, Aberdeen](aberdeen350.JPG)
+![Ringing chamber at St Machar, Aberdeen](aberdeen350.JPG)
 
 Try to keep the ringing chamber a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
 
