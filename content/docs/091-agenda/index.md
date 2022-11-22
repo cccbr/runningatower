@@ -9,7 +9,7 @@ weight: 91
 
 # Draft Agenda
 
-The following is an annotated draft of an agenda. A blank form can be found [here](proforma.pdf).
+The following is an annotated draft of an agenda. A blank form can be seen [here](proforma.pdf) or downloaded from [here](proforma.docx).
 
 # Meeting of xxxxxxxx ringers held at XXXX on DATE 
 
