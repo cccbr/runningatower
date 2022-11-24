@@ -53,7 +53,7 @@ These are recommendations to the tower ***[authority](../170-glossary/#authority
 ## Review of membership.  
 
 - Election of new members
-- Uupdates to the tower constitution and members ’Code of Conduct. 
+- Updates to the tower constitution and members ’Code of Conduct. 
 - This item may be used to record thanks to previous members, congratulations, condolences, etc. 
 - This item also offers the opportunity for members to be reminded of the tower’s approach to GDPR for the retention of their personal details, and that Equality and Diversity are topics to be respected. Particular attention must be made for members under 18 for their parental engagement. 
 
@@ -71,3 +71,7 @@ The person with responsibility, in the tower, should be invited to report and up
 - Proposals for fees for weddings, special occasions, visiting bands, quarter peals, peals, etc. 
 - Funding for routine maintenance and any special projects.
 - If a ring-fenced account is in use, any changes to the conditions.
+
+## Any Other Business
+
+This should be avoided. If the draft agenda is circulated before the meeting, this is should provide an opportunity for anyone to request the addition of topics.
