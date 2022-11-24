@@ -65,7 +65,7 @@ There are proprietary apps available that might be of use in arranging a calenda
 
 ### Arranging Ringing
 
-The [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) is the primary source of information for this topic.
+The [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) is the primary source of information for this topic. Further details as to what help they can provide can be obtained by selecting the 'what we do' link on that webpage.
 
 If you are not used to running ringing, doing so can seem daunting. There is no need for it to be, in essence it is simple. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. 
 
