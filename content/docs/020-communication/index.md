@@ -13,7 +13,7 @@ weight: 20
 
 ![Heavitree, Devon](heavitree_350.jpg)
 
-The term ***[authority](../170-glossary/#authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../170-glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../170-glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. 
+The term ***[tower authority](../170-glossary/#authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../170-glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../170-glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. 
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
@@ -21,7 +21,7 @@ Elsewhere, for example in ***[C of E](../170-glossary/#c-of-e)*** cathedrals, ch
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
 
-***[Authority](../170-glossary/#authority)*** also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – e.g. the Local Authority for a municipal ring of bells, or a private owner. 
+***[Tower authority](../170-glossary/#authority)*** also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – e.g. the Local Authority for a municipal ring of bells, or a private owner. 
 
 ## Faculties 
 
@@ -63,7 +63,7 @@ The tower may be affiliated to a local ringing society. That body may have the t
 
 - Taking committee positions – this can help develop individuals. Young people could gain experience for future careers. 
 
-- Societies often have influence with the relevant ***[authority](../170-glossary/#authority)***.
+- Societies often have influence with the relevant ***[tower authority](../170-glossary/#authority)***.
 
 Most societies are affiliated to the ***[CCCBR](../170-glossary/#cccbr)***. 
 
