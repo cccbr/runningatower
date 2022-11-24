@@ -27,7 +27,7 @@ The ICE should indicate:
 
 - Ordnance Survey grid reference, these can be easily transposed when under pressure. Reference can be determined using e.g., google maps. 
 
-- Names of any trained first aiders. Ideally the ***[authority](../170-glossary/#authority)*** should offer training, which should be kept up to date.
+- Names of any trained first aiders. Ideally the ***[tower authority](../170-glossary/#authority)*** should offer training, which should be kept up to date.
 
 - Location of the first aid kit. The first aid kit must be accessible to ringers when the rest of the building is locked e.g., it must not be in a locked vestry. 
 
@@ -51,7 +51,7 @@ These must audible and visible when the bells are being rung. These must be insp
 
 ## Emergency lighting and exits
 
-These must be inspected, tested regularly and be in date. They must bright enough to safely set the bells should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[authority](../170-glossary/#authority)***.
+These must be inspected, tested regularly and be in date. They must bright enough to safely set the bells should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[tower authority](../170-glossary/#authority)***.
 
 The design of the fire alarm system shall be in accordance with a fire safety plan. 
 
