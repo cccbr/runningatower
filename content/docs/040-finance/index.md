@@ -15,7 +15,7 @@ weight: 40
 
 In the ***[C of E](../170-glossary/#c-of-e)***, the fees for wedding ringing are set by the ***[PCC](../170-glossary/#pcc)***, hopefully in consultation with the ringers. These should reflect whether ringing is: 
 
-- Before and / or after the wedding. 
+- Before and/or after the wedding. 
 
 - The length of time spent ringing. 
 
@@ -44,7 +44,7 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these invi
 
 ![Electronic donation](donate_350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer, within a church in the ***[C of E](../170-glossary/#c-of-e)***. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid, this enables tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. within a church in the ***[C of E](../170-glossary/#c-of-e)***, implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid, this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
@@ -57,7 +57,7 @@ The tower and / or the local society may charge a subscription, typically this i
 ## Expenditure 
 
 Agree with the tower ***[authority](../170-glossary/#authority)***, in advance, who will pay for replaceable items e.g., ropes. 
-In the Church of England, it may be worth running the tower funds through the PCC (which is a registered charity and registered with HMRC for Gift Aid). The result might be that a £600 inc VAT invoice, paid by the church can reduce to a (tax paying) donor to £400. A reduction of a third by using the two schemes (Gift Aid and LPWS (Listed Place of Worship Scheme)) together. This should be a big encouragement to use PCC funds over any tower fund.
+In the Church of England, it may be worth running the tower funds through the ***[PCC](../170-glossary/#pcc)***. The PCC is a registered charity and registered with HMRC for Gift Aid. The result might be a reduction of a third. This should be a big encouragement to use PCC funds over any tower fund.
 
 If a major project is envisaged the funding of this must be agreed in consultation with the tower ***[authority](../170-glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
@@ -69,7 +69,8 @@ If a tower has funds, separate from the tower ***[authority](../170-glossary/#au
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
-This allows VAT on eligible expenditure to be reclaimed where the church is listed. The definition of eligible expenditure is vague when it comes to bells. It generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related, that keep the hardware going, are likely to be eligible, but it is worth checking as the scheme does change. 
+This only applies to places of worship within the United Kingdom.
+The scheme allows VAT on eligible expenditure to be reclaimed where the church is listed. The definition of eligible expenditure is vague when it comes to bells. It generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related, that keep the hardware going, are likely to be eligible, but it is worth checking as the scheme does change. 
 Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/). Also, a claim, with multiple invoices below the £1000 threshold, can be made once per year. It is not a difficult process to make these claims.
 
 ## Image Credits
