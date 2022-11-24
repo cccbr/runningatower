@@ -74,4 +74,5 @@ The person with responsibility, in the tower, should be invited to report and up
 
 ## Any Other Business
 
-This should be avoided amd is not shown in this chapter. If the draft agenda is circulated before the meeting, this should provide an opportunity for anyone to request the addition of topics.
+This should be avoided amd is not shown in the downloads above. 
+If the draft agenda is circulated before the meeting, this should provide an opportunity for anyone to request the addition of topics.
