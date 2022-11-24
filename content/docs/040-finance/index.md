@@ -70,8 +70,12 @@ If a tower has funds, separate from the tower ***[authority](../170-glossary/#au
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
 This only applies to places of worship within the United Kingdom.
+
 The scheme allows VAT on eligible expenditure to be reclaimed where the church is listed. The definition of eligible expenditure is vague when it comes to bells. It generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related, that keep the hardware going, are likely to be eligible, but it is worth checking as the scheme does change. 
-Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/). Also, a claim, with multiple invoices below the £1000 threshold, can be made once per year. It is not a difficult process to make these claims.
+
+A claim, with multiple invoices below the £1000 threshold, can be made once per year. It is not a difficult process to make these claims.
+
+Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/).
 
 ## Image Credits
 
