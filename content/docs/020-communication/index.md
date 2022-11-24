@@ -17,7 +17,7 @@ The term ***[authority](../170-glossary/#authority)*** is used to mean the owner
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
-Elsewhere in religious buildings, for example in ***[C of E](../170-glossary/#c-of-e)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different arrangements and terminology. 
+Elsewhere, for example in ***[C of E](../170-glossary/#c-of-e)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different lines of authority. 
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
 
@@ -63,6 +63,8 @@ The tower may be affiliated to a local ringing society. That body may have the t
 
 - Taking committee positions – this can help develop individuals. Young people could gain experience for future careers. 
 
+- Societies often have influence with the relevant ***[authority](../170-glossary/#authority)***.
+
 Most societies are affiliated to the ***[CCCBR](../170-glossary/#cccbr)***. 
 
 ## Promotion 
@@ -81,7 +83,7 @@ Consider the use of:
 
 The ***[CCCBR](../170-glossary/#cccbr)*** also provides [guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf).
 
-Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot.
+Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. Be aware that this may lead to strong opposers attempting to get retailation in first.
 
 For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document [Running a Project](https://cccbr.org.uk/major-projects/).
 
