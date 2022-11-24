@@ -10,12 +10,12 @@ weight: 50
 # Health & Safety
 
 {{<hint danger>}}
-A tower is a non-domestic setting, and as such the tower ***[authority](../170-glossary/#authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the ***[authority](../170-glossary/#authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
+A tower is a non-domestic setting, and as such the ***[tower authority](../170-glossary/#authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the ***[tower authority](../170-glossary/#authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
 {{</hint>}}
 
 Further details can be found in the [health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf) document on the CCCBR website. 
 
-All policies must be in-line with the tower ***[authority's](../170-glossary/#authority)*** policies.
+All policies must be in-line with the ***[tower authority's](../170-glossary/#authority)*** policies.
 
 This includes guidance on: 
 
@@ -61,7 +61,7 @@ Towers may wish to have a separate (traditional) visitors' book as an historic r
 
 ## Additional requirements 
 
-The tower ***[authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
+The ***[tower authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
 
 Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The ***[CCCBR](../170-glossary/#cccbr)*** website will normally detail the latest guidance in such cases.
 
@@ -73,7 +73,7 @@ Ideally there should be a first aid kit in the ringing chamber.
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items are within date. The kit should be listed on the ***[authorities](../170-glossary/#authority)*** log of first aid kits held within the building, together with records of periodic inspections.
+Regularly check that all items are within date. The kit should be listed on the ***[tower authorities](../170-glossary/#authority)*** log of first aid kits together with records of periodic inspections.
 
 ## Insurance 
 
