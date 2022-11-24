@@ -17,9 +17,9 @@ It is produced by the ***[Stewardship and Management Work Group](../170-glossary
 
 ![Broadclyst, Devon](broadclyst_350.jpg)
 
-The lead role in this is often called the tower captain although other titles are sometimes used e.g. ringing master.
+The lead role is often called the tower captain although other titles are sometimes used e.g. ringing master.
 
-It is provided as advice and guidance for the tower captain or potential tower captain, whilst also acting as a guide for ringers generally.
+This document is provided as advice and guidance for the tower captain or potential tower captain, whilst also acting as a guide for ringers generally.
 
 ## Scope
 
@@ -29,7 +29,7 @@ The content is not intended to be exhaustive.
 
 An overview of what is available in each chapter (listed top left).
 
-Communication; keeping things running smoothly. Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).
+Communication; keeping things running smoothly. Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).)
 
 Formalities; being compliant, safe and successful. Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
 
