@@ -258,7 +258,7 @@ These are the usually the property of the awarding body. However, they are in th
 | 11 | CCTV showing church interior and bell chamber | Photo: Alison Hodge |
 | 12 | Model demonstration bell | Photo: Tony Crabtree |
 | 13 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 14| Visitor's book | Photo: Tony Crabtree |
+| 14 | Visitor's book | Photo: Tony Crabtree |
 | 15 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
 | 16 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
 | 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
