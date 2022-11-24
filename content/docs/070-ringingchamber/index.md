@@ -21,9 +21,9 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 ## Access
 
-![Non-slip staircase](nonslip_350.JPG)
-
 If the ringing chamber is upstairs:
+
+![Non-slip staircase](nonslip_350.JPG)
 
 - Are the steps safe, secure, non-slippery?
 
@@ -58,17 +58,21 @@ Negative.
 
 A Risk assessment needs to be in place to show the risk and hazard from not having a 'fixed' box is greater than having it, therefore it is justified.
 
+Fixed boxes may become handy storage spaces. If this is the case consider what goes in them. It is not a good place to store the first aid kit.
+
 ## Carpets and Rope Mats
 
 ![Carpet, mats and boxes at Exeter Cathedral](floor_350.jpg)
 
 These should be fit for purpose. There is a commonly held belief that wool is better, however this anecdotal. Most rope wear is a result of the compression when the rope comes into contact with another surface. The cost of a high wool content carpet maybe a couple of thousand pounds more than a synthetic carpet. A new set of tail ends, every 5-8 years is cheaper over the typical 20 year period of a carpet.
 
+Ideally, mats should not overap as this produces a trip hazard.
+
 ## Ceiling, Rope Guides,  Spiders 
 
 ![Rope guide at Melbourne, Derbyshire](guide_350.JPG)
 
-Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. 
+Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. The ideal height is typically about 3 metres, this may be higher for larger bells.
 
 Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomess abrasive to ropes, generally wearing out the rope immediately above the sally. A dense timber is better as it holds a polish and doesn’t abrade the ropes. If unsure, seek expert advice, maybe from your Society, ***[CCCBR](../170-glossary/#cccbr)***, or a professional bell hanger. 
 
@@ -78,14 +82,15 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
 
-Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber. A warning notice should be prominently displayed. The picture on the right shows the controls for the operation of an electronic unit alongside controls for an electrically operated spider.
+Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber. A warning notice should be prominently displayed. This should include advice on how to disable the apparatus. 
+The picture on the right shows the controls for the operation of an electronic unit alongside controls for an electrically operated spider.
 
 ## Coat Hooks 
 
 Are these fit for purpose?  
 Are they in suitable locations? 
 
-Ensure that the do not lead to important items being hidden such as emergency equipment, light switches, clock hammers.
+Ensure that the do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
 
 ## Curtains / blinds 
 
@@ -107,9 +112,11 @@ Further details can be found at [lighting in and around towers](https://cccbr.or
 
 Is the ringing chamber:
 
-- Is lighting placed centrally to the rope circle, so as to illuminate all ringers above and from the front? Ensure there is enough light within the rope circle and not just around the walls. Uplighters may look good, but the reflectivity of the ringing chamber may mean they do not work. Rhey require a more lumens to achieve an acceptable light level. Uplighters work best when combined with downlighters, lighting the space at eye level (6 foot) to waist level (3 foot) for the ringers.
+- Is lighting placed centrally to the rope circle, so as to illuminate all ringers above and from the front? Ensure there is enough light within the rope circle and not just around the walls. Uplighters may look good, but the reflectivity of the ringing chamber may mean they do not work. They require more energy to achieve an acceptable light level. Uplighters work best when combined with downlighters, lighting the space at eye level (6 foot) to waist level (3 foot) for the ringers.
 
-- Are there at least two light sources? This provides a back-up should one fail or is smashed by a wild rope. If in doubt, fit more lights than originally considered. Ideally engage a professional to help with design. 400-500 lumed at eye level (6 foot) from the floor is a good starting point when ringing. 
+- Are there at least two light sources? This provides a back-up should one fail or is smashed by a wild rope. If in doubt, fit more lights than originally considered. Ideally engage a professional to help with design. 400-500 lumen at eye level (6 foot) from the floor is a good starting point when ringing. 
+
+- Lighting needs to be maintained, e.g. bulbs changed, and should be safely accessible.
 
 - Is there a battery back-up to protect against a blown fuse or power failure? 
 
@@ -152,7 +159,7 @@ This may be easily corrected to give a more satisfying experience. Consider seek
 
 Are the sound levels in the ringing chamber good? Is it echoey? if so, consider a carpet or large rug. Curtains and soft furnishings may also help. 
 
-Do the bells “shout” down through a trap door or through the stair door? Ensuring these are closed adequately insulted may be easily redressed.
+Do the bells “shout” down through a trap door or through the stair door? Ensuring these are adequately insulated may be easily redressed.
 
 Further advice may be available from your local Society or the ***[CCCBR](../170-glossary/#cccbr)***. If the problem is larger then consult a professional.
 
@@ -194,11 +201,13 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 
 ![Typical visitor book](visitors_350.JPG)
 
-Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records and should be deposited in Diocesan records. Further information can be found in the [History and Archive work group](https://cccbr.org.uk/about/workgroups/historical-and-archive/) pages.  
+Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records. Further information can be found in the [History and Archive work group](https://cccbr.org.uk/about/workgroups/historical-and-archive/) pages.  
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
 
 Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower ***[authority](../170-glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../170-glossary/#c-of-e)*** church.
+
+Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
 ### Simulators
 
@@ -212,7 +221,7 @@ Any fixed wiring needs to be inspected every couple of years by a qualified elec
 
 See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
 
-It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used.
+It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
 
 Do you have at least one person able, and willing, to check the ropes at suitable intervals? If not a local society 'expert' may be able to assist. If a person is available locally, can they identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
@@ -224,7 +233,7 @@ If unsure, consider contacting your local Society or the ***[CCCBR](../170-gloss
 
 Are these usable and not simply rusted away? 
 
-It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by ill-intentioned people!
+It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
 ### Trophies 
 
