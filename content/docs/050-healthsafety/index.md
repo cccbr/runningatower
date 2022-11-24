@@ -25,15 +25,19 @@ This includes guidance on:
 
 - Fire safety. 
 
-- First aid. 
+- First aid. One should be readily available.
 
-- Electrical power, lighting and emergency lighting. The inspection and test records, including annual PAT testing of all plug in portable appliances. Earth bonding testing of the tower and lightning protection.
+- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection.
 
 - Accidents and illness. 
 
 - Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g if ringing a peal. Induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
 
-Consideration should be given to special occasions such as tower open days when large numbers of people may be present. There is some advce within [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/), however this was not written by the ***[CCCBR](../170-glossary/#cccbr)***.
+Consideration should be given to special occasions such as tower open days when large numbers of people may be present. 
+
+Bells should not be left up (raised) for extended periods between ringing sessions. This may not apply to heavier rings e.g. tenor over 20cwt. However, in that case access must be controlled. Such access being limited to experienced ringers and people specially trained.  
+
+There is advce in the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/) website, however this is not written by the ***[CCCBR](../170-glossary/#cccbr)***. 
 
 Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers.  
 
@@ -47,7 +51,7 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 - Call ‘Stand’ if there is any significant loss of bell control or other incident.  
 
-- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. N.B Take particular care if a clapper fails, this may break the slider if present in the installation (Hastings stays do not have a slider). Do not try to stand the bell, ring it down with care.  
+- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. N.B Take particular care if a clapper fails, this may break the slider if present in the installation. This is not applicable if the bells are fitted with Hastings stays, as these do not have a slider. Do not try to stand the bell, ring it down with care.  
 
 ## Attendance Record(s) 
 
@@ -95,7 +99,7 @@ Spiders and ropes should, ideally, be left inaccessible e.g. locked away. This i
 
 Bells should not be left up between ringing sessions, especially where access to the bell and ringing chambers is not secured.  
 
-Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult / impossible to rise right-sided. 
+Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult/impossible to rise right-sided. 
 
 Many churches are insured through the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/).
 
@@ -109,7 +113,7 @@ There may be other users of the tower and its internal spaces. These, their acce
 
 ![Barrier in ground floor ringing chamber](barrier_350.jpg)
 
-Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. 
+Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. Ropes at ground floor rings should be raised on a spider. The spider should be inaccesible to the casual visitor by being secured.
 
 There may also be persons requiring access to other installations (such as mobile telephone equipment housed in the tower). 
 
