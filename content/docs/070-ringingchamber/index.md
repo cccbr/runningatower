@@ -98,7 +98,7 @@ These are primarily to prevent ringers being blinded by sunlight. Heavy curtains
 
 ## Electrical Devices 
 
-Power points and powered devices should be checked by a professional, approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[authority's](../170-glossary/#authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
+Power points and powered devices should be checked by a professional, approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../170-glossary/#authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
 
 ## Heating   
 
@@ -205,7 +205,7 @@ Tower records of visitors, quarter peals and peals. Within churches in the Churc
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
 
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the tower ***[authority](../170-glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../170-glossary/#c-of-e)*** church.
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the ***[tower authority](../170-glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../170-glossary/#c-of-e)*** church.
 
 Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
