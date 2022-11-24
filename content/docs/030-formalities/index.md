@@ -15,7 +15,7 @@ In the ***[C of E](../170-glossary/#c-of-e)***, the Tower Captain and anyone tea
 
 ## General Data Protection Regulation (GDPR) 
 
-Any records of ringers must be in-line with statutory regulations and any requirements of the ***[authority](../170-glossary/#authority)***.  
+Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../170-glossary/#authority)***.  
 
 Permission must be obtained from parents / guardians of under 18s.  
 
