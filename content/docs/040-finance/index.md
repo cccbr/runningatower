@@ -30,21 +30,21 @@ Consider setting an end time when ringing will finish, particularly for ringing 
 
 Consider having fixed fees for: 
 
-- Visiting bands.
-
 - Funerals, possibly commensurate with that for weddings.
+
+- Visiting bands.
 
 - Quarter peals. 
 
 - Peals.
 
-These may be determined in consultation with the tower ***[authority](../170-glossary/#authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
+These may be determined in consultation with the ***[tower authority](../170-glossary/#authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
 
 Avoid having a 'box on the wall', especially for downstairs rings, as these invite theft and damage. 
 
 ![Electronic donation](donate_350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../170-glossary/#c-of-e)*** church implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid, this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../170-glossary/#c-of-e)*** church implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
@@ -56,16 +56,17 @@ The tower and / or the local society may charge a subscription, typically this i
 
 ## Expenditure 
 
-Agree with the tower ***[authority](../170-glossary/#authority)***, in advance, who will pay for replaceable items e.g., ropes. 
-In the Church of England, it may be worth running the tower funds through the ***[PCC](../170-glossary/#pcc)***. The PCC is a registered charity and registered with HMRC for Gift Aid. The result might be a reduction of a third. This should be a big encouragement to use PCC funds over any tower fund.
+Agree with the ***[tower authority](../170-glossary/#authority)***, in advance, who will pay for replaceable items e.g. ropes. 
 
-If a major project is envisaged the funding of this must be agreed in consultation with the tower ***[authority](../170-glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
+In the Church of England, it may be worth running the tower funds through the ***[PCC](../170-glossary/#pcc)***. The PCC is normally a registered charity and registered with HMRC for Gift Aid. The result might be a reduction of a third. This should be a big encouragement to use PCC funds over any tower fund.
+
+If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../170-glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
 ## Tower Funds 
 
 In the ***[C of E](../170-glossary/#c-of-e)***, funds are best held within the ***[PCC](../170-glossary/#pcc)*** account(s). Ideally these should be ring-fenced preventing their use for non-ringing related expenditure. This can be achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
 
-If a tower has funds, separate from the tower ***[authority](../170-glossary/#authority)***, these should never be held by an individual. Traditionally, such have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
+If a tower has funds, separate from the ***[tower authority](../170-glossary/#authority)***, these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
