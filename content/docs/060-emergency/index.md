@@ -21,7 +21,7 @@ The ICE should indicate:
 
 - The location. Consider which location provides the best access for larger vehicles such as ambulances or fire appliances. Also, consider the easiest means of access for stretchers, etc. Consider using a combination of the following: 
 
-- Post code, this might not uniquely identify a property and will not define the entrance - further details can be found at [Postcode finder](https://www.royalmail.com/find-a-postcode). 
+- Postcode, this might not uniquely identify a property and will not define the entrance - further details can be found at [Postcode finder](https://www.royalmail.com/find-a-postcode). 
 
 - What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at [what3words](https://what3words.com/about).  
 
@@ -39,7 +39,7 @@ The ICE should indicate:
 
 ## Emergency Services
 
-Liaise with the local emergency services to discuss their access and also emergency exits. Towers can be awkward and confined spaces presenting difficulties in access and egress, especially with stretchers and casualties. They may be happy to run a training exercise for both emergency services staff and ringers. 
+Liaise with the local emergency services to discuss their access and also emergency exits. Towers can be awkward and confined spaces, presenting difficulties in access and egress, especially with stretchers and casualties. The emergency services may be prepared to run a training exercise for both themselves and ringers. 
 
 ![Typical fire alarm](alarm_350.jpg)
 
@@ -51,11 +51,11 @@ These must audible and visible when the bells are being rung. These must be insp
 
 ## Emergency lighting and exits
 
-These must be inspected, tested regularly and be in date. They must be to adequate to safely set the bells ahould the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[authority](../170-glossary/#authority)***.
+These must be inspected, tested regularly and be in date. They must bright enough to safely set the bells should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[authority](../170-glossary/#authority)***.
 
 The design of the fire alarm system shall be in accordance with a fire safety plan. 
 
-Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors might gain access to the building. Advise such visitors to make contact in advance by publicising this, for instance on the building website. 
+Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors might gain access to the building. Advise such visitors to make contact in advance by publicising this, for instance, on the building website. 
 
  ## Image Credits
 
