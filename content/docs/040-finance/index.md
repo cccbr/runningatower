@@ -44,7 +44,7 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these invi
 
 ![Electronic donation](donate_350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. within a church in the ***[C of E](../170-glossary/#c-of-e)***, implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid, this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../170-glossary/#c-of-e)*** church implementing this should involve the ***[PCC](../170-glossary/#pcc)*** and its treasurer. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid, this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
