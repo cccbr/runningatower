@@ -15,11 +15,11 @@ weight: 90
 
 ### Annual Meeting
 
-Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the tower ***[authority](../170-glossary/#authority)***. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
+Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the ***[tower authority](../170-glossary/#authority)***. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
 The agenda should be distributed in advance together with a request for items to be included in any other business. The idea of an agenda is to keep a meeting on track. 
 
 The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
-The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../170-glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the tower ***[authority](../170-glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
+The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../170-glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the ***[tower authority](../170-glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
 
 {{<hint info>}}
 **[Sample agenda](../091-agenda/)**
@@ -27,7 +27,7 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 ### Appointment of Officers
 
-Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the tower ***[authority](../170-glossary/#authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
+Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the ***[tower authority](../170-glossary/#authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
 
 {{<hint info>}}
  - Tower Captain. Overall responsibility.
@@ -47,7 +47,7 @@ If tower funds are held in a PCC restricted bell fund, that should be reviewed. 
 
 ### Calendar
 
-Maintain a calendar which is publicised to all, including the tower ***[authority](../170-glossary/#authority)***. This may be printed or held by some electronic means. The calendar should list:
+Maintain a calendar which is publicised to all, including the ***[tower authority](../170-glossary/#authority)***. This may be printed or held by some electronic means. The calendar should list:
 
 {{<hint info>}}
 -	The weekly, monthly schedule.
@@ -131,7 +131,7 @@ There may be others, such as a tower subscription to The Ringing World.
 Is there an agreed policy for the number of visiting bands, how long such ringing should last and any special considerations around timings. The latter may particularly apply when the bells are intrusive.
 It is to be hoped that visiting bands try to perform well. 
 
-The Guild of Clerical Ringers [document](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf) covers some of these topics from more of a clergy point of view.
+The Guild of Clerical Ringers have produced a [document](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf) that covers some of these topics from more of a clergy point of view.
 
 ## Image Credits
 
