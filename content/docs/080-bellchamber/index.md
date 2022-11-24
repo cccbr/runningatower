@@ -67,19 +67,23 @@ Muffles are, traditionally, used on a limited number of occasions such as funera
 
 ## Silencers
 
-![Wooden clapper tie](tie_solid_350.jpg)
-
 There are various types and means of fitting. 
 
+![Wooden clapper tie](tie_solid_350.jpg)
 
-
-***[ART](../170-glossary/#art)*** recommend one based on an old cycle inner tube. 
+The above is a wooden tie that holds the clapper in the middle of the bell.
 
 ![Rope clapper tie](tie_rope1_350.JPG) ![](tie_rope_2.JPG)
 
-It may be preferred to tie the clapper on the hand stroke side so as not to be fine-set for teaching basic bell handling. 
+The above shows a rope used to tie the clapper It may be preferred to tie the clapper on the hand stroke side so as not to be fine-set for teaching basic bell handling. It may be preferred to tie the clapper centrally if the main objective is simulator work. 
 
-It may be preferred to tie the clapper centrally if the main objective is simulator work. 
+![Art design](art_350.jpg)
+
+***[ART](../170-glossary/#art)*** recommend one based on an old cycle inner tube. 
+
+## Sound Control
+
+Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to the individual towers. It is essential that the method of operation is well documented alongside when it should be used.
 
 ## Wildlife 
 
@@ -97,6 +101,7 @@ Are there any protected species e.g. bats? If there are, especial care must be t
 | 6 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
 | 7 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
 | 8 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
+| 9 | ART style clapper tie | Photo: ART |
 
 ----
 
