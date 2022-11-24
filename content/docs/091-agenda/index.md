@@ -17,7 +17,7 @@ The meeting was opened at TIME
 
 ## Prayers and opening remarks.  
 
-Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the tower ***[authority](../170-glossary/#authority)***, and possibly not a ringer, they may provide feedback on a more public basis. 
+Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the ***[tower authority](../170-glossary/#authority)***, and possibly not a ringer, they may provide feedback on a more public basis. 
 
 ## Present
 
@@ -41,14 +41,14 @@ The following are, probably, the minimum that an active society should have - Ri
 
 ## Election of Officers.  
 
-The following is given as a suggestion and is not definitive. The society, together with the tower ***[authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have 
+The following is given as a suggestion and is not definitive. The society, together with the ***[tower authority](../170-glossary/#authority)***, may decide on additional offices. The following are the, probably, the minimum that an active society should have 
 - Ringing Master
 - Deputy Ringing Master
 - Secretary
 - Treasurer
 - Steeple Keeper. 
 
-These are recommendations to the tower ***[authority](../170-glossary/#authority)*** for their approval. 
+These are recommendations to the ***[tower authority](../170-glossary/#authority)*** for their approval. 
 
 ## Review of membership.  
 
