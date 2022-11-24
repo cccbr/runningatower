@@ -25,7 +25,7 @@ If the ringing chamber is upstairs:
 
 ![Non-slip staircase](nonslip_350.JPG)
 
-- Are the steps safe, secure, non-slippery?
+- Are the steps safe, secure, non-slippery? The above photograph shows a modern non-slip surface.
 
 - Is there a good handrail (an alternative may be suitably positioned grab handles)? 
 
