@@ -13,7 +13,7 @@ weight: 20
 
 ![Heavitree, Devon](heavitree_350.jpg)
 
-The term ***[authority](../170-glossary/#authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../170-glossary/#c-of-e)***. In these cases, he legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../170-glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is a good idea to have a ringing representative on the PCC. 
+The term ***[authority](../170-glossary/#authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed. About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../170-glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../170-glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. 
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
