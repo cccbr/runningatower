@@ -15,7 +15,7 @@ This chapter lists the people who have contributed, in various ways, to this doc
 
 **For technical advice**: Bryn-Marie Reinstadler, Mark Elvers, Lucas Williams and Graham John.
 
-**For words, pictures, reviews, comments and general assistance**: David Bassford, Vicki Chapman, Tony Crabtree, Alison Hodge, James Kirkcaldy, James Morgan, Tom Ridgman, Anne White, Paul Wotton 
+**For words, pictures, reviews, comments and general assistance**: David Bassford, Chris Birkby, Vicki Chapman, Tony Crabtree, Alison Hodge, James Kirkcaldy, James Morgan, Tom Ridgman, Anne White, Paul Wotton 
 
 ## Sources
 
