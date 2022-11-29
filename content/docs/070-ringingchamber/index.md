@@ -27,6 +27,8 @@ If the ringing chamber is upstairs:
 
 - Are the steps safe, secure, non-slippery? The photograph shows a modern non-slip surface.
 
+![Handrail](handrail350.jpg)
+
 - Is there a good handrail (an alternative may be suitably positioned grab handles)? 
 
 - Are the steps well illuminated? 
@@ -247,22 +249,23 @@ These are the usually the property of the awarding body. However, they are in th
 | :---: | --- | --- |
 | 1 | Ringing chamber at St Machar, Aberdeen | Photo: CCCBR archive |
 | 2 | Non-slip staircase surface | Photo: Tony Crabtree |
-| 3 | Pile of carpeted boxes |  Photo: Tony Crabtree |
-| 4 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
-| 5 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
-| 6 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
-| 7 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
-| 8 | Well lit ringing chamber at Great Barton, Suffolk | Photo: CCCBR archive |
-| 9 | Notice board | Photo: Tony Crabtree |
-| 10 | Teaching aids | Photo: Tony Crabtree |
-| 11 | CCTV showing church interior and bell chamber | Photo: Alison Hodge |
-| 12 | Model demonstration bell | Photo: Tony Crabtree |
-| 13 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 14 | Visitor's book | Photo: Tony Crabtree |
-| 15 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
-| 16 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
-| 18 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
+| 3 | Hand and grab rails at South Petherton | Photo: James Kirkcaldy
+| 4 | Pile of carpeted boxes |  Photo: Tony Crabtree |
+| 5 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
+| 6 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
+| 7 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
+| 8 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
+| 9 | Well lit ringing chamber at Great Barton, Suffolk | Photo: CCCBR archive |
+| 10 | Notice board | Photo: Tony Crabtree |
+| 11 | Teaching aids | Photo: Tony Crabtree |
+| 12 | CCTV showing church interior and bell chamber | Photo: Alison Hodge |
+| 13 | Model demonstration bell | Photo: Tony Crabtree |
+| 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 15 | Visitor's book | Photo: Tony Crabtree |
+| 16 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 17 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 18 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 19 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
 
 ----
 
