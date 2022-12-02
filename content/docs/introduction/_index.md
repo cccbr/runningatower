@@ -49,7 +49,7 @@ Building a Team; creating a supportive environment. Officers, Meetings, Running 
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../010-introduction/)** - **[Next Chapter](../020-communication/)**
+**[Previous Chapter](../introduction/)** - **[Next Chapter](../communication/)**
 {{</hint>}}
 
 ----
