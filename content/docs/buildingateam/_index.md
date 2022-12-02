@@ -137,7 +137,7 @@ The Guild of Clerical Ringers have produced a [document](https://cccbr.org.uk/wp
 | 2 | Young ringers in action at St Bartholomew, Nettlebed | Photo: CCCBR archive |
 
 {{<hint info>}}
-**[Previous Chapter](../080-bellchamber/)** - **[Next Chapter](../170-glossary/)**
+**[Previous Chapter](../bellchamber/)** - **[Next Chapter](../glossary/)**
 {{</hint>}}
 
 ----
