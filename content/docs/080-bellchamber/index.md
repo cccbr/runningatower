@@ -1,9 +1,8 @@
+# Bell Chamber
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Bell Chamber
 
 The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). The information here deals with the need for specific items.  
 
