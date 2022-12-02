@@ -31,7 +31,7 @@ Parochial Church Council. The principal function, or purpose, of the PCC is defi
 Stewardship and Management Work Group of the CCCBR. To support ringers, the owners of bells, and other interested parties in all matters relating to the care of bells, ringers. Further details on their **[webpages](https://cccbr.org.uk/about)**.
 
 {{<hint info>}}
-**[Previous Chapter](../090-buildingateam)** - **[Next Chapter](../180-acks-and-sources/)**
+**[Previous Chapter](../buildingateam)** - **[Next Chapter](../acks-and-sources/)**
 {{</hint>}}
 
 -----
