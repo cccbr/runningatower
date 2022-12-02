@@ -1,6 +1,6 @@
 ---
+weight: 1
 title: Agenda
-weight: 91
 ---
 
 {{<hint danger>}}
