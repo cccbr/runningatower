@@ -82,7 +82,7 @@ Further details are available on the [LPW scheme website](http://www.lpwscheme.o
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../030-formalities/)** - **[Next Chapter](../050-healthsafety/)**
+**[Previous Chapter](../formalities/)** - **[Next Chapter](../healthsafety/)**
 {{</hint>}}
 
 ----
