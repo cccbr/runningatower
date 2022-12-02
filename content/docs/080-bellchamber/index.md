@@ -15,10 +15,6 @@ The bell installation is covered specifically by [Belfy Upkeep](https://belfryup
 
 Need to be clear about who is responsible whilst pointing out that ringers are often the only ones with regular access to parts of the church building and have a 'duty of care'. 
 
-Checks should cover the state of the louvres and the general state of the tower with especial concern for the ingress of water and wildlife. 
-
-Make a thorough check after any period of inactivity. Insert link to information recently issued for returning from Covid. 
-
 Bell chambers should never be visited alone. It is strongly advised that a second person, who is also suitably experienced, is present.
 
 ## Muffles  
