@@ -1,8 +1,8 @@
+# Introduction
+
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Introduction
 
 {{<hint danger>}}
 This document addresses key aspects of running a tower.
