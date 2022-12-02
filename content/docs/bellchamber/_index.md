@@ -57,7 +57,7 @@ Sound control may be present. This may consist of shutters, trapdoors, etc. Inst
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../070-ringingchamber/)** - **[Next Chapter](../090-buildingateam/)**
+**[Previous Chapter](../ringingroom/)** - **[Next Chapter](../buildingateam/)**
 {{</hint>}}
 
 ----
