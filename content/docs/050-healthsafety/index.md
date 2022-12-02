@@ -51,7 +51,7 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 - Call ‘Stand’ if there is any significant loss of bell control or other incident.  
 
-- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. If you think a clapper may have broken, or fallen out, set the bells having first warned the band to set carefully as the slider may have been broken.  
+- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. If you think a clapper may have broken, or fallen out, set the bells having first warned the band to set carefully as the slider may have been broken.  
 
 ## Attendance Record(s) 
 
@@ -69,7 +69,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ![Typical First Aid kit](first_aid_350.JPG)
 
-Ideally there should be a first aid kit in the ringing chamber.  
+Ideally there should be a first aid kit in the ringing room.  
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
@@ -95,9 +95,9 @@ There is also information in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/d
 
 Consider the number of keys and / or key holders. There is a balance between security (preventing access) and enabling reasonable access. Exits for use in an emergency  must never be compromised and should be signed.
 
-Spiders and ropes should, ideally, be left inaccessible e.g. locked away. This is essential in accessible ringing chambers.  
+Spiders and ropes should, ideally, be left inaccessible e.g. locked away. This is essential in accessible ringing rooms.  
 
-Bells should not be left up between ringing sessions, especially where access to the bell and ringing chambers is not secured.  
+Bells should not be left up between ringing sessions, especially where access to the bell and ringing rooms is not secured.  
 
 Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult/impossible to rise right-sided. 
 
@@ -107,11 +107,11 @@ Information, for those working on bell installations, is available in [Belfry Up
 
 ## Other Tower Users 
 
-![Multi-use ringing chamber](ground_floor_350.jpg)
+![Multi-use ringing room](ground_floor_350.jpg)
 
 There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Clergy and choirs are often users of ground floor areas and may do so at the same time as ringers.  
 
-![Barrier in ground floor ringing chamber](barrier_350.jpg)
+![Barrier in ground floor ringing room](barrier_350.jpg)
 
 Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. Ropes at ground floor rings should be raised on a spider. The spider should be inaccesible to the casual visitor by being secured.
 
@@ -122,8 +122,8 @@ There may also be persons requiring access to other installations (such as mobil
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Small first aid kit | Photo: Tony Crabtree |
-| 2 | Ground floor chamber | Photo: Tony Crabtree |
-| 3 | Ground floor ring with barrier | Photo: Alison Hodge |
+| 2 | Ground floor ringing room | Photo: Tony Crabtree |
+| 3 | Ground floor ringing room with barrier | Photo: Alison Hodge |
 
 ----
 
