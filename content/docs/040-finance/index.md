@@ -1,7 +1,3 @@
----
-title: Finance
-weight: 40
----
 
 {{<hint danger>}}
 **Site currently under construction**
