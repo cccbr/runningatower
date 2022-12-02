@@ -3,6 +3,8 @@ title: Running a Tower
 type: docs
 ---
 
+# Running a Tower
+
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
