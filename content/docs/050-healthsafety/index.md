@@ -61,7 +61,7 @@ Towers may wish to have a separate (traditional) visitors' book as an historic r
 
 ## Additional requirements 
 
-The ***[tower authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authorities. These may arise from insurance or other reasons. 
+The ***[tower authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authority. These may arise from insurance or other reasons. 
 
 Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The ***[CCCBR](../170-glossary/#cccbr)*** website will normally detail the latest guidance in such cases.
 
@@ -73,7 +73,7 @@ Ideally there should be a first aid kit in the ringing chamber.
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items are within date. The kit should be listed on the ***[tower authorities](../170-glossary/#authority)*** log of first aid kits together with records of periodic inspections.
+Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../170-glossary/#authority)*** log of first aid kits together with records of periodic inspections.
 
 ## Insurance 
 
