@@ -1,9 +1,8 @@
+# Health & Safety
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Health & Safety
 
 {{<hint danger>}}
 A tower is a non-domestic setting, and as such the ***[tower authority](../170-glossary/#authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the ***[tower authority](../170-glossary/#authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
