@@ -1,13 +1,8 @@
----
-title: Glossary
-weight: 170
----
+# Glossary
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
- 
-# Glossary
 
 As with any technical subject, bell ringing and bell hanging has, over the years, developed specialist terms some of which are unique to ringing and others which have particular meaning when applied to ringing. Some other technical terms may not be familiar to ringers. We hope to have included all of these here. They are linked from the text in the various chapters. Items appearing elsewhere in the glossary are shown in **Bold**.
 
