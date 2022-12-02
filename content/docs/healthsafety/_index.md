@@ -123,7 +123,7 @@ There may also be persons requiring access to other installations (such as mobil
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../040-finance/)** - **[Next Chapter](../060-emergency/)**
+**[Previous Chapter](../finance/)** - **[Next Chapter](../emergency/)**
 {{</hint>}}
 
 ----
