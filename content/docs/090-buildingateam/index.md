@@ -123,7 +123,7 @@ See information contained in [Health & Safety](../050-healthsafety).
 
 ### Subscriptions
 
-These may be required for the individual tower, the local representative group.
+These may be required for the individual tower, the local society.
 There may be others, such as a tower subscription to The Ringing World. 
 
 ### Visitors
