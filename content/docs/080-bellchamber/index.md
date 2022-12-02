@@ -1,7 +1,3 @@
----
-title: Bell Chamber
-weight: 80
----
 
 {{<hint danger>}}
 **Site currently under construction**
