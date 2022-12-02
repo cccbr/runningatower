@@ -1,10 +1,9 @@
+# Finance
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
  
-# Finance
-
 ## Income  
 
 ### Weddings 
