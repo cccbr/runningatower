@@ -96,7 +96,7 @@ For major projects such as the restoration of an installation, including augment
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../010-introduction/)** - **[Next Chapter](../030-formalities/)**
+**[Previous Chapter](../introduction/)** - **[Next Chapter](../formalities/)**
 {{</hint>}}
 
 ----
