@@ -1,6 +1,6 @@
 ---
-title: Planning
-weight: 92
+weight: 2
+title: Planning Ringing
 ---
 
 {{<hint danger>}}
