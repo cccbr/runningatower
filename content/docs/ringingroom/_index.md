@@ -264,7 +264,7 @@ These are the usually the property of the awarding body. However, they are in th
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../060-emergency/)** - **[Next Chapter](../080-bellchamber/)**
+**[Previous Chapter](../emergency/)** - **[Next Chapter](../bellchamber/)**
 {{</hint>}}
 
 ----
