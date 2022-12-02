@@ -1,6 +1,6 @@
 ---
 title: Planning
-weight: 92
+weight: 3
 ---
 
 {{<hint danger>}}
@@ -104,7 +104,7 @@ Applying aspects of the advice above should help.
 | 1 | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
 
 {{<hint info>}}
-**[Return](../090-buildingateam/)**
+**[Return](../buildingateam/)**
 {{</hint>}}
 
 ----
