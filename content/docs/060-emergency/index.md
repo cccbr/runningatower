@@ -1,9 +1,8 @@
+# Emergency 
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Emergency 
 
 ![An ICE notice](ice_350.jpg)
 
