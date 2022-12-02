@@ -1,5 +1,5 @@
 ---
-title: Ringing Chamber
+title: Ringing Room
 weight: 70
 ---
 
@@ -7,21 +7,21 @@ weight: 70
 **Site currently under construction**
 {{</hint>}}
 
-# Ringing Chamber 
+# Ringing Room 
 
-![Ringing chamber at St Machar, Aberdeen](aberdeen350.jpg)
+![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
-Try to keep the ringing chamber a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
+Try to keep the ringing room a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
 
 The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful for permission to reuse this material. The links are:
 
 - [Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)
 
-- [Looking after ringing chambers and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)
+- [Looking after ringing rooms and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)
 
 ## Access
 
-If the ringing chamber is upstairs:
+If the ringing room is upstairs:
 
 ![Non-slip staircase](nonslip_350.JPG)
 
@@ -37,7 +37,7 @@ If the access door opens inwards to the ringing chamber are there measures, such
 
 If access is by a trap door, is it able to be safely secured when open? 
 
-Is there any other way of accessing the ringing chamber that is less inconvenient? Maybe seek advice from your local Society.  
+Is there any other way of accessing the ringing room that is less inconvenient? Maybe seek advice from your local Society.  
 
 ## Boxes 
 
@@ -82,7 +82,7 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
 
-Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing chamber. A warning notice should be prominently displayed. This should include advice on how to disable the apparatus. 
+Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to disable the apparatus. 
 The picture on the right shows the controls for the operation of an electronic unit alongside controls for an electrically operated spider.
 
 ## Coat Hooks 
@@ -94,8 +94,8 @@ Ensure that these do not lead to important items being hidden such as emergency 
 
 ## Curtains / blinds 
 
-These are primarily to prevent ringers being blinded by sunlight. Heavy curtains may also be an effective way to shut off an open staircase, door way or open gallery.  They may assist in enabling the ringing chamber to be heated without heating other unused areas such as the rest of the building, staircase, etc.
-Curtains can also serve to deaden xcessive echo in a ringing chamber.
+These are primarily to prevent ringers being blinded by sunlight. Heavy curtains may also be an effective way to shut off an open staircase, door way or open gallery.  They may assist in enabling the ringing room to be heated without heating other unused areas such as the rest of the building, staircase, etc.
+Curtains can also serve to deaden xcessive echo in a ringing room.
 
 ## Electrical Devices 
 
@@ -103,17 +103,17 @@ Power points and powered devices should be checked by a professional, approved b
 
 ## Heating   
 
-Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If the ringing chamber is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area. If there are any windows through which the sun might shine investigate a blind or curtains to reduce this. 
+Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If the ringing room is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area. If there are any windows through which the sun might shine investigate a blind or curtains to reduce this. 
 
 ## Lighting 
 
-![A well lit ringing chamber](well_lit_350.jpg)
+![A well lit ringing room](well_lit_350.jpg)
 
 Further details can be found at [lighting in and around towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
 
-Is the ringing chamber:
+In the ringing room:
 
-- Is lighting placed centrally to the rope circle, so as to illuminate all ringers above and from the front? Ensure there is enough light within the rope circle and not just around the walls. Uplighters may look good, but the reflectivity of the ringing chamber may mean they do not work. They require more energy to achieve an acceptable light level. Uplighters work best when combined with downlighters, lighting the space at eye level (6 foot) to waist level (3 foot) for the ringers.
+- Is lighting placed centrally to the rope circle, so as to illuminate all ringers above and from the front? Ensure there is enough light within the rope circle and not just around the walls. Uplighters may look good, but the reflectivity of the ringing room may mean they do not work. They require more energy to achieve an acceptable light level. Uplighters work best when combined with downlighters, lighting the space at eye level (6 foot) to waist level (3 foot) for the ringers.
 
 - Are there at least two light sources? This provides a back-up should one fail or is smashed by a wild rope. If in doubt, fit more lights than originally considered. Ideally engage a professional to help with design. 400-500 lumen at eye level (6 foot) from the floor is a good starting point when ringing. 
 
@@ -121,7 +121,7 @@ Is the ringing chamber:
 
 - There should be a battery back-up to protect against a blown fuse or power failure in at least one light fitting. The lighting should be 'safety lighting' not 'exit lighting'. The former is brighter. There is further information on the Oxford Diocesan Guild [website](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc01_emergency_lighting-3.pdf). N.B. This document is to be updated.
 
-If the ringing chamber has large windows is there some means of reducing direct sunlight temporarily blinding the ringers such as curtains or blinds. 
+If the ringing room has large windows is there some means of reducing direct sunlight temporarily blinding the ringers such as curtains or blinds. 
 
 ## Seating 
 
@@ -145,7 +145,7 @@ This may include model bell(s), simulator(s), books and pictures of the bells ab
 
 # Storage  
 
-Consider whether storage spaces need to be lockable. This is especially important when the ringing chamber is readily accessible. It may also be necessary to lock any higher value items away.
+Consider whether storage spaces need to be lockable. This is especially important when the ringing room is readily accessible. It may also be necessary to lock any higher value items away.
 
 # The Ringing Experience 
 
@@ -158,7 +158,7 @@ This may be easily corrected to give a more satisfying experience. Consider seek
 
 # Sound 
 
-Are the sound levels in the ringing chamber good? Is it echoey? if so, consider a carpet or large rug. Curtains and soft furnishings may also help. 
+Are the sound levels in the ringing room good? Is it echoey? if so, consider a carpet or large rug. Curtains and soft furnishings may also help. 
 
 Do the bells “shout” down through a trap door or through the stair door? Ensuring these are adequately insulated may be easily redressed.
 
@@ -170,9 +170,9 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ![CCTV installation](cctv_350.jpg)
 
-CCTV. This may cover the ringing chamber and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
+CCTV. This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
-Communication links to the body of the building, especially where the ringing chamber is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone / visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
+Communication links to the body of the building, especially where the ringing room is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone / visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
 
 Kitchen or at least a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
 
@@ -246,7 +246,7 @@ These are the usually the property of the awarding body. However, they are in th
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Ringing chamber at St Machar, Aberdeen | Photo: CCCBR archive |
+| 1 | Ringing room at St Machar, Aberdeen | Photo: CCCBR archive |
 | 2 | Non-slip staircase surface | Photo: Tony Crabtree |
 | 3 | Hand and grab rails at South Petherton | Photo: James Kirkcaldy
 | 4 | Pile of carpeted boxes |  Photo: Tony Crabtree |
@@ -254,7 +254,7 @@ These are the usually the property of the awarding body. However, they are in th
 | 6 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
 | 7 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
 | 8 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
-| 9 | Well lit ringing chamber at Great Barton, Suffolk | Photo: CCCBR archive |
+| 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
 | 11 | Teaching aids | Photo: Tony Crabtree |
 | 12 | CCTV showing church interior and bell chamber | Photo: Alison Hodge |
