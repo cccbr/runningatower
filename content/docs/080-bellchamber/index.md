@@ -10,9 +10,9 @@ The bell installation is covered specifically by [Belfy Upkeep](https://belfryup
 ![Low-side metal frame at Broadclyst, Devon](frame_350.jpg)
 
 {{<hint warning>}}
-Need to be clear about who is responsible whilst pointing out that ringers are often the only ones with regular access to parts of the church building and have a 'duty of care'.
+**Ringers are often the only ones with regular access to parts of the church building and have a 'duty of care'. However they are not the people will overall responsibility.**
 
-Bell chambers should never be visited alone. It is strongly advised that a second person, who is also suitably experienced, is present.
+**Bell chambers should never be visited alone. It is strongly advised that a second person, who is also suitably experienced, is present.**
 {{</hint>}}
  
 ## Muffles  
