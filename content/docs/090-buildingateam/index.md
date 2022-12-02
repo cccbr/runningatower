@@ -1,7 +1,3 @@
----
-title: Building a Team
-weight: 90
----
 
 {{<hint danger>}}
 **Site currently under construction**
