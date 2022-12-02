@@ -51,7 +51,7 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 - Call ‘Stand’ if there is any significant loss of bell control or other incident.  
 
-- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. N.B Take particular care if a clapper fails, this may break the slider if present in the installation. This is not applicable if the bells are fitted with Hastings stays, as these do not have a slider. Do not try to stand the bell, ring it down with care.  
+- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell-chamber ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there is not always a way back from a serious accident. If you think a clapper may have broken, or fallen out, set the bells having first warned the band to set carefully as the slider may have been broken.  
 
 ## Attendance Record(s) 
 
