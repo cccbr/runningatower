@@ -21,6 +21,8 @@ The agenda should be distributed in advance together with a request for items to
 The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
 The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../170-glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the ***[tower authority](../170-glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
 
+To navigate to a sample agenda, use the left-hand side navigation bar. You may need to click on the menu bar (three stacked horizontal lines) in the top left to access if you are on a small screen.
+
 {{<hint info>}}
 **[Sample agenda](../091-agenda/)**
 {{</hint>}}
@@ -89,6 +91,10 @@ This is not always possible if there are visitors. Generally you need to be awar
 ### Purpose
 
 Decide what you want to achieve, both as a band and for individuals. If you can, publicise what is to be rung and why, a few days before each session. As far as attendance and performance allows, try and ring what was advertised. If you were unable to ring what you said, briefly explain why at the end of the session. Remember the ringers are volunteers, the degree to which you can structure a session will vary with the band and with individuals. Some ringers may come to sessions mainly to get out of the house and socialise as part of a group. They may well be happy to get better at ringing, but it may not be a prime consideration. On the other hand, some may want to progress their ringing more. Having some, if only loose, structure to a session should help keep more people happy as they can see there is something in it for them.
+
+
+To navigate to a example ringing plan, use the left-hand side navigation bar. You may need to click on the menu bar (three stacked horizontal lines) in the top left to access if you are on a small screen.
+
 
 {{<hint info>}}
 The following is an example of a **[ringing plan](../092-planning)**
