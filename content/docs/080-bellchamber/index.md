@@ -9,7 +9,7 @@ weight: 80
 
 # Bell Chamber
 
-This covers not only the bell installation but all areas that may be accessed and used by ringers outside of the ringing room. The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). 
+The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). The information here deals with the need for specific items.  
 
 ![Low-side metal frame at Broadclyst, Devon](frame_350.jpg)
 
@@ -20,40 +20,6 @@ Checks should cover the state of the louvres and the general state of the tower 
 Make a thorough check after any period of inactivity. Insert link to information recently issued for returning from Covid. 
 
 Bell chambers should never be visited alone. It is strongly advised that a second person, who is also suitably experienced, is present.
-
-## Acoustics 
-
-Including examples of sound control in towers. Further details can be found at [sound control in towers](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
-
-## Lighting
-
-Further details can be found at [lighting in towers](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf). 
-
-## Lightning protection and Bell Frames
-
-Further details can be found at [lightning conductors](https://cccbr.org.uk/wp-content/uploads/2020/03/SM_LightningConductors_2020_Ver_1.pdf). 
-
-## The Bell Installation
-
-The following checklists are available within the [SMWG pages](https://cccbr.org.uk/about/workgroups/stewardship-and-management/) on the CCCBR website:
-
-- [Periodic checks](https://cccbr.org.uk/wp-content/uploads/2021/01/Record-sheet-quarterly-and-annual-checks-Jan-2021-V1.pdf).
-
-- [Detailed survey](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-survey-v1-26-Jan-2021.pdf).
-
-There are also the following short videos prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful for permission to reuse this material. The links are:
-
-- [Getting ready to inspect and maintain bells](https://www.youtube.com/watch?v=JK100rBzVE0)
-
-- [Maintaining bells and their fittings](https://www.youtube.com/watch?v=99jHnLDcic8)
-
-Ensure regular checks of the bells, frame, fittings and whether all electrical items are working. N.B., some rectifications of faults may require professional intervention. This where the local society may be able to assist. 
-
-## Stays 
-
-![Conventional stay and slider](stay_conv_1a.jpg) ![Hastings stay](stay_hast_1.jpg)
-
-There are several different types of stays in use. Typically one of the above will be found. It is useful to have spare stays or materials to fashion them. It is useful to have the dimensions of each stay – don't measure the last one, as that progressively introduces errors! The measurement of Hastings stays needs to be particularly precise, including the designed tapers. 
 
 ## Muffles  
 
@@ -83,25 +49,19 @@ The above shows a rope used to tie the clapper It may be preferred to tie the cl
 
 ## Sound Control
 
-Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to the individual towers. It is essential that the method of operation is well documented alongside when it should be used.
-
-## Wildlife 
-
-Are there any protected species e.g. bats? If there are, especial care must be taken so as not disturb them. It should be noted that ingress by any species, whether protected or not, will create a great deal of mess. Removing this must not be undertaken without suitable protective equipment.
+Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to the individual towers. It is essential that the method of operation is well documented alongside when it should be used. Further details can be found at [sound control in towers](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
 ## Image Credits
 
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Modern cast-iron low-side frame at Broadclyst | Photo: James Kirkcaldy |
-| 2 | Conventional stay and slider at All Saints, Loughborough | Photo: CCCBR archive |
-| 3 | Hastings stay and slider at All Saints, Loughborough | Photo: CCCBR archive |
-| 4 | Older muffle with leather thongs and buckle fastenings | Photo: James Kirkcaldy |
-| 5 | Modern muffle with velcro fastening at Ripon Cathedral | Photo: CCCBR archive |
-| 6 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
-| 7 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
-| 8 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
-| 9 | ART style clapper tie | Photo: ART |
+| 2 | Older muffle with leather thongs and buckle fastenings | Photo: James Kirkcaldy |
+| 3 | Modern muffle with velcro fastening at Ripon Cathedral | Photo: CCCBR archive |
+| 5 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
+| 6 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
+| 7 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
+| 8 | ART style clapper tie | Photo: ART |
 
 ----
 
