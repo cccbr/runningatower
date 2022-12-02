@@ -19,7 +19,7 @@ This chapter lists the people who have contributed, in various ways, to this doc
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../170-glossary/)**
+**[Previous Chapter](../glossary/)**
 {{</hint>}}
 
 -----
