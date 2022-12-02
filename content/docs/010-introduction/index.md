@@ -1,7 +1,3 @@
----
-title: Introduction
-weight: 10
----
 
 {{<hint danger>}}
 **Site currently under construction**
