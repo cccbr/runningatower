@@ -47,7 +47,7 @@ These are recommendations to the tower ***[authority](../170-glossary/#authority
 ## Review of membership.  
 
 - Election of new members
-- Uupdates to the tower constitution and members ’Code of Conduct. 
+- Updates to the tower constitution and members ’Code of Conduct. 
 - This item may be used to record thanks to previous members, congratulations, condolences, etc. 
 - This item also offers the opportunity for members to be reminded of the tower’s approach to GDPR for the retention of their personal details, and that Equality and Diversity are topics to be respected. Particular attention must be made for members under 18 for their parental engagement. 
 
