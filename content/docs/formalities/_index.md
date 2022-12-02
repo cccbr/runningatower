@@ -42,7 +42,7 @@ Be aware of the guidelines and follow them. If there are children, young persons
 ----
 
 {{<hint info>}}
-**[Previous Chapter](../020-communication/)** - **[Next Chapter](../040-finance/)**
+**[Previous Chapter](../communication/)** - **[Next Chapter](../finance/)**
 {{</hint>}}
 
 ----
