@@ -1,9 +1,8 @@
+# Building a Team
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Building a Team
 
 ![Typical ringing chamber](chamber_350.jpg)
 
