@@ -17,7 +17,7 @@ Association of Ringing Teachers. Organisation involved with all aspects of teach
 
 ## Authority 
 
-The legal term for this is “Controller of Premisses”, it doesn’t matter who specifically, but this could be the PCC, Dean and Chapter, a charitable group, or an individual who is legally responsible for the building. Technically it is incumbent on the Controller of Premises to ensure all regulations are compiled with, but they should also support the ringers if things are not available.
+The legal term for this is “Controller of Premises”, it doesn’t matter who specifically, but this could be the PCC, Dean and Chapter, a charitable group, or an individual who is legally responsible for the building. Technically it is incumbent on the Controller of Premises to ensure all regulations are compiled with, but they should also support the ringers if things are not available.
 
 ## CCCBR
 
