@@ -58,9 +58,7 @@ Negative.
 
 - Need to consider the need for edge protection. Boxes up to 600mm height, in accordance with HSE guidance unguarded edges, do not need to have edge protection.  
 
-A Risk assessment needs to be in place to show the risk and hazard from not having a 'fixed' box is greater than having it, therefore it is justified.
-
-Fixed boxes may become handy storage spaces. If this is the case consider what goes in them. It is not a good place to store the first aid kit.
+Consider whether a box for a heavy bell should be fixed or not? Fixed boxes may become handy storage spaces. If this is the case consider what goes in them. It is not a good place to store the first aid kit.
 
 ## Carpets and Rope Mats
 
@@ -74,7 +72,7 @@ Ideally, mats should not overap as this produces a trip hazard.
 
 ![Rope guide at Melbourne, Derbyshire](guide_350.JPG)
 
-Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. The ideal height is typically about 3 metres, this may be higher for larger bells.
+Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell should just reach the guide whilst that of the heaviest bell sshould not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
 Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomess abrasive to ropes, generally wearing out the rope immediately above the sally. A dense timber is better as it holds a polish and doesn’t abrade the ropes. If unsure, seek expert advice, maybe from your Society, ***[CCCBR](../170-glossary/#cccbr)***, or a professional bell hanger. 
 
@@ -92,11 +90,12 @@ The picture on the right shows the controls for the operation of an electronic u
 Are these fit for purpose?  
 Are they in suitable locations? 
 
-Ensure that the do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
+Ensure that these do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. Ensure that these do not impinge on a ringer's position. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
 
 ## Curtains / blinds 
 
-These are primarily to prevent ringers being blinded by sunlight. Heavy curtains may also be an effective way to shut off an open staircase, door way or open gallery.  They may assist in enabling the ringing chamber to be heated without heating other unused areas such as the rest of the building, staircase, etc.  
+These are primarily to prevent ringers being blinded by sunlight. Heavy curtains may also be an effective way to shut off an open staircase, door way or open gallery.  They may assist in enabling the ringing chamber to be heated without heating other unused areas such as the rest of the building, staircase, etc.
+Curtains can also serve to deaden xcessive echo in a ringing chamber.
 
 ## Electrical Devices 
 
@@ -120,13 +119,13 @@ Is the ringing chamber:
 
 - Lighting needs to be maintained, e.g. bulbs changed, and should be safely accessible.
 
-- Is there a battery back-up to protect against a blown fuse or power failure? 
+- There should be a battery back-up to protect against a blown fuse or power failure in at least one light fitting. The lighting should be 'safety lighting' not 'exit lighting'. The former is brighter. There is further information on the Oxford Diocesan Guild [website](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc01_emergency_lighting-3.pdf). N.B. This document is to be updated.
 
 If the ringing chamber has large windows is there some means of reducing direct sunlight temporarily blinding the ringers such as curtains or blinds. 
 
 ## Seating 
 
-Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally they be double the distance for hooking them with a rope whilst ringing.
+Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally they be double the distance for hooking them with a rope whilst ringing. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
 
 Is there adequate seating to accommodate people not ringing? The size of the tower may restrict the amount of seating.
 
@@ -155,7 +154,7 @@ The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/
 # Go of the bells 
 
 Are the bells odd-struck? Are any bells set too fine or too deep?
-This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../170-glossary/#cccbr)*** or a professional. 
+This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../170-glossary/#cccbr)*** or a professional. There is further information on the Oxford Diocesan Guild [website](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
 
 # Sound 
 
@@ -163,7 +162,7 @@ Are the sound levels in the ringing chamber good? Is it echoey? if so, consider 
 
 Do the bells “shout” down through a trap door or through the stair door? Ensuring these are adequately insulated may be easily redressed.
 
-Further advice may be available from your local Society or the ***[CCCBR](../170-glossary/#cccbr)***. If the problem is larger then consult a professional.
+Further advice may be available from your local Society or the ***[CCCBR](../170-glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information on the Oxford Diocesan Guild [website](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fodg.org.uk%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F05%2FODG-Sound-Control-Booklet-v2.doc&wdOrigin=BROWSELINK)). N.B. This document is to be updated.
 
 Consider the external acoustics. The bells may cause annoyance to neighbours if especially loud. There may be a professional means of reducing this.
 
