@@ -65,3 +65,23 @@ The person with responsibility, in the tower, should be invited to report and up
 - Proposals for fees for weddings, special occasions, visiting bands, quarter peals, peals, etc. 
 - Funding for routine maintenance and any special projects.
 - If a ring-fenced account is in use, any changes to the conditions.
+
+## Image Credits
+
+| Figure | Details | Source |
+| :---: | --- | --- |
+| 1 | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
+
+{{<hint info>}}
+**[Return](../buildingateam/)**
+{{</hint>}}
+
+----
+
+## Disclaimer
+ 
+*Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
+
+Version 1.0.0, November 2022
+
+© 2022 Central Council of Church Bell Ringers
