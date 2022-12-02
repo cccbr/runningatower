@@ -1,8 +1,8 @@
+# Communication
+
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Communication
 
 ## Liaison with relevant authority 
 
