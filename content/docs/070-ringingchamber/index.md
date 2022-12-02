@@ -1,9 +1,8 @@
+# Ringing Room 
 
 {{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
-
-# Ringing Room 
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
