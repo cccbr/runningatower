@@ -1,3 +1,8 @@
+---
+title: Formalities
+weight: 3
+---
+
 # Formalities 
 
 {{<hint danger>}}
