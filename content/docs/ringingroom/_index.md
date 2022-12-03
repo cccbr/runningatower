@@ -1,3 +1,8 @@
+---
+title: Ringing Room
+weight: 7
+---
+
 # Ringing Room 
 
 {{<hint danger>}}
