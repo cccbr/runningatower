@@ -5,7 +5,7 @@ weight: 99
 
 # Acknowledgements & Sources
 
-{{<hint>}}
+{{<hint danger>}}
 **Site currently under construction**
 {{</hint>}}
 
