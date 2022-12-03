@@ -1,3 +1,8 @@
+---
+title: Health & Safety
+weight: 5
+---
+
 # Health & Safety
 
 {{<hint danger>}}
