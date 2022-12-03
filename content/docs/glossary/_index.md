@@ -1,3 +1,8 @@
+---
+title: Glossary
+weight: 98
+---
+
 # Glossary
 
 {{<hint danger>}}
