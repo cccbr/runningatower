@@ -1,3 +1,8 @@
+---
+title: Building a Team
+weight: 9
+---
+
 # Building a Team
 
 {{<hint danger>}}
