@@ -1,3 +1,8 @@
+---
+title: Acknowledgements & Sources
+weight: 99
+---
+
 # Acknowledgements & Sources
 
 {{<hint>}}
