@@ -1,3 +1,8 @@
+---
+title: Bell Chamber
+weight: 8
+---
+
 # Bell Chamber
 
 {{<hint danger>}}
