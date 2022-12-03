@@ -1,3 +1,8 @@
+---
+title: Emergency
+weight: 6
+---
+
 # Emergency 
 
 {{<hint danger>}}
