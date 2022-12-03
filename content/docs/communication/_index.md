@@ -1,3 +1,8 @@
+---
+title: Communication
+weight: 2
+---
+
 # Communication
 
 {{<hint danger>}}
