@@ -10,12 +10,12 @@ weight: 5
 {{</hint>}}
 
 {{<hint danger>}}
-A tower is a non-domestic setting, and as such the ***[tower authority](../glossary/#authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the ***[tower authority](../glossary/#authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
+A tower is a non-domestic setting, and as such the ***[tower authority](../glossary/#tower-authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site (e.g. an accident) the ***[tower authority](../glossary/#tower-authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This is not the case within a domestic (home) setting as the homeowner or landlord is not the controller of premises. 
 {{</hint>}}
 
 Further details can be found in the [health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf) document on the CCCBR website. 
 
-All policies must be in-line with the ***[tower authority's](../glossary/#authority)*** policies.
+All policies must be in-line with the ***[tower authority's](../glossary/#tower-authority)*** policies.
 
 This includes guidance on: 
 
@@ -55,7 +55,7 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 ## Attendance Record(s) 
 
-These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit date and times. The ***[tower authority](../glossary/#authority)*** may require further details to be logged. 
+These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit date and times. The ***[tower authority](../glossary/#tower-authority)*** may require further details to be logged. 
 
 Towers may wish to have a separate (traditional) visitors' book as an historic record. 
 
@@ -73,7 +73,7 @@ Ideally there should be a first aid kit in the ringing room.
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../glossary/#authority)*** log of first aid kits together with records of periodic inspections.
+Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../glossary/#tower-authority)*** log of first aid kits together with records of periodic inspections.
 
 ## Insurance 
 
@@ -85,7 +85,7 @@ Further details can be found in the [insurance](https://cccbr.org.uk/wp-content/
 
 Further details can be found in the [security for ringers](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf) document on the CCCBR website.
 
-A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#authority)***. This may be a condition of the building insurance.
+A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
 Information specific to woirking in a bell chamber can be found in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
