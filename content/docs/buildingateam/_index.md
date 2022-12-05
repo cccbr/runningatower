@@ -116,11 +116,11 @@ The ***[Association of Ringing Teachers](../glossary/#art)*** provides a structu
 
 ### Safeguarding
 
-See information contained at ***[Formalities - Safeguarding](../030-formalities/#Disclosure)***.
+See information contained at ***[Formalities - Safeguarding](../formalities/#Disclosure)***.
 
 ### Safety 
 
-See information contained in [Health & Safety](../050-healthsafety).
+See information contained in [Health & Safety](../healthsafety).
 
 ### Subscriptions
 
