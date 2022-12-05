@@ -99,7 +99,7 @@ Curtains can also serve to deaden xcessive echo in a ringing room.
 
 ## Electrical Devices 
 
-Power points and powered devices should be checked by a professional, approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../glossary/#authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
+Power points and powered devices should be checked by a professional, approved by the ***[tower authority](../glossary/#authority)***. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../glossary/#authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
 
 ## Heating   
 
