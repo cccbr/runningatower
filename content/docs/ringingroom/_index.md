@@ -74,7 +74,7 @@ Ideally, mats should not overap as this produces a trip hazard.
 
 Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell should just reach the guide whilst that of the heaviest bell sshould not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
-Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomess abrasive to ropes, generally wearing out the rope immediately above the sally. A dense timber is better as it holds a polish and doesn’t abrade the ropes. If unsure, seek expert advice, maybe from your Society, ***[CCCBR](../170-glossary/#cccbr)***, or a professional bell hanger. 
+Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomess abrasive to ropes, generally wearing out the rope immediately above the sally. A dense timber is better as it holds a polish and doesn’t abrade the ropes. If unsure, seek expert advice, maybe from your Society, ***[CCCBR](../glossary/#cccbr)***, or a professional bell hanger. 
 
 Is the rope circle poor or very unequally spaced? Again, consider seeking advice as above, especially when there are ropes very close together.  
 
@@ -99,7 +99,7 @@ Curtains can also serve to deaden xcessive echo in a ringing room.
 
 ## Electrical Devices 
 
-Power points and powered devices should be checked by a professional, approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../170-glossary/#authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
+Power points and powered devices should be checked by a professional, approved by the tower authorities. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../glossary/#authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
 
 ## Heating   
 
@@ -154,7 +154,7 @@ The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/
 # Go of the bells 
 
 Are the bells odd-struck? Are any bells set too fine or too deep?
-This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../170-glossary/#cccbr)*** or a professional. There is further information on the Oxford Diocesan Guild [website](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
+This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../glossary/#cccbr)*** or a professional. There is further information on the Oxford Diocesan Guild [website](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
 
 # Sound 
 
@@ -162,7 +162,7 @@ Are the sound levels in the ringing room good? Is it echoey? if so, consider a c
 
 Do the bells “shout” down through a trap door or through the stair door? Ensuring these are adequately insulated may be easily redressed.
 
-Further advice may be available from your local Society or the ***[CCCBR](../170-glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information on the Oxford Diocesan Guild [website](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fodg.org.uk%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F05%2FODG-Sound-Control-Booklet-v2.doc&wdOrigin=BROWSELINK)). N.B. This document is to be updated.
+Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information on the Oxford Diocesan Guild [website](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fodg.org.uk%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F05%2FODG-Sound-Control-Booklet-v2.doc&wdOrigin=BROWSELINK)). N.B. This document is to be updated.
 
 Consider the external acoustics. The bells may cause annoyance to neighbours if especially loud. There may be a professional means of reducing this.
 
@@ -206,7 +206,7 @@ Tower records of visitors, quarter peals and peals. Within churches in the Churc
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
 
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the ***[tower authority](../170-glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../170-glossary/#c-of-e)*** church.
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and social media. Putting up a board in a tower requires consultation with the ***[tower authority](../glossary/#authority)*** and an Archdeacons' consultation in a ***[C of E](../glossary/#c-of-e)*** church.
 
 Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
@@ -226,7 +226,7 @@ It is a good idea to have a few usable spares to cover any bell, as needed. Natu
 
 Do you have at least one person able, and willing, to check the ropes at suitable intervals? If not a local society 'expert' may be able to assist. If a person is available locally, can they identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
-If unsure, consider contacting your local Society or the ***[CCCBR](../170-glossary/#cccbr)***.
+If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
 
 ### Tools 
 
