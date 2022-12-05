@@ -15,7 +15,7 @@ In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teachin
 
 ## General Data Protection Regulation (GDPR) 
 
-Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../glossary/#authority)***.  
+Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../glossary/#tower-authority)***.  
 
 Permission must be obtained from parents / guardians of under 18s.  
 
@@ -29,7 +29,7 @@ Further details can be found at [safeguarding](https://cccbr.org.uk/safeguarding
 
 In a ***[C of E](../glossary/#c-of-e)*** setting, the Tower Captain, and other persons with responsibilities, should have completed the Safeguarding Leadership training module. It would be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
 
-The required levels must always be in line with the ***[tower authority’s](../glossary/#authority)*** policies.   
+The required levels must always be in line with the ***[tower authority’s](../glossary/#tower-authority)*** policies.   
 
 All certification must be kept up to date. 
 
