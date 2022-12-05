@@ -29,7 +29,7 @@ Further details can be found at [safeguarding](https://cccbr.org.uk/safeguarding
 
 In a ***[C of E](../glossary/#c-of-e)*** setting, the Tower Captain, and other persons with responsibilities, should have completed the Safeguarding Leadership training module. It would be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
 
-The required levels must always be in line with the tower authority’s policies.   
+The required levels must always be in line with the ***[tower authority’s](../glossary/#authority)*** policies.   
 
 All certification must be kept up to date. 
 
