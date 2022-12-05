@@ -15,10 +15,6 @@ As with any technical subject, bell ringing and bell hanging has, over the years
 
 Association of Ringing Teachers. Organisation involved with all aspects of teaching ringing. Further details on their **[website](https://ringingteachers.org/)**.
 
-## Authority 
-
-The legal term for this is “Controller of Premises”, it doesn’t matter who specifically, but this could be the PCC, Dean and Chapter, a charitable group, or an individual who is legally responsible for the building. Technically it is incumbent on the Controller of Premises to ensure all regulations are compiled with, but they should also support the ringers if things are not available.
-
 ## CCCBR
 
 Central Council of Church Bell Ringers. The Council is the representative body for all who ring bells in the English tradition with rope and wheel. Founded in 1891, the Council today represents 65 affiliated societies, which cover all parts of the British Isles as well as centres of ringing in Australia, New Zealand, Canada, the USA, South Africa and Italy. These societies in turn comprise the members of the local companies of ringers in their areas. Further details on their **[website](https://cccbr.org.uk/about/workgroups/stewardship-and-management)**.
@@ -34,6 +30,10 @@ Parochial Church Council. The principal function, or purpose, of the PCC is defi
 ## SMWG
 
 Stewardship and Management Work Group of the CCCBR. To support ringers, the owners of bells, and other interested parties in all matters relating to the care of bells, ringers. Further details on their **[webpages](https://cccbr.org.uk/about)**.
+
+## Tower Authority 
+
+The legal term for this is “Controller of Premises”, it doesn’t matter who specifically, but this could be the PCC, Dean and Chapter, a charitable group, or an individual who is legally responsible for the building. Technically it is incumbent on the Controller of Premises to ensure all regulations are compiled with, but they should also support the ringers if things are not available.
 
 {{<hint info>}}
 **[Previous Chapter](../buildingateam)** - **[Next Chapter](../acks-and-sources/)**
