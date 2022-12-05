@@ -15,7 +15,7 @@ A tower is a non-domestic setting, and as such the ***[tower authority](../170-g
 
 Further details can be found in the [health and safety policy advice](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf) document on the CCCBR website. 
 
-All policies must be in-line with the ***[tower authority's](../170-glossary/#authority)*** policies.
+All policies must be in-line with the ***[tower authority's](../glossary/#authority)*** policies.
 
 This includes guidance on: 
 
@@ -37,7 +37,7 @@ Consideration should be given to special occasions such as tower open days when 
 
 Bells should not be left up (raised) for extended periods between ringing sessions. This may not apply to heavier rings e.g. tenor over 20cwt. However, in that case access must be controlled. Such access being limited to experienced ringers and people specially trained.  
 
-There is advce in the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/) website, however this is not written by the ***[CCCBR](../170-glossary/#cccbr)***. 
+There is advce in the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/) website, however this is not written by the ***[CCCBR](../glossary/#cccbr)***. 
 
 Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers.  
 
@@ -61,9 +61,9 @@ Towers may wish to have a separate (traditional) visitors' book as an historic r
 
 ## Additional requirements 
 
-The ***[tower authority](../170-glossary/#authority)*** may have other requirements and these should be discussed with the authority. These may arise from insurance or other reasons. 
+The ***[tower authority](../glossary/#authority)*** may have other requirements and these should be discussed with the authority. These may arise from insurance or other reasons. 
 
-Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The ***[CCCBR](../170-glossary/#cccbr)*** website will normally detail the latest guidance in such cases.
+Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The ***[CCCBR](../glossary/#cccbr)*** website will normally detail the latest guidance in such cases.
 
 ## First Aid Kit 
 
@@ -73,11 +73,11 @@ Ideally there should be a first aid kit in the ringing room.
 
 Ensure the location of the first aid kit is indicated, especially when it is elsewhere within the premises. 
 
-Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../170-glossary/#authority)*** log of first aid kits together with records of periodic inspections.
+Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../glossary/#authority)*** log of first aid kits together with records of periodic inspections.
 
 ## Insurance 
 
-In the ***[C of E](../170-glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. If there is any doubt then checking what the cover is.
+In the ***[C of E](../glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. If there is any doubt then checking what the cover is.
 
 Further details can be found in the [insurance](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf) document on the CCCBR website.
 
