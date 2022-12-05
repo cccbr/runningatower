@@ -37,7 +37,7 @@ Finance; income and expenditure including fees.
  
 Health and safety; staying safe. Attendance, Insurance, Security, Tower access.
 
-Emergency; what to do if things go wrong
+Emergency; what to do if things go wrong.
 
 Ringing Room; keeping your tower running smoothly.
 
