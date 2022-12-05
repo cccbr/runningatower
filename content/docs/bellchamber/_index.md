@@ -41,7 +41,7 @@ The above shows a rope used to tie the clapper It may be preferred to tie the cl
 
 ![Art design](art_350.jpg)
 
-***[ART](../170-glossary/#art)*** recommend one based on an old cycle inner tube. 
+***[ART](../glossary/#art)*** recommend one based on an old cycle inner tube. 
 
 ## Sound Control
 
