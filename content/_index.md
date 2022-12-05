@@ -38,6 +38,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 | Date | Changes |
 | ---- | ---- |
 | 09/11/2022 | First publication. All chapters at v1.0 |
+| 05/12/2022 | Updated following review |
 
 ----
 
