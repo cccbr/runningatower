@@ -29,7 +29,7 @@ The content is not intended to be exhaustive.
 
 The following is an overview of what is in each chapter.
 
-Communication; how to keep things running smoothly. Communication with people external to the band. Liaison with relevant ***[tower authority](../glossary/#authority)***, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in [Building a Team](../buildingateam/).)
+Communication; how to keep things running smoothly. Communication with people external to the band. Liaison with relevant ***[tower authority](../glossary/#tower authority)***, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in [Building a Team](../buildingateam/).)
 
 Formalities; being compliant, safe and successful. Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
 
