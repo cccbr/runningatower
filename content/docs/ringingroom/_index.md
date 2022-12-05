@@ -82,8 +82,9 @@ Is the rope circle poor or very unequally spaced? Again, consider seeking advice
 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
 
-Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to disable the apparatus. 
-The picture on the right shows the controls for the operation of an electronic unit alongside controls for an electrically operated spider.
+Ellacombe apparatus, chiming hammers, electronic units (e.g., Apollo and similar). 
+Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to disable the apparatus. 
+The picture on the left shows an ellacombe apparatus and the picture on the right shows the controls for the operation of an electronic unit (alongside controls for an electrically operated spider).
 
 ## Coat Hooks 
 
