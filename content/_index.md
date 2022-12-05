@@ -11,7 +11,7 @@ type: docs
 
 ![Fotheringhay, Northamptonshire](fotheringhay_350.jpg)
 
-Welcome to *Running a Tower*. This online document, produced by the ***[Central Council Stewardship & Management Workgroup](../docs/170-glossary/#smwg)***, is aimed at the Tower Captain -- the person with overall responsibility for looking after all aspects of a tower. That may be an established Tower Captain, one just new to the job or someone wondering if thety should take it on.
+Welcome to *Running a Tower*. This online document, produced by the ***[Central Council Stewardship & Management Workgroup](../docs/glossary/#smwg)***, is aimed at the Tower Captain -- the person with overall responsibility for looking after all aspects of a tower. That may be an established Tower Captain, one just new to the job or someone wondering if thety should take it on.
 
 The aims of this document are:
 
@@ -21,7 +21,7 @@ The aims of this document are:
 
 ## Finding Your Way Round
 
-If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icons (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
+If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icon (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in blue. Links shown in ***bold italic blue*** refer to entries in the 'Glossary' chapter.
 
