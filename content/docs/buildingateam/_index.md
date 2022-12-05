@@ -15,11 +15,11 @@ weight: 9
 
 ### Annual Meeting
 
-Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the ***[tower authority](../glossary/#authority)***. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
+Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the ***[tower authority](../glossary/#tower-authority)***. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
 The agenda should be distributed in advance together with a request for items to be included in any other business. The idea of an agenda is to keep a meeting on track. 
 
 The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
-The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the ***[tower authority](../glossary/#authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
+The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the ***[tower authority](../glossary/#tower-authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
 
 {{<hint info>}}
 **To navigate to a sample agenda, use the left-hand side navigation bar. You may need to click on the menu bar (three stacked horizontal lines) in the top left to access if you are on a small screen.**
@@ -27,7 +27,7 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 ### Appointment of Officers
 
-Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the ***[tower authority](../glossary/#authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
+Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the ***[tower authority](../glossary/#tower-authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
 
 {{<hint info>}}
  - Tower Captain. Overall responsibility.
@@ -47,7 +47,7 @@ If tower funds are held in a PCC restricted bell fund, that should be reviewed. 
 
 ### Calendar
 
-Maintain a calendar which is publicised to all, including the ***[tower authority](../glossary/#authority)***. This may be printed or held by some electronic means. The calendar should list:
+Maintain a calendar which is publicised to all, including the ***[tower authority](../glossary/#tower-authority)***. This may be printed or held by some electronic means. The calendar should list:
 
 {{<hint info>}}
 -	The weekly, monthly schedule.
