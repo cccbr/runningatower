@@ -13,7 +13,7 @@ weight: 1
 This document addresses key aspects of running a tower.
 {{</hint>}}
 
-It is produced by the ***[Stewardship and Management Work Group](../170-glossary/#smwg)*** of the ***[CCCBR](../170-glossary/#cccbr)***.
+It is produced by the ***[Stewardship and Management Work Group](../glossary/#smwg)*** of the ***[CCCBR](../glossary/#cccbr)***.
 
 ![Broadclyst, Devon](broadclyst_350.jpg)
 
@@ -29,7 +29,7 @@ The content is not intended to be exhaustive.
 
 The following is an overview of what is in each chapter.
 
-Communication; how to keep things running smoothly. Communication with people external to the band. Liaison with relevant ***[authority](../170-glossary/#authority)***, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in [Building a Team](../090-buildingateam/).)
+Communication; how to keep things running smoothly. Communication with people external to the band. Liaison with relevant ***[authority](../glossary/#authority)***, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in [Building a Team](../buildingateam/).)
 
 Formalities; being compliant, safe and successful. Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
 
