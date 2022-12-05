@@ -55,7 +55,7 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 ## Attendance Record(s) 
 
-These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit date and times. The tower authority may require further details to be logged. 
+These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit date and times. The ***[tower authority](../glossary/#authority)*** may require further details to be logged. 
 
 Towers may wish to have a separate (traditional) visitors' book as an historic record. 
 
