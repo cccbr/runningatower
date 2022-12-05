@@ -37,7 +37,7 @@ Consider having fixed fees for:
 
 - Peals.
 
-These may be determined in consultation with the ***[tower authority](../glossary/#authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
+These may be determined in consultation with the ***[tower authority](../glossary/#tower-authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
 
 Avoid having a 'box on the wall', especially for downstairs rings, as these invite theft and damage. 
 
@@ -55,11 +55,11 @@ The tower and / or the local society may charge a subscription, typically this i
 
 ## Expenditure 
 
-Agree with the ***[tower authority](../glossary/#authority)***, in advance, who will pay for replaceable items e.g. ropes. 
+Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance, who will pay for replaceable items e.g. ropes. 
 
 In the Church of England, it may be worth running the tower funds through the ***[PCC](../glossary/#pcc)***. The PCC is normally a registered charity and registered with HMRC for Gift Aid. The result might be a reduction of a third. This should be a big encouragement to use PCC funds over any tower fund.
 
-If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
+If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
 
 ## Tower Funds 
 
