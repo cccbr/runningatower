@@ -91,7 +91,7 @@ Information specific to woirking in a bell chamber can be found in [Belfry Upkee
 
 ## Tower Access 
 
-[Guidance notes - Tower Access and Stairways](https://cccbr.org.uk/2017/05/16/tower-access-stairways-guidance/).
+[Guidance notes - Tower Access and Stairways](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
 
 Consider the number of keys and / or key holders. There is a balance between security (preventing access) and enabling reasonable access. Exits for use in an emergency  must never be compromised and should be signed.
 
