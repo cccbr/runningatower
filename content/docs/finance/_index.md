@@ -59,7 +59,7 @@ Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance
 
 In the Church of England, it may be worth running the tower funds through the ***[PCC](../glossary/#pcc)***. The PCC is normally a registered charity and registered with HMRC for Gift Aid. The result might be a reduction of a third. This should be a big encouragement to use PCC funds over any tower fund.
 
-If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://cccbr.org.uk/major-projects/) covers the running of a project.
+If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://belfryprojects.cccbr.org.uk/) covers the running of a project.
 
 ## Tower Funds 
 
