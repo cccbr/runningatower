@@ -13,7 +13,7 @@ weight: 7
 
 Try to keep the ringing room a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
 
-The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser. We are grateful for permission to reuse this material. The links are:
+The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser and are hosted on YouTube. We are grateful for permission to reuse this material. The links are:
 
 - [Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)
 
