@@ -21,11 +21,11 @@ Permission must be obtained from parents / guardians of under 18s.
 
 Membership list and contact details must be kept secure. Access should be restricted to a defined list of officers. Parental details must be held for under 18s, with date of birth to indicate when a minor becomes an adult.  
 
-Further details can be found at [General Data Protection Regulation](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf)
+Further details can be found at [General Data Protection Regulation](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf) on the CCCBR website.
 
 ## Safeguarding 
 
-Further details can be found at [safeguarding](https://cccbr.org.uk/safeguarding/). 
+Further details can be found at [safeguarding](https://cccbr.org.uk/safeguarding/) on the CCCBR website. 
 
 In a ***[C of E](../glossary/#c-of-e)*** setting, the Tower Captain, and other persons with responsibilities, should have completed the Safeguarding Leadership training module. It would be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
 
