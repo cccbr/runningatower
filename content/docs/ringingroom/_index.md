@@ -169,7 +169,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ## Other areas to consider 
 
-![CCTV installation](cctv350.jpg)
+![CCTV installation](cctv350.jpeg)
 
 CCTV. This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
