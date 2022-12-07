@@ -258,7 +258,7 @@ These are the usually the property of the awarding body. However, they are in th
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
 | 11 | Teaching aids | Photo: Tony Crabtree |
-| 12 | CCTV showing church interior and bell chamber | Photo: Alison Hodge |
+| 12 | CCTV showing bell chamber at Thornbury, Gloucestershire| Photo: Robin Shipp |
 | 13 | Model demonstration bell | Photo: Tony Crabtree |
 | 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
 | 15 | Visitor's book | Photo: Tony Crabtree |
