@@ -46,7 +46,8 @@ It is useful to display contact details such that they are visible when the buil
 
 ![Badges of ringing societies](badges_350.jpg)
 
-The tower may be affiliated to a local ringing society. That body may have the title of Association, Guild, Society, etc. The term society will be used in this document. The society may cover the local area, county, diocese or country. A tower does not have to be a member of a society, however there may be advantages to being a member. These advantages may include: 
+The body may have the title of Association, Guild, Society, etc. The term society will be used in this document. The society may cover the local area, county, diocese or country. A society would normally have individual ringers as members. It may be that the society has an affiliate membership for other bodies e.g. ***[PCC](./glossary/#PCC)***.
+There may be advantages to membership of a society such as: 
 
 - Access to training and development. 
 
