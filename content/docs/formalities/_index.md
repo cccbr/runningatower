@@ -15,6 +15,10 @@ In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teachin
 
 ## Equality and Diversity
 
+There should be support for principles of equality and diversity in all aspects of ringing. Any form of discrimination is unacceptable, regardless of whether there was any intention to discriminate or not. There is a duty to ensure that there are equal opportunities for all. 
+
+The [CCCBR equality and diversity statement](https://cccbr.org.uk/about/governance/equality-and-diversity-statement/)
+
 ## General Data Protection Regulation (GDPR) 
 
 Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../glossary/#tower-authority)***.  
