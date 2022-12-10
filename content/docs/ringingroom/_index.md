@@ -169,17 +169,25 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ## Other areas to consider 
 
-![CCTV installation](cctv350.jpeg)
+### CCTV
 
-CCTV. This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
+![CCTV installation](ledbury1_350.jpeg)
 
-Communication links to the body of the building, especially where the ringing room is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone/visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
+This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
-Kitchen or at least a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
+## Communication
 
-Toilet(s). As these are normally in the main part of the building access may be restricted.
+Links to the body of the building, especially where the ringing room is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone/visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
 
-Parking. 
+### Kitchen
+
+At least a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
+
+### Toilet(s) 
+
+As these are normally in the main part of the building access may be restricted.
+
+### Parking. 
 
 ## Other Tower Resources  
 
