@@ -21,11 +21,11 @@ The ICE should indicate:
 
 - The location. Consider which location provides the best access for larger vehicles such as ambulances or fire appliances. Also, consider the easiest means of access for stretchers, etc. Consider using a combination of the following: 
 
-- Postcode, this might not uniquely identify a property and will not define the entrance - further details can be found at [Postcode finder](https://www.royalmail.com/find-a-postcode). 
+-- Postcode, this might not uniquely identify a property and will not define the entrance - further details can be found at [Postcode finder](https://www.royalmail.com/find-a-postcode). 
 
-- What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at [what3words](https://what3words.com/about).  
+-- What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at [what3words](https://what3words.com/about).  
 
-- Ordnance Survey grid reference, these can be easily transposed when under pressure. Reference can be determined using e.g., google maps. 
+-- Ordnance Survey grid reference, these can be easily transposed when under pressure. Reference can be determined using e.g., google maps. 
 
 - Names of any trained first aiders. Ideally the ***[tower authority](../glossary/#tower-authority)*** should offer training, which should be kept up to date.
 
