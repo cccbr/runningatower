@@ -15,11 +15,14 @@ weight: 9
 
 ### Annual Meeting
 
-Hold a meeting when all officers are appointed from within the band. These may be subject to confirmation with the ***[tower authority](../glossary/#tower-authority)***. Consider whether a maximum length of tenure of the offices may be appropriate. The simplest manner is to consider all offices resigned at the annual meeting. Consider having a maximum term of office. Ideally, meetings should be held annually. Others may be held as required.
-The agenda should be distributed in advance together with a request for items to be included in any other business. The idea of an agenda is to keep a meeting on track. 
+Hold a meeting when all officers are appointed. The appointments may be subject to confirmation by the ***[tower authority](../glossary/#tower-authority)***.
+Consider whether a maximum length of tenure of any office is appropriate. The simplest manner is to consider all offices resigned at the annual meeting.
+Ideally, meetings should be held annually. Others may be held as required.
+The agenda should be distributed in advance together with a request for items to be included in any other business. An agenda is meant to keep a meeting on track. 
 
-The person chairing the meeting should be aware of the focus of the meeting and not allow digression. They should also be aware of the anticipated timescale and keep to this. 
-The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or chair of the ***[PCC](../glossary/#pcc)*** may also be an appropriate choice. In a tower within a non-religious setting, a representative of the ***[tower authority](../glossary/#tower-authority)*** would be a good choice. Such examples offer impartiality and enables them to meet the ringers and hear about the activities of the ringers.
+The person chairing the meeting should be aware of the focus of the meeting and not allow digression. 
+They should be aware of the anticipated timescale and keep to this. 
+The chair may not be one of the ringers. In a religious institution the incumbent is a good choice. A church warden or ***[PCC](../glossary/#pcc)*** representative may be a suitable alternative. In a tower within a non-religious setting, a representative of the ***[tower authority](../glossary/#tower-authority)*** would be a good choice. Such examples offer impartiality and enables the chair to meet the ringers and hear about the activities of the ringers.
 
 {{<hint info>}}
 **To navigate to a sample agenda, use the left-hand side navigation bar. You may need to click on the menu bar (three stacked horizontal lines) in the top left to access if you are on a small screen.**
@@ -27,7 +30,7 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 ### Appointment of Officers
 
-Further details can be found at [Guidance notes - appointment of tower captain](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the ***[tower authority](../glossary/#tower-authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
+Further details can be found at [Guidance notes - appointment of tower captain (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the ***[tower authority](../glossary/#tower-authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
 
 {{<hint info>}}
  - Tower Captain. Overall responsibility.
@@ -38,12 +41,11 @@ Further details can be found at [Guidance notes - appointment of tower captain](
  - Social Secretary. Looks after the non-ringing events.
 {{</hint>}}
 
-If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of roles which may be used e.g., Deputy, Secretary, Steeple Keeper, Instructor, Conductor, Librarian.  Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to tower captain
-
+If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of additional roles which may be used e.g., Deputy, Secretary, Instructor, Conductor, Librarian.  Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to other posts.
 
 ### Bell Fund
 
-If tower funds are held in a PCC restricted bell fund, that should be reviewed. The bellringers (not the PCC) should have the ability to amend the restrictions at the AGM by a majority vote.
+If tower funds are held in a PCC restricted bell fund, that should be reviewed. The bellringers (not the PCC) should have the ability to amend the restrictions at their AGM by a majority vote.
 
 ### Calendar
 
@@ -51,27 +53,27 @@ Maintain a calendar which is publicised to all, including the ***[tower authorit
 
 {{<hint info>}}
 -	The weekly, monthly schedule.
--	Annual dates e.g. ringers’ dinner, tower outing(s), AGM
--	Special events e.g. particular Saint’s days, (church) patronal festival, fetes 
+-	Annual dates e.g. ringers’ dinner, tower outing(s), AGM.
+-	Special events e.g. particular Saint’s days, (church) patronal festival, fetes.
 -	Public Open days, e.g. heritage open days.
 - Training days, teaching sessions when not a practice night.
 {{</hint>}}
 
 Consider when to ring and when not to ring. 
 Occasions to ring include Sunday services, weddings, funerals, church events, national events, patronal day, local festivals and traditions. It is worth compiling a list for your tower. 
-Occasions not to ring may include Holy Week, see the “Ringing Forums” [discussion](https://www.ringingforums.org/discussion/93/ringing-in-holy-week-time-to-spring-clean-the-tower-but-what-ringing-for-a-funeral) on this.
+Occasions not to ring may include Holy Week, see the [“Ringing Forums” discussion](https://www.ringingforums.org/discussion/93/ringing-in-holy-week-time-to-spring-clean-the-tower-but-what-ringing-for-a-funeral).
 
 There are proprietary apps available that might be of use in arranging a calendar, e.g. WhatsApp, Band.
 
 ### Arranging Ringing
 
-The [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) is the primary source of information for this topic. Further details as to what help they can provide can be obtained by selecting the 'what we do' link on that webpage.
+The [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) is the primary source of information for this topic. Further details as to what help they can provide can be obtained by selecting the 'what we do' link on their webpage.
 
 If you are not used to running ringing, doing so can seem daunting. There is no need for it to be, in essence it is simple. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. 
 
 Perhaps the most important things to remember are:
--	Ringers are volunteers. They are at the practice because they want to be.
--	Ringers are human. They have good days and bad days. What they can ring well one week they might struggle with the next.
+-	Ringers are volunteers. They are at the session because they want to be.
+-	Ringers are human. They have good days and bad days. What they can ring well one time they might struggle with the next.
 -	Ringing is a team activity. How well we ring and how much pleasure we get from it depends on how well the band rings; not just on how well the individual rings.
 
 The following are a series of tips to running ringing. Not all will be applicable to you and the ringing that you are running. You do not need to remember, let alone master, them all when you start. You will discover which work in your unique circumstances. There is no standard tower nor standard ringing session. With that in mind here are some tips.
@@ -97,16 +99,16 @@ Decide what you want to achieve, both as a band and for individuals. If you can,
 
 ### Recruitment and maintaining a band
 
-Further details can be found at [Guidance notes - recruitment and retention](https://cccbr.org.uk/resources/recruitment-and-retention/workshop/).
+Further details can be found at [Guidance notes - recruitment and retention (CCCBR)](https://cccbr.org.uk/resources/recruitment-and-retention/workshop/).
 
-There are resources available in the [CCCBR Publicity material resources](https://cccbr.org.uk/resources/publicity-material/). These include the following:
+There are resources available at [CCCBR Publicity material resources](https://cccbr.org.uk/resources/publicity-material/). These include:
 - Recruitment Leaflet - designed for distribution to the general public. Printed copies are available on request.
-- Tower Open Day poster - to be used for promotion of such.
-- Porch Notice - display essential information about ringing at the tower.
+- Tower Open Day poster - to be used for promotion of such days.
+- Porch Notice - to display essential information about ringing at the tower.
 - Engaging with the Public - useful information for engaging the public with ringing and any ringing-related activity taking place.
-Publicity Flyer: ‘Bell Ringing is fun and …’ - This leaflet was produced by Sue Hall, originally for the Derby Diocesan Association. It is downloadable and customisable.
+- Publicity Flyer: ‘Bell Ringing is fun and …’ - This leaflet was produced by Sue Hall, originally for the Derby Diocesan Association. It is downloadable and customisable.
 
-Other Central Council guidance is available:
+The following ***[CCCBR](..glossary/#CCCBR)*** guidance is available:
 - [Social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf).
 - [Running a successful open day](https://cccbr.org.uk/running-a-successful-tower-open-day-v6/).
 
@@ -124,15 +126,15 @@ See information contained in [Health & Safety](../healthsafety).
 
 ### Subscriptions
 
-These may be required for the individual tower, the local society.
+These may be required for the individual tower or the local society.
 There may be others, such as a tower subscription to The Ringing World. 
 
 ### Visitors
 
 Is there an agreed policy for the number of visiting bands, how long such ringing should last and any special considerations around timings. The latter may particularly apply when the bells are intrusive.
-It is to be hoped that visiting bands try to perform well. 
+It is to be hoped that visiting bands always try to perform well. 
 
-The Guild of Clerical Ringers have produced a [document](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf) that covers some of these topics from more of a clergy point of view.
+The [Guild of Clerical Ringers document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/05/2021_05_08_GCR_FAQstoCCCBR.pdf) covers some of these topics from a clergy point of view.
 
 ## Image Credits
 
