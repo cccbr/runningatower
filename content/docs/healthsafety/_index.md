@@ -37,7 +37,7 @@ Consideration should be given to special occasions such as tower open days when 
 
 Bells should not be left up (raised) for extended periods between ringing sessions. This may not apply to heavier rings e.g. where the tenor is over 20cwt. However, in such cases, access must be controlled. Such access should be limited to experienced ringers and specially trained people.  
 
-There is advce in the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/) website, however this is not written by the ***[CCCBR](../glossary/#cccbr)***. 
+There is advice in the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/) website, however this is not written by the ***[CCCBR](../glossary/#cccbr)***. 
 
 Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers. Consider: 
 
@@ -74,12 +74,6 @@ Ideally there should be a first aid kit in the ringing room.
 Ensure the location of the first aid kit is indicated, especially if it is elsewhere within the premises. 
 
 Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../glossary/#tower-authority)*** log of first aid kits together with records of periodic inspections.
-
-## Insurance 
-
-In the ***[C of E](../glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
-
-Further details can be found in the [insurance dpcument (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
 ## Security 
 
