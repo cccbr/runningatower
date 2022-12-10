@@ -87,7 +87,7 @@ Further details can be found in the [security for ringers document (CCCCBR)](htt
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
-Information specific to working in a bell chamber can be found in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+Information specific to working in a bell chamber can be found in [Belfry Upkeep Health & Safety](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Tower Access 
 
