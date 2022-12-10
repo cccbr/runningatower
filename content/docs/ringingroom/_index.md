@@ -171,7 +171,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ### CCTV
 
-![CCTV installation](ledbury1_350.jpeg)
+![CCTV installation](ledbury1_350.JPG)
 
 This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
