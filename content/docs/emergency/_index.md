@@ -27,7 +27,7 @@ The ICE should indicate:
 
   - Ordnance Survey grid reference, these can be easily transposed when under pressure. Reference can be determined using e.g., google maps. 
 
-- Names of any trained first aiders. Ideally the ***[tower authority](../glossary/#tower-authority)*** should offer training, which should be kept up to date.
+- Names of any trained first aiders. Ideally the ***[tower authority](../glossary/#tower-authority)*** should offer training and this should be kept up to date.
 
 - Location of the first aid kit. The first aid kit must be accessible to ringers when the rest of the building is locked e.g., it must not be in a locked vestry. 
 
