@@ -8,11 +8,11 @@ weight: 4
 **Site currently under construction**
 {{</hint>}}
  
-## Income  
+## Charges and Fees  
 
 ### Weddings 
 
-In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are normally set by the ***[PCC](../glossary/#pcc)***, hopefully in consultation with the ringers. These should reflect whether ringing is: 
+In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are normally set by the ***[PCC](../glossary/#pcc)***, preferably in consultation with the ringers at the AGM. These should reflect whether ringing is: 
 
 - Before and/or after the wedding. 
 
@@ -43,15 +43,15 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these may 
 
 ![Electronic donation](donate350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this should involve the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
+The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this would be the responsibilty of the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
-## Payment of Fees 
+## Reimbursement of Expenses 
 
-Arrangements must be made for how the ringers are to receive payments. In the ***[C of E](../glossary/#c-of-e)***, it is likely that a couple getting married will pay the whole cost at one time. The church then arranges the transfer of money to the various recipients. With the current reduction in the use of cash, the church may expect to do this via a bank transfer. 
+Arrangements must be made for how the ringers are to receive any such amounts. In the ***[C of E](../glossary/#c-of-e)***, it is likely that a couple getting married will pay the whole cost at one time. The church then arranges the transfer of money to the various recipients. With the current reduction in the use of cash, the church may expect to do this via a bank transfer. 
 
 ## Subscriptions
 
-The tower and/or the local society may charge a subscription, typically this is an annual fee.
+The tower and/or the local society may charge a subscription, typically this is an annual fee. This should be reviewed at the relevant AGM.
 
 ## Expenditure 
 
@@ -63,7 +63,13 @@ If a major project is envisaged the funding of this must be agreed in consultati
 
 ## Tower Funds 
 
-In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s). Ideally these should be ring-fenced preventing their use for non-ringing related expenditure. This can be achieved by having a covering document listing the restrictions of the funds. If ring-fenced there has to be a means of amending the restrictions, a definition of who can do this is essential.
+In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s). 
+
+{{hint warning}}
+** The fund should be identified as a “Restricted Fund” within the PCC accounts; it should NOT be a “Designated Fund” as this could be re-designated by the PCC to other projects.**
+{{/hint}}
+
+This can be achieved by having a covering document listing the restrictions of the funds. If a "designated fund" there has to be a means of amending the restrictions, a definition of who can do this is essential.
 
 If a tower has funds, separate from the ***[tower authority](../glossary/#authority)***, these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
 
