@@ -175,7 +175,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
-## Communication
+### Communication
 
 Links to the body of the building, especially where the ringing room is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone/visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
 
