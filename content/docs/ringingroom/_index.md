@@ -142,7 +142,7 @@ Are notice board(s) displaying up-to-date information, such as tower and Society
 
 ![Typical resources](resource_350.JPG)
 
-This may include model bell(s), simulator(s), books and pictures of the bells above ***[see also CCTV](#CCTV)***.
+This may include model bell(s), simulator(s), books and pictures of the bells above. The latter may include CCTV as explained below.
 
 # Storage  
 
