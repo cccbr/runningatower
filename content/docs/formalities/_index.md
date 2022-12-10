@@ -17,7 +17,7 @@ In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teachin
 
 Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../glossary/#tower-authority)***.  
 
-Permission must be obtained from parents / guardians of under 18s.  
+Permission must be obtained from parents or guardians of under 18s.  
 
 Membership lists and contact details must be kept secure. Access should be restricted to a defined list of officers. Parental details must be held for under 18s along with a date of birth, to indicate when a minor becomes an adult.  
 
