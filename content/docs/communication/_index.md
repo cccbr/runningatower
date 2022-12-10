@@ -26,7 +26,7 @@ Elsewhere, for example in ***[C of E](../glossary/#c-of-e)*** cathedrals, church
 
 ## Faculties 
 
-These are applicable to bells and towers within the ***[C of E](../glossary/#c-of-e)***. Guidance notes on these should be consulted for any proposed changes within the tower. Futher information can be found at [changes to the faculty process](https://cccbr.org.uk/wp-content/uploads/2022/06/SM_Faculty_Changes_2022_Ver_3.pdf).
+These are applicable to bells and towers within the ***[C of E](../glossary/#c-of-e)***. Guidance notes on these should be consulted for any proposed changes within the tower. Futher information can be found at [belfy upkeep faculty rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
 
 ## Contact Details 
 
