@@ -25,7 +25,11 @@ Membership lists and contact details must be kept secure. Access should be restr
 
 Further details can be found at [General Data Protection Regulation (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf).
 
-## Insurance
+## Insurance 
+
+In the ***[C of E](../glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
+
+Further details can be found in the [insurance dpcument (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
 ## Safeguarding 
 
