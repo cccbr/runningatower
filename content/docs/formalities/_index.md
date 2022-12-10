@@ -13,6 +13,8 @@ weight: 3
 
 In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Further details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
 
+## Equality and Diversity
+
 ## General Data Protection Regulation (GDPR) 
 
 Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../glossary/#tower-authority)***.  
@@ -22,6 +24,8 @@ Permission must be obtained from parents or guardians of under 18s.
 Membership lists and contact details must be kept secure. Access should be restricted to a defined list of officers. Parental details must be held for under 18s along with a date of birth, to indicate when a minor becomes an adult.  
 
 Further details can be found at [General Data Protection Regulation (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf).
+
+## Insurance
 
 ## Safeguarding 
 
