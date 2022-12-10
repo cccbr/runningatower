@@ -142,7 +142,7 @@ Are notice board(s) displaying up-to-date information, such as tower and Society
 
 ![Typical resources](resource_350.JPG)
 
-This may include model bell(s), simulator(s), books and pictures of the bells above The latter is especially useful for those unable to climb to see them (see also CCTV).
+This may include model bell(s), simulator(s), books and pictures of the bells above **[see also CCTV](../ringingroom/#CCTV)***.
 
 # Storage  
 
@@ -173,7 +173,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ![CCTV at Ledbury](cctv_350.jpg)
 
-This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
+This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
 ## Communication
 
