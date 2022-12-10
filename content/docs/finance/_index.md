@@ -12,7 +12,7 @@ weight: 4
 
 ### Weddings 
 
-In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are set by the ***[PCC](../glossary/#pcc)***, hopefully in consultation with the ringers. These should reflect whether ringing is: 
+In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are normally set by the ***[PCC](../glossary/#pcc)***, hopefully in consultation with the ringers. These should reflect whether ringing is: 
 
 - Before and/or after the wedding. 
 
