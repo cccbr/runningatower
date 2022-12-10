@@ -171,7 +171,7 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 ### CCTV
 
-![CCTV installation](ledbury1_350.JPG)
+![CCTV installation](ledbury2_350.JPG)
 
 This may cover the ringing room and the bell chamber. It is useful for visitors, who may not be able to access the tower, and for learners.  
 
@@ -266,7 +266,7 @@ These are the usually the property of the awarding body. However, they are in th
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
 | 11 | Teaching aids | Photo: Tony Crabtree |
-| 12 | CCTV showing bell chamber at Thornbury, Gloucestershire| Photo: Robin Shipp |
+| 12 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 | 13 | Model demonstration bell | Photo: Tony Crabtree |
 | 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
 | 15 | Visitor's book | Photo: Tony Crabtree |
