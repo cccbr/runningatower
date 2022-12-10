@@ -66,7 +66,7 @@ If a major project is envisaged the funding of this must be agreed in consultati
 In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s). 
 
 {{<hint warning>}}
-** The fund should be identified as a “Restricted Fund” within the PCC accounts; it should NOT be a “Designated Fund” as this could be re-designated by the PCC to other projects.**
+**The fund should be identified as a “Restricted Fund” within the PCC accounts; it should NOT be a “Designated Fund” as this could be re-designated by the PCC to other projects.**
 {{</hint>}}
 
 This can be achieved by having a covering document listing the restrictions of the funds. If a "designated fund" there has to be a means of amending the restrictions, a definition of who can do this is essential.
