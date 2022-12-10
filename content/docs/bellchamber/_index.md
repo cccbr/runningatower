@@ -21,11 +21,11 @@ The bell installation is covered specifically by [Belfy Upkeep](https://belfryup
 
 ![(Older) leather fastening muffle](muffle_old_350.jpg) ![(Modern) Velcro fastening muffle](muffle_new_350.jpg)
 
-There are two basic types of muffle. The older type is attached by means of leather straps and / or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Cable ties may be used to ensure that muffles are firmly fixed, be careful when removing these to not cut the muffles.
+There are two basic types of muffle. The older type is attached by means of leather straps and/or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Cable ties may be used to ensure that muffles are firmly fixed, however when removing these be careful to not cut the muffles.
 
-Ensure that it is known how to fit these correctly. Muffles should be fitted with the bells down and, as in all cases when work is undertaken in the bell chamber, with a second person present. When not in use muffles should be stored in a fabric bag, ideally hung in the ringing room. They should not be thrown into a cupboard which may be damp and therefore cause deterioration. 
+Ensure that it is known how to fit muffles correctly. Muffles should be fitted with the bells down and, as in all cases when work is undertaken in the bell chamber, with a second person present. When not in use muffles should be stored in a fabric bag, ideally hung in the ringing room. They should not be thrown into a cupboard which may be damp and therefore cause deterioration. 
 
-Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops when the bell is down. Bells are only rung fully muffled (or deeply muffled i.e. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
+Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops from the wheel when the bell is down. Bells are only rung fully muffled (or deeply muffled i.e. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese. 
 
 ## Silencers
 
@@ -41,11 +41,11 @@ The above shows a rope used to tie the clapper It may be preferred to tie the cl
 
 ![Art design](art_350.jpg)
 
-***[ART](../glossary/#art)*** recommend one based on an old cycle inner tube. 
+***[ART](../glossary/#art)*** recommend a tie based around an old cycle inner tube. 
 
 ## Sound Control
 
-Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to the individual towers. It is essential that the method of operation is well documented alongside when it should be used. Further details can be found at [sound control in towers](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
+Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to individual towers. It is essential that the method of operation is well documented alongside when it should be used. Further details can be found at [sound control in towers (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
 ## Image Credits
 
