@@ -20,10 +20,10 @@ In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are nor
 
 - The number of bells to be rung. Some towers charge proportionately.
 
-- Likely travel times and distances, etc. 
+- Likely travel times and distances of the ringers, etc. 
 
 The couple should be advised that if the bride arrives excessively late, ringing may not continue until her arrival and may be curtailed after the service. 
-Consider setting an end time when ringing will finish, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and may help get a band. This is especially useful when ringers are required at a few local churches on the same day. 
+Consider setting an end time when ringing will finish, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and may help when arranging a band. This is especially useful when ringers are required at a few local churches on the same day. 
 
 ## Fees for other ringing 
 
@@ -37,27 +37,27 @@ Consider having fixed fees for:
 
 - Peals.
 
-These may be determined in consultation with the ***[tower authority](../glossary/#tower-authority)***. If there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
+These should be determined in consultation with the ***[tower authority](../glossary/#tower-authority)***. When there are no fixed fees it is usual to expect voluntary donations from visiting bands and individuals.
 
-Avoid having a 'box on the wall', especially for downstairs rings, as these invite theft and damage. 
+Avoid having a 'box on the wall', especially for downstairs rings, as these may invite theft and damage. 
 
 ![Electronic donation](donate350.jpg)
 
-Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this should involve the ***[PCC](../glossary/#pcc)*** and its treasurer. It may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
+Consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this should involve the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered and ensure that payments for ringing are captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
 ## Payment of Fees 
 
-Arrangements must be made for how the ringers receive any payments. In the ***[C of E](../glossary/#c-of-e)***, it is likely that a couple getting married pay the whole cost at one time. The church then arranges the transfer of money to the recipient groups. With the reduction in use of cash, the church may expect to do this via a bank transfer. 
+Arrangements must be made for how the ringers are to receive payments. In the ***[C of E](../glossary/#c-of-e)***, it is likely that a couple getting married will pay the whole cost at one time. The church then arranges the transfer of money to the various recipients. With the current reduction in the use of cash, the church may expect to do this via a bank transfer. 
 
 ## Subscriptions
 
-The tower and / or the local society may charge a subscription, typically this is an amount payable annually.
+The tower and/or the local society may charge a subscription, typically this is an annual fee.
 
 ## Expenditure 
 
-Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance, who will pay for replaceable items e.g. ropes. 
+Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance, who is to pay for replaceable items e.g. ropes. 
 
-In the Church of England, it may be worth running the tower funds through the ***[PCC](../glossary/#pcc)***. The PCC is normally a registered charity and registered with HMRC for Gift Aid. The result might be a reduction of a third. This should be a big encouragement to use PCC funds over any tower fund.
+In the Church of England, it may be worth running the tower funds through the ***[PCC](../glossary/#pcc)*** as that is normally a registered charity and registered with HMRC for Gift Aid. The may reduce the expenditure by a third. This should be a big encouragement to use PCC funds over any tower fund.
 
 If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://belfryprojects.cccbr.org.uk/) covers the running of a project.
 
@@ -71,7 +71,7 @@ If a tower has funds, separate from the ***[tower authority](../glossary/#author
 
 This only applies to places of worship within the United Kingdom.
 
-The scheme allows VAT on eligible expenditure to be reclaimed where the church is listed. The definition of eligible expenditure is vague when it comes to bells. It generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related, that keep the hardware going, are likely to be eligible, but it is worth checking as the scheme does change. 
+The scheme allows VAT on eligible expenditure to be reclaimed where the church is listed. The definition of eligible expenditure is vague when it comes to bells. It generally covers bells, bell frames, bell fittings (probably stays), ropes, muffles and training bells. It is highly probable that most things ringing related, that keep the hardware going, are eligible; however a check is essential as the scheme may change. 
 
 A claim, with multiple invoices below the £1000 threshold, can be made once per year. It is not a difficult process to make these claims.
 
