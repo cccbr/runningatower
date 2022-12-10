@@ -11,7 +11,7 @@ weight: 3
 
 ## Disclosure and Barring Service (DBS)
 
-In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, must have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Further details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
+In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Further details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
 
 ## General Data Protection Regulation (GDPR) 
 
@@ -25,9 +25,9 @@ Further details can be found at [General Data Protection Regulation (CCCBR)](htt
 
 ## Safeguarding 
 
-Further details can be found at [safeguarding (CCCBR)](https://cccbr.org.uk/safeguarding/). 
+Further details can be found at [safeguarding (CCCBR)](https://cccbr.org.uk/2022/12/08/launch-of-from-practice-to-perfect/). This document is written specifically to explain ringing, its organisation, training and safeguarding arrangements to clergy, PCCs and Safeguarding Advisers
 
-In a ***[C of E](../glossary/#c-of-e)*** setting, the Tower Captain, and other persons with responsibilities, should have completed the Safeguarding Leadership training module. It would be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
+In a ***[C of E](../glossary/#c-of-e)*** setting, the Tower Captain, and other persons with responsibilities, may be expected to have completed the Safeguarding Leadership training module. It may be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
 
 The required levels must always be in line with the ***[tower authority’s](../glossary/#tower-authority)*** policies.   
 
