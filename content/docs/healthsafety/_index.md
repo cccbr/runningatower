@@ -25,11 +25,9 @@ This includes guidance on:
 
 - Fire safety. 
 
-- First aid. A first aid kit should be readily available.
+- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the ****[tower authority](../glossary/#tower-authority)***.
 
-- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection.
-
-- Accidents and illness. 
+- Accidents and illness. An accident and emergency record may be present and must be completed as appropriate.
 
 - Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g if ringing a peal. This may include induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
 
@@ -79,15 +77,15 @@ Regularly check that all items are within date. The kit should be listed on the 
 
 Further details can be found in the [security for ringers document (CCCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
 
-A limited number of keys to the building (and internal doors) may be held by the ringers. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
+A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and/or key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
 Information specific to working in a bell chamber can be found in [Belfry Upkeep Health & Safety](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
 ## Tower Access 
 
-Furtjer information can be found in [Guidance notes - Tower Access and Stairways (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
+Further information can be found in [Guidance notes - Tower Access and Stairways (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
 
-Consider the number of keys and/or key holders. There is a balance between security (preventing access) and enabling reasonable access. Emergency exits should be clearly indicated and must never be compromised.
+Emergency exits should be clearly indicated and must never be compromised.
 
 Spiders and ropes should ideally be left inaccessible e.g. locked away. This is essential in accessible ringing rooms.  
 
@@ -117,7 +115,7 @@ There may also be persons requiring access to other installations (such as mobil
 | :---: | --- | --- |
 | 1 | Small first aid kit | Photo: Tony Crabtree |
 | 2 | Ground floor ringing room | Photo: Tony Crabtree |
-| 3 | Ground floor ringing room with barrier | Photo: Alison Hodge |
+| 3 | Ground floor ringing room with rope barrier | Photo: Alison Hodge |
 
 ----
 
