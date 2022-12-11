@@ -45,15 +45,14 @@ Liaise with the local emergency services to discuss their access and also emerge
 
 ## Fire extinguisher and alarms.
 
-These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement.
+These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***
 
 ![Fire exit indicator](exit_350.jpg)
 
 ## Emergency lighting and exits
 
-These must be inspected, tested regularly and be in date. They must bright enough to safely set the bells should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[tower authority](../glossary/#tower-authority)***.
+These must be inspected, tested regularly and be in date. They must bright enough to safely set the bells should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[tower authority](../glossary/#tower-authority)***. The design of the fire alarm system should be in accordance with a fire safety plan. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***
 
-The design of the fire alarm system shall be in accordance with a fire safety plan. 
 
 Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors might gain access to the building. Advise such visitors to make contact in advance by publicising this, for instance, on the building website. 
 
