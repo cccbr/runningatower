@@ -19,7 +19,7 @@ It is produced by the ***[Stewardship and Management Work Group](../glossary/#sm
 
 The lead role is often called the tower captain although other titles are sometimes used e.g. ringing master.
 
-This document is provided as advice and guidance for the tower captain or potential tower captain, whilst also acting as a guide for ringers generally.
+This document is provided as advice and guidance for the tower captain or potential tower captain, whilst also acting as a guide for ringers generally. There is a duty of care on all ringers to abide by this guidance.
 
 ## Scope
 
