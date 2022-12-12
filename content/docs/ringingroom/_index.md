@@ -132,9 +132,16 @@ Ensure that notice board(s) display up-to-date information, such as tower and So
 
 ## Ringing Records
 
+### Visitor book
+
+Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records. Further information can be 
+found in the History and Archive work group pages.
+
 ![Visitor book](visitors_350.JPG)
 
-Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records. Further information can be found in the History and Archive work group pages.
+A band may wish to maintain a visitor's book. This can offer information on who has visited in the past when researching.
+
+### Peal boards
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
 
