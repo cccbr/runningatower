@@ -258,10 +258,10 @@ As these are normally in the main part of the building access may be restricted.
 | 11 | Visitor's book | Photo: Tony Crabtree |
 | 12 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
 | 13 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
-| 14 | Model demonstration bell | Photo: Tony Crabtree |
-| 15 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 16 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 14 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 15 | Model demonstration bell | Photo: Tony Crabtree |
+| 16 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 17 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
 | 18 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 
 ----
