@@ -124,6 +124,24 @@ In the ringing room:
 
 If the ringing room has large windows consider some means of reducing direct sunlight which may temporarily blind the ringers e.g. curtains or blinds. 
 
+## Notices Boards and Information 
+
+![Typical notice board](notice_350.JPG)
+
+Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.  
+
+## Ringing Records
+
+![Visitor book](visitors_350.jpg)
+
+Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records. Further information can be found in the History and Archive work group pages.
+
+![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
+
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeaconsâ€™ consultation in a C of E church.
+
+Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
+
 ## Seating 
 
 Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally, they should be enough away from the ropes to prevent a moving rope hooking them. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
@@ -131,11 +149,9 @@ Consider whether there is adequate seating to accommodate people not ringing. Th
 
 Always consider whether the seating is fit for purpose. 
 
-## Notices Boards and Information 
+## Storage  
 
-![Typical notice board](notice_350.JPG)
-
-Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.  
+Consider whether storage spaces need to be lockable. This is especially important when the ringing room is readily accessible. It may also be necessary to lock any higher value items away.
 
 ## Teaching aids and a suitable space for teaching. 
 
@@ -163,10 +179,6 @@ If handbells are considered a useful resource a cheap option is a set of eight â
 
 All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
 Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
-
-# Storage  
-
-Consider whether storage spaces need to be lockable. This is especially important when the ringing room is readily accessible. It may also be necessary to lock any higher value items away.
 
 # The Ringing Experience 
 
@@ -209,20 +221,6 @@ As these are normally in the main part of the building access may be restricted.
 
 ## Other Tower Resources  
 
-### Records
-
-![Typical visitor book](visitors_350.JPG)
-
-Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records. Further information can be found in the [History and Archive work group](https://cccbr.org.uk/about/workgroups/historical-and-archive/) pages.  
-
-![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
-
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the ***[tower authority](../glossary/#tower-authority)*** and an Archdeacons' consultation in a ***[C of E](../glossary/#c-of-e)*** church.
-
-Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
-
-
-
 ### Spare ropes  
 
 See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
@@ -259,12 +257,12 @@ These are the usually the property of the awarding body. However, they are in th
 | 8 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
-| 11 | Model demonstration bell | Photo: Tony Crabtree |
-| 12 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 13 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 14 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
-| 15 | Visitor's book | Photo: Tony Crabtree |
-| 16 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 11 | Visitor's book | Photo: Tony Crabtree |
+| 12 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 13 | Model demonstration bell | Photo: Tony Crabtree |
+| 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 15 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 16 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 | 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
 | 18 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
 
