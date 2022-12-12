@@ -105,7 +105,7 @@ There may be other users of the tower and its internal spaces. These, their acce
 
 ![Barrier in ground floor ringing room](barrier_350.jpg)
 
-Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. Ropes at ground floor rings should be raised on a spider. The spider should be inaccesible to the casual visitor by being secured.
+Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. Ropes at ground floor rings should be raised on a spider. The spider should be inaccesible to the casual visitor by being secured. It is a good idea to place a physical barrier, as in the rope in the above picture, to dissuade non-ringers entering the ringing area whilst rining is in progress.
 
 There may also be persons requiring access to other installations (such as mobile telephone equipment housed in the tower). 
 
