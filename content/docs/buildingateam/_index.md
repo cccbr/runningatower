@@ -80,7 +80,7 @@ This is not always possible if there are visitors. Generally you need to be awar
 - At a practice what, if anything, they want to improve on. 
 - If there are visitors you don’t know then ask them if and what they can ring. Suggest some rounds for them to ‘get a feel of the bells’. When they ring, judge for yourself how accurate their statements were.
 
-![Young ringers in action](young_350.jpg)
+![Young ringers in action](young350.jpg)
 
 ### Purpose
 
