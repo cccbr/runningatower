@@ -9,9 +9,11 @@ weight: 7
 **Site currently under construction**
 {{</hint>}}
 
+Throughout it should be remembered that any substantive change can only be made with proper consultation with the ***[tower authority](../glossary/#tower-authority)*** and it is their reponsibility to action any such change. In the case of the ***[C of E](../glossary/#c-of-e)***
+
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
-Try to keep the ringing room a tidy and welcoming place. This will give a good impression to any visitors, especially potential recruits.
+The ringing room should be kept tidy and welcoming. This reduces risk and gives a good impression to any visitors, especially potential recruits.
 
 The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser and are hosted on YouTube. We are grateful for permission to reuse this material. The links are:
 
@@ -21,44 +23,40 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 ## Access
 
-If the ringing room is upstairs:
+If the ringing room is upstairs consider:
 
 ![Non-slip staircase](nonslip_350.JPG)
-
-- Are the steps safe, secure, non-slippery? The photograph shows a modern non-slip surface.
+- whether the steps are safe, secure, non-slippery. The photograph shows a modern non-slip surface.
 
 ![Handrail](handrail350.jpg)
+- whether there is sufficient handrails or suitably positioned grab handles.
+- whether the steps are well illuminated. 
+- If the access door opens inwards to the ringing chamber whether there are there measures, such as a window or a notice, to ensure it is not opened into a ringer standing immediately inside. 
+- If access is by a trap door, whether it is able to be safely opened without injury and whether it can be secured when open.
 
-- Is there a good handrail (an alternative may be suitably positioned grab handles)? 
-
-- Are the steps well illuminated? 
-
-If the access door opens inwards to the ringing chamber are there measures, such as a window or a notice, to ensure it is not opened into a ringer standing immediately inside? 
-
-If access is by a trap door, is it able to be safely secured when open? 
-
-Is there any other way of accessing the ringing room that is less inconvenient? Maybe seek advice from your local Society.  
+If acccess is inconvenient consider whether there is another way of accessing the ringing room that is less inconvenient. Maybe seek advice from your local Society.  
 
 ## Boxes 
 
 ![Selection of boxes](boxes_350.JPG)
 
-Are these secure and suitable for use?
-Are they suitably sized so the ringer doesn’t feel any risk of being too near the edge?
-Are they carpeted so they can be stacked safely and without sliding for very young ringers? 
-Are there wedges for uneven floors?
+Consider whether the boxes:
+- are secure and suitable for use. 
+- are suitably sized. A ringer should not feel any risk of being too near the edge.
+- are carpeted. This allows them to be stacked safely and without sliding for very young ringers. The use of multiple boxes ought to be avoided whenever possible. 
+- can be wedged if there are uneven floors.
 
 Further details are available at [notes on ringing boxes (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf). This document details how to make a 2ft x 2ft box which is stackable. "Fixed" boxes at towers e.g. Exeter (see picture below) are typically larger. The height generally needs to increase and be roughly in a ratio of 0.5-0.6 to the width. There are Health and Safety implications of high (fixed) boxes, but there are also positive sides to them.
 
-Positive 
-- Reduced rope wear, as the rope goes into compression (this induces fibre slip and wearing out).
+Positive reasons for using boxes:
+- Reduced rope wear, as the rope goes into compression (this induces fibre slip and wearing out) when it meets a solid surface.
 - Reduces the risk of a trip hazard from the tail end coiling up around or under the ringer's feet.
 
-Negative.
+Negative reasons for using boxes: 
 
 - Need to consider the need for edge protection. Boxes up to 600mm height, in accordance with HSE guidance unguarded edges, do not need to have edge protection.  
 
-Consider whether a box for a heavy bell should be fixed or not? Fixed boxes may become handy storage spaces. If this is the case consider what goes in them. It is not a good place to store the first aid kit.
+Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may become used as storage space. If this is the case consider what goes in them. It is not a good place to store the first aid kit.
 
 ## Carpets and Rope Mats
 
@@ -76,7 +74,7 @@ Are the rope bosses at the optimum height? Too high and the ropes can be flighty
 
 Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, ***[CCCBR](../glossary/#cccbr)***, or a professional bell hanger. 
 
-Is the rope circle poor or very unequally spaced? Again, consider seeking advice as above, especially when there are ropes very close together.  
+If the rope circle is poor or very unequally spaced, consider seeking advice as above, especially when there are ropes very close together.  
 
 ## Chiming Apparatus 
 
@@ -88,10 +86,7 @@ The picture on the left shows an ellacombe apparatus and the picture on the righ
 
 ## Coat Hooks 
 
-Are these fit for purpose?  
-Are they in suitable locations? 
-
-Ensure that cot hooks do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. Ensure that these do not impinge on a ringer's position. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
+Consider whether these are fit for purpose and are in suitable locations. Ensure that cot hooks do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. Ensure that these do not impinge on a ringer's position. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
 
 ## Curtains / blinds 
 
@@ -114,29 +109,28 @@ Further details can be found at [lighting in and around towers (CCCBR)](https://
 
 In the ringing room:
 
-- Is the lighting placed centrally to the rope circle, so as to illuminate all ringers above and from the front? Ensure there is enough light within the rope circle and not just around the walls. Uplighters may look good, but the reflectivity of the ringing room may mean they do not work. Uplighters require more energy to achieve an acceptable light level and work best when combined with downlighters, lighting the space at eye level (approximately 6 foot) to waist level (approximately 3 foot) for the ringers.
+- Consider the placing of the lighting. Ideally the lighting should be placed centrally to the rope circle; this will illuminate the ringers from both above and the front. Ensure there is enough light within the rope circle and not just around the walls. Uplighters may look good, but the reflectivity of the ringing room may mean they do not work. Uplighters require more energy to achieve an acceptable light level and work best when combined with downlighters, lighting the space at eye level (approximately 6 foot) to waist level (approximately 3 foot) for the ringers.
 
-- Are there at least two light sources? This provides a back-up should one fail or is smashed by a wild rope. If in doubt, fit more lights than originally considered. Ideally engage a professional to help with design. 400-500 lumen at eye level (approximately 6 foot from the floor) is a good starting point when ringing. 
+- ensure that there at least two light sources. This provides a back-up should one fail or is smashed by a wild rope. If in doubt, fit more lights than originally considered. Ideally engage a professional to help with design. 400-500 lumen at eye level (approximately 6 foot from the floor) is a good starting point when ringing. 
 
-- Lighting needs to be maintained, e.g. bulbs changed, and should be safely accessible.
+- Lighting needs to be maintained, e.g. bulbs changed, therefore the light fittings should be safely accessible.
 
 - There should be a battery back-up to protect against a blown fuse or power failure in at least one light fitting. The lighting should be 'safety lighting' not 'exit lighting'. The former is brighter. There is further information at [Oxford Diocesan Guild website emergency lighting](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc01_emergency_lighting-3.pdf). N.B. This document is to be updated.
 
-If the ringing room has large windows is there some means of reducing direct sunlight temporarily blinding the ringers such as curtains or blinds. 
+If the ringing room has large windows consider some means of reducing direct sunlight which may temporarily blind the ringers e.g. curtains or blinds. 
 
 ## Seating 
 
-Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally they be double the distance for hooking them with a moving rope. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
+Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally, they should be enough away from the ropes to prevent a moving rope hooking them. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
+Consider whether there is adequate seating to accommodate people not ringing. The size of the tower may restrict the amount of seating.
 
-Is there adequate seating to accommodate people not ringing? The size of the tower may restrict the amount of seating.
-
-Is all seating fit for purpose? 
+Always consider whether the seating is fit for purpose. 
 
 ## Notices Boards and Information 
 
 ![Typical notice board](notice_350.JPG)
 
-Are notice board(s) displaying up-to-date information, such as tower and Society notices?  
+Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.  
 
 ## Teaching aids and a suitable space for teaching. 
 
@@ -154,14 +148,14 @@ The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/
 
 # Go of the bells 
 
-Are the bells odd-struck? Are any bells set too fine or too deep?
+Consider whether the bells odd-struck or set too fine or too deep.
 This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../glossary/#cccbr)*** or a professional. There is further information at [Oxford Diocesan Guild correcting odd struckness](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
 
 # Sound 
 
-Are the sound levels in the ringing room good? Is it echoey? if so, consider a carpet or large rug. Curtains and soft furnishings may also help. 
+Consider the sound levels in the ringing room good. If it is too echoey, consider a carpet or large rug may reduce this. Curtains and soft furnishings may also help. 
 
-Do the bells “shout” down through a trap door or through the stair door? Ensuring these are adequately insulated may be easily redressed.
+If the bells “shout” down through a trap door, or through the stair door, some form of insulation may reduce or redress the matter.
 
 Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information at [Oxford Diocesan Guild sound control](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fodg.org.uk%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F05%2FODG-Sound-Control-Booklet-v2.doc&wdOrigin=BROWSELINK)). N.B. This document is to be updated.
 
@@ -181,7 +175,7 @@ Links to the body of the building, especially where the ringing room is separate
 
 ### Kitchen
 
-At least a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
+This may consist of a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
 
 ### Toilet(s) 
 
@@ -203,7 +197,7 @@ If possible, a model bell should be portable allowing its use for demonstrations
 
 ![Set of handbells in carrying cases](handbells_350.JPG)
 
-Are these usable? If not, consider restoration otherwise they are merely a display item.
+If these are not usable, consider restoration otherwise they are merely a display item.
 
 If handbells are considered a useful resource a cheap option is a set of eight “rainbow” handbells. These are readily available, inexpensive, robust and ideal for teaching place-counting, etc. 
 
@@ -223,8 +217,7 @@ Older peal boards may require restoration. There are specialist firms providing 
 
 ![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
 
-Are the components kept securely? 
-Have the electrical components been PAT tested by an approved contractor? 
+All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
 Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
 
 ### Spare ropes  
@@ -233,7 +226,7 @@ See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccb
 
 It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
 
-Do you have at least one person able, and willing, to check the ropes at suitable intervals? If not a local society 'expert' may be able to assist. If a person is available locally, can they identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
+If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
 If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
 
@@ -241,9 +234,7 @@ If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/
 
 ![Stable tools](tools_350.JPG)
 
-Are these usable and not simply rusted away? 
-
-It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
+These should be usable and not simply rusted away. It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
 ### Trophies 
 
