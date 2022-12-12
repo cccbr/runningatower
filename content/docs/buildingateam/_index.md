@@ -63,9 +63,7 @@ There are proprietary apps available that might be of use in arranging a calenda
 
 ### Arranging Ringing
 
-The [CCCBR Volunteering and Leadership Work Group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) is the primary source of information for this topic. Further details as to what help they can provide can be obtained by selecting the 'what we do' link on their webpage.
-
-If you are not used to running ringing, doing so can seem daunting. There is no need for it to be, in essence it is simple. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. 
+If you are not used to running ringing, doing so can seem daunting. There is no need for it to be so. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. [An example of how to plan ringing](../planningringing)/
 
 Perhaps the most important things to remember are:
 -	Ringers are volunteers. They are at the session because they want to be.
@@ -87,7 +85,6 @@ This is not always possible if there are visitors. Generally you need to be awar
 ### Purpose
 
 Decide what you want to achieve, both as a band and for individuals. If you can, publicise what is to be rung and why, a few days before each session. As far as attendance and performance allows, try and ring what was advertised. If you were unable to ring what you said, briefly explain why at the end of the session. Remember the ringers are volunteers, the degree to which you can structure a session will vary with the band and with individuals. Some ringers may come to sessions mainly to get out of the house and socialise as part of a group. They may well be happy to get better at ringing, but it may not be a prime consideration. On the other hand, some may want to progress their ringing more. Having some, if only loose, structure to a session should help keep more people happy as they can see there is something in it for them.
-
 
 {{<hint info>}}
 **To navigate to a example ringing plan, use the left-hand side navigation bar. You may need to click on the menu bar (three stacked horizontal lines) in the top left to access if you are on a small screen.**
