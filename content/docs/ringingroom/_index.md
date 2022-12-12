@@ -209,16 +209,16 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
 Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
 
-# The Ringing Experience 
+## The Ringing Experience 
 
 The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) pages should also be consulted.
 
-## Go of the bells 
+### Go of the bells 
 
 Consider whether the bells odd-struck or set too fine or too deep.
 This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../glossary/#cccbr)*** or a professional. There is further information at [Oxford Diocesan Guild correcting odd struckness](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
 
-## Sound 
+### Sound 
 
 Consider the sound levels in the ringing room good. If it is too echoey, consider a carpet or large rug may reduce this. Curtains and soft furnishings may also help.  If the bells “shout” down through a trap door, or through the stair door, some form of insulation may reduce or redress the matter.
 
@@ -226,27 +226,29 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information at [sound control (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
-# Other areas to consider 
+## Other areas to consider 
 
-## CCTV
+### CCTV
 
 ![CCTV at Ledbury](cctv_350.jpg)
 
 This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
-## Communication
+### Communication
 
-Links to the body of the building, especially where the ringing room is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone/visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
+Links to the body of the building, especially where the ringing room is separate, need to be considered. The answer may be as simple as a bell pull or as complex as a telephone/visual communication system. This can assist with timings for events (especially weddings at churches) and other activities within the building.  
 
-## Kitchen
+### Kitchen
 
-This may consist of a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
+This may consist of a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements. There may be restricted access when this is the main part of the building.  
 
-## Toilet(s) 
+### Toilet(s) 
 
-As these are normally in the main part of the building access may be restricted.
+As these may be in the main part of the building access may be restricted.
 
-## Parking
+### Parking
+
+There may be accessible parking as part of the premises although access is probably, restricted especially at times when events (including church services). In town settings it may be worthwhile publicising where the nearest accessible parking can be found.
 
 ## Image Credits
 
