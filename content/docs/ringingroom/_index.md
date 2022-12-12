@@ -132,7 +132,7 @@ Ensure that notice board(s) display up-to-date information, such as tower and So
 
 ## Ringing Records
 
-![Visitor book](visitors_350.jpg)
+![Visitor book](visitors_350.JPG)
 
 Tower records of visitors, quarter peals and peals. Within churches in the Church of England, these are formally part of the Parish records. Further information can be found in the History and Archive work group pages.
 
