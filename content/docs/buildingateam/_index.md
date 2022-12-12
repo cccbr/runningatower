@@ -43,10 +43,6 @@ Further details can be found at [Guidance notes - appointment of tower captain (
 
 If there are a number of ringers attached to the tower, it is a good idea to engage as many members as possible. There are plenty of additional roles which may be used e.g., Deputy, Secretary, Instructor, Conductor, Librarian.  Roles, especially deputy, instructor and conductor should not undermine the authority of the tower captain or raise expectations of future election to other posts.
 
-### Bell Fund
-
-If tower funds are held in a PCC restricted bell fund, that should be reviewed. The bellringers (not the PCC) should have the ability to amend the restrictions at their AGM by a majority vote.
-
 ### Calendar
 
 Maintain a calendar which is publicised to all, including the ***[tower authority](../glossary/#tower-authority)***. This may be printed or held by some electronic means. The calendar should list:
