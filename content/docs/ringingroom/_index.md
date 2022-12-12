@@ -9,7 +9,7 @@ weight: 7
 **Site currently under construction**
 {{</hint>}}
 
-Throughout it should be remembered that any substantive change can only be made with proper consultation with the ***[tower authority](../glossary/#tower-authority)*** and it is their reponsibility to action any such change. In the case of the ***[C of E](../glossary/#c-of-e)***
+Throughout it should be remembered that any substantive change can only be made with proper consultation with the ***[tower authority](../glossary/#tower-authority)*** and it is their reponsibility to action any such change. In the case of the ***[C of E](../glossary/#c-of-e)*** a faculty may be necessary. Guidance notes on these should be consulted for any proposed changes within the tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
@@ -53,8 +53,8 @@ Positive reasons for using boxes:
 - Reduces the risk of a trip hazard from the tail end coiling up around or under the ringer's feet.
 
 Negative reasons for using boxes: 
-
-- Need to consider the need for edge protection. Boxes up to 600mm height, in accordance with HSE guidance unguarded edges, do not need to have edge protection.  
+- Need to consider the need for edge protection. Boxes up to 600mm height do not need to have edge protection, in accordance with HSE guidance on unguarded edges,.
+- A learner may be at risk of falling off/ver when told to move away on losing control of the rope. 
 
 Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may become used as storage space. If this is the case consider what goes in them. It is not a good place to store the first aid kit.
 
@@ -62,15 +62,19 @@ Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may 
 
 ![Carpet, mats and boxes at Exeter Cathedral](floor_350.jpg)
 
-These should be fit for purpose. There is a commonly held belief that wool is better, however this anecdotal. Most rope wear is a result of the compression when the rope comes into contact with another surface. The cost of a high wool content carpet maybe a couple of thousand pounds more than a synthetic carpet. A new set of tail ends, every 5-8 years is cheaper over the typical 20 year period of a carpet.
+These should be fit for purpose. They are especially important on stone floors. Try to avoid walkiing on rope mats as any grit or mud on shoes may be as damaging as the floor. Both carpets and rope mats should be kept clean.
 
 Ideally, mats should not overlap as this introduces a trip hazard.
+
+Rope mats can be obtained from carpet suppliers as offcuts or from old pattern books.
+
+There is a commonly held belief that wool is better, however this anecdotal. Most rope wear is a result of the compression when the rope comes into contact with another surface.
 
 ## Ceiling, Rope Guides,  Spiders 
 
 ![Rope guide at Melbourne, Derbyshire](guide_350.JPG)
 
-Are the rope bosses at the optimum height? Too high and the ropes can be flighty. Too low and the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell should just reach the guide whilst that of the heaviest bell sshould not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
+Consider whether the rope bosses are at the optimum height. If too high the ropes can be flighty. If too low the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell just reachs the guide whilst that of the heaviest bell does not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
 Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, ***[CCCBR](../glossary/#cccbr)***, or a professional bell hanger. 
 
@@ -81,12 +85,12 @@ If the rope circle is poor or very unequally spaced, consider seeking advice as 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
 
 This includes Ellacombe apparatus, chiming hammers, clock hammers and electronic units (e.g., Apollo and similar). 
-Ensure that these are disabled before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to disable the apparatus. 
+Ensure that these are correctly set before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to setand check the setting of the apparatus. 
 The picture on the left shows an ellacombe apparatus and the picture on the right shows the controls for the operation of an electronic unit (alongside controls for an electrically operated spider).
 
 ## Coat Hooks 
 
-Consider whether these are fit for purpose and are in suitable locations. Ensure that cot hooks do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. Ensure that these do not impinge on a ringer's position. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
+Consider whether these are fit for purpose and are in suitable locations. Ensure that coat hooks do not lead to important items being hidden such as emergency equipment, light switches, clock hammers. Ensure that these do not impinge on a ringer's position. The use of free standing coat stands should be discouraged as these can be dislodged or caught by flying ropes.
 
 ## Curtains / blinds 
 
@@ -97,9 +101,10 @@ Curtains can also serve to deaden excessive echo in a ringing room.
 
 Power points and powered devices should be checked by a professional, approved by the ***[tower authority](../glossary/#tower-authority)***. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../glossary/#tower-authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
 
-## Heating   
+## Heating
 
-Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If the ringing room is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area. If there are any windows through which the sun might shine, investigate a blind or curtains to reduce this. 
+Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If heating is present this must be with the approval of the ***[tower authority](../glossary/#tower-authority)***. Free standing heaters should not be used.
+If the ringing room is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area.
 
 ## Lighting 
 
@@ -134,9 +139,7 @@ Ensure that notice board(s) display up-to-date information, such as tower and So
 
 ## Teaching aids and a suitable space for teaching. 
 
-![Typical resources](resource_350.JPG)
-
-This may include model bell(s), simulator(s), books and pictures of the bells above. The latter may include CCTV as explained below.
+This may include model bell(s), simulator(s), books and pictures of the bells above. The latter may include CCTV as explained below. Information on teaching ringing is available on the [ART webpages](https://ringingteachers.org/).
 
 # Storage  
 
@@ -153,13 +156,11 @@ This may be easily corrected to give a more satisfying experience. Consider seek
 
 # Sound 
 
-Consider the sound levels in the ringing room good. If it is too echoey, consider a carpet or large rug may reduce this. Curtains and soft furnishings may also help. 
-
-If the bells “shout” down through a trap door, or through the stair door, some form of insulation may reduce or redress the matter.
-
-Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information at [Oxford Diocesan Guild sound control](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fodg.org.uk%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F05%2FODG-Sound-Control-Booklet-v2.doc&wdOrigin=BROWSELINK)). N.B. This document is to be updated.
+Consider the sound levels in the ringing room good. If it is too echoey, consider a carpet or large rug may reduce this. Curtains and soft furnishings may also help.  If the bells “shout” down through a trap door, or through the stair door, some form of insulation may reduce or redress the matter.
 
 Consider the external acoustics. The bells may cause annoyance to neighbours if especially loud. There may be a professional means of reducing this.
+
+Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information at [sound control (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
 ## Other areas to consider 
 
@@ -256,15 +257,14 @@ These are the usually the property of the awarding body. However, they are in th
 | 8 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
-| 11 | Teaching aids | Photo: Tony Crabtree |
-| 12 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
-| 13 | Model demonstration bell | Photo: Tony Crabtree |
-| 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 15 | Visitor's book | Photo: Tony Crabtree |
-| 16 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
-| 17 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 18 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
-| 19 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
+| 11 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
+| 12 | Model demonstration bell | Photo: Tony Crabtree |
+| 13 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 14 | Visitor's book | Photo: Tony Crabtree |
+| 15 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 16 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 18 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
 
 ----
 
