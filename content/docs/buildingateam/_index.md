@@ -117,10 +117,28 @@ See information contained at ***[Formalities - Safeguarding](../formalities/#Dis
 
 See information contained in [Health & Safety](../healthsafety).
 
+### Social
+
+In many groups of ringers there is a social side to the ringing. This may invove such things as:
+- going for a drink (not necessarily a pub) after ringing.
+- holding a regular dinner, typically at Christmas time.
+- outings to experience different bells, towers and areas of the country.
+- outings that without ringing content.
+
 ### Subscriptions
 
 These may be required for the individual tower or the local society.
 There may be others, such as a tower subscription to The Ringing World. 
+
+### Teaching
+
+This may include:
+- handling skills.
+- developing listening skills.
+- call-changes.
+- methods to all levels.
+
+The primary source of information is [ART](https://ringingteachers.org/).
 
 ### Visitors
 
