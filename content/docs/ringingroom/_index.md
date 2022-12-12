@@ -141,6 +141,29 @@ Ensure that notice board(s) display up-to-date information, such as tower and So
 
 This may include model bell(s), simulator(s), books and pictures of the bells above. The latter may include CCTV as explained below. Information on teaching ringing is available on the [ART webpages](https://ringingteachers.org/).
 
+The following is a list of possible assets, though not exhaustive. In all cases consider whether these are kept securely and are adequately insured for loss or damage.  
+
+### Display bell(s) 
+
+![Demonstration bell](model_350.JPG)
+
+If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
+
+### Handbells
+
+![Set of handbells in carrying cases](handbells_350.JPG)
+
+If these are not usable, consider restoration otherwise they are merely a display item.
+
+If handbells are considered a useful resource a cheap option is a set of eight “rainbow” handbells. These are readily available, inexpensive, robust and ideal for teaching place-counting, etc. 
+
+### Simulators
+
+![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
+
+All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
+Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
+
 # Storage  
 
 Consider whether storage spaces need to be lockable. This is especially important when the ringing room is readily accessible. It may also be necessary to lock any higher value items away.
@@ -149,12 +172,12 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) pages should also be consulted.
 
-# Go of the bells 
+## Go of the bells 
 
 Consider whether the bells odd-struck or set too fine or too deep.
 This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../glossary/#cccbr)*** or a professional. There is further information at [Oxford Diocesan Guild correcting odd struckness](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
 
-# Sound 
+## Sound 
 
 Consider the sound levels in the ringing room good. If it is too echoey, consider a carpet or large rug may reduce this. Curtains and soft furnishings may also help.  If the bells “shout” down through a trap door, or through the stair door, some form of insulation may reduce or redress the matter.
 
@@ -186,22 +209,6 @@ As these are normally in the main part of the building access may be restricted.
 
 ## Other Tower Resources  
 
-The following is a list of possible assets, though not exhaustive. In all cases consider whether these are kept securely and are adequately insured for loss or damage.  
-
-### Display bell(s) 
-
-![Demonstration bell](model_350.JPG)
-
-If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
-
-### Handbells
-
-![Set of handbells in carrying cases](handbells_350.JPG)
-
-If these are not usable, consider restoration otherwise they are merely a display item.
-
-If handbells are considered a useful resource a cheap option is a set of eight “rainbow” handbells. These are readily available, inexpensive, robust and ideal for teaching place-counting, etc. 
-
 ### Records
 
 ![Typical visitor book](visitors_350.JPG)
@@ -214,12 +221,7 @@ Peal and other commemorative boards, certificates and photographs. Are these rec
 
 Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
-### Simulators
 
-![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
-
-All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
-Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
 
 ### Spare ropes  
 
@@ -257,12 +259,12 @@ These are the usually the property of the awarding body. However, they are in th
 | 8 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
-| 11 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
-| 12 | Model demonstration bell | Photo: Tony Crabtree |
-| 13 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 14 | Visitor's book | Photo: Tony Crabtree |
-| 15 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
-| 16 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 11 | Model demonstration bell | Photo: Tony Crabtree |
+| 12 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 13 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 14 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
+| 15 | Visitor's book | Photo: Tony Crabtree |
+| 16 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
 | 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
 | 18 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
 
