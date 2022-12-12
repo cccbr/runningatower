@@ -142,6 +142,12 @@ Peal and other commemorative boards, certificates and photographs. Are these rec
 
 Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
+### Trophies 
+
+![Ringing trophies heald at Exeter Cathedral, Devon](trophies_350.jpg)
+
+These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
+
 ## Seating 
 
 Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally, they should be enough away from the ropes to prevent a moving rope hooking them. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
@@ -149,9 +155,25 @@ Consider whether there is adequate seating to accommodate people not ringing. Th
 
 Always consider whether the seating is fit for purpose. 
 
+## Spare ropes  
+
+See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
+
+It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
+
+If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
+
+If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
+
 ## Storage  
 
 Consider whether storage spaces need to be lockable. This is especially important when the ringing room is readily accessible. It may also be necessary to lock any higher value items away.
+
+## Tools 
+
+![Stable tools](tools_350.JPG)
+
+These should be usable and not simply rusted away. It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
 ## Teaching aids and a suitable space for teaching. 
 
@@ -197,51 +219,27 @@ Consider the external acoustics. The bells may cause annoyance to neighbours if 
 
 Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information at [sound control (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
 
-## Other areas to consider 
+# Other areas to consider 
 
-### CCTV
+## CCTV
 
 ![CCTV at Ledbury](cctv_350.jpg)
 
 This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
-### Communication
+## Communication
 
 Links to the body of the building, especially where the ringing room is separate, also need to be considered. The answer may be as simple as a bell pull or as complex as a telephone/visual communication system. This can assist with timings for services (especially weddings) and other activities within the building.  
 
-### Kitchen
+## Kitchen
 
 This may consist of a kettle, mugs and a means of taking the latter away for cleaning. These must be compliant with hygiene requirements  
 
-### Toilet(s) 
+## Toilet(s) 
 
 As these are normally in the main part of the building access may be restricted.
 
-### Parking. 
-
-## Other Tower Resources  
-
-### Spare ropes  
-
-See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
-
-It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
-
-If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
-
-If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
-
-### Tools 
-
-![Stable tools](tools_350.JPG)
-
-These should be usable and not simply rusted away. It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
-
-### Trophies 
-
-![Ringing trophies heald at Exeter Cathedral, Devon](trophies_350.jpg)
-
-These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
+## Parking
 
 ## Image Credits
 
@@ -259,12 +257,12 @@ These are the usually the property of the awarding body. However, they are in th
 | 10 | Notice board | Photo: Tony Crabtree |
 | 11 | Visitor's book | Photo: Tony Crabtree |
 | 12 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
-| 13 | Model demonstration bell | Photo: Tony Crabtree |
-| 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 15 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 16 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
+| 13 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
+| 14 | Model demonstration bell | Photo: Tony Crabtree |
+| 15 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 16 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
 | 17 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
-| 18 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
+| 18 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 
 ----
 
