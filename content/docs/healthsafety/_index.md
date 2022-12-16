@@ -129,6 +129,6 @@ There may also be persons requiring access to other installations (such as mobil
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 1.0.0, November 2022
+Version 1.1, December 2022
 
 © 2022 Central Council of Church Bell Ringers
