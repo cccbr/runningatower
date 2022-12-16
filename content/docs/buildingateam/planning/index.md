@@ -17,10 +17,11 @@ weight: 93
 - Not all ringers will arrive on time.
 - Allow for greeting, hanging up coats, etc.
 - Bells may have to be raised and lowered which may take up to 15 minutes.
-- If the session is 90 minutes long, this allows 75 minutes to achieve aims. These should give everyone at least one piece of useful and satisfying ringing.
+- If the session is 90 minutes long, this allows 75 minutes to achieve aims. This should give everyone at least one piece of useful and satisfying ringing.
+- Approximate timings:
     - 120 changes of Doubles or Minor takes 4-5 minutes. 
-    - On 8, or more, pieces will generally be longer. 
     - 4-5 minutes is a suitable time for rounds and call changes.
+    - On 8, or more, pieces will generally be longer.
     - Allow 2-3 minutes to change over between pieces.
 {{</hint>}}
            
