@@ -155,6 +155,15 @@ Older peal boards may require restoration. There are specialist firms providing 
 
 These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
 
+## Ropes  
+
+See information in the [rope section of Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
+
+It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
+
+If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
+
+If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
 ## Seating 
 
 Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally, they should be enough away from the ropes to prevent a moving rope hooking them. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
@@ -165,6 +174,10 @@ Always consider whether the seating is fit for purpose.
 ## Spare ropes  
 
 See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
+
+Adjusting tail end length. N.B. In the West Country, especially Call Change towers, the adjustment of ropes may not be permitted. This may take two forms:
+- Untucking and tucking the tail end. This is acceptable, provided it is done carefully, using a spike or fid, to separate the strands. This should not be done for every touch
+- Tying a knot, usually a ‘Figure-eight’ knot, to shorten a long rope. This is a short-term measure and is normally acceptable as the knot is removed after use.
 
 It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
 
