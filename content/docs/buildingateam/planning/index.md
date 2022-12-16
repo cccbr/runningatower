@@ -22,7 +22,6 @@ weight: 93
     - On 8, or more, pieces will generally be longer. 
     - 4-5 minutes is a suitable time for rounds and call changes.
     - Allow 2-3 minutes to change over between pieces.
-- The above calculations result in around 9 pieces of ringing.
 {{</hint>}}
            
 ## Plan Ahead
