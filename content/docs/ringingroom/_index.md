@@ -27,13 +27,13 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 ## Access
 
-If the ringing room is upstairs consider:
+Further details are available at [tower access (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
 
 ![Non-slip staircase](nonslip_350.JPG)
 
 *Figure 2: Non-slip steps*
 
-- whether the steps are safe, secure, non-slippery. The photograph shows a modern non-slip surface.
+If the ringing room is upstairs consider whether the steps are safe, secure and not lippery. The photograph shows a non-slip step.
 
 ![Handrail](handrail350.jpg)
 
