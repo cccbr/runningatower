@@ -13,14 +13,20 @@ weight: 2
 
 ![Heavitree, Devon](heavitree_350.jpg)
 
+*Figure 1: Church of St. Michael & All Angels, Heavitree, Devon*
+
 The term ***[tower authority](../glossary/#tower-authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed.
 About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. 
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
+*Figure 2: Cathedral Church of St. Peter in Exeter, Devon*
+
 Elsewhere, for example in ***[C of E](../glossary/#c-of-e)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different lines of authority. 
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
+
+*Figure 3: Mobile Belfry 2 at CCCBR Roadshow, September 2022*
 
 ***[Tower authority](../glossary/#tower-authority)*** also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – e.g. the Local Authority for a municipal ring of bells, or a private owner. 
 
@@ -31,6 +37,8 @@ These are applicable to bells and towers within the ***[C of E](../glossary/#c-o
 ## Contact Details 
 
 ![CCCBR Porch Notice](porch_350.jpg)
+
+*Figure 4: CCCBR sourced notice*
 
 It is useful to display contact details such that they are visible when the building is not open. If regular ringing takes place, include the relevant times. Contact details may be name(s), telephone number(s) and / or e-mail address(es). Whenever contact details are publicised consider: 
 
@@ -45,6 +53,8 @@ It is useful to display contact details such that they are visible when the buil
 ## Societies 
 
 ![Badges of ringing societies](badges_350.jpg)
+
+*Figure 5: Sample of ringing society badges*
 
 The body may have the title of Association, Guild, Society, etc. The term society will be used in this document. The society may cover the local area, county, diocese or country. A society would normally have individual ringers as members. It may be that the society has an affiliate membership for other bodies e.g. ***[PCC](./glossary/#PCC)***.
 There may be advantages to membership of a society such as: 
@@ -72,6 +82,8 @@ Most societies are affiliated to the ***[CCCBR](../glossary/#cccbr)***.
 ## Promotion 
 
 ![CCCBR recruitment leaflet](recruitment_350.jpg)
+
+*Figure 6: CCCBR sourced recruitment leaflet*
 
 Consider the use of: 
 
