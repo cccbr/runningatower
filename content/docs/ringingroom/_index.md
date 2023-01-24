@@ -13,6 +13,8 @@ Throughout it should be remembered that any substantive change can only be made 
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
+*Figure 1: Welcoming ringing chamber*
+
 The ringing room should be kept tidy and welcoming. This reduces risk and gives a good impression to any visitors, especially potential recruits.
 
 The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser and are hosted on YouTube. We are grateful for permission to reuse this material. The links are:
@@ -26,9 +28,15 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 If the ringing room is upstairs consider:
 
 ![Non-slip staircase](nonslip_350.JPG)
+
+*Figure 2: Non-slip steps*
+
 - whether the steps are safe, secure, non-slippery. The photograph shows a modern non-slip surface.
 
 ![Handrail](handrail350.jpg)
+
+*Figure 3: Secure handrails*
+
 - whether there is sufficient handrails or suitably positioned grab handles.
 - whether the steps are well illuminated. 
 - If the access door opens inwards to the ringing chamber whether there are there measures, such as a window or a notice, to ensure it is not opened into a ringer standing immediately inside. 
@@ -39,6 +47,8 @@ If acccess is inconvenient consider whether there is another way of accessing th
 ## Boxes 
 
 ![Selection of boxes](boxes_350.JPG)
+
+*Figure 4: Stacked boxes*
 
 Consider whether the boxes:
 - are secure and suitable for use. 
@@ -62,6 +72,8 @@ Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may 
 
 ![Carpet, mats and boxes at Exeter Cathedral](floor_350.jpg)
 
+*Figure 5: Modern carpet, mats and boxes:
+
 These should be fit for purpose. They are especially important on stone floors. Try to avoid walkiing on rope mats as any grit or mud on shoes may be as damaging as the floor. Both carpets and rope mats should be kept clean.
 
 Ideally, mats should not overlap as this introduces a trip hazard.
@@ -74,6 +86,8 @@ There is a commonly held belief that wool is better, however this anecdotal. Mos
 
 ![Rope guide at Melbourne, Derbyshire](guide_350.JPG)
 
+*Figure 6: Rope guide for twelve bells*
+
 Consider whether the rope bosses are at the optimum height. If too high the ropes can be flighty. If too low the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell just reachs the guide whilst that of the heaviest bell does not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
 Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, ***[CCCBR](../glossary/#cccbr)***, or a professional bell hanger. 
@@ -83,6 +97,8 @@ If the rope circle is poor or very unequally spaced, consider seeking advice as 
 ## Chiming Apparatus 
 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
+
+*Figure 7: Ellacombe chiming apparatus*
 
 This includes Ellacombe apparatus, chiming hammers, clock hammers and electronic units (e.g., Apollo and similar). 
 Ensure that these are correctly set before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to setand check the setting of the apparatus. 
@@ -109,6 +125,8 @@ If the ringing room is open to the rest of the building it is worth investigatin
 ## Lighting 
 
 ![A well lit ringing room](well_lit_350.jpg)
+
+*Figure 9: Well lit ringing chamber*
 
 Further details can be found at [lighting in and around towers (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
 
