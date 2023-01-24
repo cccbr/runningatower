@@ -53,6 +53,8 @@ A rope may be used to tie the clapper. It may be preferred to tie the clapper on
 
 ***[ART](../glossary/#art)*** recommend a tie based around an old cycle inner tube. 
 
+A silencer may also be made from a piece of car tyre. They can be easily twisted through 90° to un-silence the bell and may prove useful where there are learners.
+
 ## Sound Control
 
 Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to individual towers. It is essential that the method of operation is well documented alongside when it should be used. Further details can be found at [sound control in towers (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
