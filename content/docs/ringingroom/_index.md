@@ -98,7 +98,7 @@ If the rope circle is poor or very unequally spaced, consider seeking advice as 
 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
 
-*Figure 7: Ellacombe chiming apparatus*
+*Figure 7 (left): Ellacombe chiming apparatus. Figure 8 (right): Electronic control unit and spider control*
 
 This includes Ellacombe apparatus, chiming hammers, clock hammers and electronic units (e.g., Apollo and similar). 
 Ensure that these are correctly set before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to setand check the setting of the apparatus. 
@@ -146,6 +146,8 @@ If the ringing room has large windows consider some means of reducing direct sun
 
 ![Typical notice board](notice_350.JPG)
 
+*Figure 10: Notice board*
+
 Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.  
 
 ## Ringing Records
@@ -157,11 +159,15 @@ found in the History and Archive work group pages.
 
 ![Visitor book](visitors_350.JPG)
 
+*Figure 11: Visitor's book* 
+
 A band may wish to maintain a visitor's book. This can offer information on who has visited in the past when researching.
 
 ### Peal boards
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
+
+*Figure 12: Selection of peal boards*
 
 Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeacons’ consultation in a C of E church.
 
@@ -170,6 +176,8 @@ Older peal boards may require restoration. There are specialist firms providing 
 ### Trophies 
 
 ![Ringing trophies heald at Exeter Cathedral, Devon](trophies_350.jpg)
+
+*Figure 13: Selection of ringing trophies*
 
 These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
 
@@ -182,6 +190,7 @@ It is a good idea to have a few usable spares to cover any bell, as needed. Natu
 If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
 If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
+
 ## Seating 
 
 Seating may consist of chairs, benches, etc. They should be free of obstacles that may be picked up by a rope whilst ringing. Ideally, they should be enough away from the ropes to prevent a moving rope hooking them. A carefully designed stack of boxes may provide additional seating when the boxes are not in use.
@@ -211,6 +220,8 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 ![Stable tools](tools_350.JPG)
 
+*Figure 14: Collection of toools suitable for bell installations*
+
 These should be usable and not simply rusted away. It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
 ## Teaching aids and a suitable space for teaching. 
@@ -223,11 +234,15 @@ The following is a list of possible assets, though not exhaustive. In all cases 
 
 ![Demonstration bell](model_350.JPG)
 
+*Figure 15: Model demonstration bell*
+
 If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
 
 ### Handbells
 
 ![Set of handbells in carrying cases](handbells_350.JPG)
+
+*Figure 16: Set of handbells in carrying cases*
 
 If these are not usable, consider restoration otherwise they are merely a display item.
 
@@ -236,6 +251,8 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 ### Simulators
 
 ![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
+
+*Figure 17: Simulator installation in ringing room*
 
 All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
 Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
@@ -262,6 +279,8 @@ Further advice may be available from your local Society or the ***[CCCBR](../glo
 ### CCTV
 
 ![CCTV at Ledbury](cctv_350.jpg)
+
+*Figure 18: CCTV display in ringing room*
 
 This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
@@ -292,7 +311,7 @@ There may be accessible parking as part of the premises although access is proba
 | 5 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
 | 6 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
 | 7 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
-| 8 | Electonic chiming control unit at Exeter Cathedral | Photo: James Kirkcaldy |
+| 8 | Electonic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
 | 11 | Visitor's book | Photo: Tony Crabtree |
