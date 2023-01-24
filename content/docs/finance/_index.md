@@ -51,21 +51,9 @@ The church may consider having an electronic payment system for fees and casual 
 
 Arrangements must be made for how the ringers are to receive any such amounts. In the ***[C of E](../glossary/#c-of-e)***, it is likely that a couple getting married will pay the whole cost at one time. The church then arranges the transfer of money to the various recipients. With the current reduction in the use of cash, the church may expect to do this via a bank transfer. 
 
-## Subscriptions
-
-The tower and/or the local society may charge a subscription, typically this is an annual fee. This should be reviewed at the relevant AGM.
-
-## Expenditure 
-
-Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance, who is to pay for replaceable items e.g. ropes. 
-
-In the Church of England, it may be worth running the tower funds through the ***[PCC](../glossary/#pcc)*** as that is normally a registered charity and registered with HMRC for Gift Aid. The may reduce the expenditure by a third. This should be a big encouragement to use PCC funds over any tower fund.
-
-If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://belfryprojects.cccbr.org.uk/) covers the running of a project.
-
 ## Tower Funds 
 
-In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s). 
+In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s) as that is normally a registered charity and registered with HMRC for Gift Aid. The may reduce the expenditure by a third. This should be a big encouragement to use PCC funds over any tower fund.
 
 {{<hint warning>}}
 **The fund should be identified as a “Restricted Fund” within the PCC accounts; it should NOT be a “Designated Fund” as this could be re-designated by the PCC to other projects.**
@@ -74,6 +62,16 @@ In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[P
 This can be achieved by having a covering document listing the restrictions of the funds. If a "designated fund" there has to be a means of amending the restrictions, a definition of who can do this is essential.
 
 If a tower has funds, separate from the ***[tower authority](../glossary/#authority)***, these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
+
+## Subscriptions
+
+The tower and/or the local society may charge a subscription, typically this is an annual fee. This should be reviewed at the relevant AGM.
+
+## Expenditure 
+
+Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance, who is to pay for replaceable items e.g. ropes. 
+
+If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://belfryprojects.cccbr.org.uk/) covers the running of a project.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
