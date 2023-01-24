@@ -13,6 +13,8 @@ The bell installation is covered specifically by [Belfy Upkeep](https://belfryup
 
 ![Low-side metal frame at Broadclyst, Devon](frame_350.jpg)
 
+*Figure 1: Modern bell installation*
+
 {{<hint warning>}}
 **Ringers are often the only ones with regular access to parts of the church building and have a 'duty of care'. However they are not the people with overall responsibility. Bell chambers should never be visited alone. It is strongly advised that a second person, who is also suitably experienced, is present.**
 {{</hint>}}
@@ -20,6 +22,8 @@ The bell installation is covered specifically by [Belfy Upkeep](https://belfryup
 ## Muffles  
 
 ![(Older) leather fastening muffle](muffle_old_350.jpg) ![(Modern) Velcro fastening muffle](muffle_new_350.jpg)
+
+*Figure 2 (left): Leather fastening muffle. Figure 3 (right): Velcro fastening muffle*
 
 There are two basic types of muffle. The older type is attached by means of leather straps and/or leather thongs. The newer type makes use of Velcro fastening. As muffles are used infrequently, regularly check them for deterioration, do not leave it until they are required. Cable ties may be used to ensure that muffles are firmly fixed, however when removing these be careful to not cut the muffles.
 
@@ -33,13 +37,19 @@ There are various types and means of fitting.
 
 ![Wooden clapper tie](tie_solid_350.jpg)
 
-The above is a wooden tie that holds the clapper in the middle of the bell.
+*Figure 4: Wooden clapper tie*
+
+A wooden tie holds the clapper in the middle of the bell.
 
 ![Rope clapper tie](tie_rope1_350.JPG) ![](tie_rope_2.JPG)
 
-The above shows a rope used to tie the clapper It may be preferred to tie the clapper on the hand stroke side so as not to be fine-set for teaching basic bell handling. It may be preferred to tie the clapper centrally if the main objective is simulator work. 
+*Figure 5 (left): Rope tie showing fastening to headstock. Figure 6 (right): Rope tie showing attachment to clapper*
+
+A rope may be used to tie the clapper. It may be preferred to tie the clapper on the hand stroke side for teaching basic bell handling so as not to be fine-set. It may be preferred to tie the clapper centrally when the main objective is simulator work. 
 
 ![Art design](art_350.jpg)
+
+*Figure 7: ART style tie*
 
 ***[ART](../glossary/#art)*** recommend a tie based around an old cycle inner tube. 
 
@@ -54,10 +64,10 @@ Sound control may be present. This may consist of shutters, trapdoors, etc. Inst
 | 1 | Modern cast-iron low-side frame at Broadclyst | Photo: James Kirkcaldy |
 | 2 | Older muffle with leather thongs and buckle fastenings | Photo: James Kirkcaldy |
 | 3 | Modern muffle with velcro fastening at Ripon Cathedral | Photo: CCCBR archive |
-| 5 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
-| 6 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
-| 7 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
-| 8 | ART style clapper tie | Photo: ART |
+| 4 | Solid wooden clapper tie at Washington Cathedral, Washington DC | Photo: CCCBR Archive |
+| 5 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
+| 6 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
+| 7 | ART style clapper tie | Photo: ART |
 
 ----
 
