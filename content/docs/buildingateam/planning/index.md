@@ -102,7 +102,7 @@ Applying aspects of the advice above should help.
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
+| Title | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
 
 {{<hint info>}}
 **[Return](../buildingateam/)**
