@@ -74,7 +74,7 @@ Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may 
 
 ![Carpet, mats and boxes at Exeter Cathedral](floor_350.jpg)
 
-*Figure 5: Modern carpet, mats and boxes:
+*Figure 5: Modern carpet, mats and boxes:*
 
 These should be fit for purpose. They are especially important on stone floors. Try to avoid walking on rope mats as any grit or mud on shoes may be as damaging as the floor. Both carpets and rope mats should be kept clean.
 
