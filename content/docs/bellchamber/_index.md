@@ -27,8 +27,6 @@ Ensure that it is known how to fit muffles correctly. Muffles should be fitted w
 
 Muffles are, traditionally, used on a limited number of occasions such as funerals, remembrance Sunday, ringing out the old year. On most occasions bells are half-muffled, that is a single muffle is fitted. Traditionally the backstroke is muffled, in which case the muffle sits on the clapper on the side away from where the rope drops from the wheel when the bell is down. Bells are only rung fully muffled (or deeply muffled i.e. with the backstroke of the tenor unmuffled) for the death of a reigning monarch, the incumbent (Parish Priest), or the Bishop of the Diocese.
 
-There is advice on how to make [a quick set of muffles (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2022/09/Short-term-muffles.pdf). N.B. These are only intended for short term use e.g. where there are a single set of muffles available but it is is required to fully muffle.
-
 ## Silencers
 
 There are various types and means of fitting. 
