@@ -67,6 +67,8 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ![Typical First Aid kit](first_aid_350.JPG)
 
+*Figure 1: Typical small first aid kit*
+
 Ideally there should be a first aid kit in the ringing room.  
 
 Ensure the location of the first aid kit is indicated, especially if it is elsewhere within the premises. 
@@ -101,9 +103,13 @@ Information, for those working on bell installations, is available in [Belfry Up
 
 ![Multi-use ringing room](ground_floor_350.jpg)
 
+*Figure 2: Ground floor ringing chamber*
+
 There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Clergy and choirs are often users of ground floor areas and may do so at the same time as ringers.  
 
 ![Barrier in ground floor ringing room](barrier_350.jpg)
+
+*Figure 3: Rope barrier to limit access to ringing area*
 
 Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. Ropes at ground floor rings should be raised on a spider. The spider should be inaccesible to the casual visitor by being secured. It is a good idea to place a physical barrier, as in the rope in the above picture, to dissuade non-ringers entering the ringing area whilst rining is in progress.
 
