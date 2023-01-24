@@ -74,7 +74,7 @@ Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may 
 
 *Figure 5: Modern carpet, mats and boxes:
 
-These should be fit for purpose. They are especially important on stone floors. Try to avoid walkiing on rope mats as any grit or mud on shoes may be as damaging as the floor. Both carpets and rope mats should be kept clean.
+These should be fit for purpose. They are especially important on stone floors. Try to avoid walking on rope mats as any grit or mud on shoes may be as damaging as the floor. Both carpets and rope mats should be kept clean.
 
 Ideally, mats should not overlap as this introduces a trip hazard.
 
@@ -185,6 +185,10 @@ These are the usually the property of the awarding body. However, they are in th
 
 See information in the [rope section of Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
 
+Adjusting tail end length. N.B. In the West Country, especially Call Change towers, the adjustment of ropes may not be permitted. This may take two forms:
+- Untucking and tucking the tail end. This is acceptable, provided it is done carefully, using a spike or fid, to separate the strands. This should not be done for every touch
+- Tying a knot, usually a ‘Figure-eight’ knot, to shorten a long rope. This is a short-term measure and is normally acceptable as the knot is removed after use.
+
 It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
 
 If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
@@ -198,20 +202,6 @@ Consider whether there is adequate seating to accommodate people not ringing. Th
 
 Always consider whether the seating is fit for purpose. 
 
-## Spare ropes  
-
-See information in the rope section of [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
-
-Adjusting tail end length. N.B. In the West Country, especially Call Change towers, the adjustment of ropes may not be permitted. This may take two forms:
-- Untucking and tucking the tail end. This is acceptable, provided it is done carefully, using a spike or fid, to separate the strands. This should not be done for every touch
-- Tying a knot, usually a ‘Figure-eight’ knot, to shorten a long rope. This is a short-term measure and is normally acceptable as the knot is removed after use.
-
-It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
-
-If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
-
-If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
-
 ## Storage  
 
 Consider whether storage spaces need to be lockable. This is especially important when the ringing room is readily accessible. It may also be necessary to lock any higher value items away.
@@ -222,7 +212,7 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 *Figure 14: Collection of toools suitable for bell installations*
 
-These should be usable and not simply rusted away. It may be preferable for the person doing maintenance to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
+These should be usable and not simply rusted away. It may be preferable for the Steeple Keeper (or person doing maintenance) to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
 ## Teaching aids and a suitable space for teaching. 
 
@@ -260,11 +250,6 @@ Any fixed wiring needs to be inspected every couple of years by a qualified elec
 ## The Ringing Experience 
 
 The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) pages should also be consulted.
-
-### Go of the bells 
-
-Consider whether the bells odd-struck or set too fine or too deep.
-This may be easily corrected to give a more satisfying experience. Consider seeking advice from your local Society, ***[CCCBR](../glossary/#cccbr)*** or a professional. There is further information at [Oxford Diocesan Guild correcting odd struckness](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc03_correcting_oddstruckness-3.pdf). N.B. This document is to be updated.
 
 ### Sound 
 
@@ -311,7 +296,7 @@ There may be accessible parking as part of the premises although access is proba
 | 5 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
 | 6 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
 | 7 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
-| 8 | Electonic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
+| 8 | Electronic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
 | 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 10 | Notice board | Photo: Tony Crabtree |
 | 11 | Visitor's book | Photo: Tony Crabtree |
