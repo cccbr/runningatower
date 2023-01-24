@@ -53,7 +53,7 @@ Building a Team; creating a supportive environment. Officers, Meetings, Running 
 
 | Figure | Details | Contributor |
 | :---: | --- | --- |
-| 1 | Broadclyst, Devon | Photo: James Kirkcaldy |
+| Title | Broadclyst, Devon | Photo: James Kirkcaldy |
 
 ----
 
