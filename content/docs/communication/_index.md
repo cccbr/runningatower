@@ -16,7 +16,7 @@ weight: 2
 *Figure 1: Church of St. Michael & All Angels, Heavitree, Devon*
 
 The term ***[tower authority](../glossary/#tower-authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed.
-About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. 
+About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. The representative can act as an additional liaison, advising on how ringing is carried out and involving the ringers in important decisions (especially those that may affect ringing).
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
@@ -97,7 +97,7 @@ Consider the use of:
 
 Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. Be aware that this may lead to strong opposers attempting to get their retailation in first.
 
-For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document [Running a Project](https://belfryprojects.cccbr.org.uk/)).
+For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document [Running a Project](https://belfryprojects.cccbr.org.uk/).
 
 ## Image Credits
 
