@@ -17,13 +17,13 @@ In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teachin
 
 There should be support for principles of equality and diversity in all aspects of ringing. Any form of discrimination is unacceptable, regardless of whether there was any intention to discriminate or not. There is a duty to ensure that there are equal opportunities for all. 
 
-The [CCCBR equality and diversity statement](https://cccbr.org.uk/about/governance/equality-and-diversity-statement/)
+The [CCCBR equality and diversity statement](https://cccbr.org.uk/about/governance/equality-and-diversity-statement/) defines the CCCBR policy.
 
 ## General Data Protection Regulation (GDPR) 
 
 Any records of ringers must be in-line with statutory regulations and any requirements of the ***[tower authority](../glossary/#tower-authority)***.  
 
-Permission must be obtained from parents or guardians of under 18s.  
+Permission must be obtained from parents or guardians of under 18s. It may be that the parent or guardian does not want pictures of their child to appear on social media.
 
 Membership lists and contact details must be kept secure. Access should be restricted to a defined list of officers. Parental details must be held for under 18s along with a date of birth, to indicate when a minor becomes an adult.  
 
