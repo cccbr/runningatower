@@ -25,7 +25,7 @@ This includes guidance on:
 
 - Fire safety. 
 
-- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the ****[tower authority](../glossary/#tower-authority)***.
+- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the ***[tower authority](../glossary/#tower-authority)***.
 
 - Accidents and illness. An accident and emergency record may be present and must be completed as appropriate.
 
