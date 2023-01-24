@@ -43,6 +43,8 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these may 
 
 ![Electronic donation](donate350.jpg)
 
+*Figure 1: Example of church electronic donation point*
+
 The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this would be the responsibilty of the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
 
 ## Reimbursement of Expenses 
