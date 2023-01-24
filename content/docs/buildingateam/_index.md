@@ -11,6 +11,8 @@ weight: 9
 
 ![Typical ringing chamber](chamber_350.jpg)
 
+*Figure 1: Ringing chamber*
+
 ## Administration
 
 ### Annual Meeting
@@ -81,6 +83,8 @@ This is not always possible if there are visitors. Generally you need to be awar
 - If there are visitors you don’t know then ask them if and what they can ring. Suggest some rounds for them to ‘get a feel of the bells’. When they ring, judge for yourself how accurate their statements were.
 
 ![Young ringers in action](young350.jpg)
+
+*Figure 2: Young ringers in action*
 
 ### Purpose
 
