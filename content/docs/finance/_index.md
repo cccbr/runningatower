@@ -75,7 +75,7 @@ If a tower has funds, separate from the ***[tower authority](../glossary/#author
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
-This only applies to places of worship within the United Kingdom and is covered in 
+This only applies to places of worship within the United Kingdom and is covered in [Belfy Projects](https://belfryprojects.cccbr.org.uk/docs/010-introduction/).
 
 Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/).
 
