@@ -9,7 +9,9 @@ weight: 7
 **Site currently under construction**
 {{</hint>}}
 
+{{<hint danger>}}
 Throughout it should be remembered that any substantive change can only be made with proper consultation with the ***[tower authority](../glossary/#tower-authority)*** and it is their reponsibility to action any such change. In the case of the ***[C of E](../glossary/#c-of-e)*** a faculty may be necessary. Guidance notes on these should be consulted for any proposed changes within the tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
+ {{</hint>}}
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
