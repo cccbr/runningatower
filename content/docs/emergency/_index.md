@@ -11,6 +11,8 @@ weight: 6
 
 ![An ICE notice](ice_350.jpg)
 
+*Figure 1: Completed ICE notice*
+
 Prominently display an ‘In Case of Emergency’ (ICE) notice. Ensure that this is kept up to date. 
 
 A blank form can be seen [here (as a pdf file)](proforma.pdf) or downloaded from [here (as a Word document)](proforma.docx).
@@ -43,11 +45,15 @@ Liaise with the local emergency services to discuss their access and also emerge
 
 ![Typical fire alarm](alarm_350.jpg)
 
+*Figure 2: Typical fire alarm installation*
+
 ## Fire extinguisher and alarms.
 
 These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***
 
 ![Fire exit indicator](exit_350.jpg)
+
+*Figure 3: Typical emergency exit indicator*
 
 ## Emergency lighting and exits
 
