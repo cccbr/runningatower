@@ -67,12 +67,6 @@ This covers:
 - Funding for routine maintenance and any special projects.
 - If a ring-fenced account is in use, any changes to the conditions.
 
-## Image Credits
-
-| Figure | Details | Source |
-| :---: | --- | --- |
-| 1 | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
-
 {{<hint info>}}
 **[Return](../buildingateam/)**
 {{</hint>}}
