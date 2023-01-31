@@ -40,11 +40,7 @@ Bells should not be left up (raised) for extended periods between ringing sessio
 There is advice on the [Eccclesiatical Insurance Group website](https://www.ecclesiastical.com/documents/bell-ringing.pdf), however this is not written by the ***[CCCBR](../glossary/#cccbr)***. A summary of this, as printed in the Ringing World,
 
 {{<hint info>}}
-Advice from Ecclesiastical Insurance
-If you leave your bells up at the end of
-ringing then Ecclesiastical Insurance has
-some guidance on things you might want
-to consider.
+If you leave your bells up at the end of ringing then Ecclesiastical Insurance has some guidance on things you might want to consider.
 - Who might have access to the bells whilst they are up? This might include members of the PCC, clock-winders, telecom aerial maintenance
 people, visitors on tower tours …
 - Are these people aware of the hazards? The PCC might be well-trained on what to look out for and safe paths through the belfry, but other visitors may not.
