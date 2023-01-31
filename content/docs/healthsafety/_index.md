@@ -34,27 +34,6 @@ This includes guidance on:
 - Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g if ringing a peal. This may include induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
 
 Consideration should be given to special occasions such as tower open days when large numbers of people may be present. 
-
-Bells should not be left up (raised) for extended periods between ringing sessions. This may not apply to heavier rings e.g. where the tenor is over 20cwt. However, in such cases, access must be controlled. Such access should be limited to experienced ringers and specially trained people.  
-
-There is advice on the [Eccclesiatical Insurance Group website](https://www.ecclesiastical.com/documents/bell-ringing.pdf), however this is not written by the ***[CCCBR](../glossary/#cccbr)***. A summary of this, as printed in the Ringing World,
-
-{{<hint info>}}
-If you leave your bells up at the end of ringing then Ecclesiastical Insurance has some guidance on things you might want to consider.
-- Who might have access to the bells whilst they are up? This might include members of the PCC, clock-winders, telecom aerial maintenance
-people, visitors on tower tours …
-- Are these people aware of the hazards? The PCC might be well-trained on what to look out for and safe paths through the belfry, but other visitors may not.
-- Are all visitors to the tower accompanied by someone familiar with the route and the dangers? Just because someone is deemed competent does not mean that an accident will not occur. You should still consider the adequacy of precautions you have in place.
-- What precautions are in place to protect these people?
-- Are the belfry and ringing room doors securely locked? Do you (or the PCC) know who all the keyholders are for these doors?
-- Are there warning signs displayed? It can be helpful to have a contact name and number on here for last-minute queries.
-- Is there any way of caging in the bell frame, or directing people around the outside rather than over/through?
--  Is there an alternative route to the roof, to avoid passing through the belfry altogether?
-- Are the ropes in the ringing chamber secured whilst the bells are up? A simple padlock on the spider is often sufficient. 
-- Are there warning signs advising visitors to not touch the ropes?
-- Have safety arrangements been reviewed, reflecting the risks presented? Have you implemented any necessary precautions to protect people? Is there any way you can
-remove the risk altogether? For example, if you know the clock-winder comes every Wednesday and clambers through the tenor’s pit, ring the bells down after Tuesday practice!
-{{</hint>}}
  
 Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers. Consider: 
 
@@ -100,7 +79,7 @@ Further details can be found in the [security for ringers document (CCCCBR)](htt
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and/or key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
-## Tower Access 
+## Tower Access
 
 Further information can be found in [Guidance notes - Tower Access and Stairways (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
 
@@ -108,13 +87,30 @@ Emergency exits should be clearly indicated and must never be compromised.
 
 Spiders and ropes should ideally be left inaccessible e.g. locked away. This is essential in accessible ringing rooms.  
 
-Bells should not be left up between ringing sessions, especially where access to the bell and ringing rooms is not secured.  
-
-Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult/impossible to rise right-sided. 
-
-Many churches are insured through the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/).
+Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult or impossible to rise right-sided. 
 
 Information, for those working on bell installations, is available in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+
+Bells should not be left up (raised) for extended periods between ringing sessions, especially where access to the bell and ringing rooms is not secured. This may not apply to heavier rings e.g. where the tenor is over 20cwt. However, in such cases, access must be controlled. Such access should be limited to experienced ringers and trained people.
+
+There is advice on the [Eccclesiatical Insurance Group website](https://www.ecclesiastical.com/documents/bell-ringing.pdf), however this is not written by the ***[CCCBR](../glossary/#cccbr)***. The following summary appeared in the Ringing World:
+
+{{<hint info>}}
+
+ If bells are left up at the end of a ringing session then Ecclesiastical Insurance has some guidance on things to consider.
+ 
+- Who might have access to the bells whilst they are up? This might include members of the PCC, clock-winders, telecom aerial maintenance people, visitors on tower tours, etc..
+- Are these people aware of the hazards? The PCC might be well-trained on what to look out for and safe paths through the ringing room and bell chamber, but other visitors may not.
+- Are all visitors to the tower accompanied by someone familiar with the route and the dangers? Just because someone is deemed competent does not mean that an accident will not occur. Consider the adequacy of the precautions in place.
+- What precautions are in place to protect these people?
+- Are the ringing room and bell chamber doors securely locked? Are all keyholders known?
+- Are warning signs displayed? It can be helpful to have a contact name and number on these for last-minute queries.
+- Is there any way of caging in the bell frame, or directing people around the bell frame?
+- Is there an alternative route that avoids passing through the bell chamber?
+- Are the ropes in the ringing chamber secured whilst the bells are up? A simple padlock on the spider is often sufficient. 
+- Are there warning signs advising visitors to not touch the ropes?
+- Have safety arrangements been reviewed, reflecting the risks presented? Have necessary precautions been implemented to protect people? Can the risk be removed completely? For example, if the clock-winder comes every Wednesday and has to pass through the bell chamber, ring the bells down after Tuesday practice!
+{{</hint>}}
 
 ## Other Tower Users 
 
