@@ -93,7 +93,7 @@ Consider the use of:
 
 - Publicity away from the building, especially where the building is not on a main thoroughfare. 
 
-- Regular updates in the parish magazine, local press, radio, television and social media. [A document on engaging with the press](https://cccbr.org.uk/wp-content/uploads/2022/11/Press-Info.pdf) and [one on guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf) are available on the CCCBR website.
+- Regular updates in the parish magazine, local press, radio, television and social media. [A document on engaging with the press](https://cccbr.org.uk/wp-content/uploads/2022/11/Press-Info.pdf) and [a document on guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf) are available on the CCCBR website.
 
 Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. Be aware that this may lead to strong opposers attempting to get their retailation in first.
 
