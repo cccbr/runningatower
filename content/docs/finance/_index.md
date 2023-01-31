@@ -22,7 +22,7 @@ In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are nor
 
 - Likely travel times and distances of the ringers, etc. 
 
-The couple should be advised that if the bride arrives excessively late, ringing may not continue until her arrival and may be curtailed after the service. 
+The couple should be advised that if there is an excessively late start ringing may not continue until that time and may be curtailed after the service. 
 Consider setting an end time when ringing will finish, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and may help when arranging a band. This is especially useful when ringers are required at a few local churches on the same day. 
 
 ## Fees for other ringing 
@@ -45,7 +45,7 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these may 
 
 *Figure 1: Example of church electronic donation point*
 
-The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this would be the responsibilty of the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed. It only applies to charities and HMRC registered charitable groups.
+The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this would be the responsibilty of the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed in the case of charities and HMRC registered charitable groups.
 
 ## Reimbursement of Expenses 
 
@@ -53,15 +53,15 @@ Arrangements must be made for how the ringers are to receive any such amounts. I
 
 ## Tower Funds 
 
-In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s) as that is normally a registered charity and registered with HMRC for Gift Aid. The may reduce the expenditure by a third. This should be a big encouragement to use PCC funds over any tower fund.
+In the ***[C of E](../glossary/#c-of-e)***, funds are best held within the ***[PCC](../glossary/#pcc)*** account(s) as that is normally a registered charity and registered with HMRC for Gift Aid. This may reduce the expenditure by a third and is a positive for using PCC funds over any tower fund.
 
 {{<hint warning>}}
 **The fund should be identified as a “Restricted Fund” within the PCC accounts; it should NOT be a “Designated Fund” as this could be re-designated by the PCC to other projects.**
 {{</hint>}}
 
-This can be achieved by having a covering document listing the restrictions of the funds. If a "designated fund" there has to be a means of amending the restrictions, a definition of who can do this is essential.
+This can be achieved by having a covering document listing the restrictions of the funds. If a "restricted fund" there has to be a means of amending the restrictions, a definition of who can do this is essential.
 
-If a tower has funds, separate from the ***[tower authority](../glossary/#authority)***, these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable.  If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
+If a tower has funds, separate from the ***[tower authority](../glossary/#authority)***, these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable. If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
 
 ## Subscriptions
 
