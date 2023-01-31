@@ -33,13 +33,13 @@ The ICE should indicate:
 
 - Names of any trained first aiders. Ideally the ***[tower authority](../glossary/#tower-authority)*** should offer training and this should be kept up to date.
 
-- Location of the first aid kit. The first aid kit must be accessible to ringers when the rest of the building is locked e.g., it must not be in a locked vestry. 
+- Location of the first aid kit. The first aid kit must be accessible to ringers when the rest of the building is locked. 
 
 - Location of the nearest accessible AED / Defibrillator, if within a reasonable distance. 
 
 - The muster point to be used in the event of an evacuation. 
 
-- If the emergency services are called, send someone to meet and guide them, when possible. 
+- If the emergency services are called, when possible, send someone to meet and guide them. 
 
 ## Emergency Services
 
@@ -59,8 +59,15 @@ These must audible and visible when the bells are being rung. These must be insp
 
 ## Emergency lighting and exits
 
-These must be inspected, tested regularly and be in date. They must bright enough to safely set the bells should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[tower authority](../glossary/#tower-authority)***. The design of the fire alarm system should be in accordance with a fire safety plan. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***.
+These must be inspected, tested regularly and be in date. 
 
+Emergency lighting must be bright enough to allow the bells to be safely set, should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[tower authority](../glossary/#tower-authority)***. 
+
+The design of the fire alarm system should be in accordance with a fire safety plan. 
+
+The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***.
+
+## Security
 
 Ensure that ringers are not “locked in” the tower during ringing. Conversely, unwanted guests must not be able to access the tower while ringing is underway. Consider how unplanned visitors might gain access to the building. Advise such visitors to make contact in advance by publicising this, for instance, on the building website. 
 
