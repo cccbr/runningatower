@@ -11,7 +11,7 @@ weight: 3
 
 ## Disclosure and Barring Service (DBS)
 
-In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. Further details of the DBS service is available on their [website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
+In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. [Further details are available on the DBS website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
 
 ## Equality and Diversity
 
@@ -31,7 +31,7 @@ Further details can be found at [General Data Protection Regulation (CCCBR)](htt
 
 ## Insurance 
 
-In the ***[C of E](../glossary/#c-of-e)***, ringers are normally included as voluntary workers in the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
+In the ***[C of E](../glossary/#c-of-e)***, ringers are normally included as voluntary workers on the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
 
 Further details can be found in the [insurance document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
