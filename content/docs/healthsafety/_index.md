@@ -37,8 +37,29 @@ Consideration should be given to special occasions such as tower open days when 
 
 Bells should not be left up (raised) for extended periods between ringing sessions. This may not apply to heavier rings e.g. where the tenor is over 20cwt. However, in such cases, access must be controlled. Such access should be limited to experienced ringers and specially trained people.  
 
-There is advice in the [Eccclesiatical Insurance Group](https://www.ecclesiastical.com/) website, however this is not written by the ***[CCCBR](../glossary/#cccbr)***. 
+There is advice on the [Eccclesiatical Insurance Group website](https://www.ecclesiastical.com/documents/bell-ringing.pdf), however this is not written by the ***[CCCBR](../glossary/#cccbr)***. A summary of this, as printed in the Ringing World,
 
+{{<hint info>}}
+Advice from Ecclesiastical Insurance
+If you leave your bells up at the end of
+ringing then Ecclesiastical Insurance has
+some guidance on things you might want
+to consider.
+- Who might have access to the bells whilst they are up? This might include members of the PCC, clock-winders, telecom aerial maintenance
+people, visitors on tower tours …
+- Are these people aware of the hazards? The PCC might be well-trained on what to look out for and safe paths through the belfry, but other visitors may not.
+- Are all visitors to the tower accompanied by someone familiar with the route and the dangers? Just because someone is deemed competent does not mean that an accident will not occur. You should still consider the adequacy of precautions you have in place.
+- What precautions are in place to protect these people?
+- Are the belfry and ringing room doors securely locked? Do you (or the PCC) know who all the keyholders are for these doors?
+- Are there warning signs displayed? It can be helpful to have a contact name and number on here for last-minute queries.
+- Is there any way of caging in the bell frame, or directing people around the outside rather than over/through?
+-  Is there an alternative route to the roof, to avoid passing through the belfry altogether?
+- Are the ropes in the ringing chamber secured whilst the bells are up? A simple padlock on the spider is often sufficient. 
+- Are there warning signs advising visitors to not touch the ropes?
+- Have safety arrangements been reviewed, reflecting the risks presented? Have you implemented any necessary precautions to protect people? Is there any way you can
+remove the risk altogether? For example, if you know the clock-winder comes every Wednesday and clambers through the tenor’s pit, ring the bells down after Tuesday practice!
+{{</hint>}}
+ 
 Ringing is not risk free. Your first responsibility, as the person in charge, is the safety of the ringers. Consider: 
 
 - If a novice ringer is normally able to handle a bell but still sometimes gets into trouble, nominate an experienced ringer to stand close by to intervene if necessary. 
