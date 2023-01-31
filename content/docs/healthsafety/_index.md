@@ -31,7 +31,7 @@ This includes guidance on:
 
 - Accidents and illness. An accident and emergency record may be present and must be completed as appropriate.
 
-- Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g if ringing a peal. This may include induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
+- Advice for visitors, both ringers and non-ringers. How they are to be supervised, or not e.g. if ringing a peal. This may include induction processes, evacuation practices, turning clapper competence, maintenance records, etc.
 
 Consideration should be given to special occasions such as tower open days when large numbers of people may be present. 
  
@@ -47,7 +47,7 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 - Call ‘Stand’ if there is any significant loss of bell control or other incident.  
 
-- If there are any worrying noises or strange rope movements first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell chamber, ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session. There is always another session; there imay not be a way back from a serious accident. If you think a clapper may have broken, or fallen out, set the bells having first warned the band to set carefully as the slider may have been broken.  
+- If there are any worrying noises or strange rope movements, first determine whether any bells need to be rung down before investigating. If you don’t know the frame layout and relationship to the entry into the bell chamber, ring all the bells down before investigating. If in any doubt ring the bells down and curtail the session, there is always another session; there may not be a way back from a serious accident. If you think a clapper may have broken, or fallen out, set the bells having first warned the band to set carefully as a slider may have been broken.  
 
 ## Attendance Record(s) 
 
@@ -77,7 +77,7 @@ Regularly check that all items are within date. The kit should be listed on the 
 
 Further details can be found in the [security for ringers document (CCCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
 
-A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and/or key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
+A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
 ## Tower Access
 
