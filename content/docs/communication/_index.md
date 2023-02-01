@@ -13,7 +13,7 @@ weight: 2
 
 ![Heavitree, Devon](heavitree_350.jpg)
 
-*Figure 1: Church of St. Michael & All Angels, Heavitree, Devon*
+*Figure 1: St. Michael & All Angels, Heavitree, Devon*
 
 The term ***[tower authority](../glossary/#tower-authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed.
 About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. The representative can act as an additional liaison, advising on how ringing is carried out and involving the ringers in important decisions (especially those that may affect ringing).
