@@ -45,17 +45,17 @@ The ICE should indicate:
 
 Liaise with the local emergency services to discuss their access and also emergency exits. Towers can be awkward and confined spaces, presenting difficulties in access and egress, especially with stretchers and casualties. The emergency services may be prepared to run a training exercise for both themselves and ringers. 
 
-![Typical fire alarm](alarm_350.jpg)
+![Fire alarm](alarm_350.jpg)
 
-*Figure 2: Typical fire alarm installation*
+*Figure 2: Fire alarm installation*
 
 ## Fire extinguisher and alarms.
 
 These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***.
 
-![Fire exit indicator](exit_350.jpg)
+![Emergency exit indicator](exit_350.jpg)
 
-*Figure 3: Typical emergency exit indicator*
+*Figure 3: Emergency exit indicator*
 
 ## Emergency lighting and exits
 
@@ -76,7 +76,7 @@ Ensure that ringers are not “locked in” the tower during ringing. Conversely
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | 'In Case of Emergency' example | Photo: James Kirkcaldy |
-| 2 | Typical fire alarm | Photo: Alison Hodge |
+| 2 | Fire alarm | Photo: Alison Hodge |
 | 3 | Emergency exit indicator | Photo: Alison Hodge |
 
 ----
