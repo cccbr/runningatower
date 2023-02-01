@@ -9,6 +9,8 @@ weight: 3
 **Site currently under construction**
 {{</hint>}}
 
+![St David, Exeter, Devon](ExeterSD.jpg)
+
 ## Disclosure and Barring Service (DBS)
 
 In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. [Further details are available on the DBS website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
@@ -55,6 +57,7 @@ Be aware of the guidelines and follow them. If there are children, young persons
 
 | Figure | Details | Source |
 | :---: | --- | --- |
+| Title | St. David, Exeter, Devon | Photo: James Kirkcaldy |
 
 ----
 
