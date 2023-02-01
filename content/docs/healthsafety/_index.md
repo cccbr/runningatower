@@ -9,6 +9,11 @@ weight: 5
 **Site currently under construction**
 {{</hint>}}
 
+![St. Winnow, St. Winnow, Cornwall](stwinnow.JPG)
+
+*Figure 1: Ropes at St. Winnow, St. Winnow, Cornwall*
+
+
 {{<hint danger>}}
 A tower is a non-domestic setting, and as such the ***[tower authority](../glossary/#tower-authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site the ***[tower authority](../glossary/#tower-authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This does not reduce the duty of care on ringers to minimise risk.
 {{</hint>}}
@@ -65,7 +70,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ![Typical First Aid kit](first_aid_350.JPG)
 
-*Figure 1: Typical small first aid kit*
+*Figure 2: Typical small first aid kit*
 
 Ideally there should be a first aid kit in the ringing room.  
 
@@ -116,13 +121,13 @@ There is advice on the [Eccclesiatical Insurance Group website](https://www.eccl
 
 ![Multi-use ringing room](ground_floor_350.jpg)
 
-*Figure 2: Ground floor ringing chamber*
+*Figure 3: Ground floor ringing chamber*
 
 There may be other users of the tower and its internal spaces. These, their access and usage requirements will need consideration. Users may include clock winder(s), flag raiser(s), flower arrangers, creches. Clergy and choirs are often users of ground floor areas and may do so at the same time as ringers.  
 
 ![Barrier in ground floor ringing room](barrier_350.jpg)
 
-*Figure 3: Rope barrier to limit access to ringing area*
+*Figure 4: Rope barrier to limit access to ringing area*
 
 Consideration also needs to be given to visitors on open days and the general public, especially in ground floor installations. Ropes at ground floor rings should be raised on a spider. The spider should be inaccesible to the casual visitor by being secured. It is a good idea to place a physical barrier, as in the rope in the above picture, to dissuade non-ringers entering the ringing area whilst rining is in progress.
 
@@ -132,9 +137,10 @@ There may also be persons requiring access to other installations (such as mobil
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Small first aid kit | Photo: Tony Crabtree |
-| 2 | Ground floor ringing room | Photo: Tony Crabtree |
-| 3 | Ground floor ringing room with rope barrier | Photo: Alison Hodge |
+| 1 | Ropes at St. Winnow, St Winnow, Cornwall | Photo: James Kirkcaldy |
+| 2 | Small first aid kit | Photo: Tony Crabtree |
+| 3 | Ground floor ringing room | Photo: Tony Crabtree |
+| 4 | Ground floor ringing room with rope barrier | Photo: Alison Hodge |
 
 ----
 
