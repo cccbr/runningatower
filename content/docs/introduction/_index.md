@@ -42,7 +42,7 @@ The following is an overview of what appear in each chapter:
 
 | Figure | Details | Contributor |
 | :---: | --- | --- |
-| Title | Broadclyst, Devon | Photo: James Kirkcaldy |
+| Title | St. John Baptist, Broadclyst, Devon | Photo: James Kirkcaldy |
 
 ----
 
