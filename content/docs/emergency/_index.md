@@ -53,6 +53,8 @@ Liaise with the local emergency services to discuss their access and also emerge
 
 These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***.
 
+Further details can be found in the [fire protection document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf).
+
 ![Emergency exit indicator](exit_350.jpg)
 
 *Figure 3: Emergency exit indicator*
