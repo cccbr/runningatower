@@ -155,7 +155,7 @@ The [Guild of Clerical Ringers document (CCCBR)](https://cccbr.org.uk/wp-content
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Typical ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
+| 1 | Ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
 | 2 | Young ringers in action at St Bartholomew, Nettlebed | Photo: CCCBR archive |
 
 {{<hint info>}}
