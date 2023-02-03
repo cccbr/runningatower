@@ -15,7 +15,7 @@ This document addresses key aspects of running a tower.
 
 It is produced by the ***[Stewardship and Management Work Group](../glossary/#smwg)*** of the ***[CCCBR](../glossary/#cccbr)***.
 
-![Broadclyst, Devon](broadclyst_350.jpg)
+![Broadclyst, Devon](Broadclyst.jpg)
 
 The lead role is often called the tower captain although other titles are sometimes used e.g. ringing master.
 
@@ -42,7 +42,7 @@ The following is an overview of what appear in each chapter:
 
 | Figure | Details | Contributor |
 | :---: | --- | --- |
-| Title | St. John Baptist, Broadclyst, Devon | Photo: James Kirkcaldy |
+| Title | Broadclyst, Devon | Photo: James Kirkcaldy |
 
 ----
 
