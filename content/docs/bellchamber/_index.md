@@ -53,7 +53,11 @@ A rope may be used to tie the clapper. It may be preferred to tie the clapper on
 
 ***[ART](../glossary/#art)*** recommend a tie based around an old cycle inner tube. 
 
-A silencer may also be made from a piece of car tyre. They can be easily twisted through 90° to un-silence the bell and may prove useful where there are learners.
+![Tyre set for muffled](tyreclose.jpg) ![Tyre set for open](tyreopen.jpg)
+
+*Figure 8 (left): Tyre silencer set for quiet ringing. Figure 9 (right): Tyre silencer set for open ringing.*
+
+A silencer may also be made from a piece of tyre. They can be easily twisted through 90° to un-silence the bell and may prove useful where there are learners.
 
 ## Sound Control
 
@@ -70,6 +74,8 @@ Sound control may be present. This may consist of shutters, trapdoors, etc. Inst
 | 5 | Rope clapper tie shown outside bell | Photo: Tony Crabtree |
 | 6 | Rope clapper tie shown inside bell  | Photo: Tony Crabtree |
 | 7 | ART style clapper tie | Photo: ART |
+| 8 | Tyre silencer set for quiet ringing | Photo: Peter Dale |
+| 9 | Tyre silencer set for open ringing | Photo: Peter Dale |
 
 ----
 
