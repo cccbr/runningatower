@@ -11,7 +11,7 @@ weight: 5
 
 ![St. Winnow, St. Winnow, Cornwall](stwinnow.JPG)
 
-*Figure 1: Ropes at St. Winnow, St. Winnow, Cornwall*
+*Figure 1: Ringing chamber at St. Winnow, Cornwall*
 
 
 {{<hint danger>}}
@@ -70,7 +70,7 @@ Special precautions may need to be put in place from time to time e.g., the requ
 
 ![Typical First Aid kit](first_aid_350.JPG)
 
-*Figure 2: Typical small first aid kit*
+*Figure 2: Small first aid kit*
 
 Ideally there should be a first aid kit in the ringing room.  
 
@@ -137,7 +137,7 @@ There may also be persons requiring access to other installations (such as mobil
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Ropes at St. Winnow, St Winnow, Cornwall | Photo: James Kirkcaldy |
+| 1 | Ringing chamber at St Winnow, Cornwall | Photo: James Kirkcaldy |
 | 2 | Small first aid kit | Photo: Tony Crabtree |
 | 3 | Ground floor ringing room | Photo: Tony Crabtree |
 | 4 | Ground floor ringing room with rope barrier | Photo: Alison Hodge |
