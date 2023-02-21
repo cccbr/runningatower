@@ -30,6 +30,11 @@ Elsewhere, for example in ***[C of E](../glossary/#c-of-e)*** cathedrals, church
 
 ***[Tower authority](../glossary/#tower-authority)*** also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – e.g. the Local Authority for a municipal ring of bells, or a private owner. 
 
+The CCCBR produce a number of leaflets:
+-[From Practice to Perfect](https://cccbr.org.uk/wp-content/uploads/2022/12/From-Practice-to-Perfect-a-short-guide-for-clergy-PCCs-and-Safeguarding-Advisors.pdf) that is aimed at clergy, PCCs and safeguarding advisors. This guide explains how ringers are trained, safeguarded and organised.
+-[Bells in your care](https://cccbr.org.uk/wp-content/uploads/2016/05/Bells-in-Your-Care.pdf) which contains notes for incumbents and churchwardens who
+find themselves responsible for a ring of church bells.
+
 ## Faculties 
 
 These are applicable to bells and towers within the ***[C of E](../glossary/#c-of-e)***. Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
