@@ -25,6 +25,8 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 - [Looking after ringing rooms and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)
 
+The CCCBR have produced [Tower environments and their suitability for recruiting and retaining ringers](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-environment-web-version.pdf) which provides a light but serious look at some key issues.
+
 ## Access
 
 Further details are available at [tower access (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
