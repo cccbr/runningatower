@@ -100,7 +100,7 @@ Consider the use of:
 
 Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. Be aware that this may lead to strong opposers attempting to get their retailation in first.
 
-For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document [Running a Project](https://belfryprojects.cccbr.org.uk/).
+For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document currently under development.
 
 ## Image Credits
 
