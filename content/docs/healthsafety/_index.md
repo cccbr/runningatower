@@ -5,10 +5,6 @@ weight: 5
 
 # Health & Safety
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 ![St. Winnow, St. Winnow, Cornwall](stwinnow.JPG)
 
 *Figure 1: Ringing chamber at St. Winnow, Cornwall*
