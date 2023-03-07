@@ -5,10 +5,6 @@ weight: 8
 
 # Bell Chamber
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). The information here deals with the need for specific items.  
 
 ![Low-side metal frame at Broadclyst, Devon](frame_350.jpg)
