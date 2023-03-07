@@ -4,10 +4,6 @@ weight: 4
 ---
 # Finance
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
- 
 ## Charges and Fees  
 
 ### Weddings 
