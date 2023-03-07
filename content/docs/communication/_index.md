@@ -5,10 +5,6 @@ weight: 2
 
 # Communication
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 ## Liaison with relevant tower authority 
 
 ![Heavitree, Devon](heavitree_350.jpg)
