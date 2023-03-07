@@ -64,7 +64,7 @@ This covers:
 - If a ring-fenced account is in use, any changes to the conditions.
 
 {{<hint info>}}
-**[Return](../buildingateam/)**
+**[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
 {{</hint>}}
 
 ----
