@@ -7,10 +7,6 @@ The following items should ideally be found in a tower, especially the first. Th
 
 # In Case of Emergency 
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 ![An ICE notice](ice_350.jpg)
 
 *Figure 1: Completed ICE notice*
