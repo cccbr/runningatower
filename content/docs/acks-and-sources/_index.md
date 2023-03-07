@@ -5,10 +5,6 @@ weight: 99
 
 # Acknowledgements & Sources
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 This chapter lists the people who have contributed, in various ways, to this document, and the sources which have been consulted.
 
 ## Acknowledgements
