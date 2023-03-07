@@ -3,10 +3,6 @@ title: Planning
 weight: 93
 ---
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 # Planning ringing
 
 ![Ringers at Southrepps, Norfolk](southrepps.jpg)
