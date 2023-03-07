@@ -6,10 +6,6 @@ weight: 1
 # Introduction
  
 {{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
-{{<hint danger>}}
 This document addresses key aspects of running a tower.
 {{</hint>}}
 
