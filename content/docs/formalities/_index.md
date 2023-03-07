@@ -5,10 +5,6 @@ weight: 3
 
 # Formalities 
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 ![St David, Exeter, Devon](ExeterSD.jpg)
 
 ## Disclosure and Barring Service (DBS)
