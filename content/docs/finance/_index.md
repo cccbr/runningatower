@@ -71,11 +71,11 @@ The tower and/or the local society may charge a subscription, typically this is 
 
 Agree with the ***[tower authority](../glossary/#tower-authority)***, in advance, who is to pay for replaceable items e.g. ropes. 
 
-If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate [document](https://belfryprojects.cccbr.org.uk/) covers the running of a project.
+If a major project is envisaged the funding of this must be agreed in consultation with the ***[tower authority](../glossary/#tower-authority)***. A separate document, currently under development, will cover the running of a project.
 
 ## VAT and the LPW (Listed Places of Worship) VAT recovery scheme 
 
-This only applies to places of worship within the United Kingdom and is covered in [Belfy Projects](https://belfryprojects.cccbr.org.uk/docs/010-introduction/).
+This only applies to places of worship within the United Kingdom and will be covered in Belfy Projects.
 
 Further details are available on the [LPW scheme website](http://www.lpwscheme.org.uk/).
 
