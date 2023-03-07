@@ -50,4 +50,4 @@ Credits will be found at the end of each chapter. The picture on this page shows
 
 Version 1.1, March 2023
 
-© 2022 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
