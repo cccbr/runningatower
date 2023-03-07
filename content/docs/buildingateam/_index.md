@@ -5,10 +5,6 @@ weight: 9
 
 # Building a Team
 
-{{<hint danger>}}
-**Site currently under construction**
-{{</hint>}}
-
 ![Typical ringing chamber](chamber_350.jpg)
 
 *Figure 1: Ringing chamber*
