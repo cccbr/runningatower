@@ -41,7 +41,7 @@ A wooden tie that holds the clapper in the middle of the bell.
 
 *Figure 5 (left): Rope tie showing fastening to headstock. Figure 6 (right): Rope tie showing attachment to clapper*
 
-A rope may be used to tie the clapper. It may be preferred to tie the clapper on the hand stroke side for teaching basic bell handling so as not to be fine-set, as in the above picture. It may be preferred to tie the clapper centrally when the main objective is simulator work. 
+A rope may be used to tie the clapper. It may be preferred to tie the clapper on the hand stroke side for teaching basic bell handling so as not to be fine-set, as in the above picture. It may be preferred to tie the clapper centrally when the main objective is simulator work. It is important to ensure that rope ends are secured else they may catch on other items and cause issues.
 
 ![Art design](art_350.jpg)
 
