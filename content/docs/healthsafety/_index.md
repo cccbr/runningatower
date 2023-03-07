@@ -80,7 +80,7 @@ Regularly check that all items are within date. The kit should be listed on the 
 
 ## Security 
 
-Further details can be found in the [security for ringers document (CCCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
+Further details can be found in the [security for ringers document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
