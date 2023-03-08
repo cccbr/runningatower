@@ -210,7 +210,7 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 ![Stable tools](tools_350.JPG)
 
-*Figure 14: Collection of toools suitable for bell installations*
+*Figure 14: Collection of tools suitable for bell installations*
 
 These should be usable and not simply rusted away. It may be preferable for the Steeple Keeper (or person doing maintenance) to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
