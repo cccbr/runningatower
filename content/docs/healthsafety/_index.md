@@ -86,6 +86,8 @@ A limited number of keys to the building (and internal doors) may be held by the
 
 ## Tower Access
 
+It may be worth producing a formal access policy in consultation with the ***[tower authority's](../glossary/#tower-authority)***. [An example can be found here](../healthsafety/accesspolicy).
+
 Further information can be found in [Guidance notes - Tower Access and Stairways (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
 
 Emergency exits should be clearly indicated and must never be compromised.
