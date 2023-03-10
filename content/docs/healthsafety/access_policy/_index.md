@@ -5,7 +5,7 @@ weight: 51
 
 # Tower & Belfry Access Policy for xxxx
 
-This document is to be circulated to all tower keyholders, bell ringers, the incumbent, churchwardens, administrator and ***[PCC](../glossary/#pcc)***.
+This document is to be circulated to all tower keyholders, bell ringers, the incumbent, churchwardens, administrator and PCC.
 
 Anyone with access to, or requiring access to, the tower and belfry should be given this policy in advance of their visit. This includes contractors and other outside parties.
 
