@@ -86,7 +86,11 @@ A limited number of keys to the building (and internal doors) may be held by the
 
 ## Tower Access
 
-It may be worth producing a formal access policy in consultation with the ***[tower authority's](../glossary/#tower-authority)***. [An example can be found here](../healthsafety/accesspolicy).
+It may be worth producing a formal access policy in consultation with the ***[tower authority's](../glossary/#tower-authority)***. 
+
+{{<hint info>}}
+**To navigate to a sample access policy, use the left-hand side navigation bar. You may need to click on the menu bar (three stacked horizontal lines) in the top left to access if you are on a small screen.**
+{{</hint>}}
 
 Further information can be found in [Guidance notes - Tower Access and Stairways (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
 
