@@ -22,6 +22,8 @@ In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are nor
 
 - Likely travel times and distances of the ringers, etc. 
 
+When a wedding couple pay the fee for ringing, invite them to bring it to a ringing practice. They can then see what they are paying for. Give them a warm welcome, briefly explain ringing (and why it's a fabulous activity for couples and families) and give them a taster go (or more) at backstrokes. Any younger children with them can be given go at chiming a bell that is down. Give them flyers with your contact details on and maybe 'Future Bell Ringer' stickers.
+
 The couple should be advised that if there is an excessively late start ringing may not continue until that time and may be curtailed after the service. 
 Consider setting an end time when ringing will finish, particularly for ringing after a wedding. This gives certainty of the time when ringers can get away and may help when arranging a band. This is especially useful when ringers are required at a few local churches on the same day. 
 
