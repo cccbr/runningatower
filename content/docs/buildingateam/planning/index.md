@@ -7,7 +7,7 @@ weight: 93
 
 ![Ringers at Southrepps, Norfolk](southrepps.jpg)
 
-{{<hint warning}}
+{{<hint warning>}}
 These are only ideas of ways of possibly arranging ringing.
 {{</hint>}}
 
