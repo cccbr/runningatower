@@ -83,12 +83,6 @@ Announcing then next two rings, together with the bells the ‘target’ ringers
 
 Nominate a competent conductor if a piece of ringing is for the benefit of less able ringers. If the purpose is to give a ringer conducting practice, then give them a competent band. Less able ringers’ confidence will be damaged if something is miscalled and they may blame themselves. The learner conductor’s confidence will be damaged if they cannot know where to put calls because bells, particularly the treble, are in the wrong place. 
 
-Example announcement of next piece of ringing 
-
-{{<hint warning>}}
-“Rounds and Call changes next. "Target ringer A" please ring the 3rd and "Target ringer B" please ring the 5th. Fred, please call from the 4th. Ann ring the tenor, Bill the treble and Cath the 2nd please. After this we will ring Plain Bob Doubles for "Target ringer C" and I will call it.” 
-{{</hint>}}
-
 ## Summary 
 
 Some, maybe all, of the tips above may seem totally unrealistic in your tower. 
