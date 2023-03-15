@@ -38,5 +38,5 @@ Normally the Tower Captain is a bell ringer. They will be delegated specific res
 In most towers, several of these responsibilities may be delegated to other ringers, probably as agreed at an AGM of the Ringers. These may include Ringing Master, Tower Secretary, Steeple Keeper and Ringing Teachers. It is also practical for a Deputy Tower Captain to be appointed, to provide cover for absence and opportunities for others to gain experience and offer succession.
 
 {{<hint info>}}
-**[Return]([../buildingateam/](https://runningatower.cccbr.org.uk/docs/buildingateam/))**
+**[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
 {{</hint>}}
