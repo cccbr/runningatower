@@ -28,7 +28,7 @@ The chair may not be one of the ringers. In a religious institution the incumben
 
 ### Appointment of Officers
 
-Further details can be found at [Guidance notes - appointment of tower captain (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/04/SM_Appt_of_TowerCaptain_2020_Ver_1.pdf). Any appointment should be made in agreement with the ***[tower authority](../glossary/#tower-authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
+*** [Further details on the appointment of a tower captain](../buildingateam/towercaptain).  Any appointment should be made in agreement with the ***[tower authority](../glossary/#tower-authority)***. The officers are there to run the tower, provide points of contact and to relieve the pressure on one individual. The potential roles may include:
 
 {{<hint info>}}
  - Tower Captain. Overall responsibility.
