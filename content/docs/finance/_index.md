@@ -12,7 +12,7 @@ weight: 4
 
 *Figure 1: Waiting for the wedding party*
 
-In the ***[C of E](../glossary/#c-of-e)***, the fees for wedding ringing are normally set by the ***[PCC](../glossary/#pcc)***, preferably in consultation with the ringers at the AGM. These should reflect whether ringing is: 
+In the ***[Church of England](../glossary/#church-of-england)***, the fees for wedding ringing are normally set by the ***[PCC](../glossary/#pcc)***, preferably in consultation with the ringers at the AGM. These should reflect whether ringing is: 
 
 - Before and/or after the wedding. 
 
