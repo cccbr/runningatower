@@ -12,13 +12,13 @@ weight: 2
 *Figure 1: Heavitree, Devon*
 
 The term ***[tower authority](../glossary/#tower-authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed.
-About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[C of E](../glossary/#c-of-e)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. The representative can act as an additional liaison, advising on how ringing is carried out and involving the ringers in important decisions (especially those that may affect ringing).
+About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[Church of England](../glossary/#church-of-england)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. The representative can act as an additional liaison, advising on how ringing is carried out and involving the ringers in important decisions (especially those that may affect ringing).
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
 *Figure 2: Exeter Cathedral, Devon*
 
-Elsewhere, for example in ***[C of E](../glossary/#c-of-e)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different lines of authority. 
+Elsewhere, for example in ***[Church of England](../glossary/#church-of-england)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different lines of authority. 
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
 
@@ -35,7 +35,7 @@ find themselves responsible for a ring of church bells.
 
 ## Faculties 
 
-These are applicable to bells and towers within the ***[C of E](../glossary/#c-of-e)***. Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
+These are applicable to bells and towers within the ***[Church of England](../glossary/#church-of-england)***. Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
 
 ## Contact Details 
 
