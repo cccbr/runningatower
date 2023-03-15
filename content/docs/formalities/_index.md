@@ -9,7 +9,7 @@ weight: 3
 
 ## Disclosure and Barring Service (DBS)
 
-In the ***[C of E](../glossary/#c-of-e)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. [Further details are available on the DBS website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
+In the ***[Church of England](../glossary/#church-of-england)***, the Tower Captain and anyone teaching within the tower, may need to have an up-to-date DBS check. All certification must be kept up to date. This check is normally obtained through the safeguarding officer of the relevant church. [Further details are available on the DBS website](https://www.gov.uk/government/organisations/disclosure-and-barring-service).
 
 ## Equality and Diversity
 
@@ -29,7 +29,7 @@ Further details can be found at [General Data Protection Regulation (CCCBR)](htt
 
 ## Insurance 
 
-In the ***[C of E](../glossary/#c-of-e)***, ringers are normally included as voluntary workers on the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
+In the ***[Church of England](../glossary/#church-of-england)***, ringers are normally included as voluntary workers on the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
 
 Further details can be found in the [insurance document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
 
@@ -37,7 +37,7 @@ Further details can be found in the [insurance document (CCCBR)](https://cccbr.o
 
 Further details can be found at [safeguarding (CCCBR)](https://cccbr.org.uk/2022/12/08/launch-of-from-practice-to-perfect/). This document is written specifically to explain ringing, its organisation, training and safeguarding arrangements to clergy, PCCs and Safeguarding Advisers
 
-In a ***[C of E](../glossary/#c-of-e)*** setting, the Tower Captain, and other persons with responsibilities, may be expected to have completed the Safeguarding Leadership training module. It may be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
+In a ***[Church of England](../glossary/#church-of-england)*** setting, the Tower Captain, and other persons with responsibilities, may be expected to have completed the Safeguarding Leadership training module. It may be expected that the remainder of the band should have completed the Basic and Foundation Safeguarding training modules.  
 
 The required levels must always be in line with the ***[tower authority’s](../glossary/#tower-authority)*** policies.   
 
@@ -47,7 +47,7 @@ Teaching with only a tutor and a pupil present should be avoided. This may not a
 
 When under 18s take place in ringing and ringing related activities, including travelling, parental consent must be obtained or the parent / guardian must be present.
 
-Be aware of the guidelines and follow them. If there are children, young persons or vulnerable adults arriving for a session, and the appropriate number of enhanced DBS cleared and other adults do not turn up, cancel the session or ask the children, young persons or vulnerable adults to leave as soon as they can be safely escorted. A ringing room with a fair number of observing adults in it is an unlikely setting for abuse to take place. The leader running the session must quickly stamp on any bullying or unnecessary touching. The leader should be aware of any apparent friendships developing between adults and children, young persons or vulnerable adults that could lead to grooming taking place outside the ringing setting. If anything gives cause for concern, it must be discussed with the relevant safeguarding officer (***[C of E](../glossary/#c-of-e)*** parishes should have one in post). 
+Be aware of the guidelines and follow them. If there are children, young persons or vulnerable adults arriving for a session, and the appropriate number of enhanced DBS cleared and other adults do not turn up, cancel the session or ask the children, young persons or vulnerable adults to leave as soon as they can be safely escorted. A ringing room with a fair number of observing adults in it is an unlikely setting for abuse to take place. The leader running the session must quickly stamp on any bullying or unnecessary touching. The leader should be aware of any apparent friendships developing between adults and children, young persons or vulnerable adults that could lead to grooming taking place outside the ringing setting. If anything gives cause for concern, it must be discussed with the relevant safeguarding officer (***[Church of England](../glossary/#c-of-e)*** parishes should have one in post). 
 
 ## Image Credits
 
