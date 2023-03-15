@@ -15,7 +15,7 @@ Association of Ringing Teachers. Organisation involved with all aspects of teach
 
 Central Council of Church Bell Ringers. The Council is the representative body for all who ring bells in the English tradition with rope and wheel. Founded in 1891, the Council today represents 65 affiliated societies, which cover all parts of the British Isles as well as centres of ringing in Australia, New Zealand, Canada, the USA, South Africa and Italy. These societies in turn comprise the members of the local companies of ringers in their areas. Further details on their **[website](https://cccbr.org.uk)**.
 
-## C of E
+## Church of England
 
 Church of England. The established Christian church in England and the mother church of the international Anglican Communion. Further details on their **[website](https://churchofengland.org)**. Over 95% of towers containing at least three bells are in the Anglican Communion.
 
