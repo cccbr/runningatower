@@ -5,7 +5,7 @@ weight: 92
 
 # Appointment of Bell Ringing Tower Captain - A Guide for Bell-Ringers and Churches
 
-The following was previously published as .pdf file on the 
+The following was previously published as .pdf file on the ***[CCCBR](..glossary/#CCCBR)*** website.
 
 ## Introduction
 
