@@ -5,7 +5,7 @@ weight: 92
 
 # Appointment of Bell Ringing Tower Captain - A Guide for Bell-Ringers and Churches
 
-The following was previously published as .pdf file on the ***[CCCBR](..glossary/#CCCBR)*** website.
+The following was previously published as a .pdf file on the ***[CCCBR](..glossary/#CCCBR)*** website.
 
 ## Introduction
 
@@ -35,7 +35,7 @@ Normally the Tower Captain is a bell ringer. They will be delegated specific res
 - Promote bell ringing positively within the church and local community.
 - Undergo a personal DBS (Disclosure and Barring Service) check as required for groups such as bell ringers (this cannot be delegated).
 
-In most towers, several of these responsibilities may be delegated to other ringers, probably as agreed at an AGM of the Ringers. These may include Ringing Master, Tower Secretary, Steeple Keeper and Ringing Teachers. It is also practical for a Deputy Tower Captain to be appointed, to provide cover for absence and opportunities for others to gain experience and offer succession.
+In most towers, some of these responsibilities may be delegated to other ringers, probably as agreed at an AGM of the Ringers. These may include Ringing Master, Tower Secretary, Steeple Keeper and Ringing Teachers. It is also practical for a Deputy Tower Captain to be appointed, to provide cover for absence and opportunities for others to gain experience and offer succession.
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
