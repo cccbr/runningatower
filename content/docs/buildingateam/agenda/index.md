@@ -1,5 +1,5 @@
 ---
-title: Agenda
+title: Meeting Agenda
 weight: 91
 ---
 
