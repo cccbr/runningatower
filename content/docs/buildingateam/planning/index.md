@@ -14,7 +14,7 @@ These are only ideas of ways of possibly arranging ringing.
 ## Timing
 
 {{<hint info>}}
-REMEMBER
+**REMEMBER**
 
 - Not all ringers will arrive on time.
 - Allow for greeting, hanging up coats, etc.
@@ -29,7 +29,7 @@ REMEMBER
            
 ## Plan Ahead
 
-To get the most out of the time available plan at least one piece of ringing ahead, ideally two. This will reduce gaps between pieces and allow more ringing time. 
+To get the most out of the time available plan at least one touch (used here to mean a piece of ringing) ahead, ideally two. This will reduce gaps between touches and allow more ringing time. 
  
 - Know what is going to be rung next and for whose primary benefit. Ringers benefit from knowing what is coming next, they can mentally rehearse or even look up things while they are sitting out. If sessions are regularly run to a pattern, ringers start to follow the pattern and know when they are likely to get a chance to ring what they need to practice.
 - Try to avoid the trap where the ‘good’ ringer(s) only come at the end of the practice for the ‘good/advanced ringing’. 
@@ -37,32 +37,33 @@ To get the most out of the time available plan at least one piece of ringing ahe
 - There is no point in trying to ring something for which there are not got enough competent ringers to support the one or two who are learning. 
 - Triage the ringers by ability. Ringers' abilities and experience vary. Roughly assign the ringers to at least, a learner, middling and higher ability group. Be prepared to adjust this as the session proceeds, we all have good days and bad days.
 - Try to arrange the ringing so that everyone gets something out of the session. 
-- Sequence the pieces of ringing to provide opportunities for the ringers, from the three groups, in turn. Aim to start with the simplest ringing needed for the least able group and end with the most advanced that the higher ability group should be able to ring well. The aim is to end on a high point, one that hopefully allows the less able to hear what better ringing sounds like. 
+- Sequence the touches to provide opportunities for the ringers, from the three groups, in turn. Aim to start with the simplest ringing needed for the least able group and end with the most advanced that the higher ability group should be able to ring well. The aim is to end on a high point, one that hopefully allows the less able to hear what better ringing sounds like. 
 
 {{<hint info>}}
 
-For a ninety-minute practice session, you now have a basic 11 pieces of ringing template. 
-- Ring up, in peal (if you can)
-- Simplest for some members of least able group 
-- Relatively simple for middle ability group 
-- Relatively simple for higher ability group 
-- Least able group piece 
-- Middle ability group piece 
-- Challenging higher ability group piece (remember you are aiming for a well struck higher ability group piece to end with) 
-- Least able group piece 
-- Middle ability group piece 
-- Low risk higher ability group piece 
-- Ring down, in peal (if you can)
-Note this is a suggested template not a rigid plan. 
+For a ninety-minute practice session, you now have a basic template of 11 touches. 
+- Ring up, in peal if you can (and the bells are down).
+- Simple touch for some members of least able group.
+- Relatively simple touch for middle ability group. 
+- Relatively simple touch for higher ability group. 
+- Least able group touch. 
+- Middle ability group touch. 
+- Challenging higher ability group touch (remember you are aiming for a well struck higher ability group piece to end with). 
+- Least able group touch. 
+- Middle ability group touch. 
+- Low risk higher ability group touch. 
+- Ring down, in peal if you can (and the bells are to be lowered).
+    
+**Note:** This is a suggested template not a rigid plan. 
 {{</hint>}}
            
-However, be aware of:
+**Be aware of:**
 - The need to adjust your template as the session proceeds.
 - There may be insufficient ringers to divide into three or even two ability groups.
-- There may not be a low-risk option for that final well struck piece of ringing. 
+- There may not be a low-risk option for that final well struck touch. 
 - It might be an opportunity to practice ringing up and down in peal more than once! 
 
-What matters is to know what is going to be rung next and, to some extent, who is going to ring it. This cuts out dithering between ringing over what to ring and gives all the ringers confidence that the session is running proactively.
+What matters is to know what is going to be rung next and, to some extent, who is going to ring it. This cuts out dithering between touches and gives the ringers confidence that the session is running proactively.
  
 ## Place the band 
 
@@ -74,18 +75,19 @@ If there is more than one less able ringer in the band try to avoid placing them
 
 During a session, a ringer may need to practice plain hunting to a method. That places that ringer on the treble. Ideally the rest of the band needs to be able to ring with an unreliable treble. Combining an inexperienced treble ringer with an inexperienced inside ringer rarely ends well. 
 
-It is a good idea to give a ringer experience on different bells which may not be ideal for success and striking. Placing a band during a session often is a compromise between the best ringing and andvancement of individuals. 
+It is a good idea to give a ringer experience on different bells which may not be ideal for success and striking. Placing a band during a session often is a compromise between the best ringing and advancement of individuals. 
 
-The secondary purpose of placing bands may speed up a session allowing more ‘rings’. Placing bands may:
+Placing bands may:
 - Cut out delays caused by ringers hanging back when ringers are asked to ‘catch-hold for …’.
 - Pre-empt the need to remove that ringer who thinks they can ring it.
 - Overcome the hesitancy of better ringers not to ring too often and appear greedy. 
+This may allow an extra touch or two.
  
-Announcing the next two rings, together with the bells the ‘target’ ringers are to ring, will also speed things up. (Note, for some bands speeding things up may be a bad idea, they may be there as much for social as ringing reasons. Assuming the aim is to improve the ringing, it may need a gentle nudge in that direction rather than go full throttle into fast paced sessions.) 
+Announcing the next two touches, together with the bells the ‘target’ ringers are to ring, may speed things up. (Note, for some bands speeding things up may be a bad idea, they may be there as much for social as ringing reasons. Assuming the aim is to improve the ringing, it may need a gentle nudge in that direction rather than go full throttle into fast paced sessions.) 
 
 ## Nominate a conductor 
 
-Nominate a competent conductor if a piece of ringing is for the benefit of less able ringers. If the purpose is to give a ringer conducting practice, then give them a competent band. Less able ringers’ confidence will be damaged if something is miscalled and they may blame themselves. The learner conductor’s confidence will be damaged if they cannot know where to put calls because bells, particularly the treble, are in the wrong place. 
+Nominate a competent conductor if a touch is for the benefit of less able ringers. If the purpose is to give a ringer conducting practice, then give them a competent band. Less able ringers’ confidence will be damaged if something is miscalled and they may blame themselves. The learner conductor’s confidence will be damaged if they cannot know where to put calls because bells, particularly the treble, are in the wrong place. 
 
 ## Summary 
 
