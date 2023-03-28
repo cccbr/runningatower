@@ -25,9 +25,9 @@ The policy should be prepared and approved by the Officers of the Society and re
 ***[An example document can be downloaded here.](proforma.docx)***
 
 Further Information
-**[Health and Safety Executive](https://hse.gov.uk/simple-Health-Safety/policy/)** Advice, templates, legal matters (primarily aimed at businesses).
-**[EIG Insurance](https://ecclesiastical.com/document-library)** Advice, templates in particular for church and voluntary activities.
-**[Central Council of Church Bell Ringers](https://cccbr.org.uk/resources/stewardship-and-management)** Guidance and advice on ringing related matters:
+- **[Health and Safety Executive](https://hse.gov.uk/simple-Health-Safety/policy/)** Advice, templates, legal matters (primarily aimed at businesses).
+- **[EIG Insurance](https://ecclesiastical.com/document-library)** Advice, templates in particular for church and voluntary activities.
+- **[Central Council of Church Bell Ringers](https://cccbr.org.uk/resources/stewardship-and-management)** Guidance and advice on ringing related matters:
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/healthsafety/)**
