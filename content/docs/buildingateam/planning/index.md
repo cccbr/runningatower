@@ -29,19 +29,19 @@ These are only suggestions of ways of arranging ringing.
            
 ## Plan Ahead
 
-To get the most out of the time available plan at least one touch ahead, ideally two. This will reduce gaps between touches and allow more ringing time. 
+To get the most out of the time available plan at least one touch ahead. This should reduce gaps between touches and allow more ringing time. 
  
-- Know what is going to be rung next and for whose primary benefit. Ringers benefit from knowing what is coming next, they can mentally rehearse or even look up things while they are sitting out. If sessions are regularly run to a pattern, ringers start to follow the pattern and know when they are likely to get a chance to ring what they need to practice.
+- Know what is going to be rung next and for whose primary benefit. Ringers benefit from knowing what is coming next, they can mentally rehearse or even look up things while sitting out. If sessions are regularly run to a pattern, ringers start to follow the pattern and know when they are likely to get a chance to ring what they need to practice.
 - Try to avoid the trap where the ‘good’ ringer(s) only come at the end of the practice for the ‘good/advanced ringing’. 
 - Assess what the least and most advanced levels of ringing that there is value in performing. If a practice session, there is little point practicing what all the ringers present have already mastered. 
-- There is no point in trying to ring something for which there are not got enough competent ringers to support the one or two who are learning. 
+- There is no point in trying to ring something for which there are not got enough competent ringers to support those who are learning. 
 - Triage the ringers by ability. Ringers' abilities and experience vary. Roughly assign the ringers to at least, a learner, middling and higher ability group. Be prepared to adjust this as the session proceeds, we all have good days and bad days.
 - Try to arrange the ringing so that everyone gets something out of the session. 
 - Sequence the touches to provide opportunities for the ringers, from the three groups, in turn. Aim to start with the simplest ringing needed for the least able group and end with the most advanced that the higher ability group should be able to ring well. The aim is to end on a high point, one that hopefully allows the less able to hear what better ringing sounds like. 
 
 {{<hint info>}}
 
-For a ninety-minute practice session, you now have a basic template of 11 touches. 
+For a ninety-minute practice session, you should now have a basic template of 11 touches. 
 - Ring up, in peal if you can (and the bells are down).
 - Simple touch for some members of least able group.
 - Relatively simple touch for middle ability group. 
@@ -63,11 +63,11 @@ For a ninety-minute practice session, you now have a basic template of 11 touche
 - There may not be a low-risk option for that final well struck touch. 
 - It might be an opportunity to practice ringing up and down in peal more than once! 
 
-What matters is to know what is going to be rung next and, to some extent, who is going to ring it. This cuts out dithering between touches and gives the ringers confidence that the session is running proactively.
+What matters is to know what is going to be rung next and, to some extent, who is going to ring it. This may cut out dithering between touches and gives the ringers confidence that the session is running proactively.
  
 ## Place the band 
 
-At first this can seem overly officious and may need an explaination. Ideally do this in the margins of ringing rather than during a session. 
+At first this can seem overly officious and may need an explaination. 
 
 The primary purpose of placing a band during a session, as opposed to a quarter peal or peal, is to make sure that ringers practice something with the best possible chance of success. 
 
@@ -79,11 +79,11 @@ It is a good idea to give a ringer experience on different bells which may not b
 
 Placing bands may:
 - Cut out delays caused by ringers hanging back when ringers are asked to ‘catch-hold for …’.
-- Pre-empt the need to remove that ringer who thinks they can ring it.
-- Overcome the hesitancy of better ringers not to ring too often and appear greedy. 
+- Pre-empt the need to remove a ringer who thinks they can ring it.
+- Overcome the hesitancy of better ringers to not ring too often and appear greedy. 
 This may allow an extra touch or two.
  
-Announcing the next two touches, together with the bells the ‘target’ ringers are to ring, may speed things up. (Note, for some bands speeding things up may be a bad idea, they may be there as much for social as ringing reasons. Assuming the aim is to improve the ringing, it may need a gentle nudge in that direction rather than go full throttle into fast paced sessions.) 
+Announcing the next two touches, together with the bells the ‘target’ ringers are to ring, may speed things up. (Note, for some bands speeding things up may be a bad idea, they may be there as much for social as ringing reasons. Assuming the aim is to improve the ringing, use a gentle nudge in that direction rather than go full throttle into fast paced sessions.) 
 
 ## Nominate a conductor 
 
