@@ -14,7 +14,7 @@ weight: 5
 A tower is a non-domestic setting, and as such the ***[tower authority](../glossary/#tower-authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site the ***[tower authority](../glossary/#tower-authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This does not reduce the duty of care on ringers to minimise risk.
 {{</hint>}}
 
-Further details can be found in the [health and safety policy advice document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/03/SM_HS_Policies_2021_Ver_1.pdf).
+Further details can be found in the [health and safety policy advice document (CCCBR)]../healthsafetypolicy).
 
 Information specific to working in a bell chamber can be found in [Belfry Upkeep Health & Safety](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
