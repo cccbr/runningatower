@@ -8,7 +8,7 @@ weight: 93
 ![Ringers at Southrepps, Norfolk](southrepps.jpg)
 
 {{<hint warning>}}
-These are only ideas of ways of possibly arranging ringing.
+These are only suggestions of ways of arranging ringing.
 {{</hint>}}
 
 ## Timing
@@ -20,7 +20,7 @@ These are only ideas of ways of possibly arranging ringing.
 - Allow for greeting, hanging up coats, etc.
 - Bells may have to be raised and lowered which may take up to 15 minutes and reduce the time to achieve aims.
 - Aim to give everyone at least one piece of useful and satisfying ringing.
-- Approximate timings:
+- Approximate timings of touches (used here to mean any piece of ringing):
     - 120 changes of Doubles or Minor takes 4-5 minutes. 
     - 4-5 minutes is a suitable time for rounds and call changes.
     - On 8, or more, pieces will generally be longer.
@@ -29,7 +29,7 @@ These are only ideas of ways of possibly arranging ringing.
            
 ## Plan Ahead
 
-To get the most out of the time available plan at least one touch (used here to mean a piece of ringing) ahead, ideally two. This will reduce gaps between touches and allow more ringing time. 
+To get the most out of the time available plan at least one touch ahead, ideally two. This will reduce gaps between touches and allow more ringing time. 
  
 - Know what is going to be rung next and for whose primary benefit. Ringers benefit from knowing what is coming next, they can mentally rehearse or even look up things while they are sitting out. If sessions are regularly run to a pattern, ringers start to follow the pattern and know when they are likely to get a chance to ring what they need to practice.
 - Try to avoid the trap where the ‘good’ ringer(s) only come at the end of the practice for the ‘good/advanced ringing’. 
