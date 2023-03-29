@@ -130,7 +130,7 @@ For more regular inspections and minor works you need to consider:
 - What are the arrangements to eliminate, or at least control, lone working in the bell chamber?
 - Is there adequate lighting?
 - Is the floor under the bells kept clear of oily rags and accumulations of dust?
-- Do any of your bells go up 'wrong' and require manual turning of the clapper? An Ecclesiastical Insurance note on [conditions of use applying to change–ringing bells, Ecclesiastical, November 2019.](https://www.ecclesiastical.com/documents/bell-ringing.pdf).
+- Do any of your bells go up 'wrong' and require manual turning of the clapper? An Ecclesiastical Insurance note on [conditions of use applying to change–ringing bells.](https://www.ecclesiastical.com/documents/bell-ringing.pdf) gives further information.
 
 ### Other Areas within the Tower
 
@@ -215,7 +215,7 @@ The [UK Health and Safety Executive](https://www.hse.gov.uk/) and [Ecclesiastica
 
 The ***[CCCBR](../glossary/#cccbr)*** have published guidance documents [6] covering church tower access, lighting in and around towers, fire safety and risk assessment, and lightning protection.
 Additional documents are in preparation. Guidance on maintenance is provided in the publication
-Manual of Belfry Maintenance (currently under revision), available from the [on-line CCCBR on-line Shop.](https://www.cccbr.org.uk/shop).
+Manual of Belfry Maintenance (currently under revision), available from the [on-line CCCBR Shop.](https://www.cccbr.org.uk/shop).
 
 [ART: excellence in ringing teaching, Association of Ringing Teachers.](https://www.ringingteachers.org) provide advice and assistance on teaching ringing.
 
