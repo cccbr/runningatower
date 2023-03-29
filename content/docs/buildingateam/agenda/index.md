@@ -5,7 +5,7 @@ weight: 91
 
 # Draft Agenda
 
-The following is an annotated draft of an agenda. A version of this, without the annotation, can be downloaded from here [as a pdf file](proforma.pdf) or as a [word document](proforma.docx).
+The following is an annotated draft of an agenda. A version of this, without the annotation, [can be downloaded here](proforma.docx).
 
 # Agenda for Annual Meeting of XXXX ringers at XXXX on DATE at TIME   
 
