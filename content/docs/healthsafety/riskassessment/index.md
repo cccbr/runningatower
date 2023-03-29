@@ -24,7 +24,7 @@ Ringers have a responsibility to work with the ***[church authority](../glossary
 
 ## Steps to Risk Assessment
 
-The [UK Health and Safety Executive](https://www.hse.gov.uk/) identifies five steps forming a risk assessment - [Managing risks and risk assessment at work, Health and Safety Executive.](https://www.hse.gov.uk/simple-health-safety/risk/steps-needed-to-manage-risk.htm). These are:
+The UK Health and Safety Executive [ identifies five steps forming a risk assessment.](https://www.hse.gov.uk/simple-health-safety/risk/steps-needed-to-manage-risk.htm). These are:
 - Identify hazards.
 - Assess the risks.
 - Control the risks.
