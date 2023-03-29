@@ -22,11 +22,11 @@ All policies must be in-line with the ***[tower authority's](../glossary/#tower-
 
 This includes guidance on: 
 
-- Risk Assessments. There are two guides on the CCCBR website:
+- Risk Assessments. There are two guides:
 
-   - [Tower Safety and Risk Assessment](../healthsafety/riskassessment) provides guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower. There is an accompanying [Risk Assessment Template download](../healthsafety/riskassessment/proforma.docx) which may be downloaded, and modified as required, to act as a record of a risk assessment.
+   - [Standard Risk Assessment](../healthsafety/riskassessment) provides guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower. There is an accompanying [Risk Assessment Template download](../healthsafety/riskassessment/proforma.docx) which may be downloaded, and modified as required, to act as a record of a risk assessment.
 
-   - [A further Tower Safety and Risk assessment](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Risk-Assessment_Non-Use_2020_Ver_1.pdf) provides guidance on what to do in a tower where the bells have not been rung for an extended period.
+   - [Extended Risk Assessment](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Risk-Assessment_Non-Use_2020_Ver_1.pdf) provides guidance on what to do in a tower where the bells have not been rung for an extended period.
 
 - Fire precautions, further details can be found at [fire prevention](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
 
