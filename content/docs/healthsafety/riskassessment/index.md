@@ -24,7 +24,7 @@ Ringers have a responsibility to work with the ***[church authority](../glossary
 
 ## Steps to Risk Assessment
 
-The [UK Health and Safety Executive](https://www.hse.gov.uk/) identifies five steps forming a risk assessment - [Managing risks and risk assessment at work, Health and Safety Executive.](hse.gov.uk/simple-health-safety/risk/steps-needed-to-manage-risk.htm). These are:
+The [UK Health and Safety Executive](https://www.hse.gov.uk/) identifies five steps forming a risk assessment - [Managing risks and risk assessment at work, Health and Safety Executive.](https://www.hse.gov.uk/simple-health-safety/risk/steps-needed-to-manage-risk.htm). These are:
 - Identify hazards.
 - Assess the risks.
 - Control the risks.
@@ -111,7 +111,7 @@ The most likely mechanical issues to have effect in the ringing room are a broke
 - Are there any objects in the ringing room which could be caught by a flailing rope?
 
 It is general practice for bells to be left in the 'down' position when not in use. There may, however, be local circumstances which require bells to be left in the 'up' position.
-An Ecclesiastical Insurance note on this [Conditions of use applying to change–ringing bells, Ecclesiastical, November 2019.](ecclesiastical.com/documents/bell-ringing.pdf) states: From a health and safety perspective it is extremely hazardous for bells to be left ‘up’ particularly if fire fighters or others need to enter the tower or if unauthorised persons, including children, interfere with the ropes.
+An Ecclesiastical Insurance note on this [Conditions of use applying to change–ringing bells, Ecclesiastical, November 2019.](https://www.ecclesiastical.com/documents/bell-ringing.pdf) states: From a health and safety perspective it is extremely hazardous for bells to be left ‘up’ particularly if fire fighters or others need to enter the tower or if unauthorised persons, including children, interfere with the ropes.
 
 If this is the case in your tower you should prepare a specific risk assessment.
 Guidance on what to do if the bells are left 'up' is provided in the Ecclesiastical document.
@@ -130,7 +130,7 @@ For more regular inspections and minor works you need to consider:
 - What are the arrangements to eliminate, or at least control, lone working in the bell chamber?
 - Is there adequate lighting?
 - Is the floor under the bells kept clear of oily rags and accumulations of dust?
-- Do any of your bells go up 'wrong' and require manual turning of the clapper? This is covered in the Ecclesiastical note [Conditions of use applying to change–ringing bells, Ecclesiastical, November 2019.](ecclesiastical.com/documents/bell-ringing.pdf).
+- Do any of your bells go up 'wrong' and require manual turning of the clapper? This is covered in the Ecclesiastical note [Conditions of use applying to change–ringing bells, Ecclesiastical, November 2019.](https://www.ecclesiastical.com/documents/bell-ringing.pdf).
 
 ### Other Areas within the Tower
 
@@ -180,10 +180,10 @@ Where a bell is prone to going up 'wrong' it may be possible to remove the hazar
 
 All of these solutions will require assistance from professional bell hangers or other experts. If none of these solutions is possible a specific procedure should be prepared. This should include two persons being present in the bell chamber.
 
-Opening a tower to parishioners and other members of the public is an excellent way of informing people about ringing (and a good day out). But it can pose challenges: The suitability of the access route, the condition of staircases, steps and handrails and the adequacy of any lighting, to name only a few. This is a case where a specific risk assessment should be carried out and guidance is provided by Ecclesiastical - [Tower Tours, Ecclesiastical, 26 March 2020.](ecclesiastical.com/risk-management/tower-tours).
+Opening a tower to parishioners and other members of the public is an excellent way of informing people about ringing (and a good day out). But it can pose challenges: The suitability of the access route, the condition of staircases, steps and handrails and the adequacy of any lighting, to name only a few. This is a case where a specific risk assessment should be carried out and guidance is provided by Ecclesiastical - [Tower Tours, Ecclesiastical, 26 March 2020.](https://www.ecclesiastical.com/risk-management/tower-tours).
 
 ### Recording Findings
-When the activities above are complete the results should be recorded. There are many formats available on-line. One relevant to small churches is provided by Ecclesiastical Insurance - [Risk Assessment (Small Church), Ecclesiastical, 2017.](ecclesiastical.com/documents/risk-assessment-template-small-churches.pdf), with a worked fictional example - [Risk Assessment (Worked Example), Ecclesiastical, 2017.](ecclesiastical.com/documents/example-risk-assessment.pdf). ***[An example document can be downloaded here.](proforma.docx)***
+When the activities above are complete the results should be recorded. There are many formats available on-line. One relevant to small churches is provided by Ecclesiastical Insurance - [Risk Assessment (Small Church), Ecclesiastical, 2017.](https://www.ecclesiastical.com/documents/risk-assessment-template-small-churches.pdf), with a worked fictional example - [Risk Assessment (Worked Example), Ecclesiastical, 2017.](https:/www.ecclesiastical.com/documents/example-risk-assessment.pdf). ***[An example document can be downloaded here.](proforma.docx)***
 
 You are at liberty to use your own format, tailored to fit your needs. But you should cover the following points:
 - Identification of the hazard.
@@ -215,9 +215,9 @@ The [UK Health and Safety Executive](https://www.hse.gov.uk/) and [Ecclesiastica
 
 The ***[CCCBR](../glossary/#cccbr)*** have published guidance documents [6] covering church tower access, lighting in and around towers, fire safety and risk assessment, and lightning protection.
 Additional documents are in preparation. Guidance on maintenance is provided in the publication
-Manual of Belfry Maintenance (currently under revision), available from the [on-line CCCBR on-line Shop.](cccbr.org.uk/shop).
+Manual of Belfry Maintenance (currently under revision), available from the [on-line CCCBR on-line Shop.](https://www.cccbr.org.uk/shop).
 
-[ART: excellence in ringing teaching, Association of Ringing Teachers.](ringingteachers.org) provide advice and assistance on teaching ringing.
+[ART: excellence in ringing teaching, Association of Ringing Teachers.](https://www.ringingteachers.org) provide advice and assistance on teaching ringing.
 
 ## Appendix
 
