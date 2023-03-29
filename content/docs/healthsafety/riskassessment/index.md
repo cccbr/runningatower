@@ -9,7 +9,7 @@ The following was previously published as a .pdf file on the ***[CCCBR](..glossa
 
 ## Introduction
 
-Most towers with rings of bells are within the jurisdiction of the ***[Church of England](../glossary/#church-of-england)***. While that is the focus of this document, the principles apply to rings of bells in towers owned by other organisations, in churches of other denominations, and churches elsewhere in the world. Local legislation and circumstances should always be considered.
+Most towers with rings of bells are within the jurisdiction of the ***[Church of England](../170-glossary/#church-of-england)***. While that is the focus of this document, the principles apply to rings of bells in towers owned by other organisations, in churches of other denominations, and churches elsewhere in the world. Local legislation and circumstances should always be considered.
 
 In this document we provide guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower.
 
@@ -18,9 +18,9 @@ but few churches were designed or built to comply with current legislation and m
 
 ## Responsibility for Safety
 
-The overall responsibility for safety and risk assessment in a church building rests with the ***[church authority](../glossary/#tower-authority)***. The church should have an overall Health & Safety Policy and Risk Assessment in place and should have appointed a 'Responsible Person' to cover this.
+The overall responsibility for safety and risk assessment in a church building rests with the ***[church authority](../../170-glossary/#tower-authority)***. The church should have an overall Health & Safety Policy and Risk Assessment in place and should have appointed a 'Responsible Person' to cover this.
 
-Ringers have a responsibility to work with the ***[church authority](../glossary/#tower-authority)***, using their knowledge of ringing and bell installations to ensure that aspects of ringing and related activities within the tower are covered comprehensively. Ringers must behave in a safe manner while in the church and bell tower, respecting the requirements set down by the church authorities.
+Ringers have a responsibility to work with the ***[church authority](../170-glossary/#tower-authority)***, using their knowledge of ringing and bell installations to ensure that aspects of ringing and related activities within the tower are covered comprehensively. Ringers must behave in a safe manner while in the church and bell tower, respecting the requirements set down by the church authorities.
 
 ## Steps to Risk Assessment
 
