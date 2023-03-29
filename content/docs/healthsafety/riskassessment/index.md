@@ -18,20 +18,20 @@ but few churches were designed or built to comply with current legislation and m
 
 ## Responsibility for Safety
 
-The overall responsibility for safety and risk assessment in a church building rests with the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***. The church should have an overall Health & Safety Policy and Risk Assessment in place and should have appointed a 'Responsible Person' to cover this.
+The overall responsibility for safety and risk assessment in a church building rests with the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***. The church should have an overall Health & Safety Policy and Risk Assessment in place and should have appointed a 'Responsible Person' to cover this.
 
-Ringers have a responsibility to work with the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***, using their knowledge of ringing and bell installations to ensure that aspects of ringing and related activities within the tower are covered comprehensively. Ringers must behave in a safe manner while in the church and bell tower, respecting the requirements set down by the church authorities.
+Ringers have a responsibility to work with the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***, using their knowledge of ringing and bell installations to ensure that aspects of ringing and related activities within the tower are covered comprehensively. Ringers must behave in a safe manner while in the church and bell tower, respecting the requirements set down by the church authorities.
 
 ## Steps to Risk Assessment
 
-The UK Health and Safety Executive [ identifies five steps forming a risk assessment.](https://www.hse.gov.uk/simple-health-safety/risk/steps-needed-to-manage-risk.htm). These are:
+The UK Health and Safety Executive[ identifies five steps forming a risk assessment.](https://www.hse.gov.uk/simple-health-safety/risk/steps-needed-to-manage-risk.htm). These are:
 - Identify hazards.
 - Assess the risks.
 - Control the risks.
 - Record your findings.
 - Review the controls.
 
-The following sections describe these steps as applied to a church tower, combining steps 1 and 2.
+The following sections describe these steps as applied to a church tower, combining steps 1 (identifying hazards) and 2 (assessing the risks).
 
 ## Identifying Hazards and Assessing Risks
 
@@ -86,8 +86,8 @@ You will need to consider:
 - Is there emergency lighting and are exits illuminated and with correct signage? Is it tested routinely and records kept?
 - Are there suitable fire extinguishers? Are they regularly inspected with appropriate records?
 - Is First Aid equipment accessible for ringers?
-- Is there an Accident Book available and are serious accidents reported to the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***?
-- Are tower contact details clearly displayed in case of emergency?
+- Is there an Accident Book available and are serious accidents reported to the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***?
+- Are tower contact details clearly displayed for use in case of emergency?
 - Are emergency exit routes clearly marked?
 - How would emergency services be called, and how would they locate and access the tower and ringers?
 - Are there appropriate alert notices about clock chimes and clock hammers?
@@ -108,7 +108,7 @@ The most likely mechanical issues to have effect in the ringing room are a broke
 - Are there any objects in the ringing room which could be caught by a flailing rope?
 
 It is general practice for bells to be left in the 'down' position when not in use. There may, however, be local circumstances which require bells to be left in the 'up' position.
-An Ecclesiastical Insurance note on [conditions of use applying to change–ringing bells](https://www.ecclesiastical.com/documents/bell-ringing.pdf) states: From a health and safety perspective it is extremely hazardous for bells to be left ‘up’ particularly if fire fighters or others need to enter the tower or if unauthorised persons, including children, interfere with the ropes.
+[Ecclesiastical Insurance published a note on conditions of use applying to change–ringing bells](https://www.ecclesiastical.com/documents/bell-ringing.pdf). This states: From a health and safety perspective it is extremely hazardous for bells to be left ‘up’ particularly if fire fighters or others need to enter the tower or if unauthorised persons, including children, interfere with the ropes.
 
 If this is the case in your tower you should prepare a specific risk assessment.
 Guidance on what to do if the bells are left 'up' is provided in the Ecclesiastical document.
@@ -127,7 +127,7 @@ For more regular inspections and minor works you need to consider:
 - What are the arrangements to eliminate, or at least control, lone working in the bell chamber?
 - Is there adequate lighting?
 - Is the floor under the bells kept clear of oily rags and accumulations of dust?
-- Do any of your bells go up 'wrong' and require manual turning of the clapper? An Ecclesiastical Insurance note on [conditions of use applying to change–ringing bells.](https://www.ecclesiastical.com/documents/bell-ringing.pdf) gives further information.
+- Do any of your bells go up 'wrong' and require manual turning of the clapper? [Ecclesiastical Insurance published a relevant note on conditions of use applying to change–ringing bells.](https://www.ecclesiastical.com/documents/bell-ringing.pdf).
 
 ### Other Areas within the Tower
 
@@ -177,10 +177,12 @@ Where a bell is prone to going up 'wrong' it may be possible to remove the hazar
 
 All of these solutions will require assistance from professional bell hangers or other experts. If none of these solutions is possible a specific procedure should be prepared. This should include two persons being present in the bell chamber.
 
-Opening a tower to parishioners and other members of the public is an excellent way of informing people about ringing (and a good day out). But it can pose challenges: The suitability of the access route, the condition of staircases, steps and handrails and the adequacy of any lighting, to name only a few. This is a case where a specific risk assessment should be carried out and guidance is provided by an Ecclesiastical Insurance note on [Tower Tours](https://www.ecclesiastical.com/risk-management/tower-tours).
+Opening a tower to parishioners and other members of the public is an excellent way of informing people about ringing (and a good day out). But it can pose challenges: The suitability of the access route, the condition of staircases, steps and handrails and the adequacy of any lighting, to name only a few. This is a case where a specific risk assessment should be carried out. [Ecclesiastical Insurance issued guidance on Tower Tours](https://www.ecclesiastical.com/risk-management/tower-tours).
 
 ### Recording Findings
-When the activities above are complete the results should be recorded. There are many formats available on-line. One relevant to small churches is provided by an Ecclesiastical Insurance note on [risk assessment (small church)](https://www.ecclesiastical.com/documents/risk-assessment-template-small-churches.pdf). ***[An example document can be downloaded here.](proforma.docx)***
+When the activities above are complete the results should be recorded. There are many formats available on-line. [Ecclesiastical Insurance issued one on risk assessment (small church)](https://www.ecclesiastical.com/documents/risk-assessment-template-small-churches.pdf). 
+
+***[An example document can be downloaded here.](proforma.docx)***
 
 You are at liberty to use your own format, tailored to fit your needs. But you should cover the following points:
 - Identification of the hazard.
@@ -191,9 +193,9 @@ You are at liberty to use your own format, tailored to fit your needs. But you s
 - An agreed date for completion of any further action.
 - Date of completion of any further action.
 
-The document should also record who carried out the assessment and any further actions, and the acceptance by the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***.
+The document should also record who carried out the assessment and any further actions, and the acceptance by the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***.
 
-The church authorities will be producing a risk assessment for the rest of the building and the assessment for the tower will normally form part of that and may follow their format.
+The tower authorities will be producing a risk assessment for the rest of the building and the assessment for the tower will normally form part of that and may follow their format.
 
 This assessment must be communicated to the rest of the band. Where possible, they should be involved in the completion of any actions arising.
 The document should be readily available and key points made known to new recruits and visitors. The risk assessment will be useful only if all members take ownership of the findings.
@@ -210,9 +212,7 @@ You may wonder why we did not offer this information right at the start. Well, w
 
 The [UK Health and Safety Executive](https://www.hse.gov.uk/) and [Ecclesiastical Insurance Group](https://ecclesiastical.com/) provide extensive risk management information, that from Ecclesiastical being more relevant to churches and ringers.
 
-The ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr)*** have published guidance documents covering church tower access, lighting in and around towers, fire safety and risk assessment, and lightning protection.
-Additional documents are in preparation. Guidance on maintenance is provided in the publication
-Manual of Belfry Maintenance (currently under revision), available from the [on-line CCCBR Shop.](https://www.cccbr.org.uk/shop).
+The ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr)*** have published [various guidance documents](https://cccbr.org.uk/tower-operation/). These cover church tower access, lighting in and around towers, fire safety and risk assessment, and lightning protection. These will gradually be incorporated into Running a Tower.
 
 [ART: excellence in ringing teaching, Association of Ringing Teachers.](https://www.ringingteachers.org) provide advice and assistance on teaching ringing.
 
@@ -220,7 +220,7 @@ Manual of Belfry Maintenance (currently under revision), available from the [on-
 
 ### General Principles for Safety in the Bell Tower
 
-This list is intended to help you and the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** to spot hazards and identify controls. Please do not think that you can complete a risk assessment just from this list. Your assessment should be based on the tower where you ring and an assessment of risks and mitigations.
+This list is intended to help you and the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** to spot hazards and identify controls. Please do not think that you can complete a risk assessment just from this list. Your assessment should be based on the tower where you ring and an assessment of risks and mitigations.
 
 - A clean and tidy environment must be maintained within the tower.
 -    This is more likely to be achieved by encouraging a 'tidy culture', rather than by
@@ -242,7 +242,7 @@ irregular massive clean ups.
 - Only those with specific authorisation can access the tower and bells. Any other visitors are escorted.
 - Bell ropes are not accessible to people without permission.
 - Learners are taught and accompanied only by experienced ringers. Minors are escorted by a parent or guardian.
-- The Tower Captain is usually elected by the ringers with the appointment approved by the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***.
+- The Tower Captain is usually elected by the ringers with the appointment approved by the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***.
 - The Tower Captain and other officers are aware of their responsibilities.
 - Bells are left down when not being rung unless there is a justifiable reason for some or all to be left up. If left up, this is clearly indicated in ways that make the risks understandable to non-ringers.
 - The ringing room and bell chamber are not accessible to unauthorised people.
