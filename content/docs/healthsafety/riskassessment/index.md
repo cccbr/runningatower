@@ -248,9 +248,9 @@ irregular massive clean ups.
 - The ringing room and bell chamber are not accessible to unauthorised people.
 - Anyone entering the ringing room can tell immediately if anyone is working in the bell chamber.
 - Work in the bell chamber is controlled:
--      At least one of those present is qualified and authorised.
--      There is no lone working, although a trained and authorised person can work alone when someone else is in the tower and the two are in communication. An example would be adjusting the length of bell ropes.
--      Bells are down while work is being carried out in the bell chamber unless it is essential to carry out checks on a moving bell (for example, to check for binding after replacing a stay). In that case a specific risk assessment is carried out.
+    - At least one of those present is qualified and authorised.
+    - There is no lone working, although a trained and authorised person can work alone when someone else is in the tower and the two are in communication. An example would be adjusting the length of bell ropes.
+    -   Bells are down while work is being carried out in the bell chamber unless it is essential to carry out checks on a moving bell (for example, to check for binding after replacing a stay). In that case a specific risk assessment is carried out.
 - Bells and fittings are regularly inspected and maintained by competent personnel, with records kept.
 - A comprehensive procedure is in place for when the tower is open to non-ringing visitors.
 
