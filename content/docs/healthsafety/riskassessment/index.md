@@ -1,5 +1,5 @@
 ---
-title: Risk Assessment (normal)
+title: Standard Risk Assessment
 weight: 51
 ---
 
