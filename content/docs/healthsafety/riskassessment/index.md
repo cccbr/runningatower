@@ -150,7 +150,7 @@ You need to consider:
 
 ### Controlling Risks
 
-You will now have a long list of potential hazards and risks. You may be worried about this, or you may have already started to see ways in which the hazards can be addressed in order to bring the risk to an acceptable level. Towers vary so we cannot tell you how to deal with every hazard or risk but we will give you some ideas about what may need to be managed by the ***[church authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** or ringers. Remember the 'ALARP' principle as applied to risks: 'as low as reasonably practicable'.
+You will now have a long list of potential hazards and risks. You may be worried about this, or you may have already started to see ways in which the hazards can be addressed in order to bring the risk to an acceptable level. Towers vary so we cannot tell you how to deal with every hazard or risk but we will give you some ideas about what may need to be managed by the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** or ringers. Remember the 'ALARP' principle as applied to risks: 'as low as reasonably practicable'.
 
 The basic need is to establish and maintain a culture of safety and good housekeeping that is respected by all members from the Tower Captain to new recruits and communicated to visitors, both ringers and non-ringers. Remember that 'culture' has been defined as the way that people behave even if they think nobody is watching them.
 
