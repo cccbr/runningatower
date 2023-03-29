@@ -111,7 +111,7 @@ The most likely mechanical issues to have effect in the ringing room are a broke
 - Are there any objects in the ringing room which could be caught by a flailing rope?
 
 It is general practice for bells to be left in the 'down' position when not in use. There may, however, be local circumstances which require bells to be left in the 'up' position.
-An Ecclesiastical Insurance note on this [Conditions of use applying to change–ringing bells, Ecclesiastical, November 2019.](https://www.ecclesiastical.com/documents/bell-ringing.pdf) states: From a health and safety perspective it is extremely hazardous for bells to be left ‘up’ particularly if fire fighters or others need to enter the tower or if unauthorised persons, including children, interfere with the ropes.
+An Ecclesiastical Insurance note on [conditions of use applying to change–ringing bells](https://www.ecclesiastical.com/documents/bell-ringing.pdf) states: From a health and safety perspective it is extremely hazardous for bells to be left ‘up’ particularly if fire fighters or others need to enter the tower or if unauthorised persons, including children, interfere with the ropes.
 
 If this is the case in your tower you should prepare a specific risk assessment.
 Guidance on what to do if the bells are left 'up' is provided in the Ecclesiastical document.
