@@ -49,6 +49,13 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these may 
 
 The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a ***[C of E](../glossary/#c-of-e)*** church implementing this would be the responsibilty of the ***[PCC](../glossary/#pcc)*** and its treasurer. Such a system may allow gift aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed in the case of charities and HMRC registered charitable groups.
 
+A series of articles about Gift Aid appeared in the following issues of the [Ringing World](https://bb.ringingworld.co.uk/issues.php). These were written by Steve Coleman and are available to subscribers; else ask a ringer (or tower) that does subscribe.
+- 5831	(27th January 2023) page	76. An updated overview.
+- 5833	(10th February 2023)	page 124. Gift Aid - the simple wheezes.
+- 5835	(24th February 2023) page 166. Gift Aid - The complicated wheezes.	
+- 5837	(10th March 2023) page	213. Gift Aid – what doesn’t count.
+- 5839	(24th March 2023)	page 277. Gift Aid - small donations.
+
 ## Reimbursement of Expenses 
 
 Arrangements must be made for how the ringers are to receive any such amounts. In the ***[C of E](../glossary/#c-of-e)***, it is likely that a couple getting married will pay the whole cost at one time. The church then arranges the transfer of money to the various recipients. With the current reduction in the use of cash, the church may expect to do this via a bank transfer. 
