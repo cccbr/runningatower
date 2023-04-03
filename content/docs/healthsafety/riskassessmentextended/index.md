@@ -3,7 +3,7 @@ title: Risk Assessment extended
 weight: 51
 ---
 
-# Risk Assessment Guidance where the beels have not been rung for an extended period.
+# Risk Assessment Guidance where the bells have not been rung for an extended period.
 
 The following was previously published as a .pdf file on the ***[CCCBR](..glossary/#CCCBR)*** website.
 
