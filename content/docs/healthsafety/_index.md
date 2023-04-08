@@ -28,9 +28,7 @@ This includes:
 
    - [Extended Risk Assessment](../healthsafety/riskassessmentextended) provides guidance on what to do in a tower where the bells have not been rung for an extended period.
 
-- Fire precautions, further details can be found at [fire prevention](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf). 
-
-- Fire safety. 
+- [Fire precautions and fire safety](.. healthsafety/fireprevention).
 
 - Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the ***[tower authority](../glossary/#tower-authority)***.
 
