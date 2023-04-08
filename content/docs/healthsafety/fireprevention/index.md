@@ -17,7 +17,7 @@ Most towers with rings of bells are within the jurisdiction of the ***[Church of
 
 *Figure 1 (left): Fire at Leighton Buzzard. Figure 2 (right): the aftermath.*
 
-Fires may start anywhere in the building and for a variety of reasons: electrical faults, in kitchen areas, lightning strikes, accidents especially during building work, or arson. A church can act as a chimney and help draw a fire up. Regrettably fires can and do occur in towers, examples within the last few decades include:
+Fires may start anywhere in the building and for a variety of reasons: electrical faults, in kitchen areas, lightning strikes, accidents especially during building work, or arson. A church can act as a chimney and help draw a fire up. Regrettably fires can and do occur in towers, examples within the recent past include:
 
 - Coventry Cathedral (1940), church destroyed by bombing but tower and bells remain.
 - Yateley (1979), tower restored with recast bells.
