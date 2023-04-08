@@ -140,8 +140,8 @@ Risk assessments and fire protection in towers should be considered by the ringe
 The legal requirements, advice, guidance on risk assessments, etc. are available on various websites including the Church of England, insurers such as Ecclesiastical, and the UK Government Health & Safety Executive. Professional advice should only be obtained from a competent fire risk assessor, who should be a member of a Professional Body Person Registration Scheme (e.g. Institute of Fire Prevention Officers (IFPO), Institute of Fire Safety Managers (IFSM) or Institution of Fire Engineers (IFE)). 
 
 Specific UK Government web sites offer information about risk assessments in buildings (large and small):
-- [Small and Medium places](https://www.gov.uk/government/publications/fire-safety-risk-assessment-small-andmedium-places-of-assembly)
-- [Large places](https://www.gov.uk/government/publications/fire-safety-risk-assessment-large-places-ofassembly)
+- [Small and Medium places](https://www.gov.uk/government/publications/fire-safety-risk-assessment-small-and-medium-places-of-assembly)
+- [Large places](https://www.gov.uk/government/publications/fire-safety-risk-assessment-large-places-of-assembly)
 
 ## Image Credits
 
