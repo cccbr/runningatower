@@ -15,7 +15,7 @@ Most towers with rings of bells are within the jurisdiction of the ***[Church of
 
 ![Leighton Buzzard Fire](lbfire.jpg)   ![Leighton Buzzard Bells](lbbells.jpg)
 
-*Figure 1 (left): Fire at Leighton Buzzard. Figure 2 (right): the aftermath.
+*Figure 1 (left): Fire at Leighton Buzzard. Figure 2 (right): the aftermath.*
 
 Fires may start anywhere in the building and for a variety of reasons: electrical faults, in kitchen areas, lightning strikes, accidents especially during building work, or arson. A church can act as a chimney and help draw a fire up. Regrettably fires can and do occur in towers, examples within the last few decades include:
 
