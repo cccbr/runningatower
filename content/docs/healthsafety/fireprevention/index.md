@@ -11,7 +11,7 @@ The following was previously published as a .pdf file on the ***[CCCBR](https://
 
 These notes offer advice about specific issues that may affect bell ringers and the bell tower when considering fire safety and fire protection. The notes may assist the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** and bell ringers; they do not intend to provide comprehensive information about fire protection and fire risk assessments more generally. Few  towers were designed or built to comply with current legislation and many are extremely historic and vulnerable structures. Ringers are often in towers at times when the building is otherwise unoccupied, and also in parts of the building that are separate and less accessible from the rest of the building.
 
-Most towers with rings of bells are within the jurisdiction of the ***[Church of England](https://runningatower.cccbr.org.uk/docs/#church-of-england)***. The notes therefore focus on these but the issues are likely to apply to rings of bells in towers owned by other organisations, in churches of other denominations, and also churches elsewhere in the world. Local legislation and circumstances should always be taken into account.
+Most towers with rings of bells are within the jurisdiction of the ***[Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england)***. The notes therefore focus on these but the issues are likely to apply to rings of bells in towers owned by other organisations, in churches of other denominations, and also churches elsewhere in the world. Local legislation and circumstances should always be taken into account.
 
 ![Leighton Buzzard Fire](lbfire.jpg)   ![Leighton Buzzard Bells](lbbells.jpg)
 
@@ -57,7 +57,7 @@ To reduce the risk of fire, you need to eliminate one or more of the following i
 
 ![The Fire triangle](firetriangle.jpg)
 
-*Figure 3: The fire triangle
+*Figure 3: The fire triangle*
 
 The Tower Captain and/or Steeple Keeper should accompany the Responsible Person while they prepare the Risk Assessment in the tower systematically. Here we highlight specific factors that are likely to be important for ringers and in the tower in the course of undertaking the risk assessment:
 
@@ -115,7 +115,7 @@ Emergency evacuation routes should be marked clearly using (preferably) illumina
 
 ![Exit Sign](exitsign.jpg)
 
-*Figure 4: Standard exit sign
+*Figure 4: Standard exit sign*
 
 Remember that all building doors may be locked securely when ringers are in the tower, but make sure that there is a means of opening emergency exits quickly. Several mechanisms may be considered depending on local constraints, particularly maintaining security e.g. a key in a box behind a glass panel, or a 'push bar to open'.
 
