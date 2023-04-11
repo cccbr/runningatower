@@ -93,7 +93,7 @@ Larger and high profile churches and cathedrals will already have links with a C
 - [National threat levels are set and updated](https://gov.uk/terrorism-national-emergency).
 
 #### Training
-- A useful short course entitled [Action Counters Terrorism (ACT)](https://ct.highfieldelearning.com) is available for free and can also help those writing emergency plans and policies. It is in sections and will help ringers understand the risks and how they should respond. Records may be maintained of who has been trained with period refresher sessions. (Traditionally, no ringing in Holy Week is an opportune time for updating tower records, as well as tidying the belfry!)
+- Courses are available for free and can also help those writing emergency plans and policies. They should help ringers understand the risks and how they should respond. Records may be maintained of who has been trained with period refresher sessions. (Traditionally, as there is no ringing in Holy Week that may be an opportune time for updating tower records, as well as tidying the belfry!)
 
 Ringers may well be familiar with the principles of counter terrorism from training in their workplace, school or college, but they should ensure that they know and understand emergency plans defined for the building where they ring, otherwise there may be less effective outcomes in the event of an emergency. 
 
