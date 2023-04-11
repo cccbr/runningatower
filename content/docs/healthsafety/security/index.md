@@ -9,7 +9,7 @@ The following was previously published as a .pdf file on the ***[CCCBR](https://
 
 ## Introduction
 
-These notes are written to help bell ringers consider their own security and that of the towers that they occupy when ringing. The principles underlying these notes apply to many buildings regardless of function or ownership, and activities. Here we highlight factors that relate specifically to ringers and ringing, rather than those that are more generic. References are drawn from those defined for the ***[Church of England](https://runningatower.cccbr.org.uk/docs/#church-of-england)*** and the UK. Two main topics are included: Crime and Terrorism
+These notes are written to help bell ringers consider their own security and that of the towers that they occupy when ringing. The principles underlying these notes apply to many buildings regardless of function or ownership, and activities. Here we highlight factors that relate specifically to ringers and ringing, rather than those that are more generic. References are drawn from those defined for the ***[Church of England](https://runningatower.cccbr.org.uk/docs/#Church-of-England)*** and the UK. Two main topics are included: Crime and Terrorism
 
 ## Threats from Crime
 
