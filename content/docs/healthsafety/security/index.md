@@ -135,7 +135,8 @@ Protecting oneself relies on physical security of the tower and also the routes 
 On-line information about individuals and groups is extensive and can be very detailed and informative!
 
 [Security guidance](https://ncsc.gov.uk/section/information-for/individuals-families) for individuals and families.
-[Guidance encapsulated](https://gov.uk/government/publications/stay-safe-film) in 'Run, Hide, Tell' is specifically for a 'marauding' attack for example in a knife or gun attack.
+
+[Guidance](https://gov.uk/government/publications/stay-safe-film) encapsulated in 'Run, Hide, Tell' is specifically for a 'marauding' attack for example in a knife or gun attack.
 
 ### Cyber Security
 
