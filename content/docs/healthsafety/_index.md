@@ -14,7 +14,7 @@ weight: 5
 A tower is a non-domestic setting, and as such the ***[tower authority](../glossary/#tower-authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site the ***[tower authority](../glossary/#tower-authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This does not reduce the duty of care on ringers to minimise risk.
 {{</hint>}}
 
-Further details can be found in the [health and safety policy advice document (CCCBR)](../healthsafety/healthsafetypolicy).
+Further details can be found in the [health and safety policy advice](../healthsafety/healthsafetypolicy).
 
 Information specific to working in a bell chamber can be found in [Belfry Upkeep Health & Safety](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
 
@@ -78,7 +78,7 @@ Regularly check that all items are within date. The kit should be listed on the 
 
 ## Security 
 
-Further details can be found in the [security for ringers document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/12/SM_Security_2020_Ver_1.pdf).
+Further details can be found in the [security for ringers](../healthsafety/security).
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
