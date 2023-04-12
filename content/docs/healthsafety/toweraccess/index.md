@@ -17,7 +17,7 @@ All towers are different and each will present a corresponding set of unique cir
 
 ![Terminology](terminology.jpg)
 
-*Figure 1: Terminology used.
+*Figure 1: Terminology used.*
 
 Definitions are given alongside.
 - Newel / Newel Post: the central column of a spiral stairway.
@@ -59,7 +59,7 @@ which extend forward from the stone ones. These allow the user to put more of th
 
 ![Steep](steep.jpg)
 
-*Figure 2: Wooden treads fitted.
+*Figure 2: Wooden treads fitted.*
 
 Stairs modified in this way should be descended backwards or the advantage is negated.
 
@@ -81,7 +81,7 @@ Wooden ladders are susceptible to insect attack and any sign of woodworm should 
 
 ![Hoops](hoop.jpg)
 
-*Figure 3: Ladder with hoops.
+*Figure 3: Ladder with hoops.*
 
 Some modern fixed ladders are fitted with hoops which are designed to reduce the risk of falling but before installing such a hooped ladder the implications should be considered. If the ladder is in the ringing room as access to the room above the hoops may be too close to the rope circle and cause a risk of entanglement or indeed injury to a ringers hands, se image above. 
 
@@ -99,7 +99,7 @@ A hand-rope suffers from an even worse form of the same problem. If the rope is 
 
 ![Hand rope](handrope.jpg)
 
-*Figure 4: Extreme example of a hand-rope.
+*Figure 4: Extreme example of a hand-rope.*
 
 As a result external hand ropes should not be installed unless fixed very frequently and in a wide staircase. 
 
@@ -112,11 +112,9 @@ The height of a hand-rail needed for ascending a spiral stairway is very much lo
 
 ![Internal handrail](internal.jpg)
 
-*Figure 5: Internal hand-rail.
+*Figure 5: Internal hand-rail.*
 
-Internal hand-rails and hand-ropes are also found in many towers and have the advantage of allowing the user to traverse
-the largest part of the stair tread. An internal handrail may be fixed as little as 3 times per turn of the stairway without
-disadvantage.
+Internal hand-rails and hand-ropes are also found in many towers and have the advantage of allowing the user to traverse the largest part of the stair tread. An internal handrail may be fixed as little as 3 times per turn of the stairway without disadvantage.
 
 A hand-rope should not be merely hung from the top of the stairway as a user pulling on the rope near the foot of the
 stairway will cause a user higher up to have their fingers trapped.
@@ -125,7 +123,7 @@ The hand-rope should be supported with rings which will hold it clear of the new
 
 ![Vertical handrails](vertical.jpg)
 
-*Figure : Series of vertical hand-rails.
+*Figure 6: Series of vertical hand-rails.*
 
 A series of vertical hand-rails on a stair-way has much to recommend it. It is suitable for users of any height, it is sturdy and takes up minimal space. It is also very easy to install.
 
