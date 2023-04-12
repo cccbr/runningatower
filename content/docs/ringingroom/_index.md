@@ -25,7 +25,7 @@ The CCCBR have produced [Tower environments and their suitability for recruiting
 
 ## Access
 
-Further details are available at [tower access (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2019/12/SM_TowerAccess_2019_Ver_2.pdf).
+Further details are available at [tower access](../healthsafety/toweraccess).
 
 ![Non-slip staircase](nonslip_350.JPG)
 
