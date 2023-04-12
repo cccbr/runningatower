@@ -128,13 +128,13 @@ The hand-rope should be supported with rings which will hold it clear of the new
 
 A series of vertical hand-rails on a stair-way has much to recommend it. It is suitable for users of any height, it is sturdy and takes up minimal space. It is also very easy to install.
 
-![Handrail](handrail350.jpg)
-
-*Figure 8: Metal handrails*
-
 ### Materials for Handrails or Hand-Ropes
 
 Tough plastic water pipe is often used as a cheap handrail that can be easily fitted. The supporting brackets must of course be close enough together to provide adequate support and stiffness to the handrail. MDPE water pipe may be purchased in coils of 25 or 50 meters length and in various diameters. For handrails 25 or preferably 32 mm diameter should be used.
+
+![Handrail](handrail350.jpg)
+
+*Figure 8: Metal handrails*
 
 A more attractive and hardy handrail can be produced by a blacksmith and while the cost will be greater it will also have an almost unlimited life.
 
