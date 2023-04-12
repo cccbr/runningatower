@@ -19,7 +19,6 @@ All towers are different and each will present a corresponding set of unique cir
 
 *Figure 1: Terminology used.*
 
-Definitions are.
 - Newel / Newel Post: the central column of a spiral stairway.
 - Rise: the height of a stair from the tread below.
 - Tread: the horizontal surface of a stair upon which users step.
