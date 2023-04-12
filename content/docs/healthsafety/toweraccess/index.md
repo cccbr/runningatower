@@ -19,12 +19,11 @@ All towers are different and each will present a corresponding set of unique cir
 
 *Figure 1: Terminology used.*
 
-Definitions are given alongside.
+Definitions are.
 - Newel / Newel Post: the central column of a spiral stairway.
 - Rise: the height of a stair from the tread below.
 - Tread: the horizontal surface of a stair upon which users step.
-- Tread Depth: the horizontal distance from the front edge of a tread to the back edge. For spiral stairs an
-indicative value is measured 300mm (12”) from the outer wall of the stairway.
+- Tread Depth: the horizontal distance from the front edge of a tread to the back edge. For spiral stairs an indicative value is measured 300mm (12”) from the outer wall of the stairway.
 - Width: the distance between the outside of the newel post and the outer wall of the stairway.
 
 ## Areas of Risk
@@ -58,8 +57,7 @@ Where stairs are uneven in their rise they may be made more even by raising the 
 
 ### Steep Stairways
 
-When a spiral stairway is excessively steep the depth of the treads can be so small that the user is climbing with only their toes on the tread and descending on their heels. In such a situation it is possible to have wooden treads fitted
-which extend forward from the stone ones. These allow the user to put more of their foot upon each tread while the tread above overhangs. (See figure 2)
+When a spiral stairway is excessively steep the depth of the treads can be so small that the user is climbing with only their toes on the tread and descending on their heels. In such a situation it is possible to have wooden treads fitted which extend forward from the stone ones. These allow the user to put more of their foot upon each tread while the tread above overhangs. (See figure 2)
 
 ![Steep](steep.jpg)
 
