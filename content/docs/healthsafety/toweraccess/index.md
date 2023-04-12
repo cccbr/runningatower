@@ -50,6 +50,10 @@ Re-surfacing can be carried out in a variety of ways:
 - In some cases the treads can be cut away just enough to form a new, level tread.
 - Wooden treads can be fitted to protect soft stone which is worn or liable to wear.
 
+![Non-slip staircase](nonslip_350.JPG)
+
+*Figure 2: Non-slip steps*
+
 Where stairs are uneven in their rise they may be made more even by raising the level of low treads (see methods 1 and 2 above) or lowering high ones (method 3).
 
 ### Steep Stairways
@@ -59,7 +63,7 @@ which extend forward from the stone ones. These allow the user to put more of th
 
 ![Steep](steep.jpg)
 
-*Figure 2: Wooden treads fitted.*
+*Figure 3: Wooden treads fitted.*
 
 Stairs modified in this way should be descended backwards or the advantage is negated.
 
@@ -81,7 +85,7 @@ Wooden ladders are susceptible to insect attack and any sign of woodworm should 
 
 ![Hoops](hoop.jpg)
 
-*Figure 3: Ladder with hoops.*
+*Figure 4: Ladder with hoops.*
 
 Some modern fixed ladders are fitted with hoops which are designed to reduce the risk of falling but before installing such a hooped ladder the implications should be considered. If the ladder is in the ringing room as access to the room above the hoops may be too close to the rope circle and cause a risk of entanglement or indeed injury to a ringers hands, se image above. 
 
@@ -99,7 +103,7 @@ A hand-rope suffers from an even worse form of the same problem. If the rope is 
 
 ![Hand rope](handrope.jpg)
 
-*Figure 4: Extreme example of a hand-rope.*
+*Figure 5: Extreme example of a hand-rope.*
 
 As a result external hand ropes should not be installed unless fixed very frequently and in a wide staircase. 
 
@@ -112,7 +116,7 @@ The height of a hand-rail needed for ascending a spiral stairway is very much lo
 
 ![Internal handrail](internal.jpg)
 
-*Figure 5: Internal hand-rail.*
+*Figure 6: Internal hand-rail.*
 
 Internal hand-rails and hand-ropes are also found in many towers and have the advantage of allowing the user to traverse the largest part of the stair tread. An internal handrail may be fixed as little as 3 times per turn of the stairway without disadvantage.
 
@@ -123,9 +127,13 @@ The hand-rope should be supported with rings which will hold it clear of the new
 
 ![Vertical handrails](vertical.jpg)
 
-*Figure 6: Series of vertical hand-rails.*
+*Figure 7: Series of vertical hand-rails.*
 
 A series of vertical hand-rails on a stair-way has much to recommend it. It is suitable for users of any height, it is sturdy and takes up minimal space. It is also very easy to install.
+
+![Handrail](handrail350.jpg)
+
+*Figure 8: Metal handrails*
 
 ### Materials for Handrails or Hand-Ropes
 
@@ -220,11 +228,13 @@ Unauthorised access to tower:
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Terminology | Image: David Roskelly |
-| 2 | Steep stairway | Image: David Roskelly |
-| 3 | Ladder with hoops | Photo: David Roskelly |
-| 4 | Extreme example of a hand-rope | Photo: David Roskelly |
-| 5 | Internal hand-rail | Photo: David Roskelly |
-| 6 | Series of vertical hand-raila | Photo: David Roskelly |
+| 2 | Non-slip surface | Photo: Tony Crabtree |
+| 3 | Steep stairway | Image: David Roskelly |
+| 4 | Ladder with hoops | Photo: David Roskelly |
+| 5 | Extreme example of a hand-rope | Photo: David Roskelly |
+| 6 | Internal hand-rail | Photo: David Roskelly |
+| 7 | Series of vertical hand-rails | Photo: David Roskelly |
+| 8 | Series of metal hand-rails | Photo: James Kirkcaldy |
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/healthsafety/)**
