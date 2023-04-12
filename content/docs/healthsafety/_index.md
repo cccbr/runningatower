@@ -78,7 +78,7 @@ Regularly check that all items are within date. The kit should be listed on the 
 
 ## Security 
 
-Further details can be found in the [security for ringers](../healthsafety/security).
+Further details can be found in [security for ringers](../healthsafety/security).
 
 A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
 
