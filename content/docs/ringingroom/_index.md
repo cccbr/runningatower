@@ -273,23 +273,21 @@ There may be accessible parking as part of the premises although access is proba
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Ringing room at St Machar, Aberdeen | Photo: CCCBR archive |
-| 2 | Non-slip staircase surface | Photo: Tony Crabtree |
-| 3 | Hand and grab rails at South Petherton | Photo: James Kirkcaldy
-| 4 | Pile of carpeted boxes |  Photo: Tony Crabtree |
-| 5 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
-| 6 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
-| 7 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
-| 8 | Electronic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
-| 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
-| 10 | Notice board | Photo: Tony Crabtree |
-| 11 | Visitor's book | Photo: Tony Crabtree |
-| 12 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
-| 13 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
-| 14 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
-| 15 | Model demonstration bell | Photo: Tony Crabtree |
-| 16 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 17 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 18 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
+| 2 | Pile of carpeted boxes |  Photo: Tony Crabtree |
+| 3 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
+| 4 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
+| 5 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
+| 6 | Electronic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
+| 7 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
+| 8 | Notice board | Photo: Tony Crabtree |
+| 9 | Visitor's book | Photo: Tony Crabtree |
+| 10 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 11 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
+| 12 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 13 | Model demonstration bell | Photo: Tony Crabtree |
+| 14 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 15 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 16 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 
 ----
 
