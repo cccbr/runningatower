@@ -25,24 +25,7 @@ The CCCBR have produced [Tower environments and their suitability for recruiting
 
 ## Access
 
-Further details are available at [tower access](../healthsafety/toweraccess).
-
-![Non-slip staircase](nonslip_350.JPG)
-
-*Figure 2: Non-slip steps*
-
-If the ringing room is upstairs consider whether the steps are safe, secure and not lippery. The photograph shows a non-slip step.
-
-![Handrail](handrail350.jpg)
-
-*Figure 3: Secure handrails*
-
-- whether there is sufficient handrails or suitably positioned grab handles.
-- whether the steps are well illuminated. 
-- If the access door opens inwards to the ringing chamber whether there are there measures, such as a window or a notice, to ensure it is not opened into a ringer standing immediately inside. 
-- If access is by a trap door, whether it is able to be safely opened without injury and whether it can be secured when open.
-
-If acccess is inconvenient consider whether there is another way of accessing the ringing room that is less inconvenient. Maybe seek advice from your local Society.  
+This is covered in [health and safety](../healthsafety).
 
 ## Boxes 
 
