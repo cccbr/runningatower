@@ -179,7 +179,7 @@ Use a router with a bearing-guided bevel cutter to put the 4mm chamfer on one ed
 
 ##### The first side
 
-[First side](boxes5.jpg)
+![First side](boxes5.jpg)
 
 *Figure 5: The first side.
 
@@ -227,7 +227,7 @@ Check each corner as you assemble it to ensure that everything is truly square a
 Once you have completed assembling one box there is a strong temptation to try it for size. Do wait for the glue to be
 fully dry and remember that you will have to sand off any footprints afterwards! 
 
-[Nearly there](boxes6.jpg)
+![Nearly there](boxes6.jpg)
 
 *Figure 6: Nearly complete.
 
@@ -247,7 +247,7 @@ On some floorings the boxes can slide about when raising larger bells. Where the
 
 I hope that these notes and the drawings that they accompany will be of use to people. If you should find any glaring omission or error, or you simply need more information, do please contact me (sminf@cccbr.org.uk) and I will endeavour to help.
 
-[Finished](boxes7.jpg)
+![Finished](boxes7.jpg)
 
 *Figure 7: Finished box.
 
