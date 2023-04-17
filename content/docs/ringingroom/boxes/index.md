@@ -67,11 +67,8 @@ Floor varnish, finishing oil or hard waxoil to cover 6 sq m (outside only) or 12
 
 ### Cutting list
 
-| Figure | Details | Source |
-| :---: | --- | --- |
-| 1 | Set of boxes | Photo: David Roskelly |
 | Quantity | Length | Width | Depth | Material | Part |
-| --- | --- | --- |
+| :---: | --- | --- |
 | 32 | 528 | 24 | 24 | Poplar, Ash or similar | Horizontal angle block |
 | 20 | 68 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
 | 8 | 158 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
