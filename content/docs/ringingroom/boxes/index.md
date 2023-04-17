@@ -70,7 +70,7 @@ Floor varnish, finishing oil or hard waxoil to cover 6 sq m (outside only) or 12
 | Quantity | Length | Width | Depth | Material | Part |
 | --- | --- | --- | --- | :---: | :----: |
 | 32 | 528 | 24 | 24 | Poplar, Ash or similar | Horizontal angle block |
-| 20 | 68 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
+| 20 | 68 | 24 | 24 | -- " -- | Vertical angle block |
 | 8 | 158 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
 | 4 | 248 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
 | 8 | 580 | 580 | 18 | Birch plywood | Box tops |
