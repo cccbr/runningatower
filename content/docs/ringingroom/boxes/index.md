@@ -71,15 +71,15 @@ Floor varnish, finishing oil or hard waxoil to cover 6 sq m (outside only) or 12
 | --- | --- | --- | --- | :---: | :----: |
 | 32 | 528 | 24 | 24 | Poplar, Ash or similar | Horizontal angle block |
 | 20 | 68 | 24 | 24 | -- " -- | Vertical angle block |
-| 8 | 158 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
-| 4 | 248 | 24 | 24 | Poplar, Ash or similar | Vertical angle block |
+| 8 | 158 | 24 | 24 | -- " -- | -- " -- |
+| 4 | 248 | 24 | 24 | -- " -- | -- " -- |
 | 8 | 580 | 580 | 18 | Birch plywood | Box tops |
-| 10 | 580 | 90 | 12 | Birch plywood | Box sides (with handle cutout) |
-| 4 | 580 | 180 | 12 | Birch plywood | Box sides (with handle cutout) |
-| 2 | 580 | 270 | 12 | Birch plywood | Box sides (with handle cutout) |
-| 10 | 606 | 90 | 12 | Birch plywood | Box front and back |
-| 4 | 606 | 180 | 12 | Birch plywood | Box front and back |
-| 2 | 606 | 270 | 12 | Birch plywood | Box front and back | 
+| 10 | 580 | 90 | 12 | -- " -- | Box sides (with handle cutout) |
+| 4 | 580 | 180 | 12 | -- " -- | -- " -- |
+| 2 | 580 | 270 | 12 | -- " -- | -- " -- |
+| 10 | 606 | 90 | 12 | -- " -- | Box front and back |
+| 4 | 606 | 180 | 12 | -- " -- | -- " -- |
+| 2 | 606 | 270 | 12 | -- " -- | -- " -- | 
 
 I hope the more expert reader will forgive me for explaining some basics which may seem rather obvious. My intention is, of course, to provide enough information for the less experienced wood worker to complete the work without being left completely at sea. That being said, a certain level of experience and common sense is assumed. The reader is of course responsible for the safe conduct of any work and no responsibility can be accepted by the author or distributor of this information for any accident, damage or injury arising from the use of this information.
 
