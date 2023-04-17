@@ -31,7 +31,7 @@ Further details can be found at [General Data Protection Regulation (CCCBR)](htt
 
 In the ***[Church of England](../glossary/#church-of-england)***, ringers are normally included as voluntary workers on the church policy, as long as they have permission to ring. If there is any doubt then check what the cover is.
 
-Further details can be found in the [insurance document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2022/05/SM_Insurance_2022_v4.pdf).
+Further details can be found in the [insurance document](../formalities/insurance).
 
 ## Safeguarding 
 
