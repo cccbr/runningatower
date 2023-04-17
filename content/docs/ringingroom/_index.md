@@ -168,7 +168,7 @@ These are the usually the property of the awarding body. However, they are in th
 
 See information in the [rope section of Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
 
-![Various knots](knot1.jpg)![Various knots](knot2.jpg)![Various knots](knot2.jpg)
+![Various knots](knot1.jpg)  ![Various knots](knot2.jpg)  ![Various knots](knot3.jpg)
 
 *Figures 12-14: Variety of knots used to tie bell ropes*
 
