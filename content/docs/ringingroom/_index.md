@@ -170,9 +170,12 @@ See information in the [rope section of Belfry Upkeep](https://belfryupkeep.cccb
 
 ![Various knots](knot1.jpg) ![Various knots](knot2.jpg) ![Various knots](knot3.jpg)
 
-*Figures 12-14: Variety of knots used to tie bell ropes*
+*Figures 12-13: Variety of knots used to tie bell ropes*
 
 There are many different ways of tying a bell rope. It is important not to rely on the type of knot as an indication of whether a bell is raised or not. This should always be done by taking hold of the rope as if about to ring and then feeling whether it is set or not.
+
+![Various knots](knot3.jpg)
+*Figures 12-13: Variety of knots used to tie bell ropes*
 
 Adjusting tail end length may take two forms as indicated below. N.B. In the West Country, especially Call Change towers, the adjustment of ropes may not be permitted.
 - Untucking and tucking the tail end. This is acceptable, provided it is done carefully, using a spike or fid, to separate the strands. This should not be done for every touch
