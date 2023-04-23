@@ -39,7 +39,7 @@ For a set of 8 ringing boxes - or fewer if you wish.
 
 ![Set of boxes](boxes1.jpg)
 
-*Figure 1: Set of boxes.
+*Figure 1: Set of boxes.*
 
 ### Introduction
 
@@ -116,7 +116,7 @@ The boxes could of course be constructed with only the following but much more t
 
 ![Parts tops](boxes3.jpg)
 
-*Figure 2: Tops.
+*Figure 2: Tops.*
 
 If you are fortunate enough to have access to a vertical panel saw then it will save you a huge amount of time. Some DIY shops will provide a sheet material cutting service but be sure that the results will be truly accurate and square before placing your order as correcting any errors will be slower than cutting the sheets yourself and getting it right first time.
 The box-tops are the most critical as any errors here may mean that the boxes will not stack properly.
@@ -174,7 +174,7 @@ Use a router with a bearing-guided bevel cutter to put the 4mm chamfer on one ed
 
 ![Section at handle](boxes4.jpg)
 
-*Figure 4: Section at handle.
+*Figure 4: Section at handle.*
 
 #### Assembly
 
@@ -182,7 +182,7 @@ Use a router with a bearing-guided bevel cutter to put the 4mm chamfer on one ed
 
 ![First side](boxes5.jpg)
 
-*Figure 5: The first side.
+*Figure 5: The first side.*
 
 You will need a good flat work bench and several 10 mm scraps of timber to act as spacers.
 
@@ -230,7 +230,7 @@ fully dry and remember that you will have to sand off any footprints afterwards!
 
 ![Nearly there](boxes6.jpg)
 
-*Figure 6: Nearly complete.
+*Figure 6: Nearly complete.*
 
 #### Finishing
 
@@ -250,7 +250,7 @@ I hope that these notes and the drawings that they accompany will be of use to p
 
 ![Finished](boxes7.jpg)
 
-*Figure 7: Finished box.
+*Figure 7: Finished box.*
 
 | Figure | Details | Source |
 | :---: | --- | --- |
