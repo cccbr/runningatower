@@ -118,7 +118,7 @@ The boxes could of course be constructed with only the following but much more t
 
 *Figure 2: Tops.*
 
-A .pdf format version of this [can be downloaded here](boxes2.pdf).
+A .pdf format version of this [can be downloaded here](boxes3.pdf).
 
 If you are fortunate enough to have access to a vertical panel saw then it will save you a huge amount of time. Some DIY shops will provide a sheet material cutting service but be sure that the results will be truly accurate and square before placing your order as correcting any errors will be slower than cutting the sheets yourself and getting it right first time.
 The box-tops are the most critical as any errors here may mean that the boxes will not stack properly.
@@ -131,7 +131,7 @@ The tops must be exactly square, so check every one carefully by measuring diago
 
 *Figure 3: Sides.
 
- A .pdf format version of this [can be downloaded here](boxes3.pdf).
+ A .pdf format version of this [can be downloaded here](boxes2.pdf).
 
 The (short) sides are almost as crucial as the tops, so check these carefully too. They need to be exactly the same width as the tops and have perfectly square ends.
 
