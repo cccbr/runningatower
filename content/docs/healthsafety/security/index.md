@@ -17,7 +17,7 @@ As owners, ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary
 
 Procedures must be realistic and proportionate. It is very important that ringers (probably the Tower Captain and/or Steeple Keeper) liaise with the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** to discuss and draft security procedures.
 
-Some basic security awareness can help ringers to protect churches, towers and bells. The Church of England provides [useful guidance](https://www.churchofengland.org/resources/churchcare/advice-and-guidance-church-buildings/security-and-crime-prevention)) including some top tips for prevention.
+Some basic security awareness can help ringers to protect churches, towers and bells. The Church of England provides [useful guidance](https://www.churchofengland.org/resources/churchcare/advice-and-guidance-church-buildings/security-and-crime-prevention) including some top tips for prevention.
 
 Insurers such as Ecclesiastical Insurance (EIG) provide guides for a range of church building crime and security matters including a [check list](https://ecclesiastical.com/risk-management/church-security).
 
