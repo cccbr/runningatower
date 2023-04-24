@@ -114,24 +114,17 @@ The boxes could of course be constructed with only the following but much more t
 
 ##### Tops
 
-![Parts tops](boxes3.jpg)
-
-*Figure 2: Tops.*
-
-A .pdf format version of this [can be downloaded here](boxes3.pdf).
+A .pdf format of plans for the tops [can be downloaded here](boxes3.pdf).
 
 If you are fortunate enough to have access to a vertical panel saw then it will save you a huge amount of time. Some DIY shops will provide a sheet material cutting service but be sure that the results will be truly accurate and square before placing your order as correcting any errors will be slower than cutting the sheets yourself and getting it right first time.
+
 The box-tops are the most critical as any errors here may mean that the boxes will not stack properly.
 
 The tops must be exactly square, so check every one carefully by measuring diagonals. 
 
 ##### Sides
 
-![Parts tops](boxes2.jpg)
-
-*Figure 3: Sides.
-
- A .pdf format version of this [can be downloaded here](boxes2.pdf).
+ A .pdf format vof plans for the sides [can be downloaded here](boxes2.pdf).
 
 The (short) sides are almost as crucial as the tops, so check these carefully too. They need to be exactly the same width as the tops and have perfectly square ends.
 
@@ -176,11 +169,7 @@ The handle holes are finished by running a bearing-guided 1/8" roundover cutter 
 
 Use a router with a bearing-guided bevel cutter to put the 4mm chamfer on one edge of all of your angle blocks. Chamfer the two adjacent edges at both ends of all vertical angle blocks. This will show in the bottom of each box but save you having to think about which way up to put the blocks when gluing up.
 
-![Section at handle](boxes4.jpg)
-
-*Figure 4: Section at handle.*
-
-A .pdf format version of this [can be downloaded here](boxes4.pdf).
+A .pdf format of the plans for the handles [can be downloaded here](boxes4.pdf).
 
 #### Assembly
 
@@ -188,7 +177,7 @@ A .pdf format version of this [can be downloaded here](boxes4.pdf).
 
 ![First side](boxes5.jpg)
 
-*Figure 5: The first side.*
+*Figure 2: The first side.*
 
 You will need a good flat work bench and several 10 mm scraps of timber to act as spacers.
 
@@ -236,7 +225,7 @@ fully dry and remember that you will have to sand off any footprints afterwards!
 
 ![Nearly there](boxes6.jpg)
 
-*Figure 6: Nearly complete.*
+*Figure 3: Nearly complete.*
 
 #### Finishing
 
@@ -256,17 +245,14 @@ I hope that these notes and the drawings that they accompany will be of use to p
 
 ![Finished](boxes7.jpg)
 
-*Figure 7: Finished box.*
+*Figure 4: Finished box.*
 
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Set of boxes | Photo: David Roskelly |
-| 2 | Top plans | Image: David Roskelly |
-| 3 | Side plans | Image: David Roskelly |
-| 4 | Section at handle | Image: David Roskelly |
-| 5 | The first side | Photo: David Roskelly |
-| 6 | Nearly complete | Photo: David Roskelly |
-| 7 | Finished box | Photo: David Roskelly |
+| 2 | The first side | Photo: David Roskelly |
+| 3 | Nearly complete | Photo: David Roskelly |
+| 4 | Finished box | Photo: David Roskelly |
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/ringingroom/)**
