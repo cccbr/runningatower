@@ -11,7 +11,7 @@ The following, written by David Roskelly, was previously published as a .pdf fil
 
 ## General Remarks on Box Design
 
-Ringing boxes are one of the ubiquitous but often despised necessities of ringing. They are often heavy, they take up space in a ringing room which, in most cases, has little enough space to begin with andmany ringers don't like using them anyway. However they are not going away and a well designed and neatly made box will do much to improve the perception of boxes in general.
+Ringing boxes are one of the ubiquitous but often despised necessities of ringing. They are often heavy, they take up space in a ringing room which, in most cases, has little enough space to begin with and many ringers don't like using them anyway. However they are not going away and a well designed and neatly made box will do much to improve the perception of boxes in general.
 
 A large part of the problem is the provision of boxes which are thrown together without thought, from bits of scrap timber. They are frequently far too small and make the user feel unstable and nervous.
 
