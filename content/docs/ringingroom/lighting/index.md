@@ -97,7 +97,7 @@ Two way switches on the stairs (I.e. the same function achieved at both the top 
 
 ### The Bell Chamber
 
-Lighting in the bell chamber is also covered in [Lighting and electrical equipment](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/#lighting_and_electrical_equipment) in 'Belfry Upkeep'.
+Lighting in the bell chamber is also covered in [Lighting and electrical equipment](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/#lighting-and-electrical-equipment) in 'Belfry Upkeep'.
 
 Often a very neglected ‘black hole’, bell chambers do need excellent lighting as they typically have little natural light even during daylight hours.
 
