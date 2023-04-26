@@ -73,7 +73,7 @@ There is a commonly held belief that wool is better, however this anecdotal. Mos
 
 Consider whether the rope bosses are at the optimum height. If too high the ropes can be flighty. If too low the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell just reachs the guide whilst that of the heaviest bell does not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
-Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, ***[CCCBR](../glossary/#cccbr)***, or a professional bell hanger. 
+Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, [CCCBR](../glossary/#cccbr), or a professional bell hanger. 
 
 If the rope circle is poor or very unequally spaced, consider seeking advice as above, especially when there are ropes very close together.  
 
@@ -111,7 +111,7 @@ If the ringing room is open to the rest of the building it is worth investigatin
 
 *Figure 7: Well lit ringing chamber*
 
-Further details can be found at [lighting in and around towers (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/02/SM_Lighting_2019_Ver_3.pdf).  
+Further details can be found at [lighting in and around towers](../ringingroom/lighting).  
 
 In the ringing room:
 
