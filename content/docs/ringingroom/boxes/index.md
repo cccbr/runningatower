@@ -7,7 +7,7 @@ weight: 71
 
 Their design and construction.
 
-The following, written by David Roskelly, was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR) website.
+The following, written by David Roskelly, was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#ccccbr) website.
 
 ## General Remarks on Box Design
 
