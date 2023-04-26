@@ -58,7 +58,7 @@ It is useful to display contact details such that they are visible when the buil
 
 *Figure 5: Sample of ringing society badges*
 
-The body may have the title of Association, Guild, Society, etc. The term ringing society will be used in this document. The ringing society may cover the local area, county, diocese or country. A ringing society would normally have individual ringers as members. It may be that the society has an affiliate membership for other bodies e.g. [PCC](./glossary/#PCC).
+The body may have the title of Association, Guild, Society, etc. The term ringing society will be used in this document. The ringing society may cover the local area, county, diocese or country. A ringing society would normally have individual ringers as members. It may be that the society has an affiliate membership for other bodies e.g. [PCC](../glossary/#PCC).
 
 There may be advantages to membership of a ringing society such as: 
 
