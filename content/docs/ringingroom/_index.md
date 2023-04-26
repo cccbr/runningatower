@@ -7,7 +7,7 @@ weight: 7
 
 {{<hint danger>}}
 Throughout it should be remembered that any substantive change can only be made with proper consultation with the [tower authority](../glossary/#tower-authority) and it is their reponsibility to action any such change. In the case of the [Church of England](../glossary/#church-of-england) a faculty may be necessary. Guidance notes on these should be consulted for any proposed changes within the tower. Further information can be found at **[Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)**.
- {{</hint>}}
+{{</hint>}}
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
@@ -166,14 +166,16 @@ These are the usually the property of the awarding body. However, they are in th
 
 ## Ropes  
 
-See information in the **[rope section of Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/)**.
+See information in the **[rope section](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/)**  of Belfry Upkeep.
 
 ![Various knots](knot1.jpg) ![Various knots](knot2.jpg) ![Various knots](knot3.jpg)
 
 *Figures 12-14: Variety of knots used to tie bell ropes*
 
+{{<hint danger>}}
 There are many different ways of tying a bell rope. It is important not to rely on the type of knot as an indication of whether a bell is raised or not. This should always be done by taking hold of the rope as if about to ring and then feeling whether it is set or not.
-
+{{</hint>}}
+ 
 Adjusting tail end length may take two forms as indicated below. N.B. In the West Country, especially Call Change towers, the adjustment of ropes may not be permitted.
 - Untucking and tucking the tail end. This is acceptable, provided it is done carefully, using a spike or fid, to separate the strands. This should not be done for every touch
 - Tying a knot, usually a ‘Figure-eight’ knot, to shorten a long rope. This is a short-term measure and is normally acceptable as the knot is removed after use.
