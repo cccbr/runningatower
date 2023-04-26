@@ -6,7 +6,7 @@ weight: 7
 # Ringing Room 
 
 {{<hint danger>}}
-Throughout it should be remembered that any substantive change can only be made with proper consultation with the ***[tower authority](../glossary/#tower-authority)*** and it is their reponsibility to action any such change. In the case of the ***[Church of England](../glossary/#church-of-england)*** a faculty may be necessary. Guidance notes on these should be consulted for any proposed changes within the tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
+Throughout it should be remembered that any substantive change can only be made with proper consultation with the [tower authority](../glossary/#tower-authority) and it is their reponsibility to action any such change. In the case of the [Church of England](../glossary/#church-of-england) a faculty may be necessary. Guidance notes on these should be consulted for any proposed changes within the tower. Further information can be found at **[Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)**.
  {{</hint>}}
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
@@ -17,11 +17,11 @@ The ringing room should be kept tidy and welcoming. This reduces risk and gives 
 
 The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser and are hosted on YouTube. We are grateful for permission to reuse this material. The links are:
 
-- [Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)
+- **[Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)**
 
-- [Looking after ringing rooms and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)
+- **[Looking after ringing rooms and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)**
 
-The CCCBR have produced [Tower environments and their suitability for recruiting and retaining ringers](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-environment-web-version.pdf) which provides a light but serious look at some key issues.
+The CCCBR have produced **[Tower environments and their suitability for recruiting and retaining ringers](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-environment-web-version.pdf)** which provides a light but serious look at some key issues.
 
 ## Access
 
@@ -39,7 +39,7 @@ Consider whether the boxes:
 - are carpeted. This allows them to be stacked safely and without sliding for very young ringers. The use of multiple boxes ought to be avoided whenever possible. 
 - can be wedged if there are uneven floors.
 
-Further details are available at [notes on ringing boxes (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/06/SM_Ringing_Boxes_2020_Ver_1_1.pdf). This document details how to make a 2ft x 2ft box which is stackable. "Fixed" boxes at towers e.g. Exeter (see picture below) are typically larger. The height generally needs to increase and be roughly in a ratio of 0.5-0.6 to the width. There are Health and Safety implications of high (fixed) boxes, but there are also positive sides to them.
+Further details are available at [notes on ringing boxes](../ringingroom/boxes). This document details how to make a 2ft x 2ft box which is stackable. "Fixed" boxes at towers e.g. Exeter (see picture below) are typically larger. The height generally needs to increase and be roughly in a ratio of 0.5-0.6 to the width. There are Health and Safety implications of high (fixed) boxes, but there are also positive sides to them.
 
 Positive reasons for using boxes:
 - Reduced rope wear, as the rope goes into compression (this induces fibre slip and wearing out) when it meets a solid surface.
