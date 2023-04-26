@@ -22,7 +22,7 @@ The very English art of full circle ringing has been practised in this country f
 Because ringing is by definition a group activity (one ringer for each bell being rung), each tower with a ring of bells usually has a local band, led by its chosen tower captain, and usually belonging to the local ringing society. These
 in turn are affiliated to the ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)***, which through its committees seeks to provide help and information about all bell matters, including maintenance of towers and belfries, fundraising, redundant bells, publications, public relations and much more.
 
-The ***[CCCBR website](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)*** has some very useful advice about tower management, health and safety and fire risk assessment for bell towers, among much more information. Look for Stewardship
+The ***[CCCBR website](https://CCCBR.org.uk)*** has some very useful advice about tower management, health and safety and fire risk assessment for bell towers, among much more information. Look for Stewardship
 Leaflets. Alternatively, contact your local ringing society, or DAC bells adviser.
 
 ## The Mechanics
@@ -31,8 +31,7 @@ Leaflets. Alternatively, contact your local ringing society, or DAC bells advise
 
 *Figure 2: Modern bell installation.*
 
-Nearly all ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england)*** churches have at least
-one bell, and a substantial minority (6000 in England, 500 in other English-speaking countries) have rings of five or more bells hung in the English style, so that the bells can be swung through a full circle by means of a rope and wheel, with one ringer for each bell.
+Nearly all ***[Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england)*** churches have at least one bell, and a substantial minority (6000 in England, 500 in other English-speaking countries) have rings of five or more bells hung in the English style, so that the bells can be swung through a full circle by means of a rope and wheel, with one ringer for each bell.
 
 Sets of bells which can be sounded in other ways, by means of hammers of some kind, or by swinging each bell through just a small arc by means of a lever or an incomplete wheel, are called 'chimes' rather than 'rings'. If your bells are hung together in a frame, each with a full wheel, they will probably have been intended for full-circle ringing (although if they are not being used regularly by competent ringers, and have perhaps been neglected for some time, they may not
 be immediately suitable for ringing without initial inspection and maintenance or repair).
