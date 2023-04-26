@@ -88,7 +88,7 @@ If you possibly can, yes. The tower captain or tower secretary should be able to
 
 ### Should ringers charge for ringing for weddings?
 
-It is normal practice for a fee to be charged for wedding ringing. Nowadays, the ringers need to be compensated for the time and cost of travelling to and from the tower, at least as much as for the effort they put into the actual ringing. A policy about payment, including the amount to be charged, should be discussed and agreed with the bell-ringers in advance. The fee is usually paid by the wedding couple, often directly to the ringers. Ringers are volunteers and are generally not legally employees of the church. For advice, have a look at Steve Coleman’s articles 'Ringing and Money' on the ***[Ringing World website](https://www.ringingworld.co.uk)***.
+It is normal practice for a fee to be charged for wedding ringing. Nowadays, the ringers need to be compensated for the time and cost of travelling to and from the tower, at least as much as for the effort they put into the actual ringing. A policy about payment, including the amount to be charged, should be discussed and agreed with the bell-ringers in advance. The fee is usually paid by the wedding couple, often directly to the ringers. Ringers are volunteers and are generally not legally employees of the church. For advice, have a look at Steve Coleman’s articles 'Ringing and Money' on the ***[Ringing World website](https://www.ringingworld.co.uk)***, this will require access by a subscriber.
 
 ### Who should appoint the tower captain?
 
