@@ -19,7 +19,7 @@ The aims of this document are:
 
 If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icon (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
 
-Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in ** bold blue**. Links shown in *italic blue* refer to entries in the 'Glossary' chapter.
+Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in **bold blue**. Links shown in *blue* refer to entries in the 'Glossary' chapter.
 
 ## Image Credits
 
