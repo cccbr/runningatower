@@ -25,7 +25,7 @@ Buildings containing rings of bells too are exploiting new fixtures and fittings
 Towers, however, are not always included in improvement schemes and, in some cases, installations have not recognised the specific needs of ringers for ringing. Traditional tungsten filament bulbs have been phased out so this note aims to offer some basic advice for steeple keepers and ringers. A few specific considerations and options will be presented as a guide. As is typical in ringing, every tower and part of a tower has to be considered on a case by case basis as the situations are so varied.
 
 {{<hint danger>}}
-Caution – It is essential that specialist advice and qualified contractors are used in any major work on electrical lighting. The ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)*** should also be involved; in a church setting, a faculty may be required for more significant modifications to lighting as part of the electrical installations.
+Caution – It is essential that specialist advice and qualified contractors are used in any major work on electrical lighting. The [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) should also be involved; in a church setting, a faculty may be required for more significant modifications to lighting as part of the electrical installations.
 {{</hint>}}
 
 In this short note, suggestions are offered for lighting in (and around) the tower that are suitable for routine ringing. Additional comments are added as guidance for work such as maintenance in and around the tower.
