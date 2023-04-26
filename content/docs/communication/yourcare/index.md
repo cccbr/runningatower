@@ -96,7 +96,7 @@ Ringers soon learn who among their number is competent to lead them. An accepted
 
 ### How do I deal with complaints about noise?
 
-Reasonably and openly in the first instance. Refer to the ***[CCCBR leaflet](https://cccbr.org.uk/wp-content/uploads/2017/05/TSC_GN7v9.pdf)*** on Noise, the Law and the Environmental Health Office. The CCCBR also offer a ***[Complaints Helpline}(https://cccbr.org.uk/resources/stewardship-and-management/dealing-with-complaints/)***, through which additional advice can be obtained quickly.
+Reasonably and openly in the first instance. Refer to the ***[CCCBR leaflet](https://cccbr.org.uk/wp-content/uploads/2017/05/TSC_GN7v9.pdf)*** on Noise, the Law and the Environmental Health Office. The CCCBR also offer a ***[Complaints Helpline](https://cccbr.org.uk/resources/stewardship-and-management/dealing-with-complaints/)***, through which additional advice can be obtained quickly.
 
 ![Ringers](careringers.jpg)
 
