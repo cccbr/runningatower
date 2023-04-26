@@ -9,7 +9,7 @@ weight: 1
 This document addresses key aspects of running a tower.
 {{</hint>}}
 
-It is produced by the *[Stewardship and Management Work Group](../glossary/#smwg)* of the *[CCCBR](../glossary/#cccbr)*.
+It is produced by the [Stewardship and Management Work Group](../glossary/#smwg) of the [CCCBR](../glossary/#cccbr).
 
 ![Broadclyst, Devon](Broadclyst.jpg)
 
