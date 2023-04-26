@@ -7,7 +7,7 @@ type: docs
 
 ![Fotheringhay, Northamptonshire](fotheringhay_350.jpg)
 
-Welcome to *Running a Tower*. This online document, produced by the [Central Council Stewardship & Management Workgroup](../docs/glossary/#smwg), is aimed at the Tower Captain - the person with overall responsibility for looking after all aspects of a tower. That may be an established Tower Captain, one just new to the job or someone wondering if they should take on the role.
+Welcome to *Running a Tower*. This online document, produced by the **[Central Council Stewardship & Management Workgroup](../docs/glossary/#smwg)**, is aimed at the Tower Captain - the person with overall responsibility for looking after all aspects of a tower. That may be an established Tower Captain, one just new to the job or someone wondering if they should take on the role.
 
 The aims of this document are:
 
