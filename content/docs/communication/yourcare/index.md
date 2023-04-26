@@ -22,7 +22,7 @@ The very English art of full circle ringing has been practised in this country f
 Because ringing is by definition a group activity (one ringer for each bell being rung), each tower with a ring of bells usually has a local band, led by its chosen tower captain, and usually belonging to the local ringing society. These
 in turn are affiliated to the ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)***, which through its committees seeks to provide help and information about all bell matters, including maintenance of towers and belfries, fundraising, redundant bells, publications, public relations and much more.
 
-The ***[CCCBR website](https://CCCBR.org.uk)*** has some very useful advice about tower management, health and safety and fire risk assessment for bell towers, among much more information. Look for Stewardship
+The **[CCCBR website](https://CCCBR.org.uk)** has some very useful advice about tower management, health and safety and fire risk assessment for bell towers, among much more information. Look for Stewardship
 Leaflets. Alternatively, contact your local ringing society, or DAC bells adviser.
 
 ## The Mechanics
@@ -96,7 +96,7 @@ Ringers soon learn who among their number is competent to lead them. An accepted
 
 ### How do I deal with complaints about noise?
 
-Reasonably and openly in the first instance. Refer to the ***[CCCBR leaflet](https://cccbr.org.uk/wp-content/uploads/2017/05/TSC_GN7v9.pdf)*** on Noise, the Law and the Environmental Health Office. The CCCBR also offer a ***[Complaints Helpline](https://cccbr.org.uk/resources/stewardship-and-management/dealing-with-complaints/)***, through which additional advice can be obtained quickly.
+Reasonably and openly in the first instance. Refer to the **[CCCBR leaflet](https://cccbr.org.uk/wp-content/uploads/2017/05/TSC_GN7v9.pdf)** on Noise, the Law and the Environmental Health Office. The CCCBR also offer a **[Complaints Helpline](https://cccbr.org.uk/resources/stewardship-and-management/dealing-with-complaints/)**, through which additional advice can be obtained quickly.
 
 ![Ringers](careringers.jpg)
 
@@ -116,13 +116,13 @@ Here are some helpful guidelines on **[safeguarding (CCCBR)](https://cccbr.org.u
 
 ## Sources of Help
 
-### ***[The Central Council of Church Bell Ringers](https://cccbr.org.uk) (*Registered Charity number 270036*)***
+### **[The Central Council of Church Bell Ringers](https://cccbr.org.uk) (*Registered Charity number 270036*)**
 
 Many pages of the website give information about all aspects of ringing (some of it's a bit technical, but do persist). Alternatively you could contact the Council's Honorary Secretary at secretary@cccbr.org.uk.
 
 ### Your local ringing society
 
-***[Contact information](https://cccbr.org.uk/about/affiliated-societies/)*** for ringing societies. Your diocesan website will normally have links to the local ringing societies. Local associations usually have:
+**[Contact information](https://cccbr.org.uk/about/affiliated-societies/)** for ringing societies. Your diocesan website will normally have links to the local ringing societies. Local associations usually have:
 - a Bell Adviser.
 - an Education Officer.
 - a Public Relations Officer.
