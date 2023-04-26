@@ -86,7 +86,7 @@ You will need to consider:
 - Is there emergency lighting and are exits illuminated and with correct signage? Is it tested routinely and records kept?
 - Are there suitable fire extinguishers? Are they regularly inspected with appropriate records?
 - Is First Aid equipment accessible for ringers?
-- Is there an Accident Book available and are serious accidents reported to the ***[tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)***?
+- Is there an Accident Book available and are serious accidents reported to the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority)?
 - Are tower contact details clearly displayed for use in case of emergency?
 - Are emergency exit routes clearly marked?
 - How would emergency services be called, and how would they locate and access the tower and ringers?
