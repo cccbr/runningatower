@@ -116,7 +116,7 @@ Here are some helpful guidelines on **[safeguarding (CCCBR)](https://cccbr.org.u
 
 ## Sources of Help
 
-###***[The Central Council of Church Bell Ringers](https://ccccbr.org.uk) (*Registered Charity number 270036*)***
+### ***[The Central Council of Church Bell Ringers](https://cccbr.org.uk) (*Registered Charity number 270036*)***
 
 Many pages of the website give information about all aspects of ringing (some of it's a bit technical, but do persist). Alternatively you could contact the Council's Honorary Secretary at secretary@cccbr.org.uk.
 
