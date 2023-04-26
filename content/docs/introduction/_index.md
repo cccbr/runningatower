@@ -9,7 +9,7 @@ weight: 1
 This document addresses key aspects of running a tower.
 {{</hint>}}
 
-It is produced by the ***[Stewardship and Management Work Group](../glossary/#smwg)*** of the ***[CCCBR](../glossary/#cccbr)***.
+It is produced by the *[Stewardship and Management Work Group](../glossary/#smwg)* of the *[CCCBR](../glossary/#cccbr)*.
 
 ![Broadclyst, Devon](Broadclyst.jpg)
 
@@ -25,14 +25,15 @@ The content is not intended to be exhaustive.
 
 The following is an overview of what appear in each chapter:
 
-- [Communication](../communication/); how to keep things running smoothly. Communication with people external to the band. Liaison with the relevant ***[tower authority](../glossary/#tower-authority)***, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in [Building a Team](../buildingateam/).)
-- [Formalities](../formalities/); being compliant, safe and successful. Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
-- [Finance](../finance/); income and expenditure including fees.
-- [Health and safety](../healthsafety/); staying safe. Attendance, Insurance, Security, Tower access.
-- [Emergency](../emergency/); what to do if things go wrong.
-- [Ringing Room](../ringingroom/); keeping your tower running smoothly. The hardware commonly found in a ringing room.
-- [Bell Chamber](../bellchamber/); this is is primarily covered in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/).
-- [Building a Team](../buildingateam/); creating a supportive environment. Officers, Meetings, Running ringing sessions.
+- **[Communication](../communication/)**; how to keep things running smoothly. Communication with people external to the band. Liaison with the relevant *[tower authority](../glossary/#tower-authority)*, Faculties, Contact details, Promotion. (Communications within a group of ringers are covered in **[Building a Team](../buildingateam/).)**
+- **[Formalities](../formalities/)**; being compliant, safe and successful. Disclosure and Barring Service (DBS), General Data Protection Regulations (GDPR), Safeguarding.
+- **[Finance](../finance/)**; income and expenditure including fees.
+- **[Health and safety](../healthsafety/)**; staying safe. Attendance, Insurance, Security, Tower access.
+- **[Emergency](../emergency/)**; what to do if things go wrong.
+- **[Ringing Room](../ringingroom/)**; keeping your tower running smoothly. The hardware commonly found in a ringing room.
+- **[Bell Chamber](../bellchamber/)**; this is is primarily covered in **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/)**.
+- **[Building a Team](../buildingateam/)**; creating a supportive environment. Officers, Meetings, Running ringing sessions.
+- **[Bells not rung regulary](../irregular/)**; things to bear in mind when bells are not rung regularly.
 
 ## Image Credits
 
