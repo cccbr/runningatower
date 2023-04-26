@@ -5,7 +5,7 @@ weight: 10
 
 # Bells not rung regularly
 
-The following was previously published as a .pdf file on the ***[CCCBR](../glossary/#CCCBR)*** website.
+The following was previously published as a .pdf file on the ***[CCCBR](../glossary/#cccbr)*** website.
 
 ![unrung room](unrung1.jpg)
 
