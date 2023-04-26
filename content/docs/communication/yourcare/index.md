@@ -47,12 +47,17 @@ If, at present, you do not have any ringers at your tower, for help and support,
 *Figure 3: Ringing meeting.*
 
 Robert van de Weyer, in his book on the Country Church, said: 
+
 “The Christians within a village are like the bells which ring out over its rooftops on Sunday morning. There are not many of them, yet everyone in the village is aware of them. They are gentle and reassuring, yet at times they disturb people. They have been there a very long time, yet they never go out of date. People are slow to respond to their call, but they are regarded with great love and goodwill. To everyone they are a sign of hope and a source of comfort.” 
 
 Others have said: 
+
 “I would give you two examples of how ringing in our tower has had an effect on the parish, apart from letting the locals know we are there every time we ring. The first is that of nine ringers attached to our tower five were not church goers before they took up ringing. Two of them now come occasionally, but almost every week ring for service and join in with church socials on a regular basis. The second is the opportunity to show a welcome to non church people. It doesn't happen often, but on a few occasions over the last couple of years, on our practice nights people have spotted us going in and asked if they might come in to the church.”
+
 “Our band is, roughly, 2/3 non-churchgoers. All of us, however, ring for Sunday service, share in the rota for providing tea/coffee after the Sunday morning service, provide staffing for one or more stalls at the winter/summer fairs, spread awareness of the church's friendliness through talking about ringing there with other friends, run a FB page about our activities that nonringers subscribe to, and act as general awareness-raisers about the possibility of hiring the church hall, etc. Some of the band who do attend services regularly also serve on parish committees, take part in the transport rota for infirm members of the congregation, etc. If an organisation had to pay for all that input I think it would be quite costly.”
+
 “We run three tower open days each year. The Dean recognises this contribution as part of the Cathedral outreach. The open days are very popular with tourists and local people alike. Each time there are a significant number of local people who have never entered the Cathedral before, despite living in the city all their lives.”
+
 “I think you can be either taken for granted by some clergy or really valued... wish more clergy took an interest.”
 
 ## Frequently Asked Questions
