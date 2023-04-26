@@ -5,7 +5,7 @@ weight: 8
 
 # Bell Chamber
 
-The bell installation is covered specifically by [Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/). The information here deals with the need for specific items.  
+The bell installation is covered specifically by **[Belfy Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/)**. The information here deals with the need for specific items.  
 
 ![Low-side metal frame at Broadclyst, Devon](frame_350.jpg)
 
@@ -47,7 +47,7 @@ A rope may be used to tie the clapper. It may be preferred to tie the clapper on
 
 *Figure 7: ART style tie*
 
-***[ART](../glossary/#art)*** recommend a tie based around an old cycle inner tube. 
+[ART](../glossary/#art) recommend a tie based around an old cycle inner tube. 
 
 ![Tyre set for muffled](tyreclose.jpg) ![Tyre set for open](tyreopen.jpg)
 
@@ -57,7 +57,7 @@ A silencer may also be made from a piece of tyre. They can be easily twisted thr
 
 ## Sound Control
 
-Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to individual towers. It is essential that the method of operation is well documented alongside when it should be used. Further details can be found at [sound control in towers (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
+Sound control may be present. This may consist of shutters, trapdoors, etc. Installations are bespoke to individual towers. It is essential that the method of operation is well documented alongside when it should be used. Further details can be found at **[sound control in towers (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf)**.
 
 ## Image Credits
 
