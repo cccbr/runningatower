@@ -112,7 +112,7 @@ there is further useful advice about tower management, health and safety, and fi
 
 ### What about Safeguarding?
 
-Here are some helpful guidelines on [safeguarding (CCCBR)](https://cccbr.org.uk/2022/12/08/launch-of-from-practice-to-perfect/), but as a general rule each diocese issues its own guidance which will cover most bell-ringing situations. These issues cannot, of course, be dealt with fully in a brief text such as this. Your local ringing society will be able to give you more comprehensive advice, and can help, too, with any particular incidents or situations.
+Here are some helpful guidelines on **[safeguarding (CCCBR)](https://cccbr.org.uk/2022/12/08/launch-of-from-practice-to-perfect/)**, but as a general rule each diocese issues its own guidance which will cover most bell-ringing situations. These issues cannot, of course, be dealt with fully in a brief text such as this. Your local ringing society will be able to give you more comprehensive advice, and can help, too, with any particular incidents or situations.
 
 ## Sources of Help
 
