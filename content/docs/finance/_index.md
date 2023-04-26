@@ -12,7 +12,7 @@ weight: 4
 
 *Figure 1: Waiting for the wedding party*
 
-In the *[Church of England](../glossary/#church-of-england)*, the fees for wedding ringing are normally set by the *[PCC](../glossary/#pcc)*, preferably in consultation with the ringers at the AGM. These should reflect whether ringing is: 
+In the [Church of England](../glossary/#church-of-england), the fees for wedding ringing are normally set by the *[PCC](../glossary/#pcc)*, preferably in consultation with the ringers at the AGM. These should reflect whether ringing is: 
 
 - Before and/or after the wedding. 
 
@@ -47,7 +47,7 @@ Avoid having a 'box on the wall', especially for downstairs rings, as these may 
 
 *Figure 2: Example of church electronic donation point*
 
-The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a *[Church of England](../glossary/#c-of-e)*** church implementing this would be the responsibilty of the *[PCC](../glossary/#pcc)* and its treasurer. Such a system may allow Gift Aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed in the case of charities and HMRC registered charitable groups.
+The church may consider having an electronic payment system for fees and casual donations. This may involve a commission charge which, although low, reduces the donation received. Within a *[Church of England](../glossary/#c-of-e)* church implementing this would be the responsibilty of the *[PCC](../glossary/#pcc)* and its treasurer. Such a system may allow Gift Aid to be recovered. It may allow payments for ringing to be captured in an appropriate account. N.B. Consider a request for Gift Aid as this enables income tax to be reclaimed in the case of charities and HMRC registered charitable groups.
 
 A series of articles about Gift Aid appeared in the following issues of the **[Ringing World](https://bb.ringingworld.co.uk/issues.php)**. These were written by Steve Coleman and are available to subscribers; else ask a ringer (or tower) that does subscribe.
 - 5831	(27th January 2023) page	76. An updated overview.
