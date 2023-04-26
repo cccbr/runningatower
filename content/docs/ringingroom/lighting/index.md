@@ -7,7 +7,7 @@ weight: 72
 
 In and around towers.
 
-The following was previously published as a .pdf file on the ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)*** website.
+The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR) website.
 
 ![Old gas light](gaslight.jpg)
 
@@ -97,7 +97,7 @@ Two way switches on the stairs (I.e. the same function achieved at both the top 
 
 ### The Bell Chamber
 
-Lighting in the bell chamber is also covered in [Lighting and electrical equipment](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/#lighting-and-electrical-equipment) in 'Belfry Upkeep'.
+Lighting in the bell chamber is also covered in **[Lighting and electrical equipment](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/#lighting-and-electrical-equipment)** in 'Belfry Upkeep'.
 
 Often a very neglected ‘black hole’, bell chambers do need excellent lighting as they typically have little natural light even during daylight hours.
 
@@ -133,8 +133,7 @@ Failure may be due to accidental operation of a switch, power failure or lamp fa
 
 *Figure 6: Tower with lamps, uplighters and emergency lighting (indicated).*
 
-This should be integrated with the building system in case of power cuts. Ideally, the lighting is integrated with the emergency exit signage. The light source is usually a low power consumption lamp run from rechargeable batteries. Integrated emergency lighting is normally installed with fire/heat-proof cable (technically MICC/MICV or FP200 / FP400). If not integrated with the building system, then a separate system may be purchased and installed relatively economically and safely. While most people using the building may expect to leave in the event of an extended power failure, ringers may (if safe otherwise to do so) wish to continue ringing for up to 45 minutes or even the greater part of 3 hours! Whatever
-approach is adopted, the system must be tested periodically and test records retained.
+This should be integrated with the building system in case of power cuts. Ideally, the lighting is integrated with the emergency exit signage. The light source is usually a low power consumption lamp run from rechargeable batteries. Integrated emergency lighting is normally installed with fire/heat-proof cable (technically MICC/MICV or FP200 / FP400). If not integrated with the building system, then a separate system may be purchased and installed relatively economically and safely. While most people using the building may expect to leave in the event of an extended power failure, ringers may (if safe otherwise to do so) wish to continue ringing for up to 45 minutes or even the greater part of 3 hours! Whatever approach is adopted, the system must be tested periodically and test records retained.
 
 A good quality, rechargeable torch is an asset in any tower, as long as it is kept fully charged and could be retrieved (even by visitors who may not know the tower) in total darkness.
 
