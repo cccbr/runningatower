@@ -5,7 +5,7 @@ weight: 51
 
 # Health & Safety
 
-The following was previously published as a .pdf file on the ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)*** website.
+The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR) website.
 
 ## Advice for Bell Ringers
 
@@ -22,7 +22,7 @@ A policy may include:
 
 The policy should be prepared and approved by the Officers of the Society and reviewed at least annually. It should be available to members and those involved in the society’s activities, for example at an AGM, in annual reports and on the society website.
 
-***[An example document can be downloaded here.](proforma.docx)***
+**[An example document can be downloaded here.](proforma.docx)**
 
 Further Information
 - **[Health and Safety Executive](https://hse.gov.uk/simple-Health-Safety/policy/)** Advice, templates, legal matters (primarily aimed at businesses).
