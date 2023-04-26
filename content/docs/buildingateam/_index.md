@@ -95,7 +95,7 @@ There are resources available at **[CCCBR Publicity material resources](https://
 - Engaging with the Public - useful information for engaging the public with ringing and any ringing-related activity taking place.
 - Publicity Flyer: ‘Bell Ringing is fun and …’ - This leaflet was produced by Sue Hall, originally for the Derby Diocesan Association. It is downloadable and customisable.
 
-The following [CCCBR](..glossary/#CCCBR) guidance is available:
+The following [CCCBR](../glossary/#cccbr) guidance is available:
 - **[Social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf)**.
 - **[Running a successful open day](https://cccbr.org.uk/running-a-successful-tower-open-day-v6/)**.
 
