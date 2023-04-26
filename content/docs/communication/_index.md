@@ -30,7 +30,7 @@ The CCCBR produce a number of leaflets:
 
 - **[From Practice to Perfect](https://cccbr.org.uk/wp-content/uploads/2022/12/From-Practice-to-Perfect-a-short-guide-for-clergy-PCCs-and-Safeguarding-Advisors.pdf)** that is aimed at clergy, PCCs and safeguarding advisors. This guide explains how ringers are trained, safeguarded and organised.
 
-- **[Bells in your care](../communication/care)** contains notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
+- **[Bells in your care](../communication/care/)** contains notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
 ## Faculties 
 
