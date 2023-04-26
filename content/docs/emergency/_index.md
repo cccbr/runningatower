@@ -59,11 +59,11 @@ Further details can be found in the [fire precautions and fire safety](../health
 
 These must be inspected, tested regularly and be in date. 
 
-Emergency lighting must be bright enough to allow the bells to be safely set, should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the ***[tower authority](../glossary/#tower-authority)***. 
+Emergency lighting must be bright enough to allow the bells to be safely set, should the power fail during ringing. Emergency lighting should be tested for 3 hours continuous use and a record held by the [tower authority](../glossary/#tower-authority). 
 
 The design of the fire alarm system should be in accordance with a fire safety plan. 
 
-The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***.
+The reponsibilty for installation and maintenance of these items (including regular checks) lies with the [tower authority](../glossary/#tower-authority).
 
 ## Security
 
