@@ -121,7 +121,7 @@ In the ringing room:
 
 - Lighting needs to be maintained, e.g. bulbs changed, therefore the light fittings should be safely accessible.
 
-- There should be a battery back-up to protect against a blown fuse or power failure in at least one light fitting. The lighting should be 'safety lighting' not 'exit lighting'. The former is brighter. There is further information at [Oxford Diocesan Guild website emergency lighting](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc01_emergency_lighting-3.pdf). N.B. This document is to be updated.
+- There should be a battery back-up to protect against a blown fuse or power failure in at least one light fitting. The lighting should be 'safety lighting' not 'exit lighting'. The former is brighter. There is further information at **[Oxford Diocesan Guild website emergency lighting](https://odg.org.uk/wordpress/wp-content/uploads/2020/01/tbc01_emergency_lighting-3.pdf)**. N.B. This document is to be updated.
 
 If the ringing room has large windows consider some means of reducing direct sunlight which may temporarily blind the ringers e.g. curtains or blinds. 
 
@@ -152,7 +152,7 @@ A band may wish to maintain a visitor's book. This can offer information on who 
 
 *Figure 10: Selection of peal boards*
 
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeacons’ consultation in a ***[Church of England](../glossary/#church-of-england)*** church.
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeacons’ consultation in a [Church of England](../glossary/#church-of-england) church.
 
 Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
@@ -166,7 +166,7 @@ These are the usually the property of the awarding body. However, they are in th
 
 ## Ropes  
 
-See information in the [rope section of Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/).
+See information in the **[rope section of Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/)**.
 
 ![Various knots](knot1.jpg) ![Various knots](knot2.jpg) ![Various knots](knot3.jpg)
 
@@ -182,7 +182,7 @@ It is a good idea to have a few usable spares to cover any bell, as needed. Natu
 
 If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
 
-If unsure, consider contacting your local Society or the ***[CCCBR](../glossary/#cccbr)***.
+If unsure, consider contacting your local Society or the [CCCBR](../glossary/#cccbr).
 
 ## Seating 
 
@@ -205,7 +205,7 @@ These should be usable and not simply rusted away. It may be preferable for the 
 
 ## Teaching aids and a suitable space for teaching. 
 
-This may include model bell(s), simulator(s), books and pictures of the bells above. The latter may include CCTV as explained below. Information on teaching ringing is available on the [ART webpages](https://ringingteachers.org/).
+This may include model bell(s), simulator(s), books and pictures of the bells above. The latter may include CCTV as explained below. Information on teaching ringing is available on the **[ART webpages](https://ringingteachers.org/)**.
 
 The following is a list of possible assets, though not exhaustive. In all cases consider whether these are kept securely and are adequately insured for loss or damage.  
 
@@ -238,7 +238,7 @@ Any fixed wiring needs to be inspected every couple of years by a qualified elec
 
 ## The Ringing Experience 
 
-The [Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/) pages should also be consulted.
+The **[Volunteer and Leadership work group](https://cccbr.org.uk/about/workgroups/volunteer-and-leadership/)** pages should also be consulted.
 
 ### Sound 
 
@@ -246,7 +246,7 @@ Consider the sound levels in the ringing room good. If it is too echoey, conside
 
 Consider the external acoustics. The bells may cause annoyance to neighbours if especially loud. There may be a professional means of reducing this.
 
-Further advice may be available from your local Society or the ***[CCCBR](../glossary/#cccbr)***. If the problem is larger then consult a professional. There is further information at [sound control (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf).
+Further advice may be available from your local Society or the [CCCBR](../glossary/#cccbr). If the problem is larger then consult a professional. There is further information at **[sound control (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2021/01/Mike-Banks-noise.pdf)**.
 
 ## Other areas to consider 
 
