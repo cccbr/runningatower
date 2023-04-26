@@ -194,7 +194,7 @@ A single bulb fitting will give good illumination over a very wide angle but is 
 
 It is also advisable when installing stairway lighting to have a two way switch so that the lights may be turned on at the ringing room doorway should they be turned off at the foot of the stairway by some mischance.
 
-More Information on tower lighting can be found at [lighting](../ringingroom/lighting)**.
+More Information on tower lighting can be found at [lighting]((https://runningatower.cccbr.org.uk/docs/ringingroom/lighting).
 
 ## Other Potential Hazards
 
