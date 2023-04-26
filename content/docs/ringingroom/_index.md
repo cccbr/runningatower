@@ -98,11 +98,11 @@ Curtains can also serve to deaden excessive echo in a ringing room.
 
 ## Electrical Devices 
 
-Power points and powered devices should be checked by a professional, approved by the ***[tower authority](../glossary/#tower-authority)***. Any portable electrical equipment should be subject to regular checks. Devices must be included in the ***[tower authority's](../glossary/#tower-authority)*** register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
+Power points and powered devices should be checked by a professional, approved by the [tower authority](../glossary/#tower-authority). Any portable electrical equipment should be subject to regular checks. Devices must be included in the [tower authority's](../glossary/#tower-authority) register of electrical equipment. If there are too few power points, then additional points should be installed rather than using extension leads and adaptors. Do not daisy chain from one socket.
 
 ## Heating
 
-Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If heating is present this must be with the approval of the ***[tower authority](../glossary/#tower-authority)***. Free standing heaters should not be used.
+Consider arrangements to make the environment comfortable. In summer this may include adequate ventilation. In winter this may include heating. If heating is present this must be with the approval of the [tower authority](../glossary/#tower-authority). Free standing heaters should not be used.
 If the ringing room is open to the rest of the building it is worth investigating the use of screens or curtains to enclose the area.
 
 ## Lighting 
