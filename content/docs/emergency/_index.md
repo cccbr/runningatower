@@ -3,7 +3,7 @@ title: Emergency
 weight: 6
 ---
 
-The following items should ideally be found in a tower, especially the first. The responsibility for providing alarms, extinguishers and exit signage lies with the ***[tower authority](../glossary/#tower-authority)***.
+The following items should ideally be found in a tower, especially the first. The responsibility for providing alarms, extinguishers and exit signage lies with the [tower authority](../glossary/#tower-authority).
 
 # In Case of Emergency 
 
@@ -21,13 +21,13 @@ The ICE should indicate:
 
 - The location. Consider which location provides the best access for larger vehicles such as ambulances or fire appliances. Also, consider the easiest means of access for stretchers, etc. Consider using a combination of the following: 
 
-   - Postcode, this might not uniquely identify a property and will not define the entrance - further details can be found at [Postcode finder](https://www.royalmail.com/find-a-postcode). 
+   - Postcode, this might not uniquely identify a property and will not define the entrance - further details can be found at **[Postcode finder](https://www.royalmail.com/find-a-postcode)**. 
 
-   - What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at [what3words](https://what3words.com/about).  
+   - What3Words, gives an accuracy of approximately 3 metres and may identify the entrance. The system applies to the whole world. It is widely used by emergency services within the UK - further details can be found at **[what3words](https://what3words.com/about)**.  
 
   - Ordnance Survey grid reference, these can be easily transposed when under pressure. Reference can be determined using e.g., google maps. 
 
-- Names of any trained first aiders. Ideally the ***[tower authority](../glossary/#tower-authority)*** should offer training and this should be kept up to date.
+- Names of any trained first aiders. Ideally the [tower authority](../glossary/#tower-authority) should offer training and this should be kept up to date.
 
 - Location of the first aid kit. The first aid kit must be accessible to ringers when the rest of the building is locked. 
 
@@ -47,9 +47,9 @@ Liaise with the local emergency services to discuss their access and also emerge
 
 ## Fire extinguisher and alarms.
 
-These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the ***[tower authority](../glossary/#tower-authority)***.
+These must audible and visible when the bells are being rung. These must be inspected, tested regularly and be in date. Smoke detectors are generally rated for 10 years before requiring replacement. The reponsibilty for installation and maintenance of these items (including regular checks) lies with the [tower authority](../glossary/#tower-authority).
 
-Further details can be found in the [fire protection document (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/07/SM_FireRiskAssessment_2020_Ver_1.pdf).
+Further details can be found in the [fire protection document](../healthsafety/fireprotection).
 
 ![Emergency exit indicator](exit_350.jpg)
 
