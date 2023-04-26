@@ -24,11 +24,11 @@ This includes:
 
 - Risk assessments of which there two guides:
 
-   - **[Standard Risk Assessment](../healthsafety/riskassessment)** provides guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower. There is an accompanying **[Risk Assessment Template download](../healthsafety/riskassessment/proforma.docx)** which may be downloaded, and modified as required, to act as a record of a risk assessment.
+   - [Standard Risk Assessment](../healthsafety/riskassessment) provides guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower. There is an accompanying [Risk Assessment Template download](../healthsafety/riskassessment/proforma.docx) which may be downloaded, and modified as required, to act as a record of a risk assessment.
 
-   - **[Extended Risk Assessment](../healthsafety/riskassessmentextended)** provides guidance on what to do in a tower where the bells have not been rung for an extended period.
+   - [Extended Risk Assessment](../healthsafety/riskassessmentextended) provides guidance on what to do in a tower where the bells have not been rung for an extended period.
 
-- **[Fire precautions and fire safety](../healthsafety/fireprevention)**.
+- [Fire precautions and fire safety](../healthsafety/fireprevention).
 
 - Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the **[Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm)**. Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the [tower authority](../glossary/#tower-authority).
 
