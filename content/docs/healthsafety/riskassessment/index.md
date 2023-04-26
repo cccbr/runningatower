@@ -127,7 +127,7 @@ For more regular inspections and minor works you need to consider:
 - What are the arrangements to eliminate, or at least control, lone working in the bell chamber?
 - Is there adequate lighting?
 - Is the floor under the bells kept clear of oily rags and accumulations of dust?
-- Do any of your bells go up 'wrong' and require manual turning of the clapper? Ecclesiastical Insurance published a relevant note on **[conditions of use applying to change–ringing bells.](https://www.ecclesiastical.com/documents/bell-ringing.pdf).
+- Do any of your bells go up 'wrong' and require manual turning of the clapper? Ecclesiastical Insurance published a relevant note on **[conditions of use applying to change–ringing bells.](https://www.ecclesiastical.com/documents/bell-ringing.pdf)**.
 
 ### Other Areas within the Tower
 
