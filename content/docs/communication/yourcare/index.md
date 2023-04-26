@@ -128,6 +128,8 @@ Many pages of the website give information about all aspects of ringing (some of
 - a Public Relations Officer.
 who will be able to offer advice or help.
 
+## Image Credits
+
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Ropes on a spider | Photo: CCCBR |
