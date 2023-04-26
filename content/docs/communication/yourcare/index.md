@@ -74,7 +74,7 @@ If your church has an active band of ringers, their leader the tower captain can
 
 As with any musical activity, development and maintenance of the required skills requires regular practice.
 
-### How long does it take to train a ringer?
+### How long does it take to train a ringer? 
 
 Learning to control a bell accurately requires skill: developing the necessary skill can take many months. Different people learn at different rates, but 10-15 hours of individual tuition, followed by many more hours learning to ring with other ringers, is not uncommon.
 
