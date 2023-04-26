@@ -7,7 +7,7 @@ weight: 72
 
 In and around towers.
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR) website.
+The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
 ![Old gas light](gaslight.jpg)
 
