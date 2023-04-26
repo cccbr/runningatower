@@ -5,7 +5,7 @@ weight: 54
 
 # Fire Protection and Risk Assessment
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR) website.
+The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
 ## Introduction
 
@@ -33,9 +33,9 @@ In England and Wales the Regulatory Reform (Fire Safety) Order 2005 came into ef
 Scotland and Northern Ireland have separate legislation that is very similar. 
 The Ministry of Housing, Communities and Local Government provides full details and guidance on this on their website (applicable in England and Wales). Ringers should comply with the relevant legislation that is applicable in their local area.
 
-The Fire Safety Order puts duties on persons who are in control of premises (defined as 'responsible persons'). Whilst in most churches the [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#PCC), as a body corporate, will be the overall responsible person, ringers (whether locals or visitors) often have sole responsibility for what takes place in the belfry and ringing room. They should therefore co-operate with the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) to ensure safety.
+The Fire Safety Order puts duties on persons who are in control of premises (defined as 'responsible persons'). Whilst in most churches the [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc), as a body corporate, will be the overall responsible person, ringers (whether locals or visitors) often have sole responsibility for what takes place in the belfry and ringing room. They should therefore co-operate with the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) to ensure safety.
 
-The [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#PCC) has ultimate responsibility for the care and maintenance of all church buildings and their contents, including fire protection and safety. These responsibilities are usually executed by the churchwardens.
+The [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc) has ultimate responsibility for the care and maintenance of all church buildings and their contents, including fire protection and safety. These responsibilities are usually executed by the churchwardens.
 
 The [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) should prepare an Emergency Plan as part of the Risk Assessments and Emergency Plans. This is prepared by the tower authority, in conjunction with ringers and provides information about what should be done in the event of emergencies and other incidents, including fire.
 
