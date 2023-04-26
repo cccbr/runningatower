@@ -24,7 +24,7 @@ A risk assessment of the tower and bells will form part of the risk assessment f
 
 **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/)** may be used as an aide memoire for undertaking basic maintenance checks.
 
-Note that any work to bells, other than what is deemed to be minor maintenance should be done with the correct permissions and faculties in place, and in accordance with all relevant health and safety policies. Advice on faculties is available within **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)**. Few towers were designed or built to comply with current legislation and many are extremely historic and vulnerable structures.
+Note that any work to bells, other than what is deemed to be minor maintenance should be done with the correct permissions and faculties in place, and in accordance with all relevant health and safety policies. **[Advice on faculties](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)** is available within Belfry Upkeep. Few towers were designed or built to comply with current legislation and many are extremely historic and vulnerable structures.
 
 Ringers may be in buildings at times when the building is otherwise unoccupied, and also in parts of the building that are separate and less accessible from the rest of the building.
 
