@@ -7,7 +7,7 @@ weight: 21
 
 Some notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
-The following was previously published as a .pdf file on the ***[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)*** website.
+The following was previously published as a .pdf file on the *[CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#CCCBR)* website.
 
 ## Bell Ringing
 
