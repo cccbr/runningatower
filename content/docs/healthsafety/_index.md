@@ -11,26 +11,26 @@ weight: 5
 
 
 {{<hint danger>}}
-A tower is a non-domestic setting, and as such the ***[tower authority](../glossary/#tower-authority)*** has a duty of care over everyone that enters the site or building. If something happens on the site the ***[tower authority](../glossary/#tower-authority)*** is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This does not reduce the duty of care on ringers to minimise risk.
+A tower is a non-domestic setting, and as such the [tower authority](../glossary/#tower-authority) has a duty of care over everyone that enters the site or building. If something happens on the site the [tower authority](../glossary/#tower-authority) is responsible and can be found negligent for everything that goes on within the building. This is why there are a lot more requirements to manage risks, together with their mitigations and documentation. This does not reduce the duty of care on ringers to minimise risk.
 {{</hint>}}
 
-Further details can be found in the [health and safety policy advice](../healthsafety/healthsafetypolicy).
+Further details can be found in the **[health and safety policy advice](../healthsafety/healthsafetypolicy)**.
 
-Information specific to working in a bell chamber can be found in [Belfry Upkeep Health & Safety](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+Information specific to working in a bell chamber can be found in **[Belfry Upkeep Health & Safety](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/)**.
 
-All policies must be in-line with the ***[tower authority's](../glossary/#tower-authority)*** policies.
+All policies must be in-line with the [tower authority's](../glossary/#tower-authority) policies.
 
 This includes: 
 
 - Risk assessments of which there two guides:
 
-   - [Standard Risk Assessment](../healthsafety/riskassessment) provides guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower. There is an accompanying [Risk Assessment Template download](../healthsafety/riskassessment/proforma.docx) which may be downloaded, and modified as required, to act as a record of a risk assessment.
+   - **[Standard Risk Assessment](../healthsafety/riskassessment)** provides guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower. There is an accompanying **[Risk Assessment Template download](../healthsafety/riskassessment/proforma.docx)** which may be downloaded, and modified as required, to act as a record of a risk assessment.
 
-   - [Extended Risk Assessment](../healthsafety/riskassessmentextended) provides guidance on what to do in a tower where the bells have not been rung for an extended period.
+   - **[Extended Risk Assessment](../healthsafety/riskassessmentextended)** provides guidance on what to do in a tower where the bells have not been rung for an extended period.
 
-- [Fire precautions and fire safety](../healthsafety/fireprevention).
+- **[Fire precautions and fire safety](../healthsafety/fireprevention)**.
 
-- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the [Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm). Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the ***[tower authority](../glossary/#tower-authority)***.
+- Electrical power, lighting and emergency lighting. The inspection and test records, including annual Portable Appliance Testing (PAT) of relevant appliances. Further details on PAT can be found on the **[Health and Safety Executive website](https://www.hse.gov.uk/electricity/faq-portable-appliance-testing.htm)**. Earth bonding testing of the tower and lightning protection should also be carried out by suitably qualified professionals, these would be engaged by the [tower authority](../glossary/#tower-authority).
 
 - Accidents and illness. An accident and emergency record may be present and must be completed as appropriate.
 
@@ -54,15 +54,15 @@ Ringing is not risk free. Your first responsibility, as the person in charge, is
 
 ## Attendance Record(s) 
 
-These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit times (including date). The ***[tower authority](../glossary/#tower-authority)*** may require further details to be logged. 
+These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit times (including date). The [tower authority](../glossary/#tower-authority) may require further details to be logged. 
 
 Towers may wish to have a separate (traditional) visitors' book as an historic record. 
 
 ## Additional requirements 
 
-The ***[tower authority](../glossary/#authority)*** may have other requirements and these should be discussed with the authority. These may arise from insurance or other reasons. 
+The [tower authority](../glossary/#authority) may have other requirements and these should be discussed with the authority. These may arise from insurance or other reasons. 
 
-Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The ***[CCCBR](../glossary/#cccbr)*** website will normally detail the latest guidance in such cases.
+Special precautions may need to be put in place from time to time e.g., the requirements put in place during the Covid-19 pandemic. The [CCCBR](../glossary/#cccbr) website will normally detail the latest guidance in such cases.
 
 ## First Aid Kit 
 
@@ -74,21 +74,21 @@ Ideally there should be a first aid kit in the ringing room.
 
 Ensure the location of the first aid kit is indicated, especially if it is elsewhere within the premises. 
 
-Regularly check that all items are within date. The kit should be listed on the ***[tower authority's](../glossary/#tower-authority)*** log of first aid kits together with records of periodic inspections.
+Regularly check that all items are within date. The kit should be listed on the [tower authority's](../glossary/#tower-authority) log of first aid kits together with records of periodic inspections.
 
 ## Security 
 
-Further details can be found in [security for ringers](../healthsafety/security).
+Further details can be found in **[security for ringers](../healthsafety/security)**.
 
-A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the ***[tower authority](../glossary/#tower-authority)***. This may be a condition of the building insurance.
+A limited number of keys to the building (and internal doors) may be held by the ringers. Consider the number of keys and key holders. There is a balance between security (preventing access) and enabling reasonable access. A single key for each lock is inadvisable, as this may present difficulties at times of sickness or absence. All keys should be registered with the [tower authority](../glossary/#tower-authority). This may be a condition of the building insurance.
 
 ## Tower Access
 
 {{<hint info>}} 
-**It may be worth producing a formal access policy in consultation with the ***[tower authority](../glossary/#tower-authority)***.**
+**It may be worth producing a formal access policy in consultation with the [tower authority](../glossary/#tower-authority).**
 {{</hint>}}
 
-Further information can be found in [tower access](../healthsafety/toweraccess).
+Further information can be found in **[tower access](../healthsafety/toweraccess)**.
 
 Emergency exits should be clearly indicated and must never be compromised.
 
@@ -96,11 +96,11 @@ Spiders and ropes should ideally be left inaccessible e.g. locked away. This is 
 
 Turning clappers when bells are up should be avoided in all but exceptional cases, such as heavy bells that are extremely difficult or impossible to rise right-sided. 
 
-Information, for those working on bell installations, is available in [Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/).
+Information, for those working on bell installations, is available in **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/040-health-and-safety/)**.
 
 Bells should not be left up (raised) for extended periods between ringing sessions, especially where access to the bell and ringing rooms is not secured. This may not apply to heavier rings e.g. where the tenor is over 20cwt. However, in such cases, access must be controlled. Such access should be limited to experienced ringers and trained people.
 
-There is advice on the [Eccclesiatical Insurance Group website](https://www.ecclesiastical.com/documents/bell-ringing.pdf), however this is not written by the ***[CCCBR](../glossary/#cccbr)***. The following summary appeared in the Ringing World:
+There is advice on the **[Eccclesiatical Insurance Group website](https://www.ecclesiastical.com/documents/bell-ringing.pdf)**, however this is not written by the [CCCBR](../glossary/#cccbr). The following summary appeared in the Ringing World:
 
 {{<hint info>}}
 
