@@ -11,31 +11,30 @@ weight: 2
 
 *Figure 1: Heavitree, Devon*
 
-The term ***[tower authority](../glossary/#tower-authority)*** is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed.
-About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the ***[Church of England](../glossary/#church-of-england)***. In these cases, the legal ownership of the bells is vested in the Churchwardens. The ***[PCC](../glossary/#pcc)*** has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. The representative can act as an additional liaison, advising on how ringing is carried out and involving the ringers in important decisions (especially those that may affect ringing).
+The term *[tower authority](../glossary/#tower-authority)* is used to mean the owner(s) and / or person(s) responsible for the bells and the tower in which they are installed.
+About 90% of rings of bells, hung for full circle change ringing, are in buildings forming part of the *[Church of England](../glossary/#church-of-england)*. In these cases, the legal ownership of the bells is vested in the Churchwardens. The *[PCC](../glossary/#pcc)* has a duty for the use, maintenance and insurance of the bells. It is recommended to have a ringing representative on the PCC. The representative can act as an additional liaison, advising on how ringing is carried out and involving the ringers in important decisions (especially those that may affect ringing).
 
 ![Exeter Cathedral, Devon](exeter_cathedral_350.jpg)
 
 *Figure 2: Exeter Cathedral, Devon*
 
-Elsewhere, for example in ***[Church of England](../glossary/#church-of-england)*** cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different lines of authority. 
+Elsewhere, for example in *[Church of England](../glossary/#church-of-england)* cathedrals, churches of other denominations and other religious buildings worldwide, there are likely to be different lines of authority. 
 
 ![Mobile Belfry 2 at CCCBR, Nottingham](Mobile2_350.jpg)
 
 *Figure 3: Mobile Belfry 2 at CCCBR Roadshow, September 2022*
 
-***[Tower authority](../glossary/#tower-authority)*** also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – e.g. the Local Authority for a municipal ring of bells, or a private owner. 
+*[Tower authority](../glossary/#tower-authority)* also means those owning and / or responsible for rings of bells that are mobile or in secular buildings – e.g. the Local Authority for a municipal ring of bells, or a private owner. 
 
 The CCCBR produce a number of leaflets:
 
-- [From Practice to Perfect](https://cccbr.org.uk/wp-content/uploads/2022/12/From-Practice-to-Perfect-a-short-guide-for-clergy-PCCs-and-Safeguarding-Advisors.pdf) that is aimed at clergy, PCCs and safeguarding advisors. This guide explains how ringers are trained, safeguarded and organised.
+- **[From Practice to Perfect](https://cccbr.org.uk/wp-content/uploads/2022/12/From-Practice-to-Perfect-a-short-guide-for-clergy-PCCs-and-Safeguarding-Advisors.pdf)** that is aimed at clergy, PCCs and safeguarding advisors. This guide explains how ringers are trained, safeguarded and organised.
 
-- [Bells in your care](https://cccbr.org.uk/wp-content/uploads/2016/05/Bells-in-Your-Care.pdf) which contains notes for incumbents and churchwardens who
-find themselves responsible for a ring of church bells.
+- **[Bells in your care](../communication/care)** contains notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
 ## Faculties 
 
-These are applicable to bells and towers within the ***[Church of England](../glossary/#church-of-england)***. Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at [Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/).
+These are applicable to bells and towers within the *[Church of England](../glossary/#church-of-england)*. Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at **[Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)**.
 
 ## Contact Details 
 
@@ -59,7 +58,8 @@ It is useful to display contact details such that they are visible when the buil
 
 *Figure 5: Sample of ringing society badges*
 
-The body may have the title of Association, Guild, Society, etc. The term ringing society will be used in this document. The ringing society may cover the local area, county, diocese or country. A ringing society would normally have individual ringers as members. It may be that the society has an affiliate membership for other bodies e.g. ***[PCC](./glossary/#PCC)***.
+The body may have the title of Association, Guild, Society, etc. The term ringing society will be used in this document. The ringing society may cover the local area, county, diocese or country. A ringing society would normally have individual ringers as members. It may be that the society has an affiliate membership for other bodies e.g. *[PCC](./glossary/#PCC)*.
+
 There may be advantages to membership of a ringing society such as: 
 
 - Access to training and development. 
@@ -78,9 +78,9 @@ There may be advantages to membership of a ringing society such as:
 
 - Taking committee positions which may help develop individuals. Young people may gain experience for future careers. 
 
-- Ringing societies often have influence with the relevant ***[tower authority](../glossary/#tower-authority)***.
+- Ringing societies often have influence with the relevant *[tower authority](../glossary/#tower-authority)*.
 
-Most ringing societies are affiliated to the ***[CCCBR](../glossary/#cccbr)***. 
+Most ringing societies are affiliated to the *[CCCBR](../glossary/#cccbr)*. 
 
 ## Promotion 
 
@@ -90,13 +90,13 @@ Most ringing societies are affiliated to the ***[CCCBR](../glossary/#cccbr)***.
 
 Consider the use of: 
 
-- Posters outside, or inside, the building. Ensure that these are kept up to date, especially contact details. [Publicity materials are available on the CCCBR website](https://cccbr.org.uk/resources/publicity-material/), this includes downloadable templates.
+- Posters outside, or inside, the building. Ensure that these are kept up to date, especially contact details. **[Publicity materials are available on the CCCBR website](https://cccbr.org.uk/resources/publicity-material/)**, this includes downloadable templates.
 
 - Flags, banners and publicity stands. These may be available from a local ringing society.  
 
 - Publicity away from the building, especially where the building is not on a main thoroughfare. 
 
-- Regular updates in the parish magazine, local press, radio, television and social media. [A document on engaging with the press](https://cccbr.org.uk/wp-content/uploads/2022/11/Press-Info.pdf) and [a document on guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf) are available on the CCCBR website.
+- Regular updates in the parish magazine, local press, radio, television and social media. **[A document on engaging with the press](https://cccbr.org.uk/wp-content/uploads/2022/11/Press-Info.pdf)** and **[a document on guidance on the use of social media](https://cccbr.org.uk/wp-content/uploads/2020/10/200902-Social_Media_Guidance.pdf)** are available on the CCCBR website.
 
 Publicise events when these are not a regular occurrence e.g., striking competitions, ringing for special events. Consider placing these in the parish magazine, on the building website and the building social media account. If extended ringing is to take place, consider posting flyers in the vicinity and through letter boxes of properties within earshot. Be aware that this may lead to strong opposers attempting to get their retailation in first.
 
