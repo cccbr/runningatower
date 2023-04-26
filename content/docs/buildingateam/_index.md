@@ -59,7 +59,7 @@ There are proprietary apps available that might be of use in arranging a calenda
 
 ### Arranging Ringing
 
-If you are not used to running ringing, doing so can seem daunting. There is no need for it to be so. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. [Further suggestions on how to run a ringing session.](../buildingateam/planning)
+If you are not used to running ringing, doing so can seem daunting. There is no need for it to be so. You are going to ask certain ringers to try and ring certain things. This means you have to judge who can ring what and what they will find useful or, ideally and, enjoy. No one gets that right all the time. With practice you will get better at it. [Further suggestions](../buildingateam/planning) on how to run a ringing session.
 
 Perhaps the most important things to remember are:
 -	Ringers are volunteers. They are at the session because they want to be.
