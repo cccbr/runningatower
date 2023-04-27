@@ -168,9 +168,9 @@ These are the usually the property of the awarding body. However, they are in th
 
 See information in the **[rope section](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/)**  of Belfry Upkeep.
 
-![Various knots](knot1.jpg) ![Various knots](knot2.jpg) ![Various knots](knot3.jpg)
+![Various knots](knot1.jpg) ![Various knots](knot2.jpg) ![Various knots](knot3.jpg)  ![Various knots](knot4.jpg)
 
-*Figures 12-14: Variety of knots used to tie bell ropes*
+*Figures 12-15: Variety of knots used to tie bell ropes*
 
 {{<hint danger>}}
 There are many different ways of tying a bell rope. It is important not to rely on the type of knot as an indication of whether a bell is raised or not. This should always be done by taking hold of the rope as if about to ring and then feeling whether it is set or not.
@@ -201,7 +201,7 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 ![Stable tools](tools_350.JPG)
 
-*Figure 15: Collection of tools suitable for bell installations*
+*Figure 16: Collection of tools suitable for bell installations*
 
 These should be usable and not simply rusted away. It may be preferable for the Steeple Keeper (or person doing maintenance) to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
@@ -215,7 +215,7 @@ The following is a list of possible assets, though not exhaustive. In all cases 
 
 ![Demonstration bell](model_350.JPG)
 
-*Figure 16: Model demonstration bell*
+*Figure 17: Model demonstration bell*
 
 If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
 
@@ -223,7 +223,7 @@ If possible, a model bell should be portable allowing its use for demonstrations
 
 ![Set of handbells in carrying cases](handbells_350.JPG)
 
-*Figure 17: Set of handbells in carrying cases*
+*Figure 18: Set of handbells in carrying cases*
 
 If these are not usable, consider restoration otherwise they are merely a display item.
 
@@ -233,7 +233,7 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 
 ![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
 
-*Figure 18: Simulator installation in ringing room*
+*Figure 19: Simulator installation in ringing room*
 
 All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
 Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
@@ -256,7 +256,7 @@ Further advice may be available from your local Society or the [CCCBR](../glossa
 
 ![CCTV at Ledbury](cctv_350.jpg)
 
-*Figure 19: CCTV display in ringing room*
+*Figure 20: CCTV display in ringing room*
 
 This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
@@ -291,12 +291,12 @@ There may be accessible parking as part of the premises although access is proba
 | 9 | Visitor's book | Photo: Tony Crabtree |
 | 10 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
 | 11 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
-| 12-14 | Selection of knots in bell ropes | Photo: James Kirkcaldy |
-| 15 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
-| 16 | Model demonstration bell | Photo: Tony Crabtree |
-| 17 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 18 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 19 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
+| 12-15 | Selection of knots in bell ropes | Photo: James Kirkcaldy |
+| 16 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 17 | Model demonstration bell | Photo: Tony Crabtree |
+| 18 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 19 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 20 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 
 ----
 
