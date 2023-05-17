@@ -44,7 +44,7 @@ going again, both for practices and services.
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Infrequently used ringing room | Photo: CCCBR |
-| 2 | Tidy up needed | Photo: CCCBR |
+| 2 | Tidy up needed | Photo: Alison Hodge |
 
 ----
 
