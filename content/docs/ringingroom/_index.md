@@ -11,7 +11,7 @@ Throughout it should be remembered that any substantive change can only be made 
 
 ![Ringing room at St Machar, Aberdeen](aberdeen350.jpg)
 
-*Figure 1: Welcoming ringing chamber*
+ *Figure 1: Welcoming ringing chamber*
 
 The ringing room should be kept tidy and welcoming. This reduces risk and gives a good impression to any visitors, especially potential recruits.
 
@@ -19,9 +19,11 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 {{< youtube a9dBoQGnmOE >}}
 
-- **[Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)**
+*Figure 2: Making ringers welcome and comfortable*
 
-- **[Looking after ringing rooms and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)**
+{{< youtube - O4R-yfxXvPc >}}
+
+*Figure 3: Looking after ringing rooms and access*
 
 The CCCBR have produced **[Tower environments and their suitability for recruiting and retaining ringers](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-environment-web-version.pdf)** which provides a light but serious look at some key issues.
 
@@ -33,7 +35,7 @@ This is covered in [health and safety](../healthsafety).
 
 ![Selection of boxes](boxes_350.JPG)
 
-*Figure 2: Stacked boxes*
+*Figure 4: Stacked boxes*
 
 Consider whether the boxes:
 - are secure and suitable for use. 
@@ -57,7 +59,7 @@ Consider whether a box for a heavy bell should be fixed or not. Fixed boxes may 
 
 ![Carpet, mats and boxes at Exeter Cathedral](floor_350.jpg)
 
-*Figure 3: Modern carpet, mats and boxes:*
+*Figure 5: Modern carpet, mats and boxes:*
 
 These should be fit for purpose. They are especially important on stone floors. Try to avoid walking on rope mats as any grit or mud on shoes may be as damaging as the floor. Both carpets and rope mats should be kept clean.
 
@@ -71,7 +73,7 @@ There is a commonly held belief that wool is better, however this anecdotal. Mos
 
 ![Rope guide at Melbourne, Derbyshire](guide_350.JPG)
 
-*Figure 4: Rope guide for twelve bells*
+*Figure 6: Rope guide for twelve bells*
 
 Consider whether the rope bosses are at the optimum height. If too high the ropes can be flighty. If too low the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell just reachs the guide whilst that of the heaviest bell does not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
@@ -83,7 +85,7 @@ If the rope circle is poor or very unequally spaced, consider seeking advice as 
 
 ![Ellacombe chiming frame](ellacombe_350.jpg) ![Electronic control unit](apollo_350.jpg)
 
-*Figure 5 (left): Ellacombe chiming apparatus. Figure 6 (right): Electronic control unit and spider control*
+*Figure 7 (left): Ellacombe chiming apparatus. Figure 8 (right): Electronic control unit and spider control*
 
 This includes Ellacombe apparatus, chiming hammers, clock hammers and electronic units (e.g., Apollo and similar). 
 Ensure that these are correctly set before ringing, especially when the apparatus is not in the ringing room. A warning notice should be prominently displayed. This should include advice on how to setand check the setting of the apparatus. 
@@ -111,7 +113,7 @@ If the ringing room is open to the rest of the building it is worth investigatin
 
 ![A well lit ringing room](well_lit_350.jpg)
 
-*Figure 7: Well lit ringing chamber*
+*Figure 9: Well lit ringing chamber*
 
 Further details can be found at [lighting in and around towers](../ringingroom/lighting).  
 
@@ -131,7 +133,7 @@ If the ringing room has large windows consider some means of reducing direct sun
 
 ![Typical notice board](notice_350.JPG)
 
-*Figure 8: Notice board*
+*Figure 10: Notice board*
 
 Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.  
 
@@ -144,7 +146,7 @@ found in the History and Archive work group pages.
 
 ![Visitor book](visitors_350.JPG)
 
-*Figure 9: Visitor's book* 
+*Figure 11: Visitor's book* 
 
 A band may wish to maintain a visitor's book. This can offer information on who has visited in the past when researching.
 
@@ -152,7 +154,7 @@ A band may wish to maintain a visitor's book. This can offer information on who 
 
 ![Peal boards at St. Mark, Exeter, Devon](peals_350.jpg)
 
-*Figure 10: Selection of peal boards*
+*Figure 12: Selection of peal boards*
 
 Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeacons’ consultation in a [Church of England](../glossary/#church-of-england) church.
 
@@ -162,7 +164,7 @@ Older peal boards may require restoration. There are specialist firms providing 
 
 ![Ringing trophies at Exeter Cathedral, Devon](trophies_350.jpg)
 
-*Figure 11: Selection of ringing trophies*
+*Figure 13: Selection of ringing trophies*
 
 These are the usually the property of the awarding body. However, they are in the care of the tower and should be kept securely. Insurance of these items is normally the responsibility of the awarding body.
 
@@ -172,7 +174,7 @@ See information in the **[rope section](https://belfryupkeep.cccbr.org.uk/docs/1
 
 ![Various knots](knot1a.jpg) ![Various knots](knot2a.jpg) ![Various knots](knot3a.jpg)  ![Various knots](knot4a.jpg)
 
-*Figures 12-15: Variety of knots used to tie bell ropes*
+*Figures 14-17: Variety of knots used to tie bell ropes*
 
 {{<hint danger>}}
 There are many different ways of tying a bell rope. It is important not to rely on the type of knot as an indication of whether a bell is raised or not. This should always be done by taking hold of the rope as if about to ring and then feeling whether it is set or not.
@@ -203,7 +205,7 @@ Consider whether storage spaces need to be lockable. This is especially importan
 
 ![Stable tools](tools_350.JPG)
 
-*Figure 16: Collection of tools suitable for bell installations*
+*Figure 18: Collection of tools suitable for bell installations*
 
 These should be usable and not simply rusted away. It may be preferable for the Steeple Keeper (or person doing maintenance) to provide their own tools. Tower tools may have a habit of “walking” or being misused, even by well-intentioned people!
 
@@ -217,7 +219,7 @@ The following is a list of possible assets, though not exhaustive. In all cases 
 
 ![Demonstration bell](model_350.JPG)
 
-*Figure 17: Model demonstration bell*
+*Figure 19: Model demonstration bell*
 
 If possible, a model bell should be portable allowing its use for demonstrations outside of the tower.  
 
@@ -225,7 +227,7 @@ If possible, a model bell should be portable allowing its use for demonstrations
 
 ![Set of handbells in carrying cases](handbells_350.JPG)
 
-*Figure 18: Set of handbells in carrying cases*
+*Figure 20: Set of handbells in carrying cases*
 
 If these are not usable, consider restoration otherwise they are merely a display item.
 
@@ -235,7 +237,7 @@ If handbells are considered a useful resource a cheap option is a set of eight �
 
 ![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
 
-*Figure 19: Simulator installation in ringing room*
+*Figure 21: Simulator installation in ringing room*
 
 All components should be kept securely and the electrical components must have been PAT tested by an approved contractor.
 Any fixed wiring needs to be inspected every couple of years by a qualified electrician. Any fixed wiring should also have been installed by an electrician to BS7671. This generally covers circuits up to sockets, anything plugged into a socket is portable appliance.
@@ -258,7 +260,7 @@ Further advice may be available from your local Society or the [CCCBR](../glossa
 
 ![CCTV at Ledbury](cctv_350.jpg)
 
-*Figure 20: CCTV display in ringing room*
+*Figure 22: CCTV display in ringing room*
 
 This may cover multiple areas. Images of the ringing room and bell chamber are useful for visitors who may not be able to access the tower. Images of the bell chamber are useful for learners. Images of other areas in and around the building may provide additional security, etc.
 
@@ -283,22 +285,24 @@ There may be accessible parking as part of the premises although access is proba
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Ringing room at St Machar, Aberdeen | Photo: CCCBR archive |
-| 2 | Pile of carpeted boxes |  Photo: Tony Crabtree |
-| 3 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
-| 4 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
-| 5 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
-| 6 | Electronic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
-| 7 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
-| 8 | Notice board | Photo: Tony Crabtree |
-| 9 | Visitor's book | Photo: Tony Crabtree |
-| 10 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
-| 11 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
-| 12-15 | Selection of knots in bell ropes | Photo: James Kirkcaldy |
-| 16 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
-| 17 | Model demonstration bell | Photo: Tony Crabtree |
-| 18 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
-| 19 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
-| 20 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
+| 2 | Making ringers welcome and comfortable | Video: Tom Ridgman |
+| 3 | Looking after ringing rooms and access | Video: Tom Ridgman |
+| 4 | Pile of carpeted boxes |  Photo: Tony Crabtree |
+| 5 | Carpets, mats and boxes at Exeter Cathedral | Photo: James Kirkcaldy |
+| 6 | Rope Guide frame at Melbourne, Derbyshire | Photo: James Kirkcaldy |
+| 7 | Ellacombe chiming apparatus | Photo: James Kirkcaldy |
+| 8 | Electronic control unit and spider control at Exeter Cathedral | Photo: James Kirkcaldy |
+| 9 | Well lit ringing room at Great Barton, Suffolk | Photo: CCCBR archive |
+| 10 | Notice board | Photo: Tony Crabtree |
+| 11 | Visitor's book | Photo: Tony Crabtree |
+| 12 | Peal boards at St Mark, Exeter | Photo: James Kirkcaldy |
+| 13 | Competition trophies at Exeter Cathedral | Photo: James Kirkcaldy |
+| 14-17 | Selection of knots in bell ropes | Photo: James Kirkcaldy |
+| 18 | Collection of tools suitable for use on a bell installation | Photo: Tony Crabtree |
+| 19 | Model demonstration bell | Photo: Tony Crabtree |
+| 20 | Set of fourteen handbells in carrying cases | Photo: James Kirkcaldy |
+| 21 | Using the simulator at Great Gransden, Cambridgeshire | Photo: CCCBR archive |
+| 22 | Multiple channel CCTV at Ledbury, Herefordshire| Photo: Alison Hodge |
 
 ----
 
