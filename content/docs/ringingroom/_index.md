@@ -17,6 +17,8 @@ The ringing room should be kept tidy and welcoming. This reduces risk and gives 
 
 The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Adviser and are hosted on YouTube. We are grateful for permission to reuse this material. The links are:
 
+{{< youtube a9dBoQGnmOE >}}
+
 - **[Making ringers welcome and comfortable](https://www.youtube.com/watch?v=a9dBoQGnmOE)**
 
 - **[Looking after ringing rooms and access](https://www.youtube.com/watch?v=O4R-yfxXvPc)**
