@@ -21,7 +21,7 @@ The following short videos were prepared by Tom Ridgman, Ely Diocesan Bells Advi
 
 *Figure 2: Making ringers welcome and comfortable*
 
-{{< youtube - O4R-yfxXvPc >}}
+{{< youtube O4R-yfxXvPc >}}
 
 *Figure 3: Looking after ringing rooms and access*
 
