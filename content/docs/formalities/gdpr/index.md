@@ -9,7 +9,7 @@ The following was previously published as a .pdf file on the [CCCBR](https://run
 
 ## Overview
 
-The GDPR was applicable in EU member states from 25 May 2018. It does not require national legislation to be implemented and when the UK left the EU, the GDPR - like other directly applicable EU legislation - became part of the UK’s domestic law under the European Union (Withdrawal) Bill. The Data Protection Bill replaces the 1998 Data Protection Act (DPA), incorporates the GDPR and the Law Enforcement Directive into UK law and deals with permitted derogations.
+The GDPR was applicable in EU member states from 25 May 2018. It did not require national legislation to be implemented and when the UK left the EU, the GDPR - like other directly applicable EU legislation - became part of the UK’s domestic law under the European Union (Withdrawal) Bill. The Data Protection Bill replaced the 1998 Data Protection Act (DPA), incorporates the GDPR and the Law Enforcement Directive into UK law and deals with permitted derogations.
 
 The GDPR is only concerned with personal data, i.e. any information related to an identified or identifiable living individual. It provides a more detailed definition than the DPA 1998, making clear that information such as an online identifier can also be personal data; reflecting changes in technology and the way organisations collect information about people.
 
