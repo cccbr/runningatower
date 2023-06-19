@@ -25,7 +25,7 @@ Permission must be obtained from parents or guardians of under 18s. It may be th
 
 Membership lists and contact details must be kept secure. Access should be restricted to a defined list of officers. Parental details must be held for under 18s along with a date of birth, to indicate when a minor becomes an adult.  
 
-Further details can be found at **[General Data Protection Regulation (CCCBR)](https://cccbr.org.uk/wp-content/uploads/2020/02/GDPR-Chris-Mew.pdf)**.
+Further details can be found at **[GDPR](../formalities/gdpr)**.
 
 ## Insurance 
 
