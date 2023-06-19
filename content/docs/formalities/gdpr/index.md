@@ -26,12 +26,12 @@ The GDPR retains the existing rights of data subjects and introduces enhanced ri
 For processing to be lawful under the GDPR, you need to identify a **lawful basis**. These are often referred to as the “conditions for processing” under the DPA. It is important that you determine your lawful basis for processing personal data and document this. Under the GDPR your lawful basis for processing has differing effects on individuals’ rights. For example, if you rely on someone’s consent to process their data, they will generally have stronger rights, for example to have their data deleted. 
 
 There are six lawful bases available for processing personal data:
-- 1. Consent of the data subject.
-- 2. Processing is necessary for the performance of a contract with the data subject or to take steps to enter into a contract.
-- 3. Processing is necessary for compliance with a legal obligation.
-- 4. Processing is necessary to protect the vital interests of a data subject or another person
-- 5. Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
-- 6. Processing is necessary for the purposes of legitimate interests pursued by the controller or a third party, except where such interests are overridden by the interests, rights or freedoms of the data subject.
+- Consent of the data subject.
+- Processing is necessary for the performance of a contract with the data subject or to take steps to enter into a contract.
+- Processing is necessary for compliance with a legal obligation.
+- Processing is necessary to protect the vital interests of a data subject or another person
+- Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
+- Processing is necessary for the purposes of legitimate interests pursued by the controller or a third party, except where such interests are overridden by the interests, rights or freedoms of the data subject.
 
 There are 10 lawful bases for processing special categories of data (i.e. data relating to racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, health, sex life or sexual orientation).
 
