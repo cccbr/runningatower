@@ -15,6 +15,15 @@ The aims of this document are:
 - To help you make your tower an enjoyable place to be.
 - To give you hints on how to run the tower.
 
+The Stewardship & Management Workgroup have produced two other documents:
+
+- **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/)** which is aimed at the Steeple Keeper – the one responsible for keeping the bells in order. The aims of that document are:
+    - To help with an understanding of the installation in the tower.
+    - To describe checks to carry out to identify any problems.
+    - To advise on maintenance tasks, possibly with expert advice or assistance.
+    - Most importantly, to help identify the tasks that require specialist knowledge from a Bell Hanger or other expert.
+ - **[Belfry Projects](https://belfryprojects.cccbr.org.uk/)** which offers advice to anyone who is considering a project to install bells or undertake restoration work on a bell installation in a bell tower.
+
 ## Finding your way round this document
 
 If you are working on a computer browser (or on a tablet in landscape orientation) you will see a navigation menu with links to all the chapters on the left, and a menu with links to sections in the current chapter on the right. On a narrower screen (a phone or a tablet in portrait orientation), you will need to click on the menu icon (three stacked horizontal lines) at the top of the page to see either menu. Another click takes you back to the full text. For those who want to read the document straight through, and to help those reading on small screens, there are links at the end of each chapter to the next and the previous chapter.
