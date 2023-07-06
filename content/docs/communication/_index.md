@@ -32,6 +32,8 @@ The CCCBR produce a number of leaflets:
 
 - **[Bells in your care](../communication/yourcare/)** contains notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
+- **[Frequently asked questions](../communication/faqs/)** contains a number of questions put together by the **[Guild of Clerical Ringers]((http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+
 ## Faculties 
 
 These are applicable to bells and towers within the [Church of England](../glossary/#church-of-england). Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at **[Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)**.
