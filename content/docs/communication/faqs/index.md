@@ -30,7 +30,7 @@ For nearly all church activity, the vicar shares responsibility with the church 
 
 ### Where do these people fit in - Churchwardens, verger ….?
 
-Churchwardens are officers of the Bishop, elected by the parish, and play a significant role as set out in Canons E1and E2 of the Church of England i.e. [the “laws” of the church](https://www.churchofengland.org/more/policy-and-thinking/canonschurch-england), as they are responsible with the vicar for much of what happens in a church, especially during a clergy vacancy. It is essential for ringers to know the Churchwardens and keep in communication with them.
+Churchwardens are officers of the Bishop, elected by the parish, and play a significant role as set out in Canons **[E1](https://www.churchofengland.org/about/leadership-and-governance/legal-services/canons-church-england/section-e#b94)** and **[E2](https://www.churchofengland.org/about/leadership-and-governance/legal-services/canons-church-england/section-e#b95)** of the Church of England i.e. the “laws” of the church, as they are responsible with the vicar for much of what happens in a church, especially during a clergy vacancy. It is essential for ringers to know the Churchwardens and keep in communication with them.
 
 Vergers, where they exist nowadays, ensure everything is in place for services. In cathedrals they may have a role in leading clergy in processions. In many churches, there is usually someone who looks after the building, locks and unlocks it, checks the heating and basic practical needs – a key person for ringers to befriend.
 
