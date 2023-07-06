@@ -11,7 +11,7 @@ weight: 22
 
 ## Getting to know the people involved in the church where we ring
 
-### What is the difference between vicar, curate, incumbent, priest?
+### What is the difference between a vicar, a curate, an incumbent, a priest?
 
 First of all, it is worth distinguishing between clergy status and clergy roles.
 
