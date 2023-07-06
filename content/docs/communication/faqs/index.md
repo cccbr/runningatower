@@ -65,7 +65,7 @@ handbells are recorded on the Church inventory. Experience shows that occasional
 
 Suggest the idea to the local priest, with an outline of the service. Ringing Societies often hold such services as part of local meetings, and clergy will appreciate some guidance about content and experience elsewhere.
 
-Including some acknowledgement of ringers in a Sunday service, such as an introduction to ringers and ringing, or a dedication of some sort, is valued by both ringers and congregations. **[The Guild of Clerical Ringers is pleased to offer help](http://guildofclericalringers.org.uk/)**.
+Including some acknowledgement of ringers in a Sunday service, such as an introduction to ringers and ringing, or a dedication of some sort, is valued by both ringers and congregations. **[The Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)** is pleased to offer help.
 
 ### We weren’t allowed to ring for the church fete because it would disturb the school band – aren’t we important as a church activity?
 
