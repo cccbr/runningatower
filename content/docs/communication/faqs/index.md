@@ -22,7 +22,7 @@ There are three levels of ordination:
 
 These titles are separate from any particular job or role.
 
-Secondly, there are many roles that clergy may take up. The titles for the roles are often historical, although may remain in use informally. Nearly all parish clergy are now *‘Priest-in-charge’*. Cathedral clergy (*‘Canons’* or *‘Prebendaries’8) are led by a *‘Dean’* or *‘Provost’*. Where parishes are grouped together, there may be a ‘Team’, overseen in some way by a *‘Team Rector’*. There may be associate clergy, curates, chaplains and other particular titles. An incumbent holds a benefice, but these terms no longer have their original meanings. The easiest approach is to call them all *‘Vicar’* until they suggest their preference (such as *‘Father’*). Better still is for ringers to get to know them well and be asked to use first name terms with the local clergy.
+Secondly, there are many roles that clergy may take up. The titles for the roles are often historical, although may remain in use informally. Nearly all parish clergy are now *‘Priest-in-charge’*. Cathedral clergy (*‘Canons’* or *‘Prebendaries’*) are led by a *‘Dean’* or *‘Provost’*. Where parishes are grouped together, there may be a ‘Team’, overseen in some way by a *‘Team Rector’*. There may be associate clergy, curates, chaplains and other particular titles. An incumbent holds a benefice, but these terms no longer have their original meanings. The easiest approach is to call them all *‘Vicar’* until they suggest their preference (such as *‘Father’*). Better still is for ringers to get to know them well and be asked to use first name terms with the local clergy.
 
 ### Who is whose “boss”?
 
