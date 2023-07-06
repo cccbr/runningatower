@@ -143,7 +143,6 @@ Credits will be found at the end of each chapter. The picture on this page shows
 | Date | Changes |
 | ---- | ---- |
 | 06/07/2023 | Converted from .pdf file |
-{{<hint info>}}
 
 **[Return](https://runningatower.cccbr.org.uk/docs/communication/)**
 {{</hint>}}
