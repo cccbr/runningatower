@@ -5,7 +5,8 @@ weight: 22
 
 # Frequently Asked Questions
 
-**These are some questions that are often asked by bell ringers. The answers are based on [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) practice, so may vary elsewhere across the world and denominations.** The following was written by **[The Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+**These are some questions that are often asked by bell ringers.** 
+The answers are based on [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) practice, so may vary elsewhere across the world and denominations. The following was written by **[The Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
 ![GCR](clericalguild.jpg)
 
@@ -26,7 +27,7 @@ Secondly, there are many roles that clergy may take up. The titles for the roles
 
 ### Who is whose “boss”?
 
-A person recently ordained in their post will have a vicar who oversees their parish training. Otherwise, the local priest, including assistant clergy, will have considerable freedom to manage the church and parish. The key to the local ‘boss’ is to find out who, apart from the parish priest, can and does chair the [Parochial Church Council (PCC)](https://runningatower.cccbr.org.uk/docs/glossary/#pcc). Note that the PCC may delegate much of the business to a district church council.
+A person recently ordained in their post will have a vicar who oversees their parish training. Otherwise, the local priest, including assistant clergy, will have considerable freedom to manage the church and parish. The key to the local ‘boss’ is to find out who, apart from the parish priest, can and does chair the [Parochial Church Council](https://runningatower.cccbr.org.uk/docs/glossary/#pcc). Note that the PCC may delegate much of the business to a district church council.
 
 For nearly all church activity, the vicar shares responsibility with the church council. The next management level is the *Archdeacon*, assisted locally by the Area (or Rural) *Dean*. The vicar is licensed by a *Bishop*, who has final (spiritual) authority but is very unlikely to intervene in parish management. A *Suffragan Bishop* is an assistant to the Diocesan Bishop.
 
@@ -60,8 +61,7 @@ Existing peal boards must be cared for as historic artefacts. Information about 
 
 Handbells require proper care, especially if they are of historic value. Communication between ringers and the priest or church wardens should resolve any problems or misunderstandings about the use of [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc) property.
 
-If there is a set of handbells anywhere, it needs to be recorded where the handbells are kept, particularly if they are in someone's home, and also recorded if they are effectively the property of the ringers or PCC. Ringers should ensure that the
-handbells are recorded on the Church inventory. Experience shows that occasionally it has been thought they are the property of an individual ringer, and, on the ringer's death, have been sold by the family. There have been some bitter disputes around the ownership of handbells.
+If there is a set of handbells anywhere, it needs to be recorded where the handbells are kept, particularly if they are in someone's home, and also recorded if they are effectively the property of the ringers or PCC. Ringers should ensure that the handbells are recorded on the Church inventory. Experience shows that occasionally it has been thought they are the property of an individual ringer, and, on the ringer's death, have been sold by the family. There have been some bitter disputes around the ownership of handbells.
 
 ### “Greattown” had a ringers’ service, how can we do that?
 
@@ -75,8 +75,7 @@ This is a matter of local consultation, and a willingness to work round the diff
 
 ### How can we talk about ringing to the children in the church school next door?
 
-The [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) and the **[Association of Ringing Teachers (ART)](http://ringingteachers.org/)** provide resources and ideas for doing this effectively. The first step is to approach the Head Teacher, who may wish to check on the content and competence of any presentation. Being a church school does not mean
-that the church can insist on what happens within the school.
+The [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) and the **[Association of Ringing Teachers](http://ringingteachers.org/)** provide resources and ideas for doing this effectively. The first step is to approach the Head Teacher, who may wish to check on the content and competence of any presentation. Being a church school does not mean that the church can insist on what happens within the school.
 
 ## The new vicar wants more formality – ringers have never done this before! How do we -
 
@@ -90,8 +89,7 @@ This is most important, as it ensures that the ringers are fulfilling appropriat
 
 ### All requests for visitors and extra ringing to the Parish office for agreement
 
-Technically, ringing is by permission of the priest and [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc). However, arrangements are easier to manage if ringers deal with requests, but are mindful of accommodating local limitations, such as nearby businesses, meetings in church and services,
-always ensuring that the priest is aware of the arrangements. It is useful for visiting bands and special ringing to be booked in the church diary. There is a widespread requirement that visiting bands have, and abide by, safeguarding policies and requirements.
+Technically, ringing is by permission of the priest and [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc). However, arrangements are easier to manage if ringers deal with requests, but are mindful of accommodating local limitations, such as nearby businesses, meetings in church and services, always ensuring that the priest is aware of the arrangements. It is useful for visiting bands and special ringing to be booked in the church diary. There is a widespread requirement that visiting bands have, and abide by, safeguarding policies and requirements.
 
 ### Who decides the fee for ringing for weddings?
 
@@ -128,7 +126,7 @@ The Stewardship & Management Workgroup have produced **[Belfry Projects](https:/
 
 ### Advertising for new ringers and training new ringers
 
-The **[Association of Ringing Teachers (ART)](http://ringingteachers.org/)** has extremely useful material and resources to assist and encourage recruitment and training. Safeguarding becomes particularly important if young or vulnerable people are involved.
+The **[Association of Ringing Teachers](http://ringingteachers.org/)** has extremely useful material and resources to assist and encourage recruitment and training. Safeguarding becomes particularly important if young or vulnerable people are involved.
 
 ## Image Credits
 
@@ -144,6 +142,7 @@ Credits will be found at the end of each chapter. The picture on this page shows
 | ---- | ---- |
 | 06/07/2023 | Converted from .pdf file |
 
+{{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/communication/)**
 {{</hint>}}
 
