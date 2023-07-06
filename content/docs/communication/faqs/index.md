@@ -26,7 +26,7 @@ Secondly, there are many roles that clergy may take up. The titles for the roles
 
 ### Who is whose “boss”?
 
-A person recently ordained in their post will have a vicar who oversees their parish training. Otherwise, the local priest, including assistant clergy, will have considerable freedom to manage the church and parish. The key to the local ‘boss’ is to find out who, apart from the parish priest, can and does chair the [Parochial Church Council (PCC)](https://runningatower.cccbr.org.uk/docs/glossary/#pcc). Note that the [PCC may delegate much of the business to a district church council.
+A person recently ordained in their post will have a vicar who oversees their parish training. Otherwise, the local priest, including assistant clergy, will have considerable freedom to manage the church and parish. The key to the local ‘boss’ is to find out who, apart from the parish priest, can and does chair the [Parochial Church Council (PCC)](https://runningatower.cccbr.org.uk/docs/glossary/#pcc). Note that the PCC may delegate much of the business to a district church council.
 
 For nearly all church activity, the vicar shares responsibility with the church council. The next management level is the *Archdeacon*, assisted locally by the Area (or Rural) *Dean*. The vicar is licensed by a *Bishop*, who has final (spiritual) authority but is very unlikely to intervene in parish management. A *Suffragan Bishop* is an assistant to the Diocesan Bishop.
 
