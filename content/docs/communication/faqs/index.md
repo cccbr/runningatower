@@ -73,7 +73,7 @@ This is a matter of local consultation, and a willingness to work round the diff
 
 ### How can we talk about ringing to the children in the church school next door?
 
-The [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) and the **[Association of Ringing Teachers (ART)](http://ringingteachers.org/) provide resources and ideas for doing this effectively. The first step is to approach the Head Teacher, who may wish to check on the content and competence of any presentation. Being a church school does not mean
+The [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) and the **[Association of Ringing Teachers (ART)](http://ringingteachers.org/)** provide resources and ideas for doing this effectively. The first step is to approach the Head Teacher, who may wish to check on the content and competence of any presentation. Being a church school does not mean
 that the church can insist on what happens within the school.
 
 ## The new vicar wants more formality – ringers have never done this before! How do we -
