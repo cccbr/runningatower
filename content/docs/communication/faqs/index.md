@@ -5,7 +5,7 @@ weight: 22
 
 # Frequently Asked Questions
 
-**These are some questions that are often asked by bell ringers. The answers are based on [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) practice, so may vary elsewhere across the world and denominations.** The following was written by **[The Guild of Clerical Ringers is pleased to offer help](http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+**These are some questions that are often asked by bell ringers. The answers are based on [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) practice, so may vary elsewhere across the world and denominations.** The following was written by **[The Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
 ## Getting to know the people involved in the church where we ring
 
