@@ -126,17 +126,7 @@ The Stewardship & Management Workgroup have produced **[Belfry Projects](https:/
 
 ### Advertising for new ringers and training new ringers
 
-The [Association of Ringing Teachers (ART)](http://ringingteachers.org/) has extremely useful material and resources to assist and encourage recruitment and training. Safeguarding becomes particularly important if young or vulnerable people are involved.
-
-## Image Credits
-
-| Figure | Details | Source |
-| :---: | --- | --- |
-| 1 | Ropes on a spider | Photo: CCCBR |
-| 2 | Modern bell installation | Photo: CCCBR |
-| 3 | Ringing meeting | Photo: CCCBR |
-| 4 | Practice session | Photo: CCCBR |
-| 5 | Getting ready to ring | Photo: CCCBR |
+The **[Association of Ringing Teachers (ART)](http://ringingteachers.org/)** has extremely useful material and resources to assist and encourage recruitment and training. Safeguarding becomes particularly important if young or vulnerable people are involved.
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/communication/)**
