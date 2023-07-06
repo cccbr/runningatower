@@ -7,6 +7,8 @@ weight: 22
 
 **These are some questions that are often asked by bell ringers. The answers are based on [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) practice, so may vary elsewhere across the world and denominations.** The following was written by **[The Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
+![GCR](clericalguild.jpg)
+
 ## Getting to know the people involved in the church where we ring
 
 ### What is the difference between vicar, curate, incumbent, priest?
@@ -128,7 +130,21 @@ The Stewardship & Management Workgroup have produced **[Belfry Projects](https:/
 
 The **[Association of Ringing Teachers (ART)](http://ringingteachers.org/)** has extremely useful material and resources to assist and encourage recruitment and training. Safeguarding becomes particularly important if young or vulnerable people are involved.
 
+## Image Credits
+
+Credits will be found at the end of each chapter. The picture on this page shows 
+
+| Figure | Details | Contributor |
+| :---: | --- | --- |
+| Title | Guild of Clerical Ringers badge | Guild of Clerical Ringers |
+
+## Latest Changes
+
+| Date | Changes |
+| ---- | ---- |
+| 06/07/2023 | Converted from .pdf file |
 {{<hint info>}}
+
 **[Return](https://runningatower.cccbr.org.uk/docs/communication/)**
 {{</hint>}}
 
