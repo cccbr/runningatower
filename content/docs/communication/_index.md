@@ -28,11 +28,13 @@ Elsewhere, for example in [Church of England](../glossary/#church-of-england) ca
 
 The CCCBR produce a number of leaflets:
 
-- **[From Practice to Perfect](https://cccbr.org.uk/wp-content/uploads/2022/12/From-Practice-to-Perfect-a-short-guide-for-clergy-PCCs-and-Safeguarding-Advisors.pdf)** that is aimed at clergy, PCCs and safeguarding advisors. This guide explains how ringers are trained, safeguarded and organised. A book entitled 'The Voice of the Church: Bells and bellringers in the life of the Church of England' is available from **[The Ringing World](https://www.ringingworld.co.uk/purchase/shop/the-voice-of-the-church.html)**. It might be worth considering purchasing a copy and giving it to the incumbent.
+- **[From Practice to Perfect](https://cccbr.org.uk/wp-content/uploads/2022/12/From-Practice-to-Perfect-a-short-guide-for-clergy-PCCs-and-Safeguarding-Advisors.pdf)** that is aimed at clergy, PCCs and safeguarding advisors. This guide explains how ringers are trained, safeguarded and organised.
+
+- A book entitled 'The Voice of the Church: Bells and bellringers in the life of the Church of England' is available from **[The Ringing World](https://www.ringingworld.co.uk/purchase/shop/the-voice-of-the-church.html)**. It might be worth considering purchasing a copy and giving it to the incumbent.
 
 - **[Bells in your care](../communication/yourcare/)** contains notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
-- **[Frequently asked questions](../communication/faqs/)** contains a number of questions put together by the **[Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**, in 2020, and was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+- **[Frequently asked questions](../communication/faqs/)** contains a number of questions put together, in 2020, by the **[Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**. It was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
 ## Faculties 
 
