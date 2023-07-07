@@ -30,7 +30,7 @@ If you are working on a computer browser (or on a tablet in landscape orientatio
 
 Within the text, links to sections within the current chapter, to other chapters, and to external web references are shown in **bold blue**. Links shown in *blue* refer to entries within this document.
 
-If the Search Box, top left (below the title), does not work the information may be found through the left-hand ‘Chapter’ menu and the right-hand ‘Sections within the current chapter’ menu. This appears to be due to an issue with the hosting software which we are working to address, we apologise for any inconvenience.
+If the Search Box, top left below the title, does not work the information may be found through the left-hand ‘Chapter’ menu and the right-hand ‘Sections within the current chapter’ menu. This appears to be due to an issue with the hosting software which we are working to address, we apologise for any inconvenience.
 
 ## Image Credits
 
