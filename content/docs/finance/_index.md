@@ -70,7 +70,7 @@ In the [C of E](../glossary/#c-of-e), funds are best held within the [PCC](../gl
 
 This can be achieved by having a covering document listing the restrictions of the funds. If a "restricted fund" there has to be a means of amending the restrictions, a definition of who can do this is essential.
 
-If a tower has funds, separate from the [tower authority](../glossary/#tower authority), these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable. If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
+If a tower has funds, separate from the [tower authority](../glossary/#tower-authority), these should never be held by an individual. Traditionally, such funds have been used for minor repairs and social events for ringers. Such funds are not advisable. If essential, specific treasurer’s accounts are available and may be free from fees. Banks are increasingly reluctant to provide such small accounts.
 
 ## Subscriptions
 
