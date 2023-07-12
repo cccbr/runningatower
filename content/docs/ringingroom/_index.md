@@ -77,7 +77,7 @@ There is a commonly held belief that wool is better, however this anecdotal. Mos
 
 Consider whether the rope bosses are at the optimum height. If too high the ropes can be flighty. If too low the sallies can “jump” when coming down at backstroke. The ideal height is typically such that the sally of the lightest bell just reachs the guide whilst that of the heaviest bell does not go completely through. It may be neccesary in very heavy rings to have guides at different heights for the lighter and heavier bells.
 
-Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, [CCCBR](../glossary/#cccbr), or a professional bell hanger. 
+Ceiling boss material and the contact surface area has a huge effect on how a bell rope wears out.  Cast iron generally corrodes and becomes abrasive to ropes, generally wearing the rope immediately above the sally. A dense timber may be better as it holds a polish and does not abrade the ropes. If unsure, seek expert advice, from your Society, [CCCBR](../glossary/#cccbr), or a **[professional bell hanger](https://belfryprojects.cccbr.org.uk/docs/115-specialists/)**. 
 
 If the rope circle is poor or very unequally spaced, consider seeking advice as above, especially when there are ropes very close together.  
 
@@ -186,7 +186,7 @@ Adjusting tail end length may take two forms as indicated below. N.B. In the Wes
 
 It is a good idea to have a few usable spares to cover any bell, as needed. Natural fibre ropes degrade whether in use or not. Ropes kept in a box may appear to be in good condition, but the fibres will have decayed whilst not used. Ropes should be stored so as to prevent attack by vermin. Each rope should be labelled to indicate which bell(s) it is for.
 
-If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a number of manufacturers. Their details are often advertised in the Ringing World and on social media.
+If there is not at least one person able, and willing, to check the ropes at suitable intervals than a local society 'expert' may be able to assist. If a person is available locally, they should be able to identify and correct any wear points, change or repair a rope if needed. If ropes do need professional maintenance or replacement there are a **[number of manufacturers](https://belfryprojects.cccbr.org.uk/docs/115-specialists/)**. Their details are often advertised in the Ringing World and on social media.
 
 If unsure, consider contacting your local Society or the [CCCBR](../glossary/#cccbr).
 
