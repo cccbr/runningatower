@@ -156,7 +156,7 @@ A band may wish to maintain a visitor's book. This can offer information on who 
 
 *Figure 12: Selection of peal boards*
 
-Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeacons’ consultation in a [Church of England](../glossary/#church-of-england) church.
+Peal and other commemorative boards, certificates and photographs. Are these recorded elsewhere? It is a good idea to maintain a quality photographic record of these in a separate location. There are persons who do produce boards to order, there details are often advertised in the Ringing World and on social media. Putting up a board in a tower requires consultation with the tower authority and an Archdeacons’ consultation in a [Church of England](../glossary/#church-of-england) church. Useful advice on this is provided in an article New peal boards and restorations in the 30 June 2023 issue of The Ringing World (p 675). A list of specialists providing peal boards is included in the **[Specialist Services chapter](https://belfryprojects.cccbr.org.uk/docs/115-specialists/)** of Belfry Upkeep.
 
 Older peal boards may require restoration. There are specialist firms providing such services, they can be found by a search of the internet or through the Ringing World.
 
@@ -170,7 +170,7 @@ These are the usually the property of the awarding body. However, they are in th
 
 ## Ropes  
 
-See information in the **[rope section](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/)**  of Belfry Upkeep.
+See information in the **[rope section](https://belfryupkeep.cccbr.org.uk/docs/120-ropes/)** of Belfry Upkeep.
 
 ![Various knots](knot1a.jpg) ![Various knots](knot2a.jpg) ![Various knots](knot3a.jpg)  ![Various knots](knot4a.jpg)
 
