@@ -160,7 +160,7 @@ Peal and other commemorative boards, certificates and photographs. Are these rec
 
 ### Trophies 
 
-![Ringing trophies at Exeter Cathedral, Devon](trophies_350.jpg)   ![Ringing trophies at Kingsteignton, Devon](trophy1.jpg)  ![Ringing trophies at Kingsteignton, Devon](trophy2.jpg)
+![Ringing trophies at Exeter Cathedral, Devon](trophies_350.jpg)   ![Ringing trophies at Kingsteignton, Devon](trophy1.jpg) 
 
 *Figure 13: Selection of ringing trophies*
 
