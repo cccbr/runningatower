@@ -106,6 +106,24 @@ Publicise events when these are not a regular occurrence e.g., striking competit
 
 For major projects such as the restoration of an installation, including augmentation, separate publicity will be required. This is covered in a separate document currently under development.
 
+## Property sales and / or change of use near a church
+
+Ringers may be concerned when property near a church with bells is to be sold or developed for new uses. The concern is that new occupants may not like the sound of the bells and raise complaints. 
+
+For property sales, the formal local authority searches should indicate activities that may affect the property concerned. It is therefore worthwhile for ringers (through the church incumbent) to advise the estate agents of ringing times. Include factual information about normal ringing schedules (services and practices) plus the likely occurrence of additional ringing such as weddings, funerals, visitors, quarter peals and peals, plus special events such as local and national celebrations. 
+
+Where there are changes of use proposed for properties close to a tower, then the local authority planning department should be made aware of the church bells by the incumbent at an early stage in the planning process. Again, including a summary of the ringing activities will help planners. Developers may be required to mitigate the impact of the bells on the new users in the development. 
+
+The church and ringers should also consider the noise levels from the bells and whether sound control measures in the tower are adequate or could be improved. Complaints about church bells often mean the clock bells rather more than change ringing, so consider silencing the clock at night (automatically). 
+
+There are various articles available on the topic including government guidance on noise and planning: 
+
+- **[Comments from government community secretary](https://www.localgov.co.uk/Pickles-slams-elf-and-safety-attitude-over-church-bell-silencing/38056)**
+
+- **[Strengthening of planning policy](https://www.churchtimes.co.uk/articles/2018/2-february/news/uk/new-policy-protect-church-bells-silenced-complaining-neighbours)**
+
+- **[Managing noise impacts in new developments](https://www.gov.uk/guidance/noise--2)**
+
 ## Image Credits
 
 | Figure | Details | Source |
