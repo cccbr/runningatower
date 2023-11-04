@@ -47,7 +47,7 @@ It is not a good idea to travel half way across the country in a day. This will 
 
 This will depend on the travel distance, the number of towers and the proposed time at each tower. As a rule five towers a day is about right, with a lunch break after two (or three) of these. More towers in a day is feasible, however this will shorten the time spent at each.
 
-**REMEMBER** Too many towers in a day can lead to fatigue and, just like a long return journey home, can take the edge off a successful outing.
+**Remember** Too many towers in a day can lead to fatigue and, just like a long return journey home, can take the edge off a successful outing.
 
 #### Timings
 
