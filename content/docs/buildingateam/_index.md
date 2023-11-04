@@ -116,7 +116,7 @@ See information contained in [Health & Safety](../healthsafety).
 In many groups of ringers there is a social side to the ringing. This may invove such things as:
 - going for a drink (not necessarily a pub) after ringing.
 - holding a regular dinner, typically at Christmas time.
-- outings to experience different bells, towers and areas of the country.
+- outings to experience different bells, towers and areas of the country. [Some suggestions for organising an outing](../buildingateam/outing)
 - outings without ringing content.
 
 ### Subscriptions
