@@ -119,7 +119,7 @@ The organiser should be able to enjoy the ringing and relax like any member of t
 
 Consider delgating the organising of the ringing at each tower. A seperate person per tower will spread the workload. It can give people who might not often get the chance, an opportunity to run the ringing. 
 
-**Remember** despite all efforts to ensure a smooth operation, should anything go wrong the responsibilty lies with the organiser.
+**REMEMBER** despite all efforts to ensure a smooth operation, anything that goes wrong is the responsibilty of the organiser.
 
 ## Image Credits
 
