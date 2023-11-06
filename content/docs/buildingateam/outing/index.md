@@ -7,7 +7,7 @@ weight: 94
 
 ![Tower 1](appledore.jpg)
 
-*Figure 1: Tower 1 - Appledore, Kent*
+*Figure 1: Appledore, Kent*
 
 A ringing outing can be an enjoyable and useful way of introducing ringers to a wider variety of bells than they might otherwise encounter. 
 
@@ -39,9 +39,9 @@ Consider whether to invite non-ringers, such as friends and relations of the rin
 
 The towers chosen should be influenced by the experience of the ringers. Ringing on bells which are too difficult for the majority may spoil the day. If there ringers are mainly inexperienced, invite some more experienced ringers along to help. Perhaps ask the participants for ideas of towers to be visited with the proviso that not all requests can be met.
 
-![Tower 2](fairfield.jpg)
+![Tower 2](fairfield2.jpg)
 
-*Figure 2: Tower 2 - Fairfield, Kent*
+*Figure 2: Fairfield, Kent*
 
 ### Destination
 
@@ -74,7 +74,7 @@ Plan around the following:
 
 ![Tower 3](brookland.jpg)
 
-*Figure 3: Tower 3 - Brookland, Kent*
+*Figure 3: Brookland, Kent*
 
 ### Tower Contacts
 
@@ -105,7 +105,7 @@ It is advisable for more than one person to have the contact details as the orga
 
 ![Tower 4](newromney.jpg)
 
-*Figure 4: Tower 4 - New Romney, Kent*
+*Figure 4: New Romney, Kent*
 
 ### Donations
 
@@ -123,7 +123,7 @@ Once the outing is organised, consider delegating tasks to participants. This mi
 
 ![Tower 5](lydd.jpg)
 
-*Figure 5: Tower 5 - Lydd, Kent*
+*Figure 5: Lydd, Kent*
 
 ### Inform
 
