@@ -1,9 +1,9 @@
 ---
-title: Building a Team
+title: The Ringers
 weight: 9
 ---
 
-# Building a Team
+# The Ringers
 
 ![Typical ringing chamber](chamber_350.jpg)
 
