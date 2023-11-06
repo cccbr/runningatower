@@ -37,7 +37,7 @@ If a tower outing, always invite any regular visitors. An ideal minimum is twelv
 
 Consider whether to invite non-ringers, such as friends and relations of the ringers; this may influence the choice of route, the mode of transport and the places to visit.
 
-The towers chosen should be influenced by the experience of the ringers. Ringing on bells which are too difficult for the majority may spoil the day. If there ringers are mainly inexperienced, invite some more experienced ringers along to help. 
+The towers chosen should be influenced by the experience of the ringers. Ringing on bells which are too difficult for the majority may spoil the day. If there ringers are mainly inexperienced, invite some more experienced ringers along to help. Perhaps ask the participants for ideas of towers to be visited with the proviso that not all requests can be met.
 
 ### Destination
 
@@ -58,12 +58,14 @@ If there are 20 ringers on the outing aim for at least an hour per tower.
 Most places are very welcoming and permit ringing at the times requested, especially if it is about an hour's ringing. N.B. An especially large party may neccesitate a longer time. Consider shorter times when there are fewer bells, people may get fed up with an hour at an unrewarding six; conversely an hour at a decent ten may not be enough. 
 
 Plan around the following:
-- If travelling by car, mini-bus or coach a reasonable average speed is 30 mph or less; if cycling allow an average of 6 for mph; if walking allow an average of 2 mph.
+- If travelling by car, mini-bus or coach a reasonable average speed is 30 mph or less; if cycling allow an average of 6 for mph; if walking allow an average of 2 mph. On-line route planners can be of use but be aware that these tend to under estimate the time required.
+- If travelling by mini-bus or coach be aware that these may be too large to negotiate some country lanes. 
 - Time to park the transport and get from the transport to the tower and the same to return (around 15 minutes). This is probably when walking or cycling.
 - Time to raise the bells and the same to lower the bells (5-10 minutes).
 - Time to allow every ringer a reasonable ring.
 - Time for comfort and refreshment breaks.
 - Possible restrictions in the time of day that towers are available; town centre towers may restrict ringing to after shop opening times, towers near schools may only permit ringing outside of school hours.
+- A major event in an area e.g. a festival may cause disruption.
 - Some flexibility as it may be necessary to reschedule part of the tour dependent on replies. 
 
 ### Tower Contacts
@@ -85,9 +87,13 @@ The request should include:
 It is advisable to request:
 - What the access arrangements are; the meeting place might not be the main entrance to the building.
 - If driving, whether there is designated or recommended parking.
-- A contact telephone number, ideally a mobile telephone number, as contact might need to be made on the day.
+- A contact telephone number, ideally a mobile telephone number, as contact might need to be made on the day. N.B. The person meeting may not be the original contact.
 - Whether a toilet is readily available.
 - If your visit is to coincide with a refreshment break, local recommendations of venues may be helpful.
+
+Confirm the arrangements with the various twoer contacts a few days before.
+
+It is advisable for more than one person to have the contact details as the organiser may be delayed.
 
 ### Donations
 
@@ -119,7 +125,9 @@ The organiser should be able to enjoy the ringing and relax like any member of t
 
 Consider delgating the organising of the ringing at each tower. A seperate person per tower will spread the workload. It can give people who might not often get the chance, an opportunity to run the ringing. 
 
-**REMEMBER** despite all efforts to ensure a smooth operation, anything that goes wrong is the responsibilty of the organiser.
+**REMEMBER** 
+- the towers and beels being visited are the property of others (normally churches) so respect this.
+- despite all efforts to ensure a smooth operation, the organiser may need to intervene. 
 
 ## Image Credits
 
