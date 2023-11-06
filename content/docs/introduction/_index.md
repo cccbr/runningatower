@@ -32,7 +32,7 @@ The following is an overview of what appear in each chapter:
 - **[Emergency](../emergency/)**; what to do if things go wrong.
 - **[Ringing Room](../ringingroom/)**; keeping your tower running smoothly. The hardware commonly found in a ringing room.
 - **[Bell Chamber](../bellchamber/)**; this is is primarily covered in **[Belfry Upkeep](https://belfryupkeep.cccbr.org.uk/docs/010-introduction/)**.
-- **[Building a Team](../buildingateam/)**; creating a supportive environment. Officers, Meetings, Running ringing sessions.
+- **[The Ringers](../buildingateam/)**; creating a supportive environment. Officers, Meetings, Running ringing sessions.
 - **[Bells not rung regulary](../irregular/)**; things to bear in mind when bells are not rung regularly.
 
 ## Image Credits
