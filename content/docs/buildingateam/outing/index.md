@@ -5,9 +5,9 @@ weight: 94
 
 # Organising an Outing
 
-![Outing to Fairfield](fairfield.jpg)
+![Tower 1](appledore.jpg)
 
-*Figure 1: Outing to Fairfield*
+*Figure 1: Tower 1 - Appledore, Kent*
 
 A ringing outing can be an enjoyable and useful way of introducing ringers to a wider variety of bells than they might otherwise encounter. 
 
@@ -39,6 +39,10 @@ Consider whether to invite non-ringers, such as friends and relations of the rin
 
 The towers chosen should be influenced by the experience of the ringers. Ringing on bells which are too difficult for the majority may spoil the day. If there ringers are mainly inexperienced, invite some more experienced ringers along to help. Perhaps ask the participants for ideas of towers to be visited with the proviso that not all requests can be met.
 
+![Tower 2](fairfield.jpg)
+
+*Figure 2: Tower 2 - Fairfield, Kent*
+
 ### Destination
 
 It is not a good idea to travel half way across the country in a day. This will definitely take the edge off of the most successful outing.
@@ -68,6 +72,10 @@ Plan around the following:
 - A major event in an area e.g. a festival may cause disruption.
 - Some flexibility as it may be necessary to reschedule part of the tour dependent on replies. 
 
+![Tower 3](brookland.jpg)
+
+*Figure 3: Tower 3 - Brookland, Kent*
+
 ### Tower Contacts
 
 Historically, contacts were obtained using paper copies of the local ringing society report or Crockford's Clerical Directory (may be available in a library reference section). Crockford's is produced annually and is available on-line to subscribers. It may still be necessary to use either.
@@ -95,6 +103,10 @@ Confirm the arrangements with the various twoer contacts a few days before.
 
 It is advisable for more than one person to have the contact details as the organiser may be delayed.
 
+![Tower 4](newromney.jpg)
+
+*Figure 4: Tower 4 - New Romney, Kent*
+
 ### Donations
 
 Decide on the amount to be given, as a donation, to each tower. Some groups give a donation proportionate to the number of bells whilst others give the same amount to all towers. It is an individual decision as to which to adopt.
@@ -109,9 +121,9 @@ Once the outing is organised, consider delegating tasks to participants. This mi
 
 ## On Tour
 
-![Brochure1](brochure1.jpg) ![Brochure2](brochure2.jpg)
+![Tower 5](lydd.jpg)
 
-*Figures 2 & 3: Tour Guide cover and overview*
+*Figure 5: Tower 5 - Lydd, Kent*
 
 ### Inform
 
@@ -133,9 +145,11 @@ Consider delgating the organising of the ringing at each tower. A seperate perso
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Outing to Fairfield, Kent | Photo: James Kirkcaldy |
-| 2 | Tour guide, front cover | James Kirkcaldy |
-| 3 | Tour guide overview | James Kirkcaldy |
+| 1 | Tower 1 - Appledore, Kent | Photo: KCACR website |
+| 2 | Tower 2 - Fairfield, Kent | Photo: KCACR website |
+| 3 | Tower 3 - Brookland, Kent | Photo: KCACR website |
+| 4 | Tower 4 - New Romney, Kent | Photo: KCACR website |
+| 5 | Tower 5 - Lydd, Kent | Photo: KCACR website |
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
