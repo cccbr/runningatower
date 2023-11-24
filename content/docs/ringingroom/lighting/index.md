@@ -141,7 +141,7 @@ Note that there is a relevant British Standard - Emergency lighting. Code of pra
 
 | Figure | Details | Source |
 | :---: | --- | --- |
-| 1 | Old gas fFitting | Photo: CCCBR |
+| 1 | Old gas fitting | Photo: CCCBR |
 | 2 | Tangle of fittings | Photo: CCCBR |
 | 3 | Diffused strip light | Photo: CCCBR |
 | 4 | Combination uplighter and downlighter | Photo: CCCBR |
