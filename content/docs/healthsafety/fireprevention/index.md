@@ -146,6 +146,8 @@ Specific UK Government web sites offer information about risk assessments in bui
 - **[Small and Medium places of assembly](https://www.gov.uk/government/publications/fire-safety-risk-assessment-small-and-medium-places-of-assembly)**
 - **[Large places of assembly](https://www.gov.uk/government/publications/fire-safety-risk-assessment-large-places-of-assembly)**
 
+The Institution of Fire Engineers have a specialist interest group for heritage buildings and have produced guidance on **['Fire Safety for Traditional Church Buildings'](https://historicengland.org.uk/images-books/publications/fire-safety-for-traditional-church-buildings/fire-safety-traditional-church-buildings/)**
+
 ## Image Credits
 
 | Figure | Details | Source |
