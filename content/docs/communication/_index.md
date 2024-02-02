@@ -36,6 +36,8 @@ The CCCBR produce a number of leaflets:
 
 - **[Frequently asked questions](../communication/faqs/)** contains a number of questions put together, in 2020, by the **[Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**. It was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
+Although not directly related to ringing, the [Church of England](../glossary/#church-of-england) produce **[a set of church stewardship resources](https://parishresources.org.uk/)**.
+
 ## Faculties 
 
 These are applicable to bells and towers within the [Church of England](../glossary/#church-of-england). Guidance notes on these should be consulted for any proposed changes within a tower. Further information can be found at **[Belfry Upkeep Faculty Rules](https://belfryupkeep.cccbr.org.uk/docs/030-faculty-rules/)**.
