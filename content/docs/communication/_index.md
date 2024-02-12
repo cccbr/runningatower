@@ -58,6 +58,8 @@ It is useful to display contact details such that they are visible when the buil
 
 - Keep up to date – review at least annually e.g. at the tower AGM.
 
+The [CCCBR](../glossary/#cccbr) have published a number of notices, intended for notice boards, they can be accessed (and downloaded) from **[here](https://cccbr.org.uk/resources/publicity-material/noticeboard-toolkit/)**.
+
 ## Ringing Societies 
 
 ![Badges of ringing societies](badges_350.jpg)
