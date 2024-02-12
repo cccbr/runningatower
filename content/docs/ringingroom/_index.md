@@ -135,7 +135,9 @@ If the ringing room has large windows consider some means of reducing direct sun
 
 *Figure 10: Notice board*
 
-Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.  
+Ensure that notice board(s) display up-to-date information, such as tower and Society notices. There is little point in displaying details of past events.
+
+The [CCCBR](../glossary/#cccbr) have published a number of notices, intended for ringing room notice boards, they can be accessed (and downloaded) from **[here](https://cccbr.org.uk/resources/publicity-material/noticeboard-toolkit/)**.
 
 ## Ringing Records
 
