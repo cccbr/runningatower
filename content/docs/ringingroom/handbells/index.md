@@ -111,7 +111,7 @@ Tips when buying second hand bells
 
 **[Bill Butler’s book 'Musical Handbells' is available from various sources, such as **[abebooks](https://abebooks.co.uk/book-search/title/musical-handbells-a-comprehensive-history-of-the-bells-and-their-founders/author/butler-william)**, and provides excellent background about handbells generally, including a lot of history.
 
-![Restoration](restore.jpg)
+![Restoration](restore.png)
 
 *Figure 4: Handbell during restoration showing the makers mark - the initials of Henry Symondson which may help in dating a bell*
 
@@ -123,7 +123,7 @@ Leather handles, clapper pads, felts, etc. are relatively readily replaced. Clap
 
 ### Storage
 
-![Custom made case](cased.jpg)
+![Custom made case](cased.png)
 
 *Figure 5: Handbells stored in a custom-made carrying case*
 
@@ -144,7 +144,7 @@ fabrication of supporting inserts for the bells as a challenge for ingenuity and
 
 ### Ringing Handbells
 
-![Held handbell](held.jpg)
+![Held handbell](held.png)
 
 *Figure 6: Handbell held firmly close to the leather cap*
 
@@ -156,7 +156,7 @@ if they are not held firmly, and could cause damage to the bell casting.
 
 It is also best not to touch the metal with bare hands as grease on hands can tarnish the metal, very noticeable especially on highly polished bells. Some handbell owners require that ringers wear gloves when handling their bells. Polishing is to be avoided, and if required, only the finest grade metal polish should be used very infrequently, otherwise the metal will be worn very gradually. This is especially important for any bells that may be engraved.
 
-![Engraved handbell](engraved.jpg)
+![Engraved handbell](engraved.png)
 
 *Figure 7: Engraved handbell*
 
@@ -174,7 +174,7 @@ Ringing societies and churches may well include their sets of handbells as speci
 Specialist musical instrument insurers may insure handbells – commercial providers include -
 
 - **[New Moon](https://newmooninsurance.com)**
-- **[Allianz](https://allianzmusicalinsurance.co.uk)**
+- **[Allianz](https://https://www.allianz.co.uk/personal-insurance/musical-insurance.html)**
 
 ### More Information
 
