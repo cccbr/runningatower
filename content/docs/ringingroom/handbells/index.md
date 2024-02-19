@@ -7,7 +7,7 @@ weight: 73
 
 A brief guide
 
-The following, written by Alison Hdge, was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following, written by Alison Hodge, was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
 
 ![Part of a set of handbells](sixbells.png)
 
