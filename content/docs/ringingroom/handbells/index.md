@@ -31,7 +31,7 @@ There are similar groups or teams in the UK, but few as large as in the USA.
 
 - **[Handbell Musicians of America](https://handbellmusicians.org)**
 - **[Handbell Ringers of Great Britain](https://handbells.org.uk)**
-- **[making music](htps://makingmusic.org.uk/resource/introduction-handbell-ringing)**
+- **[making music](https://www.makingmusic.org.uk/resource/introduction-handbell-ringing))**
 
 In the UK, handbell ringing is more often associated with change ringing, but not by all.
 
