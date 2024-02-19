@@ -182,13 +182,12 @@ Tune ringing – **[Handbell ringers of Great Britain](https://handbells.org.uk)
 
 Various books on change ringing:
 
-- Change ringing on handbells by C W Woolley, available from the **[CCCBR shop](https://cccbr.org.uk/product-category/technhical-learning)**
-- Beginners Guild to Change Ringing on handbells by Bill Butler, available from the **[CCCBR shop](https://cccbr.org.uk/product-category/technhical-learning)**
+- Change ringing on handbells by C W Woolley, available from the **[CCCBR shop](https://shop.cccbr.org.uk/?s=handbell&post_type=product))**
+- Beginners Guild to Change Ringing on handbells by Bill Butler, available from the **[CCCBR shop](https://shop.cccbr.org.uk/?s=handbell&post_type=product)**
 - Musical handbells by Bill Butler, covers mainly the history of handbells and their founders but is
 also very useful aid to identifying the founder of handbells. Phillimore 2000 (out of print, but second hand copies are available).
 - Handbells by Trevor Jennings, Shire publications 1989 (out of print, but second hand copies are available)
-- Change-ringing on handbells - Volumes 1 and 2 by Tina Stoecklin and Simon Gay, 2020, available from the **[CCCBR shop](https://cccbr.org.uk/product-category/technhical-learning)**
-- **[Handbell ringing](https://handbellringing.co.uk)**
+- Change-ringing on handbells by Tina Stoecklin and Simon Gay, 2020 - **[Volume 1 - Basic Techniques](https://www.handbellringing.co.uk/change-ringing-on-handbells-volume-1-basic-techniques)** and **[Volume 2 - Advanced Techniques](https://www.handbellringing.co.uk/change-ringing-on-handbells-volume-2-advanced-techniques)**
 
 There is a lot of information on other websites and YouTube.
 
