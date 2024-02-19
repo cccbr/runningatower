@@ -71,7 +71,7 @@ Sets, part sets and odd bells may be found occasionally in second hand shops, ca
 
 *Figure 2: Set of small tuned 'rainbow' bells*
 
-Small musical handbells intended for children are also now sold in rainbow colours. Sets including different notes are available (including sharps/flats). Although each bell measures almost the same size as others within a set, they are tuned to different notes. These are comparatively cheap but the clappers are attached by springs so do not have the same action as traditional handbells. They are available from various sources, such as **[Thomann](thomann.de/gb/thomann_rainbow_handbells_trhb_20.htm?glp=1&gclid=EAIaIQobChMI-8HwypDk7AIVVvtCh3D4QHCEAQYBCABEgLai_
+Small musical handbells intended for children are also now sold in rainbow colours. Sets including different notes are available (including sharps/flats). Although each bell measures almost the same size as others within a set, they are tuned to different notes. These are comparatively cheap but the clappers are attached by springs so do not have the same action as traditional handbells. They are available from various sources, such as **[Thomann](https://thomann.de/gb/thomann_rainbow_handbells_trhb_20.htm?glp=1&gclid=EAIaIQobChMI-8HwypDk7AIVVvtCh3D4QHCEAQYBCABEgLai_
 D_BwE)** on the internet as toys and education aids.
 
 ### Ranges
@@ -137,7 +137,7 @@ Glass-fronted cases or an open rack in a tower or church were often the traditio
 hand bells. While these may appear to be appropriate and rather attractive, perhaps donated or a memorial, they have
 drawbacks. Sadly, the risk of theft or misuse, even if the case is locked, is probably too great.
 
-New bells may be supplied in cases and specialist suppliers will make them to order, for example **[Kingham Merion](https://kingham.merion.co.uk)**
+New bells may be supplied in cases and specialist suppliers will make them to order.
 
 Strong flight cases and instrument cases are available from various supplies, relatively cheaply, leaving the design and
 fabrication of supporting inserts for the bells as a challenge for ingenuity and skill!
