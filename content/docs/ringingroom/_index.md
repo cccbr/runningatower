@@ -233,6 +233,8 @@ If these are not usable, consider restoration otherwise they are merely a displa
 
 If handbells are considered a useful resource a cheap option is a set of eight “rainbow” handbells. These are readily available, inexpensive, robust and ideal for teaching place-counting, etc. 
 
+Further details are available at [Handbells](../ringingroom/handbells)
+
 ### Simulators
 
 ![Simulator at Great Gransden, Cambridgeshire](simulator_350.jpg)
