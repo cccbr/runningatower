@@ -51,17 +51,17 @@ The church may consider having an electronic payment system for fees and casual 
 
 A series of articles about covering the following financial matters have appeared in the following issues of the **[Ringing World](https://bb.ringingworld.co.uk/issues.php)**. Some of these were written by Steve Coleman. They are available to subscribers; if you are not a subscriber ask a ringer (or tower) that does subscribe.
 - Charging for Teaching
-       13/01/2023 (5829-27),  27/01/2023 (5831-77),  03/02/2023 (5832-97)
+-       13/01/2023 (5829-27),  27/01/2023 (5831-77),  03/02/2023 (5832-97)
 - Gift Aid
-       27/01/2023 (5831-76),  10/02/2023 (5833-124), 24/02/2023 (5835-166), 10/03/2023 (5837-213), 24/03/2023 (5839-277), 28/04/2023 (5844-376)
+-       27/01/2023 (5831-76),  10/02/2023 (5833-124), 24/02/2023 (5835-166), 10/03/2023 (5837-213), 24/03/2023 (5839-277), 28/04/2023 (5844-376)
 - Parish Giving Scheme
-       28/04/2023 (5844-376)
+-       28/04/2023 (5844-376)
 - Tower Funds
-       01/09/2023 (5862-851), 22/09/2023 (5865-927), 13/10/2023 (5868-998), 17/10/2023 (5873-1121), 15/12/2023 (5877-1121) 
+-       01/09/2023 (5862-851), 22/09/2023 (5865-927), 13/10/2023 (5868-998), 17/10/2023 (5873-1121), 15/12/2023 (5877-1121) 
 - VAT
-       30/06/2023 (5853-660), 14/07/2023 (5855-702) 
+-       30/06/2023 (5853-660), 14/07/2023 (5855-702) 
 - Wills and Inheritance
-       07/04/2023 (5841-306)
+-       07/04/2023 (5841-306)
   
 ## Reimbursement of Expenses 
 
