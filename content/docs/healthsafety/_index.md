@@ -64,6 +64,26 @@ There has been some discussion on this issue within the ringing community. Some 
 
 The question of what lies within the bounds of being sufficiently safe is therefore vexed. For this reason it is necessary to establish a well documented and fact-based assessment process both with respect to risk assessment but also the consideration of reasonable adjustments. This may require the utilisation of professional advice. Certainly all relevant people should be involved and every effort made to reach mutual agreement. 
 
+## Children in Towers
+
+The standard EIG Insurance Policy "excludes accidental bodily injury sustained by any person under the age of 3 years". Further issues to bear in mind, quoted from EIG, and elaborated by the EIG Church Underwriting Manager (who has 40 years ringing experience) on 1st September 2024 are:
+- "it remains the responsibility of the Tower Captain to assess what is practicable and safe given the arrangement and location of the ringing room".
+- "for tower tours it is recommended that no children under the age of eight years should be allowed on a tour and an adult should accompany all children under the age of 16 years". The concern is that the parents may not be familiar with the environment, which they will be entering, and are therefore less prepared. This may include a ringing room, climbing a spiral staircase (possibly medieval). Young children are generally inquisitive and if they see a rope they may want to pull it or just generally touch things; a non-ringing adult may not know what is safe. 
+- It is up to the tower captain to decide whether the ringing room is a safe environment for visitors (including children). EIG would ultimately respect any decision the tower captain makes and insurance cover would not be invalidated as a result. N.B. The bells should be down, any hazards minimised and clear instructions given to visitors.
+- Many ringing parents take their children into ringing rooms, from baby up to relative adulthood; this may occur on a regular basis. Those children are the responsibility of their parent (or guardian); the tower captain has the authority, and jurisdiction, to ask them to be removed if they are causing a danger to either the ringers or themselves. Playpens have been seen for babies and toddlers in ringing rooms; otherwise children are left under adult supervision or are “trained" to sit away from the ropes and not cause a disturbance when ringing is in progress. If a child is causing a nuisance or danger, then the tower captain should request their removal.
+- Children certainly should not be kept out of the ringing room. Their presence may stimulate an interest to learn to ring when they are able. Equally, they should not be the cause of hazard or danger to themselves or to others. This is something to be managed at a local church level. Ultimately the parent and the tower captain are the arbiter of what is or is not safe.
+- "Junior ringers must be suitably experienced or be in the process of being taught to ring".
+- "it is at the discretion of the tower captain as to whether or not a child is suitable". EIG suggests that children (aged 12 to 17 years) should be allowed to ring with the band only when the tower captain is satisfied of the child’s rope-handling competence and “suitability”.
+
+Some additional points to bear in mind.
+- Some churches may have insurance cover from companies other than EIG. The tower captain is recommended to check the insurance through their [PCC](../glossary/#pcc).
+- It is a good idea for a tower captain to discuss, and get the agreement of other band members, before allowing a ringing parent to bring a baby or toddler into the ringing room.
+- It may be inappropriate for babies or toddlers to be present when new recruits are being instructed. The [CCCBR](../glossary/#cccbr) indicate that new recruits progress quicker when they are taught in groups separately and away from general ringing events.
+
+## Pets in Towers
+
+It is not unknown for pets, especially dogs, to be brought into ringing rooms. If this is the case, the pet must be suitably restrained and kept safe. A number of points in the previous section are relevant to pets.
+
 ## Attendance Record(s) 
 
 These should be maintained for the purposes of safeguarding and for emergency precautions. The details to be held should be a minimum of name, entrance and exit times (including date). The [tower authority](../glossary/#tower-authority) may require further details to be logged. 
