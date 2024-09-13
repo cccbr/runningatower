@@ -124,7 +124,7 @@ The tops must be exactly square, so check every one carefully by measuring diago
 
 ##### Sides
 
- A .pdf format vof plans for the sides [can be downloaded here](boxes2.pdf).
+ A .pdf format of plans for the sides [can be downloaded here](boxes2.pdf).
 
 The (short) sides are almost as crucial as the tops, so check these carefully too. They need to be exactly the same width as the tops and have perfectly square ends.
 
