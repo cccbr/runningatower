@@ -7,7 +7,7 @@ weight: 73
 
 A brief guide
 
-The following, written by Alison Hodge, was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following, written by Alison Hodge, was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 ![Part of a set of handbells](sixbells.png)
 
@@ -203,7 +203,7 @@ There is a lot of information on other websites and YouTube.
 | 7 | Engraved handbell | Photo: Alison Hodge |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/ringingroom/)**
+**[Return](docs/ringingroom/)**
 {{</hint>}}
 
 ----

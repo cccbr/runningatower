@@ -5,13 +5,13 @@ weight: 54
 
 # Fire Protection and Risk Assessment
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 ## Introduction
 
-These notes offer advice about specific issues that may affect bell ringers and the bell tower when considering fire safety and fire protection. The notes may assist the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) and bell ringers; they do not intend to provide comprehensive information about fire protection and fire risk assessments more generally. Few  towers were designed or built to comply with current legislation and many are extremely historic and vulnerable structures. Ringers are often in towers at times when the building is otherwise unoccupied, and also in parts of the building that are separate and less accessible from the rest of the building.
+These notes offer advice about specific issues that may affect bell ringers and the bell tower when considering fire safety and fire protection. The notes may assist the [tower authority](docs/glossary/#tower-authority) and bell ringers; they do not intend to provide comprehensive information about fire protection and fire risk assessments more generally. Few  towers were designed or built to comply with current legislation and many are extremely historic and vulnerable structures. Ringers are often in towers at times when the building is otherwise unoccupied, and also in parts of the building that are separate and less accessible from the rest of the building.
 
-Most towers with rings of bells are within the jurisdiction of the [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england). The notes therefore focus on these but the issues are likely to apply to rings of bells in towers owned by other organisations, in churches of other denominations, and also churches elsewhere in the world. Local legislation and circumstances should always be taken into account.
+Most towers with rings of bells are within the jurisdiction of the [Church of England](docs/glossary/#church-of-england). The notes therefore focus on these but the issues are likely to apply to rings of bells in towers owned by other organisations, in churches of other denominations, and also churches elsewhere in the world. Local legislation and circumstances should always be taken into account.
 
 ![Leighton Buzzard Fire](lbfire.jpg)   ![Leighton Buzzard Bells](lbbells.jpg)
 
@@ -33,19 +33,19 @@ In England and Wales the Regulatory Reform (Fire Safety) Order 2005 came into ef
 Scotland and Northern Ireland have separate legislation that is very similar. 
 The Ministry of Housing, Communities and Local Government provides full details and guidance on this on their website (applicable in England and Wales). Ringers should comply with the relevant legislation that is applicable in their local area.
 
-The Fire Safety Order puts duties on persons who are in control of premises (defined as 'responsible persons'). Whilst in most churches the [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc), as a body corporate, will be the overall responsible person, ringers (whether locals or visitors) often have sole responsibility for what takes place in the belfry and ringing room. They should therefore co-operate with the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) to ensure safety.
+The Fire Safety Order puts duties on persons who are in control of premises (defined as 'responsible persons'). Whilst in most churches the [PCC](docs/glossary/#pcc), as a body corporate, will be the overall responsible person, ringers (whether locals or visitors) often have sole responsibility for what takes place in the belfry and ringing room. They should therefore co-operate with the [tower authority](docs/glossary/#tower-authority) to ensure safety.
 
-The [PCC](https://runningatower.cccbr.org.uk/docs/glossary/#pcc) has ultimate responsibility for the care and maintenance of all church buildings and their contents, including fire protection and safety. These responsibilities are usually executed by the churchwardens.
+The [PCC](docs/glossary/#pcc) has ultimate responsibility for the care and maintenance of all church buildings and their contents, including fire protection and safety. These responsibilities are usually executed by the churchwardens.
 
-The [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) should prepare an Emergency Plan as part of the Risk Assessments and Emergency Plans. This is prepared by the tower authority, in conjunction with ringers and provides information about what should be done in the event of emergencies and other incidents, including fire.
+The [tower authority](docs/glossary/#tower-authority) should prepare an Emergency Plan as part of the Risk Assessments and Emergency Plans. This is prepared by the tower authority, in conjunction with ringers and provides information about what should be done in the event of emergencies and other incidents, including fire.
 
 The value of emergency planning was demonstrated during an incident (not fire related) as recounted by Phillip Orme in The Ringing World in January 2020 (issue no. 5673)
 
-The [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) will appoint a person to be the lead for building safety. They, working with others as necessary, will conduct a Fire Risk Assessment. The assessment will identify any physical and operational changes needed to make the building comply with legislative requirements.
+The [tower authority](docs/glossary/#tower-authority) will appoint a person to be the lead for building safety. They, working with others as necessary, will conduct a Fire Risk Assessment. The assessment will identify any physical and operational changes needed to make the building comply with legislative requirements.
 
 The Tower Captain or another competent person (I.e. with good knowledge of the tower, bells and bell ringing) should assist with the Fire Risk Assessment. They should ensure that all aspects of access to the tower and the bells by ringers are considered and that any changes proposed are appropriate for ringing and ringers, and subsequently implemented.
 
-The [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) should ensure that the ringing master and deputy are fully familiar with fire safety procedures for ringers and the bells.
+The [tower authority](docs/glossary/#tower-authority) should ensure that the ringing master and deputy are fully familiar with fire safety procedures for ringers and the bells.
 
 The 'responsible person' has a duty to ensure that ringers and visitors know what they should do to prevent fires and what to do if one should break out while they are in the building. They should ensure that 'reasonable and practicable' fire safety precautions are implemented and reviewed periodically to ensure that they are still applicable, particularly after any alterations to the building and/or ways of operating.
 
@@ -130,7 +130,7 @@ Ringers should also be reminded that they should not park vehicles where several
 
 ### Training and Advising Ringers and Tower Users
 
-Ringers using the tower whether on a regular basis or as visitors should be made aware of the building Emergency Plans and know the procedures to be followed in the event of a fire or other emergency incident. Ringers should be included in routine emergency evacuation practices. Normally, the Tower Captain should trained to act as a marshal to guide people out of the building in the event of an emergency. Their responsibilities in the event of emergencies should be included in their letter of appointment from the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority).
+Ringers using the tower whether on a regular basis or as visitors should be made aware of the building Emergency Plans and know the procedures to be followed in the event of a fire or other emergency incident. Ringers should be included in routine emergency evacuation practices. Normally, the Tower Captain should trained to act as a marshal to guide people out of the building in the event of an emergency. Their responsibilities in the event of emergencies should be included in their letter of appointment from the [tower authority](docs/glossary/#tower-authority).
 
 However, it is quite usual for ringers to be let into a tower then left to ring with few or none of the local ringers present, whether for a short visit or a quarter peal lasting about an hour, or even a peal lasting 3 hours or more. The visitors should be briefed fully, ideally with information in writing, about emergency arrangements, especially if the building is otherwise unoccupied.
 
@@ -158,7 +158,7 @@ The Institution of Fire Engineers have a specialist interest group for heritage 
 | 4 | Standard exit sign |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/healthsafety/)**
+**[Return](docs/healthsafety/)**
 {{</hint>}}
 
 ----

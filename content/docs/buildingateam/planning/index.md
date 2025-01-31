@@ -105,7 +105,7 @@ Applying aspects of the advice above should help.
 | Title | Ringers at Southrepps, Norfolk | Picture: James Kirkcaldy |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
+**[Return](docs/buildingateam/)**
 {{</hint>}}
 
 ----

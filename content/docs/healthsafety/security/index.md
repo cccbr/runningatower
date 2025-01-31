@@ -5,17 +5,17 @@ weight: 55
 
 # Security of Towers and Bell Ringers
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 ## Introduction
 
-These notes are written to help bell ringers consider their own security and that of the towers that they occupy when ringing. The principles underlying these notes apply to many buildings regardless of function or ownership, and activities. Here we highlight factors that relate specifically to ringers and ringing, rather than those that are more generic. References are drawn from those defined for the [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) and the UK. Two main topics are included: Crime and Terrorism
+These notes are written to help bell ringers consider their own security and that of the towers that they occupy when ringing. The principles underlying these notes apply to many buildings regardless of function or ownership, and activities. Here we highlight factors that relate specifically to ringers and ringing, rather than those that are more generic. References are drawn from those defined for the [Church of England](docs/glossary/#church-of-england) and the UK. Two main topics are included: Crime and Terrorism
 
 ## Threats from Crime
 
-As owners, [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) (in churches the Incumbent, PCC and Church Wardens) have formal responsibility for ensuring that buuilding and tower security procedures are in place but it is the responsibility of both owners and users - as individuals and organisations - to ensure that procedures are set up and followed.
+As owners, [tower authority](docs/glossary/#tower-authority) (in churches the Incumbent, PCC and Church Wardens) have formal responsibility for ensuring that buuilding and tower security procedures are in place but it is the responsibility of both owners and users - as individuals and organisations - to ensure that procedures are set up and followed.
 
-Procedures must be realistic and proportionate. It is very important that ringers (probably the Tower Captain and/or Steeple Keeper) liaise with the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) to discuss and draft security procedures.
+Procedures must be realistic and proportionate. It is very important that ringers (probably the Tower Captain and/or Steeple Keeper) liaise with the [tower authority](docs/glossary/#tower-authority) to discuss and draft security procedures.
 
 Some basic security awareness can help ringers to protect churches, towers and bells. The Church of England provides **[useful guidance](https://www.churchofengland.org/resources/churchcare/advice-and-guidance-church-buildings/security-and-crime-prevention)** including some top tips for prevention.
 
@@ -38,9 +38,9 @@ Metal theft, particularly of lead roofing, brasses and small bells (even larger 
 
 Ringers need to:
 - Be aware of the procedures and practices, with training and updating, ideally including exercises.
-- Inform the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) when ringers will be in the tower, especially at times that are not routine.
+- Inform the [tower authority](docs/glossary/#tower-authority) when ringers will be in the tower, especially at times that are not routine.
 
-The following points are specific topics for ringers to consider with the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority):
+The following points are specific topics for ringers to consider with the [tower authority](docs/glossary/#tower-authority):
 
 ### Keep Doors and Windows Locked
 
@@ -54,7 +54,7 @@ The following points are specific topics for ringers to consider with the [tower
 
 ### Keep Keys Safe
 - Physical keys and key codes must be kept secure, ideally not on the premises, even if considered to be 'hidden'.
-- Have a secure key register, usually retained by the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority), recording name and contact details of those holding keys to the bell tower, with period checks of holdings.
+- Have a secure key register, usually retained by the [tower authority](docs/glossary/#tower-authority), recording name and contact details of those holding keys to the bell tower, with period checks of holdings.
 - Keys and codes should not be copied or shared further.
 - Define a process in case keys or codes are lost.
 
@@ -83,7 +83,7 @@ Thankfully terrorist attacks are rare but it is wise for ringers to be alert, no
 
 ### Professional Advice, Guidance and Training
 
-Ringers, particularly the Tower Captain and/or Steeple Keeper, are advised to help the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) define counter terrorism arrangements for ringers and the tower areas.
+Ringers, particularly the Tower Captain and/or Steeple Keeper, are advised to help the [tower authority](docs/glossary/#tower-authority) define counter terrorism arrangements for ringers and the tower areas.
 
 Larger and high profile churches and cathedrals will already have links with a Counter Terrorism Security Advisor (CTSA). CTSAs are based regionally via local police forces. CTSAs provide guidance and advice, rather than direction, that can be considered for each location. They also offer local training sessions.
 
@@ -99,10 +99,10 @@ Ringers may well be familiar with the principles of counter terrorism from train
 
 ### Emergency Plans
 
-A simple action list indicating what to do in the event of an incident should be prepared by the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority), and ringers should check that a copy is readily available in the ringing room for use in an emergency.
+A simple action list indicating what to do in the event of an incident should be prepared by the [tower authority](docs/glossary/#tower-authority), and ringers should check that a copy is readily available in the ringing room for use in an emergency.
 The response to an incident will be dependent on the nature of the occurrence and this may well change as the situation unfolds, so clear means of communication are vital.
 
-[Tower authorities](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) and ringers must not assume that fire evacuation plans can be implemented during a terrorist incident. Depending on the circumstances, staying inside the building may be safer than going outside. Different procedures are therefore required and the means of alerting people, including ringers, must be distinctly different from fire alarms. Remember that alarms and procedures should consider those
+[Tower authorities](docs/glossary/#tower-authority) and ringers must not assume that fire evacuation plans can be implemented during a terrorist incident. Depending on the circumstances, staying inside the building may be safer than going outside. Different procedures are therefore required and the means of alerting people, including ringers, must be distinctly different from fire alarms. Remember that alarms and procedures should consider those
 with disabilities - not only audible (deafness), not only visual (visually impaired), effective for the less mobile, etc.
 
 There should also be plans for heightened security and safety arrangements in the event of either an increase in a specific risk such as lead thefts locally, or higher terrorism threats more widely. These may include people always arriving and leaving in pairs, securing additional doors that would normally be left insecure, etc.
@@ -145,7 +145,7 @@ Cyber theft and damage is an increasing threat, and risks exist for ringers and 
 **[Information on the safe use](https://ncsc.gov.uk/section/advice-guidance/all-topics)** of devices and on-line safety.
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/healthsafety/)**
+**[Return](docs/healthsafety/)**
 {{</hint>}}
 
 ----

@@ -34,7 +34,7 @@ The CCCBR produce a number of leaflets:
 
 - **[Bells in your care](../communication/yourcare/)** contains notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
-- **[Frequently asked questions](../communication/faqs/)** contains a number of questions put together, in 2020, by the **[Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**. It was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+- **[Frequently asked questions](../communication/faqs/)** contains a number of questions put together, in 2020, by the **[Guild of Clerical Ringers](http://guildofclericalringers.org.uk/)**. It was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 Although not directly related to ringing, the [Church of England](../glossary/#church-of-england) produce **[a set of church stewardship resources](https://parishresources.org.uk/)**.
 

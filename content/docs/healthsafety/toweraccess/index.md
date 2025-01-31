@@ -5,7 +5,7 @@ weight: 56
 
 # Tower Access
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 ## Introduction
 
@@ -158,7 +158,7 @@ Doors which open outwards onto the stairway should not be fitted unless absolute
 
 ### Trapdoors
 
-Trapdoors in towers are of two types. The first, an almost universal presence, is a trapdoor which is opened only for raising and lowering bells and furniture. Such a trapdoor should be locked and the keys kept by the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower-authority) as well as by the tower captain if the trapdoor is part of an emergency escape route. The second type is one which is used regularly as the main access to the ringing room or bell chamber.
+Trapdoors in towers are of two types. The first, an almost universal presence, is a trapdoor which is opened only for raising and lowering bells and furniture. Such a trapdoor should be locked and the keys kept by the [tower authority](docs/glossary/#tower-authority) as well as by the tower captain if the trapdoor is part of an emergency escape route. The second type is one which is used regularly as the main access to the ringing room or bell chamber.
 
 Both types of trapdoor raise the same safety implications but the latter type require more permanent safety measures.
 
@@ -194,7 +194,7 @@ A single bulb fitting will give good illumination over a very wide angle but is 
 
 It is also advisable when installing stairway lighting to have a two way switch so that the lights may be turned on at the ringing room doorway should they be turned off at the foot of the stairway by some mischance.
 
-More Information on tower lighting can be found at [lighting](https://runningatower.cccbr.org.uk/docs/ringingroom/lighting).
+More Information on tower lighting can be found at [lighting](docs/ringingroom/lighting).
 
 ## Other Potential Hazards
 
@@ -234,7 +234,7 @@ Unauthorised access to tower:
 | 8 | Series of metal hand-rails | Photo: James Kirkcaldy |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/healthsafety/)**
+**[Return](docs/healthsafety/)**
 {{</hint>}}
 
 ----

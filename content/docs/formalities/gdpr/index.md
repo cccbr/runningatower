@@ -5,7 +5,7 @@ weight: 32
 
 # Data Protection Guidance
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website and was written in 2018.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website and was written in 2018.
 
 ## Overview
 
@@ -156,7 +156,7 @@ Make sure your Society has established retention periods in place and set up a p
 - **[GDPR for Small Chairities](https://cfg.org.uk/membership/charity_membership/charity_finance_for_small_charities_guides/gdpr_guide_for_small_charities)**
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/formalities/)**
+**[Return](docs/formalities/)**
 {{</hint>}}
 
 ----

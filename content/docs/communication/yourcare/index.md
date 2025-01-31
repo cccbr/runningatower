@@ -7,11 +7,11 @@ weight: 21
 
 Some notes for incumbents and churchwardens who find themselves responsible for a ring of church bells.
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 ## Bell Ringing
 
-**The sound of church bells ringing out can provide very loud evidence of the existence of an active church with an active congregation and you are fortunate to have bells in your care. Ringers and the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) can help with anything you need to know.** This is a brief summary.
+**The sound of church bells ringing out can provide very loud evidence of the existence of an active church with an active congregation and you are fortunate to have bells in your care. Ringers and the [CCCBR](docs/glossary/#cccbr) can help with anything you need to know.** This is a brief summary.
 
 ![Ropes](care1.jpg)
 
@@ -19,7 +19,7 @@ The following was previously published as a .pdf file on the [CCCBR](https://run
 
 The very English art of full circle ringing has been practised in this country for over 400 years, and more recently in other countries around the world. The skill, which takes several months to acquire, lies in controlling the bell as it swings full circle so that it can be made to sound at a precise point - like, indeed, any other musical instrument. Younger people generally learn more quickly, but most people between the ages of 11 and 70, or more, can learn to ring.
 
-Because ringing is by definition a group activity (one ringer for each bell being rung), each tower with a ring of bells usually has a local band, led by its chosen tower captain, and usually belonging to the local ringing society. These in turn are affiliated to the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr), which through its committees seeks to provide help and information about all bell matters, including maintenance of towers and belfries, fundraising, redundant bells, publications, public relations and much more.
+Because ringing is by definition a group activity (one ringer for each bell being rung), each tower with a ring of bells usually has a local band, led by its chosen tower captain, and usually belonging to the local ringing society. These in turn are affiliated to the [CCCBR](docs/glossary/#cccbr), which through its committees seeks to provide help and information about all bell matters, including maintenance of towers and belfries, fundraising, redundant bells, publications, public relations and much more.
 
 This 'Running a Tower' document has advice about tower management, health and safety and fire risk assessment for bell towers, amongst much more information. Alternatively, contact your local ringing society, or DAC bells adviser.
 
@@ -29,7 +29,7 @@ This 'Running a Tower' document has advice about tower management, health and sa
 
 *Figure 2: Modern bell installation.*
 
-Nearly all [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england) churches have at least one bell, and a substantial minority (6000 in England, 500 in other English-speaking countries) have rings of five or more bells hung in the English style, so that the bells can be swung through a full circle by means of a rope and wheel, with one ringer for each bell.
+Nearly all [Church of England](docs/glossary/#church-of-england) churches have at least one bell, and a substantial minority (6000 in England, 500 in other English-speaking countries) have rings of five or more bells hung in the English style, so that the bells can be swung through a full circle by means of a rope and wheel, with one ringer for each bell.
 
 Sets of bells which can be sounded in other ways, by means of hammers of some kind, or by swinging each bell through just a small arc by means of a lever or an incomplete wheel, are called 'chimes' rather than 'rings'. If your bells are hung together in a frame, each with a full wheel, they will probably have been intended for full-circle ringing (although if they are not being used regularly by competent ringers, and have perhaps been neglected for some time, they may not
 be immediately suitable for ringing without initial inspection and maintenance or repair).
@@ -137,7 +137,7 @@ who will be able to offer advice or help.
 | 5 | Getting ready to ring | Photo: CCCBR |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/communication/)**
+**[Return](docs/communication/)**
 {{</hint>}}
 
 ----
