@@ -131,10 +131,10 @@ who will be able to offer advice or help.
 | Figure | Details | Source |
 | :---: | --- | --- |
 | 1 | Ropes on a spider | Photo: CCCBR |
-| 2 | Modern bell installation | Photo: CCCBR |
-| 3 | Ringing meeting | Photo: CCCBR |
+| 2 | Modern bell installation | Photo: Ernie de Legh-Runciman |
+| 3 | Ringing meeting | Photo: Susan G Hall |
 | 4 | Practice session | Photo: CCCBR |
-| 5 | Getting ready to ring | Photo: CCCBR |
+| 5 | Getting ready to ring | Photo: Susan G Hall |
 
 {{<hint info>}}
 **[Return](https://runningatower.cccbr.org.uk/docs/communication/)**
@@ -149,3 +149,4 @@ who will be able to offer advice or help.
 Version 1.1, March 2023
 
 © 2023 Central Council of Church Bell Ringers
+
