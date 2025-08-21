@@ -5,7 +5,7 @@ weight: 51
 
 # Health & Safety
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
 ## Advice for Bell Ringers
 
@@ -30,7 +30,7 @@ Further Information
 - **[Central Council of Church Bell Ringers](https://cccbr.org.uk/resources/stewardship-and-management)** Guidance and advice on ringing related matters:
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/healthsafety/)**
+**[Return](docs/healthsafety/)**
 {{</hint>}}
 
 ----

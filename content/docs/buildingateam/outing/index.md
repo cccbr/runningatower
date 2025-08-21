@@ -80,7 +80,7 @@ Plan around the following:
 
 Historically, contacts were obtained using paper copies of the local ringing society report or Crockford's Clerical Directory (may be available in a library reference section). Crockford's is produced annually and is available on-line to subscribers. It may still be necessary to use either.
 
-These days, the majority of terrritorial ringing societies publish a means of contact on-line; this may be anonymised e.g. <tower name>@<ringing society>.
+These days, the majority of territorial ringing societies publish a means of contact on-line; this may be anonymised e.g. \<tower name\>@\<ringing society\>.
 
 Initially, contact the listed tower contact; be aware that they may not be a ringer. If there is no identified contact, try the local ringing society (or branch) secretary who should be able to advise or may possibly make contact on your behalf. 
 
@@ -152,13 +152,13 @@ Consider delgating the organising of the ringing at each tower. A seperate perso
 | 5 | Tower 5 - Lydd, Kent | Photo: KCACR website |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
+**[Return](/docs/buildingateam/)**
 {{</hint>}}
 
 ----
 
 ## Disclaimer
- 
+
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
 Version 1.1, October 2023

@@ -11,7 +11,7 @@ The following is an annotated draft of an agenda. A version of this, without the
 
 ## Prayers and opening remarks.  
 
-Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the [tower authority](https://runningatower.cccbr.org.uk/docs/glossary/#tower authority), and possibly not a ringer, they may provide feedback on a more public basis. 
+Prayers are probably only relevant if the tower is part of a religious institution. If it is and a member of the clergy is present, they will perform this and may chair the meeting. If the chair is from the [tower authority](docs/glossary/#tower authority), and possibly not a ringer, they may provide feedback on a more public basis. 
 
 ## Apologies for absence.  
 
@@ -64,7 +64,7 @@ This covers:
 - If a ring-fenced account is in use, any changes to the conditions.
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/buildingateam/)**
+**[Return](docs/buildingateam/)**
 {{</hint>}}
 
 ----

@@ -7,7 +7,7 @@ weight: 71
 
 Their design and construction.
 
-The following, written by David Roskelly, was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#ccccbr) website.
+The following, written by David Roskelly, was previously published as a .pdf file on the [CCCBR](docs/glossary/#ccccbr) website.
 
 ## General Remarks on Box Design
 
@@ -255,7 +255,7 @@ I hope that these notes and the drawings that they accompany will be of use to p
 | 4 | Finished box | Photo: David Roskelly |
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/ringingroom/)**
+**[Return](docs/ringingroom/)**
 {{</hint>}}
 
 ----

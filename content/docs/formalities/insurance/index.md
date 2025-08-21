@@ -5,11 +5,11 @@ weight: 31
 
 # Insurance and Ringing
 
-The following was previously published as a .pdf file on the [CCCBR](https://runningatower.cccbr.org.uk/docs/glossary/#cccbr) website.
+The following was previously published as a .pdf file on the [CCCBR](docs/glossary/#cccbr) website.
 
-This Guidance Note offers advice to individual ringers, ringing organisations, [Parochial Church Councils](https://runningatower.cccbr.org.uk/docs/glossary/#pcc) and clergy regarding factors to consider regarding insurance while ringing tower bells and in other issues related to ringing.
+This Guidance Note offers advice to individual ringers, ringing organisations, [Parochial Church Councils](docs/glossary/#pcc) and clergy regarding factors to consider regarding insurance while ringing tower bells and in other issues related to ringing.
 
-Most tower bells come under the jurisdiction of the [Church of England](https://runningatower.cccbr.org.uk/docs/glossary/#church-of-england), so this Guidance Note has been produced with this in mind. However, most of the principles addressed will apply to Churches of other denominations and bells outside church ownership and / or control, including those outside the UK. Where appropriate, advice relevant to the specific circumstances must be obtained.
+Most tower bells come under the jurisdiction of the [Church of England](docs/glossary/#church-of-england), so this Guidance Note has been produced with this in mind. However, most of the principles addressed will apply to Churches of other denominations and bells outside church ownership and / or control, including those outside the UK. Where appropriate, advice relevant to the specific circumstances must be obtained.
 
 ## Fundamentals of Insurance
 
@@ -162,7 +162,7 @@ Insurance is provided by commercial companies and is therefore simply their busi
 Some specialist insurance companies offer extensive guidance on their websites.
 
 {{<hint info>}}
-**[Return](https://runningatower.cccbr.org.uk/docs/formalities/)**
+**[Return](docs/formalities/)**
 {{</hint>}}
 
 ----
