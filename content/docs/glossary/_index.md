@@ -25,7 +25,7 @@ Parochial Church Council. The principal function, or purpose, of the PCC is defi
 
 ## SMWG
 
-Stewardship and Management Work Group of the CCCBR. To support ringers, the owners of bells, and other interested parties in all matters relating to the care of bells, ringers. Further details on their **[webpages](https://cccbr.org.uk/resources/stewardship-and-management/)**.
+Stewardship and Management the former name of the 'Ringing Envioronments 2030' Work Group of the CCCBR. To support ringers, the owners of bells, and other interested parties in all matters relating to the care of bells, ringers. Further details on their **[webpages](https://cccbr.org.uk/resources/stewardship-and-management/)**.
 
 ## Tower Authority 
 
