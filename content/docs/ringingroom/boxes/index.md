@@ -57,13 +57,13 @@ are making your own set you can alter the heights if you wish. There is about 10
 
 ### Purchase List
 
-1 sheet 18 mm birch plywood for box tops
-1 sheet 12 mm birch plywood for box sides
-21 m of 24 mm square ash or poplar angle block
-c 450 nails of airgun brads (30 mm)
-PVA glue
-Wood stain (ir required)
-Floor varnish, finishing oil or hard waxoil to cover 6 sq m (outside only) or 12 sq m (inside and out)
+- 1 sheet 18 mm birch plywood for box tops
+- 1 sheet 12 mm birch plywood for box sides
+- 21 m of 24 mm square ash or poplar angle block
+- c 450 nails of airgun brads (30 mm)
+- PVA glue
+- Wood stain (ir required)
+- Floor varnish, finishing oil or hard waxoil to cover 6 sq m (outside only) or 12 sq m (inside and out)
 
 ### Cutting list
 
