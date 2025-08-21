@@ -9,7 +9,7 @@ weight: 1
 This document addresses key aspects of running a tower.
 {{</hint>}}
 
-It is produced by the [Stewardship and Management Work Group](../glossary/#smwg) of the [CCCBR](../glossary/#cccbr).
+It is produced by the [Ringing Environments 2030 Work Group](../glossary/#smwg) of the [CCCBR](../glossary/#cccbr).
 
 ![Broadclyst, Devon](Broadclyst.jpg)
 
@@ -56,3 +56,4 @@ The following is an overview of what appear in each chapter:
 Version 1.1, March 2023
 
 © 2023 Central Council of Church Bell Ringers
+
