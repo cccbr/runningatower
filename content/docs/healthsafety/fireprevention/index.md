@@ -86,7 +86,7 @@ Store valuable artefacts securely, perhaps in a secure archive facility – if t
 
 ### Record, Plan, Inform, Instruct and Train People
 
-Remove or reduce the risks identified to a 'reasonable and practicable' level. 
+The findings should always be recorded in an accessible format (and place). Once documented these should be used tfor forward planning and to inform others. If any risks are identified, these should be removed or reduced to a 'reasonable and practicable' level. 
 
 ### Review Regularly
 
