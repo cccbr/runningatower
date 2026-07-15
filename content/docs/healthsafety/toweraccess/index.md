@@ -86,8 +86,6 @@ Wooden ladders are susceptible to insect attack and any sign of woodworm should 
 
 Some modern fixed ladders are fitted with hoops which are designed to reduce the risk of falling but before installing such a hooped ladder the implications should be considered. If the ladder is in the ringing room as access to the room above the hoops may be too close to the rope circle and cause a risk of entanglement or indeed injury to a ringers hands, se image above. 
 
-The hoops can also make it difficult to carry tools or to move stays or clappers to and from the bell chamber.
-
 ## Handholds
 
 Handholds on tower stairways are an important safety feature and need to be carefully designed to be as effective and convenient as possible. There are various implications with each type of handhold.
@@ -171,6 +169,10 @@ A trapdoor at the side or corner of the room should open away from the wall so t
 If the trapdoor is not adjacent to a wall the provision of a sturdy barrier on three sides of the opening is more difficult but should be arranged.
 
 Trapdoors should never be left open when not in immediate use and should be counterweighted if possible to minimise the risk of falling shut and striking someone. 
+
+## Heavy Objects
+
+Avoid carrying heavy objects by hand when making any ascent. Smaller objects such as individual tools may fit in a back pack. Large objects e.g. toolboxes, clappers, shoulkd always be raised by a suitable means e.g. a rope.
 
 ## Lighting
 
