@@ -13,12 +13,11 @@ Most towers with rings of bells are within the jurisdiction of the [Church of En
 
 In this document we provide guidance to ringers on how they can assist their church in the preparation and maintenance of an effective risk assessment for ringing and other activities in the church tower.
 
-The control of hazards and risks is essential to secure and maintain a healthy and safe place to carry out bell ringing,
-but few churches were designed or built to comply with current legislation and many are extremely historic and vulnerable structures. Each church must be considered carefully and put in place its own relevant procedures and policies.
+The control of hazards and risks is essential to secure and maintain a healthy and safe place to carry out bell ringing, but few churches were designed or built to comply with current legislation and many are extremely historic and vulnerable structures. Each church must be considered carefully and put in place its own relevant procedures and policies.
 
 ## Responsibility for Safety
 
-The overall responsibility for safety and risk assessment in a church building rests with the [tower authority](docs/glossary/#tower-authority). The church should have an overall Health & Safety Policy and Risk Assessment in place and should have appointed a 'Responsible Person' to cover this.
+The overall responsibility for safety and risk assessment in a church building rests with the [tower authority](docs/glossary/#tower-authority). Churches with five or more employees should have an overall Health & Safety Policy and Risk Assessment in place and should have appointed a 'Responsible Person' to cover this. Churches with fewer than five employees simply need to be able to demonstrate how they are managing risks. They may choose to formally document this, or they may take a less formal approach. Ringers might decide that a written risk assessment is the best way to go about ensuring they can demonstrate what precautions are in place to manage risks.
 
 Ringers have a responsibility to work with the [tower authority](docs/glossary/#tower-authority), using their knowledge of ringing and bell installations to ensure that aspects of ringing and related activities within the tower are covered comprehensively. Ringers must behave in a safe manner while in the church and bell tower, respecting the requirements set down by the church authorities.
 
