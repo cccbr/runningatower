@@ -172,7 +172,7 @@ Trapdoors should never be left open when not in immediate use and should be coun
 
 ## Heavy Objects
 
-Avoid carrying heavy objects by hand when making any ascent. Smaller objects such as individual tools may fit in a back pack. Large objects e.g. toolboxes, clappers, shoulkd always be raised by a suitable means e.g. a rope.
+Avoid carrying heavy objects by hand when making any ascent. Smaller objects such as individual tools may fit in a back pack. Large objects e.g. toolboxes, clappers, should always be raised by a suitable means e.g. a rope.
 
 ## Lighting
 
